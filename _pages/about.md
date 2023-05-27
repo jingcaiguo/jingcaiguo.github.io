@@ -43,11 +43,24 @@ I am generally interested in **Machine Learning** and **Edge AI**, with a partic
 <div class='paper-box-text' markdown="1">
 [**Graph knows unknowns: Reformulate zero-shot learning as sample-level graph recognition,**](https://jingcai91.github.io/_pages/aaai23-zsl.pdf)
 
-**<u>J. Guo</u>**, S. Guo, Q. Zhou, Z. Liu, X. Lu, F. Huo,
+<font size=5>**<u>J. Guo</u>**</font>, **<u>J. Guo</u>**, S. Guo, Q. Zhou, Z. Liu, X. Lu, F. Huo,
 
 In *Proceedings of the Thirty-Seventh AAAI Conference on Artificial Intelligence (AAAI, CCF-A)*, 2023.
 
 **Contribution**: We are the first to investigate sample-level graph and formulate zero-shot learning to a graph-to-semantics matching task.
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2023</div><img src='images/cvpr23-mlzsl.png' alt="sym" width=255px></div></div>
+<div class='paper-box-text' markdown="1">
+[**$(ML)^2$P-Encoder: On Exploration of Channel-class Correlation for Multi-label Zero-shot Learning,**](https://openaccess.thecvf.com/content/CVPR2023/papers/Liu_ML2P-Encoder_On_Exploration_of_Channel-Class_Correlation_for_Multi-Label_Zero-Shot_Learning_CVPR_2023_paper.pdf)
+
+Z. Liu, S. Guo, X. Lu, **<u>J. Guo*</u>**, J. Zhang, Y. Zeng, F. Huo,
+
+In *Proceedings of Computer Vision and Pattern Recognition (CVPR, CCF-A)*, 2023.
+
+**Contribution**: We first suggest the concept of channel-class correlation in multi-label zero-shot learning and design a channel-sensitive attention module $(ML)^2$ P-Encoder to extract and preserve channel-wise semantics.
 </div>
 </div>
 

@@ -41,15 +41,12 @@ I am generally interested in **Machine Learning** and **Edge AI**, with a partic
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2023</div><img src='images/aaai23-zsl.png' alt="sym" width=370px></div></div>
 <div class='paper-box-text' markdown="1">
+  
+**<u>J. Guo</u>**, S. Guo, Q. Zhou, Z. Liu, X. Lu, F. Huo, "Graph knows unknowns: Reformulate zero-shot learning as sample-level graph recognition," In *Proceedings of the Thirty-Seventh AAAI Conference on Artificial Intelligence (AAAI, CCF-A),* 2023.
 
-[FastSpeech: Fast, Robust and Controllable Text to Speech](https://papers.nips.cc/paper/8580-fastspeech-fast-robust-and-controllable-text-to-speech.pdf) \\
-**Yi Ren**, Yangjun Ruan, Xu Tan, Tao Qin, Sheng Zhao, Zhou Zhao, Tie-Yan Liu
+- **Significance**: Zero-shot learning is an extreme case of transfer learning that provides a strong basis for general artificial intelligence. However, it is challenging to adapt known knowledge to unknown categories due to domain bias. Unlike existing works that resort to constructing a visual-to-semantics mapping, we are the first to investigate sample-level graph and formulate zero-shot learning to a graph-to-semantics matching task, which better exploits element-semantics correlation and local sub-structural information. This work provides a novel aspect of zero-shot learning and significantly improves the recognition performance.
 
-[**Project**](https://speechresearch.github.io/fastspeech/) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong>
-
-- FastSpeech is the first fully parallel end-to-end speech synthesis model.
-- **Academic Impact**: This work is included by many famous speech synthesis open-source projects, such as [ESPNet ![](https://img.shields.io/github/stars/espnet/espnet?style=social)](https://github.com/espnet/espnet). Our work are promoted by more than 20 media and forums, such as [机器之心](https://mp.weixin.qq.com/s/UkFadiUBy-Ymn-zhJ95JcQ)、[InfoQ](https://www.infoq.cn/article/tvy7hnin8bjvlm6g0myu).
-- **Industry Impact**: FastSpeech has been deployed in [Microsoft Azure TTS service](https://techcommunity.microsoft.com/t5/azure-ai/neural-text-to-speech-extends-support-to-15-more-languages-with/ba-p/1505911) and supports 49 more languages with state-of-the-art AI quality. It was also shown as a text-to-speech system acceleration example in [NVIDIA GTC2020](https://resources.nvidia.com/events/GTC2020s21420).
+[NVIDIA GTC2020](https://resources.nvidia.com/events/GTC2020s21420).
 </div>
 </div>
 

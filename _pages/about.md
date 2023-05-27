@@ -110,20 +110,21 @@ In *Proceedings of the Twenty-Eighth ACM International Conference on Multimedia 
 
 ## 📚 Other Selected Papers 
 
-- Towards Data-independent Knowledge Transfer in Model-heterogeneous Federated Learning,
-
-  J. Zhang, S. Guo, **<u><font size=3>J. Guo*</font></u>**, D. Zeng, J. Zhou, A. Zomaya,
-  
+- Towards Data-independent Knowledge Transfer in Model-heterogeneous Federated Learning,<br>
+  J. Zhang, S. Guo, **<u><font size=3>J. Guo*</font></u>**, D. Zeng, J. Zhou, A. Zomaya,<br>
   *IEEE Transactions on Computers (IEEE TC, CCF-A)*, 2023.
+  
+- Hwamei: A Learning-based Aggregation Framework for Hierarchical Federated Learning System,<br>
+  T. Qi, Y. Zhan, P. Li, **<u><font size=3>J. Guo</font></u>**, Y. Xia,<br>
+  In *Proceedings of the Fouty-Third IEEE International Conference on Distributed Computing Systems (ICDCS, CCF-B)*, 2023.
 
+- Towards Fairer and More Efficient Federated Learning via Multidimensional Personalized Edge Models,<br>
+  Y. Wang, **<u><font size=3>J. Guo</font></u>**, J. Zhang, S. Guo, W. Zhang, Q. Zheng,<br>
+  In *Proceedings of the 2023 International Joint Conference on Neural Networks (IJCNN, CCF-C)*, 2023.
 
-- ``TC 2023`` <span class="badge badge-primary">Primary</span> J. Zhang, S. Guo, **<u><font size=3>J. Guo*</font></u>**, D. Zeng, J. Zhou, A. Zomaya, "Towards Data-independent Knowledge Transfer in Model-heterogeneous Federated Learning," *IEEE Transactions on Computers (IEEE TC, CCF-A)*, 2023.
-
-- ``ICDCS 2023`` T. Qi, Y. Zhan, P. Li, **<u><font size=3>J. Guo</font></u>**, Y. Xia, "Hwamei: A Learning-based Aggregation Framework for Hierarchical Federated Learning System," In *Proceedings of the Fouty-Third IEEE International Conference on Distributed Computing Systems (ICDCS, CCF-B)*, 2023.
-
-- ``IJCNN 2023`` Y. Wang, **<u><font size=3>J. Guo</font></u>**, J. Zhang, S. Guo, W. Zhang, Q. Zheng, "Towards Fairer and More Efficient Federated Learning via Multidimensional Personalized Edge Models," In *Proceedings of the 2023 International Joint Conference on Neural Networks (IJCNN, CCF-C)*, 2023.
-
-- ``TMM 2023`` Z. Liu, S. Guo, **<u><font size=3>J. Guo*</font></u>**, Y. Xu, F. Huo, "Towards Unbiased Multi-label Zero-Shot Learning with Pyramid and Semantic Attention," *IEEE Transactions on Multimedia (IEEE TMM, 中科院1区/IF=8.182)*, 2022.
+- Towards Unbiased Multi-label Zero-Shot Learning with Pyramid and Semantic Attention,<br>
+  Z. Liu, S. Guo, **<u><font size=3>J. Guo*</font></u>**, Y. Xu, F. Huo,<br>
+  *IEEE Transactions on Multimedia (IEEE TMM, 中科院1区/IF=8.182)*, 2022.
 
 - ``TNNLS 2023`` **<u><font size=3>J. Guo</font></u>**, S. Guo, S. Ma, Y. Sun, Y. Xu, "Conservative Novelty Synthesizing Network for Malware Recognition in an Open-set Scenario," *IEEE Transactions on Neural Networks and Learning Systems (IEEE TNNLS, 中科院1区/IF=14.255)*, 2021.
 

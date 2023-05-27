@@ -99,7 +99,7 @@ In *Proceedings of the Thirty-First International Joint Conference on Artificial
 <div class='paper-box-text' markdown="1">
 [**Dual-view Attention Networks for Single Image Super-Resolution,**](https://dl.acm.org/doi/10.1145/3394171.3413613)
 
-**<u><font size=3>J. Guo*</font></u>**, S. Ma, J. Zhang, Q. Zhou, S. Guo,
+**<u><font size=3>J. Guo</font></u>**, S. Ma, J. Zhang, Q. Zhou, S. Guo,
 
 In *Proceedings of the Twenty-Eighth ACM International Conference on Multimedia (ACM-MM, CCF-A)*, 2020.
 

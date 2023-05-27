@@ -41,9 +41,10 @@ I am generally interested in **Machine Learning** and **Edge AI**, with a partic
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2023</div><img src='images/aaai23-zsl.png' alt="sym" width=200px></div></div>
 <div class='paper-box-text' markdown="1">
-  
-[**Graph knows unknowns: Reformulate zero-shot learning as sample-level graph recognition**](https://speechresearch.github.io/fastspeech/)
-**<u>J. Guo</u>**, S. Guo, Q. Zhou, Z. Liu, X. Lu, F. Huo
+[**Graph knows unknowns: Reformulate zero-shot learning as sample-level graph recognition,**](https://jingcai91.github.io/_pages/aaai23-zsl.pdf)
+
+**<u>J. Guo</u>**, S. Guo, Q. Zhou, Z. Liu, X. Lu, F. Huo,
+
 In *Proceedings of the Thirty-Seventh AAAI Conference on Artificial Intelligence (AAAI, CCF-A)*, 2023.
 
 - **Significance**: We are the first to investigate sample-level graph and formulate zero-shot learning to a graph-to-semantics matching task.

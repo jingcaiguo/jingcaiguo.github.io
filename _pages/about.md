@@ -44,7 +44,7 @@ I am generally interested in **Machine Learning** and **Edge AI**, with a partic
 
 - ``CVPR 2023`` X. Lu, S. Guo*, Z. Liu, **<u>J. Guo*</u>**, "Decomposed Soft Prompt Guided Fusion Enhancing for Compositional Zero-Shot Learning," In *Proceedings of Computer Vision and Pattern Recognition (CVPR, CCF-A)*, 2023. 
 
-- ``<font style="background: #FF00BB">AAAI 2023</font>`` **<u>J. Guo</u>**, S. Guo, Q. Zhou, Z. Liu, X. Lu, F. Huo, "Graph knows unknowns: Reformulate zero-shot learning as sample-level graph recognition," In *Proceedings of the Thirty-Seventh AAAI Conference on Artificial Intelligence (AAAI, CCF-A),* 2023.
+- <font style="background: #FF00BB">``AAAI 2023``</font> **<u>J. Guo</u>**, S. Guo, Q. Zhou, Z. Liu, X. Lu, F. Huo, "Graph knows unknowns: Reformulate zero-shot learning as sample-level graph recognition," In *Proceedings of the Thirty-Seventh AAAI Conference on Artificial Intelligence (AAAI, CCF-A),* 2023.
 
 
 # 🎖 Honors and Awards

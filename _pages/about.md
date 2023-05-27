@@ -110,31 +110,31 @@ In *Proceedings of the Twenty-Eighth ACM International Conference on Multimedia 
 
 ## 📚 Other Selected Papers 
 
-- ``TC 2023`` J. Zhang, S. Guo, **<u><font size=3>J. Guo*</font></u>**, D. Zeng, J. Zhou, A. Zomaya, ["Towards Data-independent Knowledge Transfer in Model-heterogeneous Federated Learning",](https://ieeexplore.ieee.org/abstract/document/10115052), *IEEE Transactions on Computers (IEEE TC, CCF-A)*, 2023.
+- ``TC 2023`` J. Zhang, S. Guo, **<u><font size=3>J. Guo*</font></u>**, D. Zeng, J. Zhou, A. Zomaya, "Towards Data-independent Knowledge Transfer in Model-heterogeneous Federated Learning," *IEEE Transactions on Computers (IEEE TC, CCF-A)*, 2023.
 
-- ``ICDCS 2023`` T. Qi, Y. Zhan, P. Li, **<u><font size=3>J. Guo</font></u>**, Y. Xia, [Hwamei: A Learning-based Aggregation Framework for Hierarchical Federated Learning System](), In *Proceedings of the Fouty-Third IEEE International Conference on Distributed Computing Systems (ICDCS, CCF-B)*, 2023.
+- ``ICDCS 2023`` T. Qi, Y. Zhan, P. Li, **<u><font size=3>J. Guo</font></u>**, Y. Xia, "Hwamei: A Learning-based Aggregation Framework for Hierarchical Federated Learning System," In *Proceedings of the Fouty-Third IEEE International Conference on Distributed Computing Systems (ICDCS, CCF-B)*, 2023.
 
-- ``IJCNN 2023`` Y. Wang, **<u><font size=3>J. Guo</font></u>**, J. Zhang, S. Guo, W. Zhang, Q. Zheng, [Towards Fairer and More Efficient Federated Learning via Multidimensional Personalized Edge Models](), In *Proceedings of the 2023 International Joint Conference on Neural Networks (IJCNN, CCF-C)*, 2023.
+- ``IJCNN 2023`` Y. Wang, **<u><font size=3>J. Guo</font></u>**, J. Zhang, S. Guo, W. Zhang, Q. Zheng, "Towards Fairer and More Efficient Federated Learning via Multidimensional Personalized Edge Models," In *Proceedings of the 2023 International Joint Conference on Neural Networks (IJCNN, CCF-C)*, 2023.
 
-- ``TMM 2023`` Z. Liu, S. Guo, **<u><font size=3>J. Guo*</font></u>**, Y. Xu, F. Huo, [Towards Unbiased Multi-label Zero-Shot Learning with Pyramid and Semantic Attention](), *IEEE Transactions on Multimedia (IEEE TMM, 中科院1区/IF=8.182)*, 2022.
+- ``TMM 2023`` Z. Liu, S. Guo, **<u><font size=3>J. Guo*</font></u>**, Y. Xu, F. Huo, "Towards Unbiased Multi-label Zero-Shot Learning with Pyramid and Semantic Attention," *IEEE Transactions on Multimedia (IEEE TMM, 中科院1区/IF=8.182)*, 2022.
 
-- ``TNNLS 2023`` **<u><font size=3>J. Guo</font></u>**, S. Guo, S. Ma, Y. Sun, Y. Xu, [Conservative Novelty Synthesizing Network for Malware Recognition in an Open-set Scenario](), *IEEE Transactions on Neural Networks and Learning Systems (IEEE TNNLS, 中科院1区/IF=14.255)*, 2021.
+- ``TNNLS 2023`` **<u><font size=3>J. Guo</font></u>**, S. Guo, S. Ma, Y. Sun, Y. Xu, "Conservative Novelty Synthesizing Network for Malware Recognition in an Open-set Scenario," *IEEE Transactions on Neural Networks and Learning Systems (IEEE TNNLS, 中科院1区/IF=14.255)*, 2021.
 
-- ``USENIX-ATC 2021`` Q. Zhou, S. Guo, Z. Qu, **<u><font size=3>J. Guo</font></u>**, Z. Xu, J. Zhang, T. Guo, B. Luo, J. Zhou, [INT8 Training with Loss-aware Compensation and Backward Quantization for Tiny On-device Learning](), IN *Proceedings of the 202O USENIX Annual Technical Conference (USENIX-ATC, CCF-A)*, 2021.
+- ``USENIX-ATC 2021`` Q. Zhou, S. Guo, Z. Qu, **<u><font size=3>J. Guo</font></u>**, Z. Xu, J. Zhang, T. Guo, B. Luo, J. Zhou, "INT8 Training with Loss-aware Compensation and Backward Quantization for Tiny On-device Learning," In *Proceedings of the 202O USENIX Annual Technical Conference (USENIX-ATC, CCF-A)*, 2021.
 
-- ``IoT-J 2021`` Q. Zhou, Z. Qu, S. Guo, B. Luo, **<u><font size=3>J. Guo</font></u>**, Z. Xu, R. Akerkar, [On-device Learning Systems for Edge Intelligence: A Software and Hardware Synergy Perspective](), *IEEE Internet of Things Journal (IEEE IoT-J, 中科院1区/IF=10.238)*, 2021.
+- ``IoT-J 2021`` Q. Zhou, Z. Qu, S. Guo, B. Luo, **<u><font size=3>J. Guo</font></u>**, Z. Xu, R. Akerkar, "On-device Learning Systems for Edge Intelligence: A Software and Hardware Synergy Perspective," *IEEE Internet of Things Journal (IEEE IoT-J, 中科院1区/IF=10.238)*, 2021.
 
-- ``TMM 2020`` **<u><font size=3>J. Guo</font></u>**, S. Guo, [A Novel Perspective to Zero-shot Learning: Towards an Alignment of Manifold Structures via Semantic Feature Expansion](), *IEEE Transactions on Multimedia (IEEE TMM, 中科院1区/IF=8.182)*, 2020.
+- ``TMM 2020`` **<u><font size=3>J. Guo</font></u>**, S. Guo, "A Novel Perspective to Zero-shot Learning: Towards an Alignment of Manifold Structures via Semantic Feature Expansion," *IEEE Transactions on Multimedia (IEEE TMM, 中科院1区/IF=8.182)*, 2020.
 
-- ``ICASSP 2019`` **<u><font size=3>J. Guo</font></u>**, S. Guo, [Adaptive Adjustment with Semantic Feature Space for Zero-Shot Recognition](), In *Proceedings of the Forty-Fourth IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP, CCF-B)*, 2019.
+- ``ICASSP 2019`` **<u><font size=3>J. Guo</font></u>**, S. Guo, "Adaptive Adjustment with Semantic Feature Space for Zero-Shot Recognition," In *Proceedings of the Forty-Fourth IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP, CCF-B)*, 2019.
 
-- ``ICASSP 2019`` **<u><font size=3>J. Guo</font></u>**, S. Guo, [EE-AE: An Exclusivity Enhanced Unsupervised Feature Learning Approach](), In *Proceedings of the Forty-Fourth IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP, CCF-B)*, 2019.
+- ``ICASSP 2019`` **<u><font size=3>J. Guo</font></u>**, S. Guo, "EE-AE: An Exclusivity Enhanced Unsupervised Feature Learning Approach," In *Proceedings of the Forty-Fourth IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP, CCF-B)*, 2019.
 
-- ``ICME 2019`` **<u><font size=3>J. Guo</font></u>**, S. Guo, [AMS-SFE: Towards an Alignment of Manifold Structures via Semantic Feature Expansion for Zero-shot Learning](), In *Proceedings of the Twentieth IEEE International Conference on Multimedia and Expo (ICME, CCF-B)*, 2019.
+- ``ICME 2019`` **<u><font size=3>J. Guo</font></u>**, S. Guo, "AMS-SFE: Towards an Alignment of Manifold Structures via Semantic Feature Expansion for Zero-shot Learning]," In *Proceedings of the Twentieth IEEE International Conference on Multimedia and Expo (ICME, CCF-B)*, 2019.
 
 ## 📖 Selected Books/Chapters
 
-- ``CRC Press`` **<u><font size=3>J. Guo</font></u>**, Z. Liu, [Application: Image-Based Visual Perception](), *Machine Learning on Commodity Tiny Devices*, edited by S. Guo&Q. Zhou, CRC Press, 2022.
+- ``CRC Press`` **<u><font size=3>J. Guo</font></u>**, Z. Liu, "Application: Image-Based Visual Perception," *Machine Learning on Commodity Tiny Devices*, edited by S. Guo&Q. Zhou, CRC Press, 2022.
 
 
 # 🎖 Honors and Awards

@@ -52,17 +52,61 @@ In *Proceedings of the Thirty-Seventh AAAI Conference on Artificial Intelligence
 </div>
 
 
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2023</div><img src='images/cvpr23-mlzsl.png' alt="sym" width=350px></div></div>
 <div class='paper-box-text' markdown="1">
 [**$(ML)^2$P-Encoder: On Exploration of Channel-class Correlation for Multi-label Zero-shot Learning,**](https://openaccess.thecvf.com/content/CVPR2023/papers/Liu_ML2P-Encoder_On_Exploration_of_Channel-Class_Correlation_for_Multi-Label_Zero-Shot_Learning_CVPR_2023_paper.pdf)
 
 Z. Liu, S. Guo, X. Lu, **<u><font size=3>J. Guo*</font></u>**, J. Zhang, Y. Zeng, F. Huo,
 
-In *Proceedings of Computer Vision and Pattern Recognition (CVPR, CCF-A)*, 2023.
+In *Proceedings of the Thirty-Fourth IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR, CCF-A)*, 2023.
 
 **Contribution**: We first suggest the concept of channel-class correlation in multi-label zero-shot learning and design a channel-sensitive attention module $(ML)^2$ P-Encoder to extract and preserve channel-wise semantics.
 </div>
 </div>
+
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2023</div><img src='images/cvpr23-zsl.png' alt="sym" width=350px></div></div>
+<div class='paper-box-text' markdown="1">
+[**Decomposed Soft Prompt Guided Fusion Enhancing for Compositional Zero-Shot Learning,**](https://openaccess.thecvf.com/content/CVPR2023/papers/Lu_Decomposed_Soft_Prompt_Guided_Fusion_Enhancing_for_Compositional_Zero-Shot_Learning_CVPR_2023_paper.pdf)
+
+X. Lu, S. Guo, Z. Liu, **<u><font size=3>J. Guo*</font></u>**,
+
+In *Proceedings of the Thirty-Fourth IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR, CCF-A)*, 2023.
+
+**Contribution**: We design a learnable soft prompt to construct the joint-representation of states and objects for compositional zero-shot learning, which can be more precisely decomposed than images.
+</div>
+</div>
+
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2022</div><img src='images/ijcai22-fl.png' alt="sym" width=255px></div></div>
+<div class='paper-box-text' markdown="1">
+[**Personalized Federated Learning with Contextualized Generalization,**](https://www.ijcai.org/proceedings/2022/0311.pdf)
+
+X. Tang, S. Guo, **<u><font size=3>J. Guo*</font></u>**,
+
+In *Proceedings of the Thirty-First International Joint Conference on Artificial Intelligence (IJCAI, CCF-A)*, 2022.
+
+**Contribution**: We introduce a novel concept called contextualized generalization to provide each client with fine-grained context knowledge that can better fit the local data distributions and facilitate faster model convergence.
+</div>
+</div>
+
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM-MM 2020</div><img src='images/mm20-sr.png' alt="sym" width=255px></div></div>
+<div class='paper-box-text' markdown="1">
+[**Dual-view Attention Networks for Single Image Super-Resolution,**](https://dl.acm.org/doi/10.1145/3394171.3413613)
+
+**<u><font size=3>J. Guo*</font></u>**, S. Ma, J. Zhang, Q. Zhou, S. Guo,
+
+In *Proceedings of the Twenty-Eighth ACM International Conference on Multimedia (ACM-MM, CCF-A)*, 2020.
+
+**Contribution**: We introduce the dual-view attention networks to improve the restoration ability of high-frequency information for CNNs-based single image super-resolution models that can obtain better quantitative performance along with more visually pleasing images.
+</div>
+</div>
+
 
 
 

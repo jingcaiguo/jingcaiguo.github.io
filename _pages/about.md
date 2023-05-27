@@ -39,14 +39,14 @@ I am generally interested in **Machine Learning** and **Edge AI**, with a partic
 # 📝 Publications 
 ## 🎙 Five Most Representative Papers
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2023</div><img src='images/aaai23-zsl.png' alt="sym" width=370px></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2023</div><img src='images/aaai23-zsl.png' alt="sym" width=200px></div></div>
 <div class='paper-box-text' markdown="1">
   
-**<u>J. Guo</u>**, S. Guo, Q. Zhou, Z. Liu, X. Lu, F. Huo, "Graph knows unknowns: Reformulate zero-shot learning as sample-level graph recognition," In *Proceedings of the Thirty-Seventh AAAI Conference on Artificial Intelligence (AAAI, CCF-A),* 2023.
+[**Graph knows unknowns: Reformulate zero-shot learning as sample-level graph recognition**](https://speechresearch.github.io/fastspeech/)
+**<u>J. Guo</u>**, S. Guo, Q. Zhou, Z. Liu, X. Lu, F. Huo
+In *Proceedings of the Thirty-Seventh AAAI Conference on Artificial Intelligence (AAAI, CCF-A)*, 2023.
 
-- **Significance**: Zero-shot learning is an extreme case of transfer learning that provides a strong basis for general artificial intelligence. However, it is challenging to adapt known knowledge to unknown categories due to domain bias. Unlike existing works that resort to constructing a visual-to-semantics mapping, we are the first to investigate sample-level graph and formulate zero-shot learning to a graph-to-semantics matching task, which better exploits element-semantics correlation and local sub-structural information. This work provides a novel aspect of zero-shot learning and significantly improves the recognition performance.
-
-[NVIDIA GTC2020](https://resources.nvidia.com/events/GTC2020s21420).
+- **Significance**: We are the first to investigate sample-level graph and formulate zero-shot learning to a graph-to-semantics matching task.
 </div>
 </div>
 

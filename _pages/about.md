@@ -39,7 +39,7 @@ I am generally interested in **Machine Learning** and **Edge AI**, with a partic
 # 📝 Publications 
 ## 🎙 Five Most Representative Papers
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2023</div><img src='images/aaai23-zsl.png' alt="sym" width=200px></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2023</div><img src='images/aaai23-zsl.png' alt="sym" width=255px></div></div>
 <div class='paper-box-text' markdown="1">
 [**Graph knows unknowns: Reformulate zero-shot learning as sample-level graph recognition,**](https://jingcai91.github.io/_pages/aaai23-zsl.pdf)
 

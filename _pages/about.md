@@ -47,7 +47,7 @@ I am generally interested in **Machine Learning** and **Edge AI**, with a partic
 
 In *Proceedings of the Thirty-Seventh AAAI Conference on Artificial Intelligence (AAAI, CCF-A)*, 2023.
 
-- **Significance**: We are the first to investigate sample-level graph and formulate zero-shot learning to a graph-to-semantics matching task.
+**Contribution**: We are the first to investigate sample-level graph and formulate zero-shot learning to a graph-to-semantics matching task.
 </div>
 </div>
 

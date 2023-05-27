@@ -53,6 +53,8 @@ I am generally interested in **Machine Learning** and **Edge AI**, with a partic
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 - <code class="language-plaintext highlighter-rouge">AAAI 2023</code> **J. Guo**, S. Guo, Q. Zhou, Z. Liu, X. Lu, F. Huo, “Graph knows unknowns: Reformulate zero-shot learning as sample-level graph recognition,” <em>In Proceedings of the Thirty-Seventh AAAI Conference on Artificial Intelligence (AAAI, CCF-A),</em> 2023.
 - ``ICML 2023`` [Make-An-Audio: Text-To-Audio Generation with Prompt-Enhanced Diffusion Models](https://text-to-audio.github.io/paper.pdf), Rongjie Huang, Jiawei Huang, Dongchao Yang, **Yi Ren**, Luping liu, Mingze Li, Zhenhui Ye, Jinglin Liu, Xiang Yin, Zhou Zhao
+-  ``ACL 2023`` [CLAPSpeech: Learning Prosody from Text Context with Contrastive Language-Audio Pre-Training](), Zhenhui Ye, Rongjie Huang, Yi Ren, Ziyue Jiang, Jinglin Liu, Jinzheng He, Xiang Yin and Zhou Zhao
+
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 

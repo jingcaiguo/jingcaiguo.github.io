@@ -43,7 +43,7 @@ I am generally interested in **Machine Learning** and **Edge AI**, with a partic
 <div class='paper-box-text' markdown="1">
 [**Graph knows unknowns: Reformulate zero-shot learning as sample-level graph recognition,**](https://jingcai91.github.io/_pages/aaai23-zsl.pdf)
 
-<font size=5>**<u>J. Guo</u>**</font>, **<u>J. Guo</u>**, S. Guo, Q. Zhou, Z. Liu, X. Lu, F. Huo,
+**<u><font size=3>J. Guo</font></u>**, S. Guo, Q. Zhou, Z. Liu, X. Lu, F. Huo,
 
 In *Proceedings of the Thirty-Seventh AAAI Conference on Artificial Intelligence (AAAI, CCF-A)*, 2023.
 

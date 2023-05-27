@@ -39,7 +39,7 @@ I am generally interested in **Machine Learning** and **Edge AI**, with a partic
 # 📝 Publications 
 ## 🎙 Five Most Representative Papers
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2023</div><img src='images/aaai-zsl.png' alt="sym" width=370px></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2023</div><img src='images/aaai23-zsl.png' alt="sym" width=370px></div></div>
 <div class='paper-box-text' markdown="1">
 
 [FastSpeech: Fast, Robust and Controllable Text to Speech](https://papers.nips.cc/paper/8580-fastspeech-fast-robust-and-controllable-text-to-speech.pdf) \\

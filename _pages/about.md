@@ -23,7 +23,7 @@ I am generally interested in **Machine Learning** and **Edge AI**, with a partic
 
 
 # 🔥 News
-- *<font color=red>TOP</font>*: &nbsp;🎉🎉 We have several openings for 1) **PhD Student**, 2) **Research Assistant / Associate**, and 3) **Visiting Student** to work together on multiple research projects. Drop me an email along with your updated CV if interested. 
+- ***<font color=red>TOP</font>***: &nbsp;🎉🎉 We have several openings for 1) **PhD Student**, 2) **Research Assistant / Associate**, and 3) **Visiting Student** to work together on multiple research projects. Drop me an email along with your updated CV if interested. 
 - *2023.02*: &nbsp; [Review] Serve as a Reviewer for <a href="https://iccv2023.thecvf.com/">ICCV 2023</a> and <a href="https://nips.cc/">NeurIPS 2023</a>.
 - *2022.11*: &nbsp; [Review] Serve as a Program Committee Member for <a href="https://cvpr2023.thecvf.com/">CVPR 2023</a> and Reviewer for <a href="https://iclr.cc/">ICLR 2023</a>.
 - *2022.08*: &nbsp;  [Review] Serve as a Program Committee Member for <a href="https://aaai.org/Conferences/AAAI-23/">AAAI 2023</a>.
@@ -51,6 +51,8 @@ I am generally interested in **Machine Learning** and **Edge AI**, with a partic
 </div>
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+- <code class="language-plaintext highlighter-rouge">AAAI 2023</code> **J. Guo**, S. Guo, Q. Zhou, Z. Liu, X. Lu, F. Huo, “Graph knows unknowns: Reformulate zero-shot learning as sample-level graph recognition,” <em>In Proceedings of the Thirty-Seventh AAAI Conference on Artificial Intelligence (AAAI, CCF-A),</em> 2023.
+- ``ICML 2023`` [Make-An-Audio: Text-To-Audio Generation with Prompt-Enhanced Diffusion Models](https://text-to-audio.github.io/paper.pdf), Rongjie Huang, Jiawei Huang, Dongchao Yang, **Yi Ren**, Luping liu, Mingze Li, Zhenhui Ye, Jinglin Liu, Xiang Yin, Zhou Zhao
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 

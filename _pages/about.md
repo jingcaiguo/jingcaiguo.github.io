@@ -111,7 +111,9 @@ In *Proceedings of the Twenty-Eighth ACM International Conference on Multimedia 
 ## 📚 Other Selected Papers 
 
 - Towards Data-independent Knowledge Transfer in Model-heterogeneous Federated Learning,
+
   J. Zhang, S. Guo, **<u><font size=3>J. Guo*</font></u>**, D. Zeng, J. Zhou, A. Zomaya,
+  
   *IEEE Transactions on Computers (IEEE TC, CCF-A)*, 2023.
 
 

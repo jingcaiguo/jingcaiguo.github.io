@@ -110,7 +110,7 @@ In *Proceedings of the Twenty-Eighth ACM International Conference on Multimedia 
 
 ## 📚 Other Selected Papers 
 
-- <div class="badge">TC 2023</div> J. Zhang, S. Guo, **<u><font size=3>J. Guo*</font></u>**, D. Zeng, J. Zhou, A. Zomaya, "Towards Data-independent Knowledge Transfer in Model-heterogeneous Federated Learning," *IEEE Transactions on Computers (IEEE TC, CCF-A)*, 2023.
+- <code class="language-plaintext highlighter-rouge">TC 2023</code> J. Zhang, S. Guo, **<u><font size=3>J. Guo*</font></u>**, D. Zeng, J. Zhou, A. Zomaya, "Towards Data-independent Knowledge Transfer in Model-heterogeneous Federated Learning," *IEEE Transactions on Computers (IEEE TC, CCF-A)*, 2023.
 
 - ``ICDCS 2023`` T. Qi, Y. Zhan, P. Li, **<u><font size=3>J. Guo</font></u>**, Y. Xia, "Hwamei: A Learning-based Aggregation Framework for Hierarchical Federated Learning System," In *Proceedings of the Fouty-Third IEEE International Conference on Distributed Computing Systems (ICDCS, CCF-B)*, 2023.
 

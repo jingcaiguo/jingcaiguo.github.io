@@ -23,8 +23,18 @@ I am generally interested in **Machine Learning** and **Edge AI**, with a partic
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *<font color=red>TOP</font>*: &nbsp;🎉🎉 We have several openings for 1) **PhD Student**, 2) **Research Assistant / Associate**, and 3) **Visiting Student** to work together on multiple research projects. Drop me an email along with your updated CV if interested. 
+- *2023.02*: &nbsp; [Review] Serve as a Reviewer for <a href="https://iccv2023.thecvf.com/">ICCV 2023</a> and <a href="https://nips.cc/">NeurIPS 2023</a>.
+- *2022.11*: &nbsp; [Review] Serve as a Program Committee Member for <a href="https://cvpr2023.thecvf.com/">CVPR 2023</a> and Reviewer for <a href="https://iclr.cc/">ICLR 2023</a>.
+- *2022.08*: &nbsp;  [Review] Serve as a Program Committee Member for <a href="https://aaai.org/Conferences/AAAI-23/">AAAI 2023</a>.
+- *2022.07*: &nbsp; [Organization] Serve as a Session Chair for <a href="https://2022.ieeeicme.org/">ICME 2022</a>.
+- *2022.04*: &nbsp;  [Review] Serve as a Program Committee Member for <a href="https://2022.acmmm.org/">ACM-MM 2022</a>.
+- *2022.03*: &nbsp;  [Review] Serve as a Program Committee Member for <a href="https://neurips.cc/">NeurIPS 2022</a> and <a href="https://eccv2022.ecva.net/">ECCV 2022</a>.
+- *2022.03*: &nbsp; [Organization] Serve as a Publicity Chair for <a href="https://srds-conference.org/">SRDS 2022</a>.
+- *2022.01*: &nbsp;  [Review] Serve as a Reviewer for <a href="https://icml.cc/">ICML 2022</a>.
+- *2021.10*: &nbsp; [Project] One project has been funded by <a href="https://www.edu.cn/rd/gai_kuang/zheng_ce_fa_gui/202112/t20211214_2189444.shtml">Fundamental Research Funds for the Central Universities</a>.
+- *2021.12*: &nbsp;  [Review] Serve as a Program Committee Member for <a href="https://cvpr2022.thecvf.com/">CVPR 2022</a>.
+- *2021.10*: &nbsp; [Project] One project has been funded by <a href="https://www.nsfc.gov.cn/">National Natural Science Foundation of China (NSFC)</a> 
 
 # 📝 Publications 
 

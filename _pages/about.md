@@ -269,6 +269,9 @@ In *Proceedings of the Twenty-Eighth ACM International Conference on Multimedia 
 
 I sincerely thank these sponsors for providing support for my research:<br>
 
+<img src="./images/nsfc.jpeg" width = "150" />&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+<img src="./images/RGC.jpg" width = "150" />&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+
 ![](./images/nsfc.jpeg =150) &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
 ![](./images/RGC.jpg =150) &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
 ![](./images/polyu.jpg =150) &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp

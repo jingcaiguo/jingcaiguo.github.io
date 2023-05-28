@@ -24,7 +24,7 @@ I am generally interested in **Machine Learning** and **Edge AI**, with a partic
 
 <span class='anchor' id='news'></span>
 # 🔥 News
-- ***<font color=red>TOP</font>***: &nbsp;🎉🎉 <font color=red>We have several openings for 1) PhD Student, 2) Research Assistant, and 3) Visiting Student to work together on multiple research projects. Drop me an email along with your updated CV if interested</font>. 
+- ***<font color=red>TOP</font>***: &nbsp;🎉🎉 <font color=red>We have several openings for 1) Research Assistant, and 3) Visiting Student to work together on multiple research projects. Drop me an email along with your updated CV if interested</font>. 
 - *2023.02*: &nbsp; [Review] Serve as a Reviewer for <a href="https://iccv2023.thecvf.com/">ICCV 2023</a> and <a href="https://nips.cc/">NeurIPS 2023</a>.
 - *2022.11*: &nbsp; [Review] Serve as a Program Committee Member for <a href="https://cvpr2023.thecvf.com/">CVPR 2023</a> and Reviewer for <a href="https://iclr.cc/">ICLR 2023</a>.
 - *2022.08*: &nbsp;  [Review] Serve as a Program Committee Member for <a href="https://aaai.org/Conferences/AAAI-23/">AAAI 2023</a>.
@@ -204,30 +204,69 @@ In *Proceedings of the Twenty-Eighth ACM International Conference on Multimedia 
 - \[Participant\]: Transnational Partnership for Excellent Research and Education in Big Data and Emergency Management,<br>
   Funding source: Norwegian Research Council INTPART Programme, 2017-2020.
 
+<!--
 <span class='anchor' id='invited-talks'></span>
 # 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+-->
 
 <span class='anchor' id='teachings'></span>
 # 📝 Teachings
+
+- Subject Lecturer, Data Structures and Database Systems, PolyU, Spring 2023.
+- Subject Lecturer, Data Structures (Syllabus), SWUFE, Fall 2021.
+- Teaching Assistant, B2B & B2C E-commerce and Management, PolyU, Spring 2019
+- Teaching Assistant, Information Systems Project Management, PolyU, Fall 2018.
+- Teaching Assistant, Big Data Analytics, PolyU, Spring 2018.
+- Teaching Assistant, Web Advertising and Web Publishing, PolyU, Fall 2017.
 
 <span class='anchor' id='services'></span>
 # 📝 Services
 
 ## 📖 Conference Organizing Committee
 
+- **Publicity Chair:** The 41st International Symposium on Reliable Distributed Systems (SRDS 2022)
+- **Session Chair:** The 23th IEEE International Conference on Multimedia and Expo (ICME 2022)
+
 ## 📖 Conference PC Member/Reviewer
+
+- AAAI Conference on Artificial Intelligence (**AAAI**: 2021 / 2022 / 2023)
+- IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**: 2022 / 2023)
+- Conference on Neural Information Processing Systems (**NeurIPS**: 2022 / 2023)
+- International Conference on Computer Vision (**ICCV**: 2023)
+- International Conference on Learning Representations (**ICLR**: 2023)
+- ACM International Conference on Multimedia (**ACM-MM**: 2022)
+- International Conference on Machine Learning (**ICM**L: 2022)
+- European Conference on Computer Vision (**ECCV**: 2022)
+- IEEE International Conference on Multimedia and Expo (**ICME**: 2019 / 2020 / 2021)
+- International Joint Conference on Neural Networks (**IJCNN**: 2022)
+- IEEE International Conference on Big Data Intelligence and Computing (**DataCom**: 2018)
 
 ## 📖 Journal Reviewer
 
+- Reviewer for IEEE Transactions on Neural Networks and Learning Systems (**IEEE TNNLS**)
+- Reviewer for IEEE Transactions on Multimedia (**IEEE TMM**)
+- Reviewer for IEEE Transactions on Knowledge and Data Engineering (**IEEE TKDE**)
+- Reviewer for IEEE Transactions on Mobile Computing (**IEEE TMC**)
+- Reviewer for IEEE Journal on Selected Areas in Communications (**IEEE JSAC**)
+- Reviewer for IEEE Internet of Things Journal (**IEEE IoTJ**)
+- Reviewer for IEEE Transactions on Industrial Informatics (**IEEE TII**)
+- Reviewer for IEEE Transactions on Emerging Topics in Computing (**IEEE TETC**)
+
 ## 📖 Editorial Board Member
+
+- Progress in Human Computer Interaction (Jun. 2018-Jun. 2020)
 
 <span class='anchor' id='selected-honors'></span>
 # 🎖 Selected Honors
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- **Hong Kong Ph.D. Fellowship (2017),**<br>
+  Funding source: Hong Kong Research Grants Council (acceptance rate ~= 1.7%, 231 out of 14000).
+
+- **Ting Hsing International Scholarship (2013),**<br>
+  Funding source: Waseda University and Ting Hsin Holding Corp. (acceptance rate ~= 4.2%, 85 out of 2000).
 
 <span class='anchor' id='sponsors'></span>
 # 📝 Sponsors
+
+I sincerely thank these sponsors for providing support for my research:<br>
+
 

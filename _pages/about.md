@@ -183,8 +183,8 @@ In *Proceedings of the Twenty-Eighth ACM International Conference on Multimedia 
   **<u><font size=3>J. Guo</font></u>**, Z. Liu,<br>
   *Machine Learning on Commodity Tiny Devices*, edited by S. Guo&Q. Zhou, CRC Press, 2022.
 
-<span class='anchor' id='funded-participated-projects'></span>
-# 📝 Funded/Participated Projects
+<span class='anchor' id='grants'></span>
+# 📝 Grants
 
 - **<font color=Blue>[PI]:</font>** Start-up Fund for RAPs under the Strategic Hiring Scheme,<br>
   Funding source: PolyU (UGC)-P0043932, 2022-2024.

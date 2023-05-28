@@ -114,11 +114,11 @@ In *Proceedings of the Twenty-Eighth ACM International Conference on Multimedia 
 ## 📚 Selected Papers
 (* indicates corresponding authors)
 
-- [Graph knows unknowns: Reformulate zero-shot learning as sample-level graph recognition](https://jingcai91.github.io/_pages/aaai23-zsl.pdf),<br>
+- [Graph Knows Unknowns: Reformulate Zero-Shot Learning as Sample-Level Graph Recognition](https://jingcai91.github.io/_pages/aaai23-zsl.pdf),<br>
   **<u><font size=3>J. Guo</font></u>**, S. Guo, Q. Zhou, Z. Liu, X. Lu, F. Huo,<br>
   In *Proceedings of the Thirty-Seventh AAAI Conference on Artificial Intelligence (**<font color=Blue>AAAI</font>**, CCF-A)*, 2023.
 
-- [(ML)$^2$P-Encoder: On Exploration of Channel-class Correlation for Multi-label Zero-shot Learning](https://openaccess.thecvf.com/content/CVPR2023/papers/Liu_ML2P-Encoder_On_Exploration_of_Channel-Class_Correlation_for_Multi-Label_Zero-Shot_Learning_CVPR_2023_paper.pdf),<br>
+- [(ML)$^2$P-Encoder: On Exploration of Channel-Class Correlation for Multi-Label Zero-Shot Learning](https://openaccess.thecvf.com/content/CVPR2023/papers/Liu_ML2P-Encoder_On_Exploration_of_Channel-Class_Correlation_for_Multi-Label_Zero-Shot_Learning_CVPR_2023_paper.pdf),<br>
   Z. Liu, S. Guo, X. Lu, **<u><font size=3>J. Guo*</font></u>**, J. Zhang, Y. Zeng, F. Huo,<br>
   In *Proceedings of the Thirty-Fourth IEEE/CVF Conference on Computer Vision and Pattern Recognition (**<font color=Blue>CVPR</font>**, CCF-A)*, 2023.
 
@@ -126,11 +126,11 @@ In *Proceedings of the Twenty-Eighth ACM International Conference on Multimedia 
   X. Lu, S. Guo\*, Z. Liu, **<u><font size=3>J. Guo*</font></u>**,<br>
   In *Proceedings of the Thirty-Fourth IEEE/CVF Conference on Computer Vision and Pattern Recognition (**<font color=Blue>CVPR</font>**, CCF-A)*, 2023.
 
-- [Towards Data-independent Knowledge Transfer in Model-heterogeneous Federated Learning](),<br>
+- [Towards Data-Independent Knowledge Transfer in Model-Heterogeneous Federated Learning](),<br>
   J. Zhang, S. Guo\*, **<u><font size=3>J. Guo*</font></u>**, D. Zeng, J. Zhou, A. Zomaya,<br>
   *IEEE Transactions on Computers (**<font color=Blue>TC</font>**, CCF-A)*, 2023.
   
-- [Hwamei: A Learning-based Aggregation Framework for Hierarchical Federated Learning System](),<br>
+- [Hwamei: A Learning-Based Aggregation Framework for Hierarchical Federated Learning System](),<br>
   T. Qi, Y. Zhan, P. Li, **<u><font size=3>J. Guo</font></u>**, Y. Xia,<br>
   In *Proceedings of the Fouty-Third IEEE International Conference on Distributed Computing Systems (**<font color=Blue>ICDCS</font>**, CCF-B)*, 2023.
 
@@ -142,27 +142,27 @@ In *Proceedings of the Twenty-Eighth ACM International Conference on Multimedia 
   X. Tang, S. Guo\*, **<u><font size=3>J. Guo*</font></u>**,<br>
   In *Proceedings of the Thirty-First International Joint Conference on Artificial Intelligence (**<font color=Blue>IJCAI</font>**, CCF-A)*, 2022.
 
-- [Towards Unbiased Multi-label Zero-Shot Learning with Pyramid and Semantic Attention](),<br>
+- [Towards Unbiased Multi-Label Zero-Shot Learning with Pyramid and Semantic Attention](),<br>
   Z. Liu, S. Guo\*, **<u><font size=3>J. Guo*</font></u>**, Y. Xu, F. Huo,<br>
   *IEEE Transactions on Multimedia (**<font color=Blue>TMM</font>**, 中科院1区/IF=8.182)*, 2022.
 
-- [Conservative Novelty Synthesizing Network for Malware Recognition in an Open-set Scenario](),<br>
+- [Conservative Novelty Synthesizing Network for Malware Recognition in an Open-Set Scenario](),<br>
   **<u><font size=3>J. Guo</font></u>**, S. Guo, S. Ma, Y. Sun, Y. Xu,<br>
   *IEEE Transactions on Neural Networks and Learning Systems (**<font color=Blue>TNNLS</font>**, 中科院1区/IF=14.255)*, 2021.
 
-- [INT8 Training with Loss-aware Compensation and Backward Quantization for Tiny On-device Learning](),<br>
+- [INT8 Training with Loss-Aware Compensation and Backward Quantization for Tiny On-Device Learning](),<br>
   Q. Zhou, S. Guo, Z. Qu, **<u><font size=3>J. Guo</font></u>**, Z. Xu, J. Zhang, T. Guo, B. Luo, J. Zhou,<br>
   In *Proceedings of the 202O USENIX Annual Technical Conference (**<font color=Blue>USENIX-ATC</font>**, CCF-A)*, 2021.
 
-- [On-device Learning Systems for Edge Intelligence: A Software and Hardware Synergy Perspective](),<br>
+- [On-Device Learning Systems for Edge Intelligence: A Software and Hardware Synergy Perspective](),<br>
   Q. Zhou, Z. Qu, S. Guo, B. Luo, **<u><font size=3>J. Guo</font></u>**, Z. Xu, R. Akerkar,<br>
   *IEEE Internet of Things Journal (**<font color=Blue>IoT-J</font>**, 中科院1区/IF=10.238)*, 2021.
   
-- [Dual-view Attention Networks for Single Image Super-Resolution](https://dl.acm.org/doi/10.1145/3394171.3413613),<br>
+- [Dual-View Attention Networks for Single Image Super-Resolution](https://dl.acm.org/doi/10.1145/3394171.3413613),<br>
   **<u><font size=3>J. Guo</font></u>**, S. Ma, J. Zhang, Q. Zhou, S. Guo,<br>
   In *Proceedings of the Twenty-Eighth ACM International Conference on Multimedia (**<font color=Blue>ACM-MM</font>**, CCF-A)*, 2020.
 
-- [A Novel Perspective to Zero-shot Learning: Towards an Alignment of Manifold Structures via Semantic Feature Expansion](),<br>
+- [A Novel Perspective to Zero-Shot Learning: Towards an Alignment of Manifold Structures via Semantic Feature Expansion](),<br>
   **<u><font size=3>J. Guo</font></u>**, S. Guo,<br>
   *IEEE Transactions on Multimedia (**<font color=Blue>TMM</font>**, 中科院1区/IF=8.182)*, 2020.
 
@@ -174,7 +174,7 @@ In *Proceedings of the Twenty-Eighth ACM International Conference on Multimedia 
   **<u><font size=3>J. Guo</font></u>**, S. Guo,<br>
   In *Proceedings of the Forty-Fourth IEEE International Conference on Acoustics, Speech, and Signal Processing (**<font color=Blue>ICASSP</font>**, CCF-B)*, 2019.
 
-- [AMS-SFE: Towards an Alignment of Manifold Structures via Semantic Feature Expansion for Zero-shot Learning](),<br>
+- [AMS-SFE: Towards an Alignment of Manifold Structures via Semantic Feature Expansion for Zero-Shot Learning](),<br>
   **<u><font size=3>J. Guo</font></u>**, S. Guo,<br>
   In *Proceedings of the Twentieth IEEE International Conference on Multimedia and Expo (**<font color=Blue>ICME</font>**, CCF-B)*, 2019.
 
@@ -187,13 +187,13 @@ In *Proceedings of the Twenty-Eighth ACM International Conference on Multimedia 
 <span class='anchor' id='grants'></span>
 # 📝 Grants
 
-- **<font color=Blue>[PI]:</font>** Start-up Fund for RAPs under the Strategic Hiring Scheme,<br>
+- **<font color=Blue>[PI]:</font>** Start-Up Fund for RAPs under the Strategic Hiring Scheme,<br>
   Funding source: PolyU (UGC)-P0043932, 2022-2024.
   
-- **<font color=Blue>[PI]:</font>** Entity Anti-fraud Prediction Combining Zero-shot Learning and Graph Neural Networks,<br>
+- **<font color=Blue>[PI]:</font>** Entity Anti-fraud Prediction Combining Zero-Shot Learning and Graph Neural Networks,<br>
   Funding source: Young Scientists Fund of the National Natural Science Foundation of China (NSFC)-62102327, 2022-2024.
 
-- **<font color=Blue>[PI]:</font>** Learning-based Anti-fraud Prevention in Financial Industry,<br>
+- **<font color=Blue>[PI]:</font>** Learning-Based Anti-Fraud Prevention in Financial Industry,<br>
   Funding source: Fundamental Research Funds for the Central Universities-JBK21YJ04, 2021-2021.
 
 - \[Participant\]: Edge Intelligence Oriented Resource Management and Deployment Optimization,<br>

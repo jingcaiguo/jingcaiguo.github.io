@@ -187,7 +187,7 @@ In *Proceedings of the Twenty-Eighth ACM International Conference on Multimedia 
   Funding source: PolyU (UGC)-P0043932, 2022-2024.
   
 - **<font color=Blue>[PI]</font>** Entity Anti-fraud Prediction Combining Zero-shot Learning and Graph Neural Networks,<br>
-  Funding source: Young Scientists Fund of the National Natural Science Foundation of China (NSFC)-62102327, 2022-2024, <font color=Blue>PI</font>.
+  Funding source: Young Scientists Fund of the National Natural Science Foundation of China (NSFC)-62102327, 2022-2024.
 
 - **<font color=Blue>[PI]</font>** Learning-based Anti-fraud Prevention in Financial Industry,<br>
   Funding source: Fundamental Research Funds for the Central Universities-JBK21YJ04, 2021-2021.

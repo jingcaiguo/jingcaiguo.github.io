@@ -269,4 +269,9 @@ In *Proceedings of the Twenty-Eighth ACM International Conference on Multimedia 
 
 I sincerely thank these sponsors for providing support for my research:<br>
 
-
+![](./images/nsfc.jpeg =150) &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+![](./images/RGC.jpg =150) &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+![](./images/polyu.jpg =150) &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+![](./images/waseda1.jpg =150) &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+![](./images/nvidia.png =150) &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+![](./images/tinghsing.jpeg =150) &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp

@@ -192,19 +192,20 @@ In *Proceedings of the Twenty-Eighth ACM International Conference on Multimedia 
 - **<font color=Blue>[PI]</font>** Learning-based Anti-fraud Prevention in Financial Industry,<br>
   Funding source: Fundamental Research Funds for the Central Universities-JBK21YJ04, 2021-2021.
 
-- \[Participant\] Edge Intelligence Oriented Resource Management and Deployment Optimization,<br>
+- <font color=Blue>[Participant]</font> Edge Intelligence Oriented Resource Management and Deployment Optimization,<br>
   Funding source: National Natural Science Foundation of China (NSFC)-61872310, 2019-2022.
 
-- \[Participant\] Research on Cloud Edge Collaborative Learning Architecture and Key Optimization Theory,<br>
+- <font color=Blue>[Participant]</font> Research on Cloud Edge Collaborative Learning Architecture and Key Optimization Theory,<br>
   Funding source: Shenzhen Science and Technology Innovation Commission, Fundamental Research Project-JCYJ20200109142008673, 2021-2023.
 
-- \[Participant\] Transnational Partnership for Excellent Research and Education in Big Data and Emergency Management,<br>
+- <font color=Blue>[Participant]</font> Transnational Partnership for Excellent Research and Education in Big Data and Emergency Management,<br>
   Funding source: Norwegian Research Council INTPART Programme, 2017-2020.
   
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
+<span class='anchor' id='teachings'></span>
 # 📝 Teachings
 
 

@@ -22,6 +22,7 @@ I am an Assistant Professor (Research) with Department of Computing, <a href = "
 I am generally interested in **Machine Learning** and **Edge AI**, with a particular focus on **Zero/Few-shot Learning**, **Federated Learning**, **Representation Learning**, and **Model Compression**. I regularly serve as program committee member and/or reviewer for several conferences and journals such as AAAI, CVPR, NeurIPS, ACM-MM, ICML, ICCV, ICME, ECCV, TNNLS, TMM, TMC, TKDE, JSAC, IoT-J, etc. I am a member of IEEE and CCF. I am the recipient of RGC-HKPFS in 2017.
 
 
+<span class='anchor' id='news'></span>
 # 🔥 News
 - ***<font color=red>TOP</font>***: &nbsp;🎉🎉 <font color=red>We have several openings for 1) PhD Student, 2) Research Assistant, and 3) Visiting Student to work together on multiple research projects. Drop me an email along with your updated CV if interested</font>. 
 - *2023.02*: &nbsp; [Review] Serve as a Reviewer for <a href="https://iccv2023.thecvf.com/">ICCV 2023</a> and <a href="https://nips.cc/">NeurIPS 2023</a>.
@@ -36,6 +37,7 @@ I am generally interested in **Machine Learning** and **Edge AI**, with a partic
 - *2021.12*: &nbsp;  [Review] Serve as a Program Committee Member for <a href="https://cvpr2022.thecvf.com/">CVPR 2022</a>.
 - *2021.10*: &nbsp; [Project] One project has been funded by <a href="https://www.nsfc.gov.cn/">National Natural Science Foundation of China (NSFC)</a> 
 
+<span class='anchor' id='publications'></span>
 # 📝 Publications 
 <!--
 ## 🎙 Five Most Representative Papers
@@ -180,27 +182,29 @@ In *Proceedings of the Twenty-Eighth ACM International Conference on Multimedia 
 - [Application: Image-Based Visual Perception](),<br>
   **<u><font size=3>J. Guo</font></u>**, Z. Liu,<br>
   *Machine Learning on Commodity Tiny Devices*, edited by S. Guo&Q. Zhou, CRC Press, 2022.
-  
+
+<span class='anchor' id='funded-participated-projects'></span>
 # 📝 Funded/Participated Projects
 
-- **<font color=Blue>[PI]</font>** Start-up Fund for RAPs under the Strategic Hiring Scheme,<br>
+- **<font color=Blue>[PI]:</font>** Start-up Fund for RAPs under the Strategic Hiring Scheme,<br>
   Funding source: PolyU (UGC)-P0043932, 2022-2024.
   
-- **<font color=Blue>[PI]</font>** Entity Anti-fraud Prediction Combining Zero-shot Learning and Graph Neural Networks,<br>
+- **<font color=Blue>[PI]:</font>** Entity Anti-fraud Prediction Combining Zero-shot Learning and Graph Neural Networks,<br>
   Funding source: Young Scientists Fund of the National Natural Science Foundation of China (NSFC)-62102327, 2022-2024.
 
-- **<font color=Blue>[PI]</font>** Learning-based Anti-fraud Prevention in Financial Industry,<br>
+- **<font color=Blue>[PI]:</font>** Learning-based Anti-fraud Prevention in Financial Industry,<br>
   Funding source: Fundamental Research Funds for the Central Universities-JBK21YJ04, 2021-2021.
 
-- <font color=Blue>[P]</font> Edge Intelligence Oriented Resource Management and Deployment Optimization,<br>
+- \[Participant\]: Edge Intelligence Oriented Resource Management and Deployment Optimization,<br>
   Funding source: National Natural Science Foundation of China (NSFC)-61872310, 2019-2022.
 
-- <font color=Blue>[Participant]</font> Research on Cloud Edge Collaborative Learning Architecture and Key Optimization Theory,<br>
+- \[Participant\]: Research on Cloud Edge Collaborative Learning Architecture and Key Optimization Theory,<br>
   Funding source: Shenzhen Science and Technology Innovation Commission, Fundamental Research Project-JCYJ20200109142008673, 2021-2023.
 
-- <font color=Blue>[Participant]</font> Transnational Partnership for Excellent Research and Education in Big Data and Emergency Management,<br>
+- \[Participant\]: Transnational Partnership for Excellent Research and Education in Big Data and Emergency Management,<br>
   Funding source: Norwegian Research Council INTPART Programme, 2017-2020.
-  
+
+<span class='anchor' id='invited-talks'></span>
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
@@ -208,7 +212,7 @@ In *Proceedings of the Twenty-Eighth ACM International Conference on Multimedia 
 <span class='anchor' id='teachings'></span>
 # 📝 Teachings
 
-
+<span class='anchor' id='services'></span>
 # 📝 Services
 
 ## 📖 Conference Organizing Committee
@@ -219,9 +223,11 @@ In *Proceedings of the Twenty-Eighth ACM International Conference on Multimedia 
 
 ## 📖 Editorial Board Member
 
+<span class='anchor' id='selected-honors'></span>
 # 🎖 Selected Honors
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
+<span class='anchor' id='sponsors'></span>
 # 📝 Sponsors
 

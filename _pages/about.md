@@ -192,7 +192,7 @@ In *Proceedings of the Twenty-Eighth ACM International Conference on Multimedia 
 - **<font color=Blue>[PI]</font>** Learning-based Anti-fraud Prevention in Financial Industry,<br>
   Funding source: Fundamental Research Funds for the Central Universities-JBK21YJ04, 2021-2021.
 
-- <font color=Blue>[Participant]</font> Edge Intelligence Oriented Resource Management and Deployment Optimization,<br>
+- <font color=Blue>[P]</font> Edge Intelligence Oriented Resource Management and Deployment Optimization,<br>
   Funding source: National Natural Science Foundation of China (NSFC)-61872310, 2019-2022.
 
 - <font color=Blue>[Participant]</font> Research on Cloud Edge Collaborative Learning Architecture and Key Optimization Theory,<br>

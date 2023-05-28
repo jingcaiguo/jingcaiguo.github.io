@@ -23,7 +23,7 @@ I am generally interested in **Machine Learning** and **Edge AI**, with a partic
 
 
 # 🔥 News
-- ***<font color=red>TOP</font>***: &nbsp;🎉🎉 We have several openings for 1) **PhD Student**, 2) **Research Assistant / Associate**, and 3) **Visiting Student** to work together on multiple research projects. Drop me an email along with your updated CV if interested. 
+- ***<font color=red>TOP</font>***: &nbsp;🎉🎉 <font color=red>We have several openings for 1) **PhD Student**, 2) **Research Assistant / Associate**, and 3) **Visiting Student** to work together on multiple research projects. Drop me an email along with your updated CV if interested</font>. 
 - *2023.02*: &nbsp; [Review] Serve as a Reviewer for <a href="https://iccv2023.thecvf.com/">ICCV 2023</a> and <a href="https://nips.cc/">NeurIPS 2023</a>.
 - *2022.11*: &nbsp; [Review] Serve as a Program Committee Member for <a href="https://cvpr2023.thecvf.com/">CVPR 2023</a> and Reviewer for <a href="https://iclr.cc/">ICLR 2023</a>.
 - *2022.08*: &nbsp;  [Review] Serve as a Program Committee Member for <a href="https://aaai.org/Conferences/AAAI-23/">AAAI 2023</a>.
@@ -113,15 +113,15 @@ In *Proceedings of the Twenty-Eighth ACM International Conference on Multimedia 
 
 - [Graph knows unknowns: Reformulate zero-shot learning as sample-level graph recognition](https://jingcai91.github.io/_pages/aaai23-zsl.pdf),<br>
   **<u><font size=3>J. Guo</font></u>**, S. Guo, Q. Zhou, Z. Liu, X. Lu, F. Huo,<br>
-  In *Proceedings of the Thirty-Seventh AAAI Conference on Artificial Intelligence (<font color=Blue>AAAI</font>, CCF-A)*, 2023.
+  In *Proceedings of the Thirty-Seventh AAAI Conference on Artificial Intelligence (**<font color=Blue>AAAI</font>**, CCF-A)*, 2023.
 
 - [$(ML)^2$P-Encoder: On Exploration of Channel-class Correlation for Multi-label Zero-shot Learning](https://openaccess.thecvf.com/content/CVPR2023/papers/Liu_ML2P-Encoder_On_Exploration_of_Channel-Class_Correlation_for_Multi-Label_Zero-Shot_Learning_CVPR_2023_paper.pdf),<br>
   Z. Liu, S. Guo, X. Lu, **<u><font size=3>J. Guo*</font></u>**, J. Zhang, Y. Zeng, F. Huo,<br>
-  In *Proceedings of the Thirty-Fourth IEEE/CVF Conference on Computer Vision and Pattern Recognition (<font color=Blue>CVPR</font>, CCF-A)*, 2023.
+  In *Proceedings of the Thirty-Fourth IEEE/CVF Conference on Computer Vision and Pattern Recognition (**<font color=Blue>CVPR</font>**, CCF-A)*, 2023.
 
 - [Decomposed Soft Prompt Guided Fusion Enhancing for Compositional Zero-Shot Learning](https://openaccess.thecvf.com/content/CVPR2023/papers/Lu_Decomposed_Soft_Prompt_Guided_Fusion_Enhancing_for_Compositional_Zero-Shot_Learning_CVPR_2023_paper.pdf),<br>
   X. Lu, S. Guo, Z. Liu, **<u><font size=3>J. Guo*</font></u>**,<br>
-  In *Proceedings of the Thirty-Fourth IEEE/CVF Conference on Computer Vision and Pattern Recognition (<font color=Blue>CVPR</font>, CCF-A)*, 2023.
+  In *Proceedings of the Thirty-Fourth IEEE/CVF Conference on Computer Vision and Pattern Recognition (**<font color=Blue>CVPR</font>**, CCF-A)*, 2023.
 
 - [Towards Data-independent Knowledge Transfer in Model-heterogeneous Federated Learning](),<br>
   J. Zhang, S. Guo, **<u><font size=3>J. Guo*</font></u>**, D. Zeng, J. Zhou, A. Zomaya,<br>

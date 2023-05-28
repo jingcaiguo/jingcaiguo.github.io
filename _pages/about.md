@@ -125,7 +125,7 @@ In *Proceedings of the Twenty-Eighth ACM International Conference on Multimedia 
 
 - [Towards Data-independent Knowledge Transfer in Model-heterogeneous Federated Learning](),<br>
   J. Zhang, S. Guo, **<u><font size=3>J. Guo*</font></u>**, D. Zeng, J. Zhou, A. Zomaya,<br>
-  *IEEE Transactions on Computers (<font color=Blue>IEEE TC</font>, CCF-A)*, 2023.
+  *IEEE Transactions on Computers (<font color=Blue>TC</font>, CCF-A)*, 2023.
   
 - [Hwamei: A Learning-based Aggregation Framework for Hierarchical Federated Learning System](),<br>
   T. Qi, Y. Zhan, P. Li, **<u><font size=3>J. Guo</font></u>**, Y. Xia,<br>
@@ -141,11 +141,11 @@ In *Proceedings of the Twenty-Eighth ACM International Conference on Multimedia 
 
 - [Towards Unbiased Multi-label Zero-Shot Learning with Pyramid and Semantic Attention](),<br>
   Z. Liu, S. Guo, **<u><font size=3>J. Guo*</font></u>**, Y. Xu, F. Huo,<br>
-  *IEEE Transactions on Multimedia (<font color=Blue>IEEE TMM</font>, 中科院1区/IF=8.182)*, 2022.
+  *IEEE Transactions on Multimedia (<font color=Blue>TMM</font>, 中科院1区/IF=8.182)*, 2022.
 
 - [Conservative Novelty Synthesizing Network for Malware Recognition in an Open-set Scenario](),<br>
   **<u><font size=3>J. Guo</font></u>**, S. Guo, S. Ma, Y. Sun, Y. Xu,<br>
-  *IEEE Transactions on Neural Networks and Learning Systems (<font color=Blue>IEEE TNNLS</font>, 中科院1区/IF=14.255)*, 2021.
+  *IEEE Transactions on Neural Networks and Learning Systems (<font color=Blue>TNNLS</font>, 中科院1区/IF=14.255)*, 2021.
 
 - [INT8 Training with Loss-aware Compensation and Backward Quantization for Tiny On-device Learning](),<br>
   Q. Zhou, S. Guo, Z. Qu, **<u><font size=3>J. Guo</font></u>**, Z. Xu, J. Zhang, T. Guo, B. Luo, J. Zhou,<br>
@@ -153,7 +153,7 @@ In *Proceedings of the Twenty-Eighth ACM International Conference on Multimedia 
 
 - [On-device Learning Systems for Edge Intelligence: A Software and Hardware Synergy Perspective](),<br>
   Q. Zhou, Z. Qu, S. Guo, B. Luo, **<u><font size=3>J. Guo</font></u>**, Z. Xu, R. Akerkar,<br>
-  *IEEE Internet of Things Journal (<font color=Blue>IEEE IoT-J</font>, 中科院1区/IF=10.238)*, 2021.
+  *IEEE Internet of Things Journal (<font color=Blue>IoT-J</font>, 中科院1区/IF=10.238)*, 2021.
   
 - [Dual-view Attention Networks for Single Image Super-Resolution](https://dl.acm.org/doi/10.1145/3394171.3413613),<br>
   **<u><font size=3>J. Guo</font></u>**, S. Ma, J. Zhang, Q. Zhou, S. Guo,<br>
@@ -161,7 +161,7 @@ In *Proceedings of the Twenty-Eighth ACM International Conference on Multimedia 
 
 - [A Novel Perspective to Zero-shot Learning: Towards an Alignment of Manifold Structures via Semantic Feature Expansion](),<br>
   **<u><font size=3>J. Guo</font></u>**, S. Guo,<br>
-  *IEEE Transactions on Multimedia (<font color=Blue>IEEE TMM</font>, 中科院1区/IF=8.182)*, 2020.
+  *IEEE Transactions on Multimedia (<font color=Blue>TMM</font>, 中科院1区/IF=8.182)*, 2020.
 
 - [Adaptive Adjustment with Semantic Feature Space for Zero-Shot Recognition](),<br>
   **<u><font size=3>J. Guo</font></u>**, S. Guo,<br>
@@ -180,6 +180,18 @@ In *Proceedings of the Twenty-Eighth ACM International Conference on Multimedia 
 - [Application: Image-Based Visual Perception](),<br>
   **<u><font size=3>J. Guo</font></u>**, Z. Liu,<br>
   *Machine Learning on Commodity Tiny Devices*, edited by S. Guo&Q. Zhou, CRC Press, 2022.
+  
+# 📝 Funded/Participated Projects
+
+- <font color=Blue>\[PI\]</font> Start-up Fund for RAPs under the Strategic Hiring Scheme,<br>
+  Funding source: PolyU (UGC)-P0043932, 2022-2024.
+  
+- <font color=Blue>\[PI\]</font> Entity Anti-fraud Prediction Combining Zero-shot Learning and Graph Neural Networks,<br>
+  Funding source: Young Scientists Fund of the National Natural Science Foundation of China (NSFC)-62102327, 2022-2024, <font color=Blue>PI</font>.
+
+- <font color=Blue>\[PI\]</font> Learning-based Anti-fraud Prevention in Financial Industry,<br>
+  Funding source: Fundamental Research Funds for the Central Universities-JBK21YJ04, 2021-2021.
+
 
 
 # 🎖 Honors and Awards

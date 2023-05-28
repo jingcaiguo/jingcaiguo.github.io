@@ -192,19 +192,35 @@ In *Proceedings of the Twenty-Eighth ACM International Conference on Multimedia 
 - **<font color=Blue>[PI]</font>** Learning-based Anti-fraud Prevention in Financial Industry,<br>
   Funding source: Fundamental Research Funds for the Central Universities-JBK21YJ04, 2021-2021.
 
+- <font color=Blue>[Participant]</font> Edge Intelligence Oriented Resource Management and Deployment Optimization,<br>
+  Funding source: National Natural Science Foundation of China (NSFC)-61872310, 2019-2022.
 
+- <font color=Blue>[Participant]</font> Research on Cloud Edge Collaborative Learning Architecture and Key Optimization Theory,<br>
+  Funding source: Shenzhen Science and Technology Innovation Commission, Fundamental Research Project-JCYJ20200109142008673, 2021-2023.
 
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
+- <font color=Blue>[Participant]</font> Transnational Partnership for Excellent Research and Education in Big Data and Emergency Management,<br>
+  Funding source: Norwegian Research Council INTPART Programme, 2017-2020.
+  
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+# 📝 Teachings
+
+
+# 📝 Services
+
+## 📖 Conference Organizing Committee
+
+## 📖 Conference PC Member/Reviewer
+
+## 📖 Journal Reviewer
+
+## 📖 Editorial Board Member
+
+# 🎖 Selected Honors
+- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+
+# 📝 Sponsors
+

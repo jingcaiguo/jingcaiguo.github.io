@@ -37,7 +37,7 @@ I am generally interested in **Machine Learning** and **Edge AI**, with a partic
 - *2021.10*: &nbsp; [Project] One project has been funded by <a href="https://www.nsfc.gov.cn/">National Natural Science Foundation of China (NSFC)</a> 
 
 # 📝 Publications 
-
+<!--
 ## 🎙 Five Most Representative Papers
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2023</div><img src='images/aaai23-zsl.png' alt="sym" width=255px></div></div>
@@ -107,8 +107,21 @@ In *Proceedings of the Twenty-Eighth ACM International Conference on Multimedia 
 **Contribution**: We introduce the dual-view attention networks to improve the restoration ability of high-frequency information for CNNs-based single image super-resolution models that can obtain better quantitative performance along with more visually pleasing images.
 </div>
 </div>
+-->
 
-## 📚 Other Selected Papers 
+## 📚 Selected Papers 
+
+- [Graph knows unknowns: Reformulate zero-shot learning as sample-level graph recognition](https://jingcai91.github.io/_pages/aaai23-zsl.pdf),<br>
+  **<u><font size=3>J. Guo</font></u>**, S. Guo, Q. Zhou, Z. Liu, X. Lu, F. Huo,<br>
+  In *Proceedings of the Thirty-Seventh AAAI Conference on Artificial Intelligence (AAAI, CCF-A)*, 2023.
+
+- [$(ML)^2$P-Encoder: On Exploration of Channel-class Correlation for Multi-label Zero-shot Learning](https://openaccess.thecvf.com/content/CVPR2023/papers/Liu_ML2P-Encoder_On_Exploration_of_Channel-Class_Correlation_for_Multi-Label_Zero-Shot_Learning_CVPR_2023_paper.pdf),<br>
+  Z. Liu, S. Guo, X. Lu, **<u><font size=3>J. Guo*</font></u>**, J. Zhang, Y. Zeng, F. Huo,<br>
+  In *Proceedings of the Thirty-Fourth IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR, CCF-A)*, 2023.
+
+- [Decomposed Soft Prompt Guided Fusion Enhancing for Compositional Zero-Shot Learning](https://openaccess.thecvf.com/content/CVPR2023/papers/Lu_Decomposed_Soft_Prompt_Guided_Fusion_Enhancing_for_Compositional_Zero-Shot_Learning_CVPR_2023_paper.pdf),<br>
+  X. Lu, S. Guo, Z. Liu, **<u><font size=3>J. Guo*</font></u>**,<br>
+  In *Proceedings of the Thirty-Fourth IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR, CCF-A)*, 2023.
 
 - [Towards Data-independent Knowledge Transfer in Model-heterogeneous Federated Learning](),<br>
   J. Zhang, S. Guo, **<u><font size=3>J. Guo*</font></u>**, D. Zeng, J. Zhou, A. Zomaya,<br>
@@ -121,6 +134,10 @@ In *Proceedings of the Twenty-Eighth ACM International Conference on Multimedia 
 - [Towards Fairer and More Efficient Federated Learning via Multidimensional Personalized Edge Models](),<br>
   Y. Wang, **<u><font size=3>J. Guo</font></u>**, J. Zhang, S. Guo, W. Zhang, Q. Zheng,<br>
   In *Proceedings of the 2023 International Joint Conference on Neural Networks (IJCNN, CCF-C)*, 2023.
+  
+- [Personalized Federated Learning with Contextualized Generalization](https://www.ijcai.org/proceedings/2022/0311.pdf),<br>
+  X. Tang, S. Guo, **<u><font size=3>J. Guo*</font></u>**,<br>
+  In *Proceedings of the Thirty-First International Joint Conference on Artificial Intelligence (IJCAI, CCF-A)*, 2022.
 
 - [Towards Unbiased Multi-label Zero-Shot Learning with Pyramid and Semantic Attention](),<br>
   Z. Liu, S. Guo, **<u><font size=3>J. Guo*</font></u>**, Y. Xu, F. Huo,<br>
@@ -137,6 +154,10 @@ In *Proceedings of the Twenty-Eighth ACM International Conference on Multimedia 
 - [On-device Learning Systems for Edge Intelligence: A Software and Hardware Synergy Perspective](),<br>
   Q. Zhou, Z. Qu, S. Guo, B. Luo, **<u><font size=3>J. Guo</font></u>**, Z. Xu, R. Akerkar,<br>
   *IEEE Internet of Things Journal (IEEE IoT-J, 中科院1区/IF=10.238)*, 2021.
+  
+- [Dual-view Attention Networks for Single Image Super-Resolution](https://dl.acm.org/doi/10.1145/3394171.3413613),<br>
+  **<u><font size=3>J. Guo</font></u>**, S. Ma, J. Zhang, Q. Zhou, S. Guo,<br>
+  In *Proceedings of the Twenty-Eighth ACM International Conference on Multimedia (ACM-MM, CCF-A)*, 2020.
 
 - [A Novel Perspective to Zero-shot Learning: Towards an Alignment of Manifold Structures via Semantic Feature Expansion](),<br>
   **<u><font size=3>J. Guo</font></u>**, S. Guo,<br>

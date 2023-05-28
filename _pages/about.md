@@ -123,7 +123,7 @@ In *Proceedings of the Twenty-Eighth ACM International Conference on Multimedia 
   In *Proceedings of the Thirty-Fourth IEEE/CVF Conference on Computer Vision and Pattern Recognition (**<font color=Blue>CVPR</font>**, CCF-A)*, 2023.
 
 - [Decomposed Soft Prompt Guided Fusion Enhancing for Compositional Zero-Shot Learning](https://openaccess.thecvf.com/content/CVPR2023/papers/Lu_Decomposed_Soft_Prompt_Guided_Fusion_Enhancing_for_Compositional_Zero-Shot_Learning_CVPR_2023_paper.pdf),<br>
-  X. Lu, S. Guo*, Z. Liu, **<u><font size=3>J. Guo*</font></u>**,<br>
+  X. Lu, S. Guo\*, Z. Liu, **<u><font size=3>J. Guo*</font></u>**,<br>
   In *Proceedings of the Thirty-Fourth IEEE/CVF Conference on Computer Vision and Pattern Recognition (**<font color=Blue>CVPR</font>**, CCF-A)*, 2023.
 
 - [Towards Data-independent Knowledge Transfer in Model-heterogeneous Federated Learning](),<br>

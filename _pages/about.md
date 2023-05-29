@@ -24,7 +24,7 @@ I am generally interested in **Machine Learning** and **Edge AI**, with a partic
 
 <span class='anchor' id='news'></span>
 # 🔥 News
-- ***<font color=red>TOP</font>***: &nbsp;🎉🎉 <font color=red>We have several openings for 1) Research Assistant, and 3) Visiting Student to work together on multiple research projects. Drop me an email along with your updated CV if interested</font>. 
+- ***<font color=red>TOP</font>***: &nbsp;🎉🎉 <font color=red>We have several openings for 1) Research Assistant, and 2) Visiting Student to work together on multiple research projects. Drop me an email along with your updated CV if interested</font>. 
 - *2023.02*: &nbsp; [Review] Serve as a Reviewer for <a href="https://iccv2023.thecvf.com/">ICCV 2023</a> and <a href="https://nips.cc/">NeurIPS 2023</a>.
 - *2022.11*: &nbsp; [Review] Serve as a Program Committee Member for <a href="https://cvpr2023.thecvf.com/">CVPR 2023</a> and Reviewer for <a href="https://iclr.cc/">ICLR 2023</a>.
 - *2022.08*: &nbsp;  [Review] Serve as a Program Committee Member for <a href="https://aaai.org/Conferences/AAAI-23/">AAAI 2023</a>.
@@ -114,7 +114,7 @@ In *Proceedings of the Twenty-Eighth ACM International Conference on Multimedia 
 ## 📚 Selected Papers
 (* indicates corresponding author)
 
-- [Graph Knows Unknowns: Reformulate Zero-Shot Learning as Sample-Level Graph Recognition](https://jingcai91.github.io/_pages/aaai23-zsl.pdf),<br>
+- [Graph Knows Unknowns: Reformulate Zero-Shot Learning as Sample-Level Graph Recognition](),<br>
   **<u><font size=3>J. Guo</font></u>**, S. Guo, Q. Zhou, Z. Liu, X. Lu, F. Huo,<br>
   In *Proceedings of the Thirty-Seventh AAAI Conference on Artificial Intelligence (**<font color=Blue>AAAI</font>**, CCF-A)*, 2023.
 

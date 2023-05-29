@@ -213,12 +213,8 @@ In *Proceedings of the Twenty-Eighth ACM International Conference on Multimedia 
 <span class='anchor' id='teachings'></span>
 # 📝 Teachings
 
-- Subject Lecturer, Data Structures and Database Systems, PolyU, Spring 2023.
-- Subject Lecturer, Data Structures (Syllabus), SWUFE, Fall 2021.
-- Teaching Assistant, B2B & B2C E-commerce and Management, PolyU, Spring 2019
-- Teaching Assistant, Information Systems Project Management, PolyU, Fall 2018.
-- Teaching Assistant, Big Data Analytics, PolyU, Spring 2018.
-- Teaching Assistant, Web Advertising and Web Publishing, PolyU, Fall 2017.
+- Data Structures and Database Systems ([Syllabus](https://www.polyu.edu.hk/comp/docdrive/tpg/subject/COMP5112.pdf)), PolyU, Spring 2023.
+- Data Structures (Syllabus), SWUFE, Fall 2021.
 
 <span class='anchor' id='services'></span>
 # 📝 Services

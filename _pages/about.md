@@ -148,7 +148,7 @@ In *Proceedings of the Twenty-Eighth ACM International Conference on Multimedia 
 
 - [Conservative Novelty Synthesizing Network for Malware Recognition in an Open-Set Scenario](),<br>
   **<u><font size=3>J. Guo</font></u>**, S. Guo, S. Ma, Y. Sun, Y. Xu,<br>
-  *IEEE Transactions on Neural Networks and Learning Systems (**<font color=Blue>TNNLS</font>**, 中科院1区/IF=14.255, Outstanding Paper Award of Computer Academy of Guangdong)*, 2021.
+  *IEEE Transactions on Neural Networks and Learning Systems (**<font color=Blue>TNNLS</font>**, 中科院1区/IF=14.255, <font color=Blue>Outstanding Paper Award of Computer Academy of Guangdong</font>)*, 2021.
 
 - [INT8 Training with Loss-Aware Compensation and Backward Quantization for Tiny On-Device Learning](),<br>
   Q. Zhou, S. Guo, Z. Qu, **<u><font size=3>J. Guo</font></u>**, Z. Xu, J. Zhang, T. Guo, B. Luo, J. Zhou,<br>

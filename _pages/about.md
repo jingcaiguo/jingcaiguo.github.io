@@ -112,7 +112,7 @@ In *Proceedings of the Twenty-Eighth ACM International Conference on Multimedia 
 -->
 
 ## 📚 Selected Papers
-(* indicates corresponding author)
+(* indicates the corresponding author)
 
 - [Graph Knows Unknowns: Reformulate Zero-Shot Learning as Sample-Level Graph Recognition](),<br>
   **<u><font size=3>J. Guo</font></u>**, S. Guo, Q. Zhou, Z. Liu, X. Lu, F. Huo,<br>
@@ -127,7 +127,7 @@ In *Proceedings of the Twenty-Eighth ACM International Conference on Multimedia 
   In *Proceedings of the Thirty-Fourth IEEE/CVF Conference on Computer Vision and Pattern Recognition (**<font color=Blue>CVPR</font>**, CCF-A)*, 2023.
 
 - [Towards Data-Independent Knowledge Transfer in Model-Heterogeneous Federated Learning](),<br>
-  J. Zhang, S. Guo\*, **<u><font size=3>J. Guo*</font></u>**, D. Zeng, J. Zhou, A. Zomaya,<br>
+  J. Zhang, S. Guo, **<u><font size=3>J. Guo</font></u>**, D. Zeng, J. Zhou, A. Zomaya,<br>
   *IEEE Transactions on Computers (**<font color=Blue>TC</font>**, CCF-A)*, 2023.
   
 - [Hwamei: A Learning-Based Aggregation Framework for Hierarchical Federated Learning System](),<br>

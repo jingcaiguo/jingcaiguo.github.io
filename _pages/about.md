@@ -38,7 +38,7 @@ I am generally interested in **Machine Learning** and **Edge AI**, with a partic
 - *2021.10*: &nbsp; [Project] One project has been funded by <a href="https://www.nsfc.gov.cn/">National Natural Science Foundation of China (NSFC)</a> 
 
 <span class='anchor' id='publications'></span>
-# 📝 Publications 
+# 📚 Publications 
 <!--
 ## 🎙 Five Most Representative Papers
 
@@ -111,7 +111,7 @@ In *Proceedings of the Twenty-Eighth ACM International Conference on Multimedia 
 </div>
 -->
 
-## 📚 Selected Papers
+## Selected Papers
 (* indicates the corresponding author)
 
 - [Graph Knows Unknowns: Reformulate Zero-Shot Learning as Sample-Level Graph Recognition](),<br>
@@ -178,14 +178,14 @@ In *Proceedings of the Twenty-Eighth ACM International Conference on Multimedia 
   **<u><font size=3>J. Guo</font></u>**, S. Guo,<br>
   In *Proceedings of the Twentieth IEEE International Conference on Multimedia and Expo (**<font color=Blue>ICME</font>**, CCF-B)*, 2019.
 
-## 📖 Selected Books/Chapters
+## Selected Books/Chapters
 
 - [Application: Image-Based Visual Perception](),<br>
   **<u><font size=3>J. Guo</font></u>**, Z. Liu,<br>
   *Machine Learning on Commodity Tiny Devices*, edited by S. Guo&Q. Zhou, CRC Press, 2022.
 
 <span class='anchor' id='grants'></span>
-# 📝 Grants
+# 💰 Grants
 
 - **<font color=Blue>[PI]:</font>** Start-Up Fund for RAPs under the Strategic Hiring Scheme,<br>
   Funding source: PolyU (UGC)-P0043932, 2022-2024.
@@ -211,20 +211,20 @@ In *Proceedings of the Twenty-Eighth ACM International Conference on Multimedia 
 -->
 
 <span class='anchor' id='teachings'></span>
-# 📝 Teachings
+# 🧑🏻‍🏫 Teachings
 
 - Data Structures and Database Systems ([Syllabus](https://www.polyu.edu.hk/comp/docdrive/tpg/subject/COMP5112.pdf)), PolyU, Spring 2023.
 - Data Structures (<a href = "./images/CST906.pdf">Syllabus</a>), SWUFE, Fall 2021.
 
 <span class='anchor' id='services'></span>
-# 📝 Services
+# 👔 Services
 
-## 📖 Conference Organizing Committee
+##  Conference Organizing Committee
 
 - **Publicity Chair:** The 41st International Symposium on Reliable Distributed Systems (SRDS 2022)
 - **Session Chair:** The 23th IEEE International Conference on Multimedia and Expo (ICME 2022)
 
-## 📖 Conference PC Member/Reviewer
+## Conference PC Member/Reviewer
 
 - AAAI Conference on Artificial Intelligence (**AAAI**: 2021 / 2022 / 2023)
 - IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**: 2022 / 2023)
@@ -238,7 +238,7 @@ In *Proceedings of the Twenty-Eighth ACM International Conference on Multimedia 
 - International Joint Conference on Neural Networks (**IJCNN**: 2022)
 - IEEE International Conference on Big Data Intelligence and Computing (**DataCom**: 2018)
 
-## 📖 Journal Reviewer
+## Journal Reviewer
 
 - Reviewer for IEEE Transactions on Neural Networks and Learning Systems (**IEEE TNNLS**)
 - Reviewer for IEEE Transactions on Multimedia (**IEEE TMM**)
@@ -249,7 +249,7 @@ In *Proceedings of the Twenty-Eighth ACM International Conference on Multimedia 
 - Reviewer for IEEE Transactions on Industrial Informatics (**IEEE TII**)
 - Reviewer for IEEE Transactions on Emerging Topics in Computing (**IEEE TETC**)
 
-## 📖 Editorial Board Member
+## Editorial Board Member
 
 - Progress in Human Computer Interaction (Jun. 2018-Jun. 2020)
 
@@ -262,7 +262,7 @@ In *Proceedings of the Twenty-Eighth ACM International Conference on Multimedia 
   Funding source: Waseda University and Ting Hsin Holding Corp. (acceptance rate ~= 4.2%, 85 out of 2000).
 
 <span class='anchor' id='sponsors'></span>
-# 📝 Sponsors
+# 💗 Sponsors
 
 I sincerely thank these sponsors for providing support for my research:<br>
 

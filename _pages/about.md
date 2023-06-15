@@ -152,7 +152,7 @@ In *Proceedings of the Twenty-Eighth ACM International Conference on Multimedia 
 
 - [INT8 Training with Loss-Aware Compensation and Backward Quantization for Tiny On-Device Learning](),<br>
   Q. Zhou, S. Guo, Z. Qu, **<u><font size=3>J. Guo</font></u>**, Z. Xu, J. Zhang, T. Guo, B. Luo, J. Zhou,<br>
-  In *Proceedings of the 202O USENIX Annual Technical Conference (**<font color=Blue>USENIX-ATC</font>**, CCF-A)*, 2021.
+  In *Proceedings of the 2021 USENIX Annual Technical Conference (**<font color=Blue>USENIX-ATC</font>**, CCF-A)*, 2021.
 
 - [On-Device Learning Systems for Edge Intelligence: A Software and Hardware Synergy Perspective](),<br>
   Q. Zhou, Z. Qu, S. Guo, B. Luo, **<u><font size=3>J. Guo</font></u>**, Z. Xu, R. Akerkar,<br>

@@ -266,9 +266,9 @@ In *Proceedings of the Twenty-Eighth ACM International Conference on Multimedia 
 
 I sincerely thank these sponsors for providing support for my research:<br>
 
-<img src="./images/rgc1.jpg" width = "250" />
+<img src="./images/rgc2.png" width = "250" />
 <img src="./images/nsfc.jpeg" width = "250" />
-<img src="./images/ugc1.png" width = "300" />
+<img src="./images/ugc1.png" width = "330" />
 <img src="./images/polyu.jpg" width = "130" />
 <img src="./images/waseda1.jpg" width = "200" />
 <img src="./images/nvidia.png" width = "150" />

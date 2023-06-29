@@ -114,7 +114,7 @@ In *Proceedings of the Twenty-Eighth ACM International Conference on Multimedia 
 ## Selected Papers
 (* indicates the corresponding author)
 
-- [Graph Knows Unknowns: Reformulate Zero-Shot Learning as Sample-Level Graph Recognition](),<br>
+- [Graph Knows Unknowns: Reformulate Zero-Shot Learning as Sample-Level Graph Recognition](https://ojs.aaai.org/index.php/AAAI/article/view/25942),<br>
   **<u><font size=3>J. Guo</font></u>**, S. Guo, Q. Zhou, Z. Liu, X. Lu, F. Huo,<br>
   In *Proceedings of the Thirty-Seventh AAAI Conference on Artificial Intelligence (**<font color=Blue>AAAI</font>**, CCF-A)*, 2023.
 

@@ -21,10 +21,11 @@ I am a Research Assistant Professor with Department of Computing, <a href = "htt
 
 I am generally interested in **Machine Learning** and **Edge AI**, with a particular focus on **Zero/Few-shot Learning**, **Federated Learning**, **Representation Learning**, and **Model Compression**. My ultimate goal is to build a generalized intelligent paradigm that can be learned from limited resources in terms of both data and computing capability. I regularly serve as program committee member and/or reviewer for several conferences and journals such as AAAI, CVPR, NeurIPS, ACM-MM, ICML, ICCV, ICME, ECCV, TNNLS, TMM, TMC, TKDE, JSAC, IoT-J, etc. I am a member of IEEE and CCF. I am the recipient of RGC-HKPFS in 2017.
 
-
+General Research Fund (GRF) of the Research Grants Council (RGC) of Hong Kong
 <span class='anchor' id='news'></span>
 # 🔥 News
-- ***<font color=red>TOP</font>***: &nbsp;🎉🎉 <font color=red>We have several openings for 1) Research Assistant, and 2) Visiting Student to work together on multiple research projects. Drop me an email along with your updated CV if interested</font>. 
+- ***<font color=red>TOP</font>***: &nbsp;🎉🎉 <font color=red>We have some fully funded openings for 1) **Postdoctoral Researcher**, 2) **PhD Student**, and 3) **Research Assistant** to work and have fun together on multiple research projects. Drop me an email along with your complete CV if you are interested. Candidates with strong programming and mathematics backgrounds are preferred. Visiting Students/Researchers are also welcome!</font>.
+- *2021.10*: &nbsp; [Project] One General Research Fund (GRF) project has been funded by <a href="https://www.ugc.edu.hk/eng/rgc/funding_opport/grf/index.html">Research Grants Council (RGC) of Hong Kong</a>. 
 - *2023.02*: &nbsp; [Review] Serve as a Reviewer for <a href="https://iccv2023.thecvf.com/">ICCV 2023</a> and <a href="https://nips.cc/">NeurIPS 2023</a>.
 - *2022.11*: &nbsp; [Review] Serve as a Program Committee Member for <a href="https://cvpr2023.thecvf.com/">CVPR 2023</a> and Reviewer for <a href="https://iclr.cc/">ICLR 2023</a>.
 - *2022.08*: &nbsp;  [Review] Serve as a Program Committee Member for <a href="https://aaai.org/Conferences/AAAI-23/">AAAI 2023</a>.
@@ -35,7 +36,7 @@ I am generally interested in **Machine Learning** and **Edge AI**, with a partic
 - *2022.01*: &nbsp;  [Review] Serve as a Reviewer for <a href="https://icml.cc/">ICML 2022</a>.
 - *2021.10*: &nbsp; [Project] One project has been funded by <a href="https://www.edu.cn/rd/gai_kuang/zheng_ce_fa_gui/202112/t20211214_2189444.shtml">Fundamental Research Funds for the Central Universities</a>.
 - *2021.12*: &nbsp;  [Review] Serve as a Program Committee Member for <a href="https://cvpr2022.thecvf.com/">CVPR 2022</a>.
-- *2021.10*: &nbsp; [Project] One project has been funded by <a href="https://www.nsfc.gov.cn/">National Natural Science Foundation of China (NSFC)</a> 
+- *2021.10*: &nbsp; [Project] One NSFC Young Scientists Fund project has been funded by <a href="https://www.nsfc.gov.cn/">National Natural Science Foundation of China (NSFC)</a> 
 
 <span class='anchor' id='publications'></span>
 # 📚 Publications 
@@ -187,20 +188,23 @@ In *Proceedings of the Twenty-Eighth ACM International Conference on Multimedia 
 <span class='anchor' id='grants'></span>
 # 💰 Grants
 
+- **<font color=Blue>[PI]:</font>** Empowering TinyML with Low-shot Learning for Edge AI Systems,<br>
+  Funding source: General Research Fund (GRF) of the Research Grants Council of Hong Kong, No.152211/23E, 2024-2026.
+  
 - **<font color=Blue>[PI]:</font>** Start-Up Fund for RAPs under the Strategic Hiring Scheme,<br>
-  Funding source: PolyU (UGC)-P0043932, 2022-2024.
+  Funding source: PolyU (UGC), No.P0043932, 2022-2024.
   
 - **<font color=Blue>[PI]:</font>** Entity Anti-fraud Prediction Combining Zero-Shot Learning and Graph Neural Networks,<br>
-  Funding source: Young Scientists Fund of the National Natural Science Foundation of China (NSFC)-62102327, 2022-2024.
+  Funding source: Young Scientists Fund of the National Natural Science Foundation of China (NSFC), No.62102327, 2022-2024.
 
 - **<font color=Blue>[PI]:</font>** Learning-Based Anti-Fraud Prevention in Financial Industry,<br>
-  Funding source: Fundamental Research Funds for the Central Universities-JBK21YJ04, 2021-2021.
+  Funding source: Fundamental Research Funds for the Central Universities, No.JBK21YJ04, 2021-2021.
 
 - \[Participant\]: Edge Intelligence Oriented Resource Management and Deployment Optimization,<br>
-  Funding source: National Natural Science Foundation of China (NSFC)-61872310, 2019-2022.
+  Funding source: National Natural Science Foundation of China (NSFC), No.61872310, 2019-2022.
 
 - \[Participant\]: Research on Cloud Edge Collaborative Learning Architecture and Key Optimization Theory,<br>
-  Funding source: Shenzhen Science and Technology Innovation Commission, Fundamental Research Project-JCYJ20200109142008673, 2021-2023.
+  Funding source: Shenzhen Science and Technology Innovation Commission, Fundamental Research Project, No.JCYJ20200109142008673, 2021-2023.
 
 - \[Participant\]: Transnational Partnership for Excellent Research and Education in Big Data and Emergency Management,<br>
   Funding source: Norwegian Research Council INTPART Programme, 2017-2020.

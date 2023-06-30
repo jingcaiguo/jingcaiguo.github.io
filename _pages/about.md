@@ -24,7 +24,7 @@ I am generally interested in **Machine Learning** and **Edge AI**, with a partic
 General Research Fund (GRF) of the Research Grants Council (RGC) of Hong Kong
 <span class='anchor' id='news'></span>
 # 🔥 News
-- <font color=red>Hiring:</font> &nbsp;🎉🎉 <font color=red>We have some fully funded openings for 1) **Postdoctoral Researcher**, 2) **PhD Student**, and 3) **Research Assistant** to work and have fun together on multiple research projects. Drop me an email with your complete CV if you are interested. Candidates with strong programming and mathematics backgrounds are preferred. **Visiting Students** (onsite/remote) are also welcome!</font>.
+- 🎉🎉 <font color=red>We have some fully funded openings for 1) **Postdoctoral Researcher**, 2) **PhD Student**, and 3) **Research Assistant** to work and have fun together on multiple research projects. Drop me an email with your complete CV if you are interested. Candidates with strong programming and mathematics backgrounds are preferred. **Visiting Students** (onsite/remote) are also welcome!</font>.
 - *2021.10*: &nbsp; [Project] One General Research Fund (GRF) project has been funded by <a href="https://www.ugc.edu.hk/eng/rgc/funding_opport/grf/index.html">Research Grants Council (RGC) of Hong Kong</a>. 
 - *2023.02*: &nbsp; [Review] Serve as a Reviewer for <a href="https://iccv2023.thecvf.com/">ICCV 2023</a> and <a href="https://nips.cc/">NeurIPS 2023</a>.
 - *2022.11*: &nbsp; [Review] Serve as a Program Committee Member for <a href="https://cvpr2023.thecvf.com/">CVPR 2023</a> and Reviewer for <a href="https://iclr.cc/">ICLR 2023</a>.

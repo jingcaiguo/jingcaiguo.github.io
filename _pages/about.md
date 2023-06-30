@@ -21,7 +21,6 @@ I am a Research Assistant Professor with Department of Computing, <a href = "htt
 
 I am generally interested in **Machine Learning** and **Edge AI**, with a particular focus on **Zero/Few-shot Learning**, **Federated Learning**, **Representation Learning**, and **Model Compression**. My ultimate goal is to build a generalized intelligent paradigm that can be learned from limited resources in terms of both data and computing capability. I regularly serve as program committee member and/or reviewer for several conferences and journals such as AAAI, CVPR, NeurIPS, ACM-MM, ICML, ICCV, ICME, ECCV, TNNLS, TMM, TMC, TKDE, JSAC, IoT-J, etc. I am a member of IEEE and CCF. I am the recipient of RGC-HKPFS in 2017.
 
-General Research Fund (GRF) of the Research Grants Council (RGC) of Hong Kong
 <span class='anchor' id='news'></span>
 # 🔥 News
 - 🎉🎉 <font color=red>We have some fully funded openings for 1) Postdoctoral Researcher, 2) PhD Student, and 3) Research Assistant to work and have fun together on multiple research projects. Drop me an email with your complete CV if you are interested. Candidates with strong programming and mathematics backgrounds are preferred. Visiting Students/Researchers (onsite/remote) are also welcome!</font>.

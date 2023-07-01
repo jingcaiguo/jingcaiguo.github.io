@@ -39,7 +39,7 @@ I am generally interested in **Machine Learning** and **Edge AI**, with a partic
 
 <span class='anchor' id='publications'></span>
 # 📚 Publications 
-<!--
+
 ## 🎙 Five Most Representative Papers
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2023</div><img src='images/aaai23-zsl.png' alt="sym" width=255px></div></div>
@@ -109,7 +109,6 @@ In *Proceedings of the Twenty-Eighth ACM International Conference on Multimedia 
 **Contribution**: We introduce the dual-view attention networks to improve the restoration ability of high-frequency information for CNNs-based single image super-resolution models that can obtain better quantitative performance along with more visually pleasing images.
 </div>
 </div>
--->
 
 ## Selected Papers
 (* indicates the corresponding author)
@@ -119,7 +118,7 @@ In *Proceedings of the Twenty-Eighth ACM International Conference on Multimedia 
   In *Proceedings of the Thirty-Seventh AAAI Conference on Artificial Intelligence (**<font color=Blue>AAAI</font>**, CCF-A)*, 2023.
 
 - [(ML)$^2$P-Encoder: On Exploration of Channel-Class Correlation for Multi-Label Zero-Shot Learning](https://openaccess.thecvf.com/content/CVPR2023/papers/Liu_ML2P-Encoder_On_Exploration_of_Channel-Class_Correlation_for_Multi-Label_Zero-Shot_Learning_CVPR_2023_paper.pdf),<br>
-  Z. Liu, S. Guo, X. Lu, **<u><font size=3>J. Guo*</font></u>**, J. Zhang<sup>&#9993</sup>, Y. Zeng, F. Huo,<br>
+  Z. Liu, S. Guo, X. Lu, **<u><font size=3>J. Guo*</font></u>**, J. Zhang, Y. Zeng, F. Huo,<br>
   In *Proceedings of the Thirty-Fourth IEEE/CVF Conference on Computer Vision and Pattern Recognition (**<font color=Blue>CVPR</font>**, CCF-A)*, 2023.
 
 - [Decomposed Soft Prompt Guided Fusion Enhancing for Compositional Zero-Shot Learning](https://openaccess.thecvf.com/content/CVPR2023/papers/Lu_Decomposed_Soft_Prompt_Guided_Fusion_Enhancing_for_Compositional_Zero-Shot_Learning_CVPR_2023_paper.pdf),<br>

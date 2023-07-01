@@ -74,7 +74,7 @@ In *Proceedings of the Thirty-Fourth IEEE/CVF Conference on Computer Vision and 
 <div class='paper-box-text' markdown="1">
 [**Decomposed Soft Prompt Guided Fusion Enhancing for Compositional Zero-Shot Learning,**](https://openaccess.thecvf.com/content/CVPR2023/papers/Lu_Decomposed_Soft_Prompt_Guided_Fusion_Enhancing_for_Compositional_Zero-Shot_Learning_CVPR_2023_paper.pdf)
 
-X. Lu, S. Guo, Z. Liu, **<u><font size=3>J. Guo*</font></u>**,
+X. Lu, S. Guo\*, Z. Liu, **<u><font size=3>J. Guo*</font></u>**,
 
 In *Proceedings of the Thirty-Fourth IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR, CCF-A)*, 2023.
 
@@ -88,7 +88,7 @@ In *Proceedings of the Thirty-Fourth IEEE/CVF Conference on Computer Vision and 
 <div class='paper-box-text' markdown="1">
 [**Personalized Federated Learning with Contextualized Generalization,**](https://www.ijcai.org/proceedings/2022/0311.pdf)
 
-X. Tang, S. Guo, **<u><font size=3>J. Guo*</font></u>**,
+X. Tang, S. Guo\*, **<u><font size=3>J. Guo*</font></u>**,
 
 In *Proceedings of the Thirty-First International Joint Conference on Artificial Intelligence (IJCAI, CCF-A)*, 2022.
 

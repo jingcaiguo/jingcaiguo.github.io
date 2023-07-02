@@ -44,7 +44,7 @@ I am generally interested in **Machine Learning** and **Edge AI**, with a partic
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2023</div><img src='images/aaai23-zsl.png' alt="sym" width=255px></div></div>
 <div class='paper-box-text' markdown="1">
-[**Graph knows unknowns: Reformulate zero-shot learning as sample-level graph recognition,**](https://ojs.aaai.org/index.php/AAAI/article/view/25942)
+[**Graph Knows Unknowns: Reformulate Zero-Shot Learning as Sample-Level Graph Recognition,**](https://ojs.aaai.org/index.php/AAAI/article/view/25942)
 
 **<u><font size=3>J. Guo</font></u>**, S. Guo, Q. Zhou, Z. Liu, X. Lu, F. Huo,
 
@@ -58,7 +58,7 @@ In *Proceedings of the Thirty-Seventh AAAI Conference on Artificial Intelligence
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2023</div><img src='images/cvpr23-mlzsl.png' alt="sym" width=350px></div></div>
 <div class='paper-box-text' markdown="1">
-[**$(ML)^2$P-Encoder: On Exploration of Channel-class Correlation for Multi-label Zero-shot Learning,**](https://openaccess.thecvf.com/content/CVPR2023/papers/Liu_ML2P-Encoder_On_Exploration_of_Channel-Class_Correlation_for_Multi-Label_Zero-Shot_Learning_CVPR_2023_paper.pdf)
+[**$(ML)^2$P-Encoder: On Exploration of Channel-class Correlation for Multi-Label Zero-Shot Learning,**](https://openaccess.thecvf.com/content/CVPR2023/papers/Liu_ML2P-Encoder_On_Exploration_of_Channel-Class_Correlation_for_Multi-Label_Zero-Shot_Learning_CVPR_2023_paper.pdf)
 
 Z. Liu, S. Guo, X. Lu, **<u><font size=3>J. Guo*</font></u>**, J. Zhang, Y. Zeng, F. Huo,
 
@@ -100,7 +100,7 @@ In *Proceedings of the Thirty-First International Joint Conference on Artificial
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM-MM 2020</div><img src='images/mm20-sr.png' alt="sym" width=255px></div></div>
 <div class='paper-box-text' markdown="1">
-[**Dual-view Attention Networks for Single Image Super-Resolution,**](https://dl.acm.org/doi/10.1145/3394171.3413613)
+[**Dual-View Attention Networks for Single Image Super-Resolution,**](https://dl.acm.org/doi/10.1145/3394171.3413613)
 
 **<u><font size=3>J. Guo</font></u>**, S. Ma, J. Zhang, Q. Zhou, S. Guo,
 

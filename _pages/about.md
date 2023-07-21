@@ -251,6 +251,7 @@ In *Proceedings of the Twenty-Eighth ACM International Conference on Multimedia 
 - Reviewer for IEEE Internet of Things Journal (**IEEE IoTJ**)
 - Reviewer for IEEE Transactions on Industrial Informatics (**IEEE TII**)
 - Reviewer for IEEE Transactions on Emerging Topics in Computing (**IEEE TETC**)
+- Reviewer for Knowledge-Based Systems (**KBS**)
 
 ## Editorial Board Member
 

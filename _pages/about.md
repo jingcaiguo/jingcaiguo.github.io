@@ -61,7 +61,7 @@ In *Proceedings of the Thirty-Seventh AAAI Conference on Artificial Intelligence
 <div class='paper-box-text' markdown="1">
 [**$(ML)^2$P-Encoder: On Exploration of Channel-class Correlation for Multi-Label Zero-Shot Learning,**](https://openaccess.thecvf.com/content/CVPR2023/papers/Liu_ML2P-Encoder_On_Exploration_of_Channel-Class_Correlation_for_Multi-Label_Zero-Shot_Learning_CVPR_2023_paper.pdf)
 
-Z. Liu, S. Guo, X. Lu, **<u><font size=3>J. Guo$\dagger$ J. Guo$^\dagger$ </font></u>**, J. Zhang, Y. Zeng, F. Huo,
+Z. Liu, S. Guo, X. Lu, **<u><font size=3>J. Guo*</font></u>**, J. Zhang, Y. Zeng, F. Huo,
 
 In *Proceedings of the Thirty-Fourth IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR, CCF-A)*, 2023.
 

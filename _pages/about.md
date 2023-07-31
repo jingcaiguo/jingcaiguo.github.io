@@ -36,7 +36,7 @@ I am generally interested in **Machine Learning** and **Edge AI**, with a partic
 - *2022.01*: &nbsp;  [Review] Serve as a Reviewer for <a href="https://icml.cc/">ICML 2022</a>.
 - *2021.10*: &nbsp; [Project] One project has been funded by <a href="https://www.edu.cn/rd/gai_kuang/zheng_ce_fa_gui/202112/t20211214_2189444.shtml">Fundamental Research Funds for the Central Universities</a>.
 - *2021.12*: &nbsp;  [Review] Serve as a Program Committee Member for <a href="https://cvpr2022.thecvf.com/">CVPR 2022</a>.
-- *2021.10*: &nbsp; [Project] One NSFC Young Scientists Fund project has been funded by <a href="https://www.nsfc.gov.cn/">National Natural Science Foundation of China (NSFC)</a> 
+- *2021.10*: &nbsp; [Project] One NSFC Young Scientists Fund project has been funded by <a href="https://www.nsfc.gov.cn/">National Natural Science Foundation of China (NSFC)</a>. 
 
 <span class='anchor' id='publications'></span>
 # 📚 Publications 
@@ -107,12 +107,12 @@ In *Proceedings of the Thirty-First International Joint Conference on Artificial
 
 In *Proceedings of the Twenty-Eighth ACM International Conference on Multimedia (ACM-MM, CCF-A)*, 2020.
 
-**Contribution**: We introduce the dual-view attention networks to improve the restoration ability of high-frequency information for CNNs-based single image super-resolution models that can obtain better quantitative performance along with more visually pleasing images.
+**Contribution**: We introduce the dual-view attention networks to improve the restoration ability of high-frequency information for CNNs-based single-image super-resolution models that can obtain better quantitative performance along with more visually pleasing images.
 </div>
 </div>
 
 ## Selected Papers
-(* indicates the corresponding author)
+(__*__ indicates the corresponding author)
 
 - [Graph Knows Unknowns: Reformulate Zero-Shot Learning as Sample-Level Graph Recognition](https://ojs.aaai.org/index.php/AAAI/article/view/25942),<br>
   **<u><font size=3>J. Guo</font></u>**, S. Guo, Q. Zhou, Z. Liu, X. Lu, F. Huo,<br>

@@ -224,8 +224,8 @@ In *Proceedings of the Twenty-Eighth ACM International Conference on Multimedia 
 
 ##  Conference Organizing Committee
 
-- **Publicity Chair:** The 41st International Symposium on Reliable Distributed Systems (SRDS 2022)
-- **Session Chair:** The 23th IEEE International Conference on Multimedia and Expo (ICME 2022)
+- **Publicity Chair:** The 41st International Symposium on Reliable Distributed Systems (**SRDS 2022**)
+- **Session Chair:** The 23th IEEE International Conference on Multimedia and Expo (**ICME 2022**)
 
 ## Conference PC Member/Reviewer
 

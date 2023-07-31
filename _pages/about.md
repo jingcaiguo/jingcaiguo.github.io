@@ -41,7 +41,7 @@ I am generally interested in **Machine Learning** and **Edge AI**, with a partic
 <span class='anchor' id='publications'></span>
 # 📚 Publications 
 
-## 🎙 Five Most Representative Papers
+## 🎙 Five Most Representative Papers 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2023</div><img src='images/aaai23-zsl.png' alt="sym" width=255px></div></div>
 <div class='paper-box-text' markdown="1">
@@ -224,8 +224,8 @@ In *Proceedings of the Twenty-Eighth ACM International Conference on Multimedia 
 
 ##  Conference Organizing Committee
 
-- **Publicity Chair:** The 41st International Symposium on Reliable Distributed Systems (**SRDS 2022**)
-- **Session Chair:** The 23th IEEE International Conference on Multimedia and Expo (**ICME 2022**)
+- **Publicity Chair:** The 41st International Symposium on Reliable Distributed Systems (**SRDS** 2022)
+- **Session Chair:** The 23th IEEE International Conference on Multimedia and Expo (**ICME** 2022)
 
 ## Conference PC Member/Reviewer
 

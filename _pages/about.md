@@ -145,11 +145,11 @@ In *Proceedings of the Twenty-Eighth ACM International Conference on Multimedia 
 
 - [Towards Unbiased Multi-Label Zero-Shot Learning with Pyramid and Semantic Attention](),<br>
   Z. Liu, S. Guo, **<u><font size=3>J. Guo*</font></u>**, Y. Xu, F. Huo,<br>
-  *IEEE Transactions on Multimedia (**<font color=Blue>TMM</font>**, 中科院1区/IF=8.182)*, 2022.
+  *IEEE Transactions on Multimedia (**<font color=Blue>TMM</font>**, 中科院1区/JCR-Q1/IF=8.182)*, 2022.
 
 - [Conservative Novelty Synthesizing Network for Malware Recognition in an Open-Set Scenario](),<br>
   **<u><font size=3>J. Guo</font></u>**, S. Guo, S. Ma, Y. Sun, Y. Xu,<br>
-  *IEEE Transactions on Neural Networks and Learning Systems (**<font color=Blue>TNNLS</font>**, 中科院1区/IF=14.255, <font color=Blue>Outstanding Paper Award of</font> [<font color=Blue>GDCA</font>](http://www.gdcomf.com/))*, 2021.
+  *IEEE Transactions on Neural Networks and Learning Systems (**<font color=Blue>TNNLS</font>**, 中科院1区/JCR-Q1/IF=14.255, <font color=Blue>Outstanding Paper Award of</font> [<font color=Blue>GDCA</font>](http://www.gdcomf.com/))*, 2021.
 
 - [INT8 Training with Loss-Aware Compensation and Backward Quantization for Tiny On-Device Learning](),<br>
   Q. Zhou, S. Guo, Z. Qu, **<u><font size=3>J. Guo</font></u>**, Z. Xu, J. Zhang, T. Guo, B. Luo, J. Zhou,<br>
@@ -157,7 +157,7 @@ In *Proceedings of the Twenty-Eighth ACM International Conference on Multimedia 
 
 - [On-Device Learning Systems for Edge Intelligence: A Software and Hardware Synergy Perspective](),<br>
   Q. Zhou, Z. Qu, S. Guo, B. Luo, **<u><font size=3>J. Guo</font></u>**, Z. Xu, R. Akerkar,<br>
-  *IEEE Internet of Things Journal (**<font color=Blue>IoT-J</font>**, 中科院1区/IF=10.238)*, 2021.
+  *IEEE Internet of Things Journal (**<font color=Blue>IoT-J</font>**, 中科院1区/JCR-Q1/IF=10.238)*, 2021.
   
 - [Dual-View Attention Networks for Single Image Super-Resolution](https://dl.acm.org/doi/10.1145/3394171.3413613),<br>
   **<u><font size=3>J. Guo</font></u>**, S. Ma, J. Zhang, Q. Zhou, S. Guo,<br>
@@ -165,7 +165,7 @@ In *Proceedings of the Twenty-Eighth ACM International Conference on Multimedia 
 
 - [A Novel Perspective to Zero-Shot Learning: Towards an Alignment of Manifold Structures via Semantic Feature Expansion](),<br>
   **<u><font size=3>J. Guo</font></u>**, S. Guo,<br>
-  *IEEE Transactions on Multimedia (**<font color=Blue>TMM</font>**, 中科院1区/IF=8.182)*, 2020.
+  *IEEE Transactions on Multimedia (**<font color=Blue>TMM</font>**, 中科院1区/JCR-Q1/IF=8.182)*, 2020.
 
 - [Adaptive Adjustment with Semantic Feature Space for Zero-Shot Recognition](),<br>
   **<u><font size=3>J. Guo</font></u>**, S. Guo,<br>

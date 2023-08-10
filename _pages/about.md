@@ -218,6 +218,7 @@ In *Proceedings of the Twenty-Eighth ACM International Conference on Multimedia 
 <span class='anchor' id='teachings'></span>
 # 🧑🏻‍🏫 Teachings
 
+- Internet Infrastructure and Protocols ([Syllabus](https://www.polyu.edu.hk/comp/docdrive/tpg/subject/COMP5311.pdf)), PolyU, Spring 2024.
 - Data Structures and Database Systems ([Syllabus](https://www.polyu.edu.hk/comp/docdrive/tpg/subject/COMP5112.pdf)), PolyU, Spring 2023.
 - Data Structures (<a href = "./images/CST906.pdf">Syllabus</a>), SWUFE, Fall 2021.
 

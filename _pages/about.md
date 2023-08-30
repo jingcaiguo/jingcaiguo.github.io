@@ -230,6 +230,10 @@ In *Proceedings of the Twenty-Eighth ACM International Conference on Multimedia 
 - **Publicity Chair:** The 41st International Symposium on Reliable Distributed Systems (**SRDS** 2022)
 - **Session Chair:** The 23th IEEE International Conference on Multimedia and Expo (**ICME** 2022)
 
+##  Journal Editorship
+
+- **Guest Editor:** IEEE Transactions on Computational Social Systems (**IEEE TCSS**, Special Issue)
+
 ## Conference PC Member/Reviewer
 
 - AAAI Conference on Artificial Intelligence (**AAAI**: 2021 / 2022 / 2023 / 2024)

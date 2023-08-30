@@ -233,7 +233,8 @@ In *Proceedings of the Twenty-Eighth ACM International Conference on Multimedia 
 
 ##  Journal Editorship
 
-- **Guest Editor:** IEEE Transactions on Computational Social Systems (**IEEE TCSS**, Special Issue)
+- **Guest Editor:** IEEE Transactions on Computational Social Systems (**IEEE TCSS**, Special Issue, 2023-2024)
+- **Editor:** Progress in Human Computer Interaction (2018-2020)
 
 ## Conference PC Member/Reviewer
 
@@ -259,10 +260,6 @@ In *Proceedings of the Twenty-Eighth ACM International Conference on Multimedia 
 - Reviewer for IEEE Internet of Things Journal (**IEEE IoTJ**)
 - Reviewer for IEEE Transactions on Industrial Informatics (**IEEE TII**)
 - Reviewer for IEEE Transactions on Emerging Topics in Computing (**IEEE TETC**)
-
-## Editorial Board Member
-
-- Progress in Human Computer Interaction (Jun. 2018-Jun. 2020)
 
 <span class='anchor' id='selected-honors'></span>
 # 🎖 Selected Honors

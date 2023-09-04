@@ -264,6 +264,7 @@ In *Proceedings of the Twenty-Eighth ACM International Conference on Multimedia 
 - Reviewer for IEEE Transactions on Mobile Computing (**IEEE TMC**)
 - Reviewer for IEEE Journal on Selected Areas in Communications (**IEEE JSAC**)
 - Reviewer for IEEE Internet of Things Journal (**IEEE IoTJ**)
+- Reviewer for IEEE Transactions on Sustainable Computing (**IEEE TSUSC**)
 - Reviewer for IEEE Transactions on Industrial Informatics (**IEEE TII**)
 - Reviewer for IEEE Transactions on Emerging Topics in Computing (**IEEE TETC**)
 

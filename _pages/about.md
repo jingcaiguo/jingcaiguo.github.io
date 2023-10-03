@@ -24,7 +24,7 @@ I am generally interested in **Machine Learning** and **Edge AI**, with a partic
 <span class='anchor' id='news'></span>
 # 🔥 News
 - 🎉🎉 <font color=red>We have some fully funded openings for 1) PhD Student, 2) Postdoctoral Researcher, and 3) Research Assistant to work and have fun together on multiple research projects. Drop me an email with your complete CV if you are interested. Candidates with strong programming and mathematics backgrounds are preferred. Visiting Students/Researchers (onsite/remote) are also welcome!</font>
-- *2023.09*: &nbsp; [Editorship] Serve as Guest Editor for <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6570650">IEEE Transactions on Computational Social Systems</a> (Special Issue).
+- *2023.09*: &nbsp; [Editorship] Serve as Guest Editor for <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6570650">IEEE Transactions on Computational Social Systems</a> (Special Issue on Few-shot/Zero-shot Learning for Knowledge Discovery in Social Networks).
 - *2023.07*: &nbsp; [Project] One General Research Fund (GRF) project has been funded by <a href="https://www.ugc.edu.hk/eng/rgc/funding_opport/grf/index.html">Research Grants Council (RGC) of Hong Kong</a>.
 - *2023.07*: &nbsp;  [Review] Serve as Program Committee Member for <a href="https://aaai.org/aaai-conference/aaai-24-call-for-proposals/">AAAI 2024</a>.
 - *2023.02*: &nbsp; [Review] Serve as Reviewer for <a href="https://iccv2023.thecvf.com/">ICCV 2023</a> and <a href="https://nips.cc/">NeurIPS 2023</a>.
@@ -235,6 +235,7 @@ In *Proceedings of the Twenty-Eighth ACM International Conference on Multimedia 
 ##  Conference Organizing Committee
 
 - **Publicity Chair:** The 41st International Symposium on Reliable Distributed Systems (**SRDS** 2022)
+- **Session Chair:** The 98th IEEE Vehicular Technology Conference (**VTC** 2023 Fall)
 - **Session Chair:** The 23th IEEE International Conference on Multimedia and Expo (**ICME** 2022)
 
 ##  Journal Editorship

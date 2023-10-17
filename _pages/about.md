@@ -193,29 +193,11 @@ In *Proceedings of the Twenty-Eighth ACM International Conference on Multimedia 
 - **<font color=Blue>[PI]:</font>** Empowering TinyML with Low-shot Learning for Edge AI Systems,<br>
   Funding source: General Research Fund (GRF) of the Research Grants Council of Hong Kong, No.152211/23E, 2024-2026.
   
-- **<font color=Blue>[PI]:</font>** Start-Up Fund for RAPs under the Strategic Hiring Scheme,<br>
-  Funding source: PolyU (UGC), No.P0043932, 2022-2024.
-  
 - **<font color=Blue>[PI]:</font>** Entity Anti-fraud Prediction Combining Zero-Shot Learning and Graph Neural Networks,<br>
   Funding source: Young Scientists Fund of the National Natural Science Foundation of China (NSFC), No.62102327, 2022-2024.
 
 - **<font color=Blue>[PI]:</font>** Learning-Based Anti-Fraud Prevention in Financial Industry,<br>
   Funding source: Fundamental Research Funds for the Central Universities, No.JBK21YJ04, 2021-2021.
-
-- **<font color=Blue>[Co-I]:</font>** A bottom-up integrated strategy for collecting urban functions and land use details: data-driven perspective with urban geospatial data in Hong Kong,<br>
-  Funding source: Projects of RILS, No.P0043038, 2022–2024.
-
-- **<font color=Blue>[Co-I]:</font>** Towards a Digital-twin System for Smart Mobility for People with Disabilities (PwDs) Using Multi-data Sensing and Big Data Analytics,<br>
-  Funding source: Projects of RISUD, No.P0038289, 2021–2024.
-
-- \[Member\]: Edge Intelligence Oriented Resource Management and Deployment Optimization,<br>
-  Funding source: National Natural Science Foundation of China (NSFC), No.61872310, 2019-2022.
-
-- \[Member\]: Research on Cloud Edge Collaborative Learning Architecture and Key Optimization Theory,<br>
-  Funding source: Shenzhen Science and Technology Innovation Commission, Fundamental Research Project, No.JCYJ20200109142008673, 2021-2023.
-
-- \[Member\]: Transnational Partnership for Excellent Research and Education in Big Data and Emergency Management,<br>
-  Funding source: Norwegian Research Council INTPART Programme, 2017-2020.
 
 <!--
 <span class='anchor' id='invited-talks'></span>

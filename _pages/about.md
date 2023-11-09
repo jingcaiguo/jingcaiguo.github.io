@@ -219,8 +219,6 @@ In *Proceedings of the Twenty-Eighth ACM International Conference on Multimedia 
 
 
 **Research Students/Staffs**
-<!-- - Miaoge Li, B.E. & M.E. (Xidian), Incoming Ph.D. Student (May 2024-)
-- Yang Chen, B.E. & M.E. (UESTC), Incoming Ph.D. Student (Sept 2024-) -->
 - Zhijie Rao, B.E. (BUPT), M.E. (XMU), Research Assistant (Sept 2023-)
 - Jingming Liang, B.E. & M.E. (HUST), Research Assistant (Sept 2023-)
 

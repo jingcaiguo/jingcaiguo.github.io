@@ -21,6 +21,13 @@ I am a Research Assistant Professor with Department of Computing, <a href = "htt
 
 I am generally interested in **Machine Learning** and **Edge AI**, with a particular focus on **Zero/Few-shot Learning**, **Federated Learning**, **Representation Learning**, and **Model Compression**. My ultimate goal is to build a **Generalized Intelligent Paradigm** that can be learned from **Limited Resources** in terms of both **Data** and **Computing Capability**. I have served as the Publicity Chair for the 41st International Symposium on Reliable Distributed Systems (SRDS 2022), Guest Editor for IEEE Transactions on Computational Social Systems (IEEE TCSS), and have regularly served as the program committee member and/or reviewer for several conferences and journals such as AAAI, CVPR, NeurIPS, ACM-MM, ICML, ICCV, ICME, ECCV, TNNLS, TMM, TMC, TKDE, JSAC, IoT-J, etc. I am a reviewer for the Young Scientists Fund of the National Natural Science Foundation of China (NSFC). I am a member of IEEE and CCF. I was the recipient of RGC-HKPFS in 2017.
 
+# 🧑🏻‍🏫 Education
+
+- 2017-2021: Ph.D., The Hong Kong Polytechnic University, Hong Kong (Supervisor: Prof. Song Guo)
+- 2019-2020: Visiting Researcher, The University of Sydney, Australia (Supervisor: Prof. Dacheng Tao)
+- 2013-2015: M.E., Waseda University, Japan (Prof. Takayuki Furuzuki)
+- 2009-2013: B.E., Sichuan University, China
+
 <span class='anchor' id='news'></span>
 # 🔥 News
 - 🎉🎉 We have some fully funded openings for **PhD Student**, **Postdoctoral Researcher**, and **Research Assistant** to work and have fun together on multiple research projects. Drop me an email (jc-jingcai.guo@polyu.edu.hk) with your complete CV if you are interested. Candidates with strong programming and mathematics backgrounds are preferred. **Visiting Students/Researchers** (onsite/remote) are also welcome!

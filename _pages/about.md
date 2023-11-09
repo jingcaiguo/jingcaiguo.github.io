@@ -215,7 +215,7 @@ In *Proceedings of the Twenty-Eighth ACM International Conference on Multimedia 
 
 # 🌏 Supervision
 
-**I am fortunate to supervise and work together with these gifted students:**
+**I am fortunate to supervise and work together with these gifted students/staffs:**
 
 ## Research Students/Staffs
 - Zhijie Rao, B.E. (BUPT), M.E. (XMU), Research Assistant (Sept 2023-)

@@ -215,14 +215,13 @@ In *Proceedings of the Twenty-Eighth ACM International Conference on Multimedia 
 
 # 🌏 Supervision
 
-**It is my pleasure to work with these gifted students:**
+**I am fortunate to supervise and work together with these gifted students:**
 
-
-**Research Students/Staffs**
+## Research Students/Staffs
 - Zhijie Rao, B.E. (BUPT), M.E. (XMU), Research Assistant (Sept 2023-)
 - Jingming Liang, B.E. & M.E. (HUST), Research Assistant (Sept 2023-)
 
-**Undergraduate Students**
+## Undergraduate Students
 - Zhiyu Wang, B.Sc. (PolyU), Capstone Project Student (Sept 2023-)
 - Arnab Mazumder, B.Sc. (PolyU), Capstone Project Student (Sept 2023-)
 - Yalun Tang, B.Sc. (PolyU), Capstone Project Student (Sept 2023-)

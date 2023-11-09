@@ -215,7 +215,8 @@ In *Proceedings of the Twenty-Eighth ACM International Conference on Multimedia 
 
 # 🌏 Supervision
 
-**It is my pleasure to work with these gifted students:** <br>
+**It is my pleasure to work with these gifted students:**
+
 
 **Research Students/Staffs**
 <!--

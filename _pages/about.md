@@ -260,7 +260,7 @@ In *Proceedings of the Twenty-Eighth ACM International Conference on Multimedia 
 - IEEE International Conference on Acoustics, Speech, and Signal Processing (**ICASSP**: 2023 / 2024)
 - European Conference on Computer Vision (**ECCV**: 2022)
 - IEEE International Conference on Multimedia and Expo (**ICME**: 2019 / 2020 / 2021)
-- International Joint Conference on Neural Networks (**IJCNN**: 2022)
+- International Joint Conference on Neural Networks (**IJCNN**: 2022 / 2023 / 2024)
 - IEEE International Conference on Big Data Intelligence and Computing (**DataCom**: 2018)
 
 ## Journal Reviewer

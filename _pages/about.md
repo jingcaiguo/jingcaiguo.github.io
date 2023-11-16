@@ -25,7 +25,7 @@ I am generally interested in **Machine Learning** and **Edge AI**, with a partic
 
 - 2017-2021: Ph.D., The Hong Kong Polytechnic University, Hong Kong🇭🇰 (Supervisor: Prof. Song Guo)
 - 2019-2020: Visiting Researcher, The University of Sydney, Australia🇦🇺 (Supervisor: Prof. Dacheng Tao)
-- 2013-2015: M.E., Waseda University, Japan🇯🇵 (Prof. Takayuki Furuzuki)
+- 2013-2015: M.E., Waseda University, Japan🇯🇵 (Supervisor: Prof. Takayuki Furuzuki)
 - 2009-2013: B.E., Sichuan University, China🇨🇳
 
 <span class='anchor' id='news'></span>

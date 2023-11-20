@@ -251,7 +251,7 @@ In *Proceedings of the Twenty-Eighth ACM International Conference on Multimedia 
 ## Conference PC Member/Reviewer
 
 - AAAI Conference on Artificial Intelligence (**AAAI**: 2021 / 2022 / 2023 / 2024)
-- IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**: 2022 / 2023)
+- IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**: 2022 / 2023 / 2024)
 - Conference on Neural Information Processing Systems (**NeurIPS**: 2022 / 2023)
 - International Conference on Computer Vision (**ICCV**: 2023)
 - International Conference on Learning Representations (**ICLR**: 2023)

@@ -58,7 +58,7 @@ I am generally interested in **Machine Learning** and **Edge AI**, with a partic
 
 **<u><font size=3>J. Guo</font></u>**, S. Guo, Q. Zhou, Z. Liu, X. Lu, F. Huo,
 
-In *Proceedings of the Thirty-Seventh AAAI Conference on Artificial Intelligence (**<font color=Blue>AAAI</font>**, CCF-A/Core-A*)*, 2023.
+In *Proceedings of the Thirty-Seventh AAAI Conference on Artificial Intelligence (**<font color=Blue>AAAI</font>**, CCF-A/Core-A**)*, 2023.
 
 **Contribution**: We are the first to investigate sample-level graph and formulate zero-shot learning to a graph-to-semantics matching task.
 </div>

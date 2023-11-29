@@ -129,7 +129,7 @@ In *Proceedings of the Twenty-Eighth ACM International Conference on Multimedia*
 
 - [UTDNet: A Unified Triplet Decoder Network for Multimodal Salient Object Detection](),<br>
   F. Huo, **<u><font size=3>J. Guo*</font></u>**, Z. Liu, W. Xu, S. Guo,<br>
-  *Neural Networks (**<font color=Blue>NN</font>**, JCR-Q1/中科院1区/IF=7.8)*, 2023.
+  *Neural Networks* (**<font color=Blue>NN</font>**, JCR-Q1/中科院1区/IF=7.8), 2023.
 
 - [(ML)$^2$P-Encoder: On Exploration of Channel-Class Correlation for Multi-Label Zero-Shot Learning](https://openaccess.thecvf.com/content/CVPR2023/papers/Liu_ML2P-Encoder_On_Exploration_of_Channel-Class_Correlation_for_Multi-Label_Zero-Shot_Learning_CVPR_2023_paper.pdf),<br>
   Z. Liu, S. Guo, X. Lu, **<u><font size=3>J. Guo*</font></u>**, J. Zhang, Y. Zeng, F. Huo,<br>
@@ -162,7 +162,7 @@ In *Proceedings of the Twenty-Eighth ACM International Conference on Multimedia*
 - [Conservative Novelty Synthesizing Network for Malware Recognition in an Open-Set Scenario](),<br>
   **<u><font size=3>J. Guo</font></u>**, S. Guo, S. Ma, Y. Sun, Y. Xu,<br>
   *IEEE Transactions on Neural Networks and Learning Systems* (**<font color=Blue>TNNLS</font>**, JCR-Q1/中科院1区/IF=14.255), 2021.<br>
-  *(<font color=Blue>Outstanding Paper Award of</font> [<font color=Blue>GDCA</font>](http://www.gdcomf.com/))*
+  (<font color=Blue>Outstanding Paper Award of</font> [<font color=Blue>GDCA</font>](http://www.gdcomf.com/))
 
 - [INT8 Training with Loss-Aware Compensation and Backward Quantization for Tiny On-Device Learning](),<br>
   Q. Zhou, S. Guo, Z. Qu, **<u><font size=3>J. Guo</font></u>**, Z. Xu, J. Zhang, T. Guo, B. Luo, J. Zhou,<br>

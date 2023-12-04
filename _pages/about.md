@@ -21,6 +21,7 @@ I am a Research Assistant Professor with Department of Computing, <a href = "htt
 
 I am generally interested in **Machine Learning** and **Edge AI**, with a particular focus on **Zero/Few-shot Learning**, **Federated Learning**, **Representation Learning**, and **Model Compression**. My ultimate goal is to build a **Generalized Intelligent Paradigm** that can be learned from **Limited Resources** in terms of both **Data** and **Computing Capability**. I have served as the Publicity Chair for the 41st International Symposium on Reliable Distributed Systems (SRDS 2022), Guest Editor for IEEE Transactions on Computational Social Systems (IEEE TCSS), and have regularly served as the program committee member and/or reviewer for prestigious conferences and journals such as AAAI, CVPR, NeurIPS, ACM-MM, ICML, ICCV, ICME, ICASSP, ECCV, TNNLS, TMM, TMC, TKDE, JSAC, IoT-J, etc. I am a reviewer for the Young Scientists Fund of the National Natural Science Foundation of China (NSFC). I am a member of IEEE and CCF. I was the recipient of RGC-HKPFS in 2017.
 
+<span class='anchor' id='education'></span>
 # 🎓 Education
 
 - 2017-2021: Ph.D., The Hong Kong Polytechnic University, Hong Kong🇭🇰 (Supervisor: Prof. Song Guo)
@@ -28,6 +29,7 @@ I am generally interested in **Machine Learning** and **Edge AI**, with a partic
 - 2013-2015: M.E., Waseda University, Japan🇯🇵 (Supervisor: Prof. Takayuki Furuzuki)
 - 2009-2013: B.E., Sichuan University, China🇨🇳
 
+<span class='anchor' id='group'></span>
 # 🌏 Group
 
 **I am fortunate to supervise and work together with these gifted students/staffs:**

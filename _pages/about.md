@@ -33,17 +33,17 @@ I am generally interested in **Machine Learning** and **Edge AI**, with a partic
 **I am fortunate to supervise and work together with these gifted students/staffs:**
 
 ## Research Students/Staffs
-- Miaoge Li, B.E. & M.E. (Xidian), Incoming PhD Student (May 2024-)
-- Yang Chen, B.E. & M.E. (UESTC), Incoming PhD Student (Sept 2024-)
+- Miaoge Li, B.E. & M.E. (Xidian), Incoming Ph.D. Student (May 2024-)
+- Yang Chen, B.E. & M.E. (UESTC), Incoming Ph.D. Student (Sept 2024-)
 - Zhijie Rao, B.E. (BUPT), M.E. (XMU), Research Assistant (Sept 2023-)
 - Jingming Liang, B.E. & M.E. (HUST), Research Assistant (Sept 2023-)
 
 ## Undergraduate Students
-- Zhiyu Wang, B.Sc. (PolyU), Capstone Project Student (Sept 2023-)
-- Arnab Mazumder, B.Sc. (PolyU), Capstone Project Student (Sept 2023-)
-- Yalun Tang, B.Sc. (PolyU), Capstone Project Student (Sept 2023-)
-- Zheyu Zhu, B.Sc. (PolyU), Capstone Project Student (Sept 2023-)
-- Junchen Yue, B.Sc. (PolyU), Capstone Project Student (Sept 2023-)
+- Zhiyu Wang, B.Sc. (PolyU), Capstone Project (Sept 2023-)
+- Arnab Mazumder, B.Sc. (PolyU), Capstone Project (Sept 2023-)
+- Yalun Tang, B.Sc. (PolyU), Capstone Project (Sept 2023-)
+- Zheyu Zhu, B.Sc. (PolyU), Capstone Project (Sept 2023-)
+- Junchen Yue, B.Sc. (PolyU), Capstone Project (Sept 2023-)
 
 <span class='anchor' id='news'></span>
 # 🔥 News

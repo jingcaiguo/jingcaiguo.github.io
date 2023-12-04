@@ -259,8 +259,7 @@ In *Proceedings of the Twenty-Eighth ACM International Conference on Multimedia*
 ##  Journal Editorship
 
 - **Associate Editor:** IEEE Open Journal of the Computer Socfory (**IEEE OJ-CS**, 2023-)
-- **Guest Editor:** IEEE Transactions on Computational Social Systems (**IEEE TCSS**, Special Issue, 2023-2024)
-- **Editor:** Progress in Human Computer Interaction (2018-2020)
+- **Guest Editor:** IEEE Transactions on Computational Social Systems (**IEEE TCSS**, Special Issue, 2023-)
 
 ## Conference PC Member/Reviewer
 

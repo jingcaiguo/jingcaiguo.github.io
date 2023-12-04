@@ -28,6 +28,23 @@ I am generally interested in **Machine Learning** and **Edge AI**, with a partic
 - 2013-2015: M.E., Waseda University, Japan🇯🇵 (Supervisor: Prof. Takayuki Furuzuki)
 - 2009-2013: B.E., Sichuan University, China🇨🇳
 
+# 🌏 Group
+
+**I am fortunate to supervise and work together with these gifted students/staffs:**
+
+## Research Students/Staffs
+- Miaoge Li, B.E. & M.E. (Xidian), Incoming PhD Student (May 2024-)
+- Yang Chen, B.E. & M.E. (UESTC), Incoming PhD Student (Sept 2024-)
+- Zhijie Rao, B.E. (BUPT), M.E. (XMU), Research Assistant (Sept 2023-)
+- Jingming Liang, B.E. & M.E. (HUST), Research Assistant (Sept 2023-)
+
+## Undergraduate Students
+- Zhiyu Wang, B.Sc. (PolyU), Capstone Project Student (Sept 2023-)
+- Arnab Mazumder, B.Sc. (PolyU), Capstone Project Student (Sept 2023-)
+- Yalun Tang, B.Sc. (PolyU), Capstone Project Student (Sept 2023-)
+- Zheyu Zhu, B.Sc. (PolyU), Capstone Project Student (Sept 2023-)
+- Junchen Yue, B.Sc. (PolyU), Capstone Project Student (Sept 2023-)
+
 <span class='anchor' id='news'></span>
 # 🔥 News
 - 🎉🎉 We have some fully funded openings for **PhD Student**, **Postdoctoral Researcher**, and **Research Assistant** to work and have fun together on multiple research projects. Drop me an email (jc-jingcai.guo@polyu.edu.hk) with your complete CV if you are interested. Candidates with strong programming and mathematics backgrounds are preferred. **Visiting Students/Researchers** (onsite/remote) are also welcome!
@@ -220,23 +237,6 @@ In *Proceedings of the Twenty-Eighth ACM International Conference on Multimedia*
 -->
 
 <span class='anchor' id='teachings'></span>
-
-# 🌏 Supervision
-
-**I am fortunate to supervise and work together with these gifted students/staffs:**
-
-## Research Students/Staffs
-- Miaoge Li, B.E. & M.E. (Xidian), Incoming PhD Student (May 2024-)
-- Yang Chen, B.E. & M.E. (UESTC), Incoming PhD Student (Sept 2024-)
-- Zhijie Rao, B.E. (BUPT), M.E. (XMU), Research Assistant (Sept 2023-)
-- Jingming Liang, B.E. & M.E. (HUST), Research Assistant (Sept 2023-)
-
-## Undergraduate Students
-- Zhiyu Wang, B.Sc. (PolyU), Capstone Project Student (Sept 2023-)
-- Arnab Mazumder, B.Sc. (PolyU), Capstone Project Student (Sept 2023-)
-- Yalun Tang, B.Sc. (PolyU), Capstone Project Student (Sept 2023-)
-- Zheyu Zhu, B.Sc. (PolyU), Capstone Project Student (Sept 2023-)
-- Junchen Yue, B.Sc. (PolyU), Capstone Project Student (Sept 2023-)
 
 # 🧑🏻‍🏫 Teachings
 

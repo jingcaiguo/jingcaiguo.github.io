@@ -143,6 +143,18 @@ In *Proceedings of the Twenty-Eighth ACM International Conference on Multimedia*
 ## Selected Papers
 (__*:__ indicates corresponding author(s).)
 
+- [On the Robustness of Neural-enhanced Video Streaming Against Adversarial Attacks](),<br>
+  Q. Zhou, **<u><font size=3>J. Guo*</font></u>**, S. Guo, R. Li, J. Zhang, B. Wang, Z. Xu,<br>
+  In *Proceedings of the Thirty-Seventh AAAI Conference on Artificial Intelligence* (**<font color=Blue>AAAI</font>**, CCF-A/Core-A*), 2024.
+
+- [Non-Exemplar Online Class-incremental Continual Learning via Dual-prototype Self-augment and Refinement](),<br>
+  F. Huo, W. Xu, **<u><font size=3>J. Guo</font></u>**, H. Wang, Y. Fan,<br>
+  In *Proceedings of the Thirty-Seventh AAAI Conference on Artificial Intelligence* (**<font color=Blue>AAAI</font>**, CCF-A/Core-A*), 2024.
+
+- [ProCC: Progressive Cross-primitive Compatibility for Open-World Compositional Zero-Shot Learning](),<br>
+  F. Huo, W. Xu, S. Guo, **<u><font size=3>J. Guo</font></u>**, H. Wang, Z. Liu, X. Lu,<br>
+  In *Proceedings of the Thirty-Seventh AAAI Conference on Artificial Intelligence* (**<font color=Blue>AAAI</font>**, CCF-A/Core-A*), 2024.
+
 - [Graph Knows Unknowns: Reformulate Zero-Shot Learning as Sample-Level Graph Recognition](https://ojs.aaai.org/index.php/AAAI/article/view/25942),<br>
   **<u><font size=3>J. Guo</font></u>**, S. Guo, Q. Zhou, Z. Liu, X. Lu, F. Huo,<br>
   In *Proceedings of the Thirty-Seventh AAAI Conference on Artificial Intelligence* (**<font color=Blue>AAAI</font>**, CCF-A/Core-A*), 2023.

@@ -62,7 +62,6 @@ I am generally interested in **Machine Learning** and **Edge AI**, with a partic
 <!-- - *2022.04*: &nbsp;  [Review] Serve as Program Committee Member for <a href="https://2022.acmmm.org/">ACM-MM 2022</a>. -->
 <!-- - *2022.03*: &nbsp;  [Review] Serve as Program Committee Member for <a href="https://neurips.cc/">NeurIPS 2022</a> and <a href="https://eccv2022.ecva.net/">ECCV 2022</a>. -->
 - *2022.03*: &nbsp; [Panel Review] Serve as Panel Reviewer for the Young Scientists Fund of <a href="https://www.nsfc.gov.cn/">National Natural Science Foundation of China (NSFC)</a>.
-- <a href="https://srds-conference.org/">SRDS 2022</a>.
 - *2022.03*: &nbsp; [Organization] Serve as Publicity Chair for <a href="https://srds-conference.org/">SRDS 2022</a>.
 <!-- - *2022.01*: &nbsp;  [Review] Serve as Reviewer for <a href="https://icml.cc/">ICML 2022</a>. -->
 - *2021.10*: &nbsp; [Project] One project has been granted by <a href="https://www.edu.cn/rd/gai_kuang/zheng_ce_fa_gui/202112/t20211214_2189444.shtml">Fundamental Research Funds for the Central Universities</a>.

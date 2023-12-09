@@ -53,15 +53,15 @@ I am generally interested in **Machine Learning** and **Edge AI**, with a partic
 - *2023.12*: &nbsp; [Editorship] Serve as Associate Editor for <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8782664">IEEE Open Journal of the Computer Society (IEEE OJ-CS)</a>.
 - *2023.09*: &nbsp; [Editorship] Serve as Guest Editor for <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6570650">IEEE Transactions on Computational Social Systems (IEEE TCSS)</a> (Special Issue on Few-shot/Zero-shot Learning for Knowledge Discovery in Social Networks).
 - *2023.07*: &nbsp; [Project] One General Research Fund (GRF) project has been funded by <a href="https://www.ugc.edu.hk/eng/rgc/funding_opport/grf/index.html">Research Grants Council (RGC) of Hong Kong</a>.
-- *2023.07*: &nbsp;  [Review] Serve as Program Committee Member for <a href="https://aaai.org/aaai-conference/aaai-24-call-for-proposals/">AAAI 2024</a>.
-- *2023.02*: &nbsp; [Review] Serve as Reviewer for <a href="https://iccv2023.thecvf.com/">ICCV 2023</a> and <a href="https://nips.cc/">NeurIPS 2023</a>.
-- *2022.11*: &nbsp; [Review] Serve as Program Committee Member for <a href="https://cvpr2023.thecvf.com/">CVPR 2023</a> and Reviewer for <a href="https://iclr.cc/">ICLR 2023</a>.
-- *2022.08*: &nbsp;  [Review] Serve as Program Committee Member for <a href="https://aaai.org/Conferences/AAAI-23/">AAAI 2023</a>.
+<!-- - *2023.07*: &nbsp;  [Review] Serve as Program Committee Member for <a href="https://aaai.org/aaai-conference/aaai-24-call-for-proposals/">AAAI 2024</a>. -->
+<!-- - *2023.02*: &nbsp; [Review] Serve as Reviewer for <a href="https://iccv2023.thecvf.com/">ICCV 2023</a> and <a href="https://nips.cc/">NeurIPS 2023</a>. -->
+<!-- - *2022.11*: &nbsp; [Review] Serve as Program Committee Member for <a href="https://cvpr2023.thecvf.com/">CVPR 2023</a> and Reviewer for <a href="https://iclr.cc/">ICLR 2023</a>. -->
+<!-- - *2022.08*: &nbsp;  [Review] Serve as Program Committee Member for <a href="https://aaai.org/Conferences/AAAI-23/">AAAI 2023</a>. -->
 - *2022.07*: &nbsp; [Organization] Serve as Session Chair for <a href="https://2022.ieeeicme.org/">ICME 2022</a>.
-- *2022.04*: &nbsp;  [Review] Serve as Program Committee Member for <a href="https://2022.acmmm.org/">ACM-MM 2022</a>.
-- *2022.03*: &nbsp;  [Review] Serve as Program Committee Member for <a href="https://neurips.cc/">NeurIPS 2022</a> and <a href="https://eccv2022.ecva.net/">ECCV 2022</a>.
+<!-- - *2022.04*: &nbsp;  [Review] Serve as Program Committee Member for <a href="https://2022.acmmm.org/">ACM-MM 2022</a>. -->
+<!-- - *2022.03*: &nbsp;  [Review] Serve as Program Committee Member for <a href="https://neurips.cc/">NeurIPS 2022</a> and <a href="https://eccv2022.ecva.net/">ECCV 2022</a>. -->
 - *2022.03*: &nbsp; [Organization] Serve as Publicity Chair for <a href="https://srds-conference.org/">SRDS 2022</a>.
-- *2022.01*: &nbsp;  [Review] Serve as Reviewer for <a href="https://icml.cc/">ICML 2022</a>.
+<!-- - *2022.01*: &nbsp;  [Review] Serve as Reviewer for <a href="https://icml.cc/">ICML 2022</a>. -->
 - *2021.10*: &nbsp; [Project] One project has been funded by <a href="https://www.edu.cn/rd/gai_kuang/zheng_ce_fa_gui/202112/t20211214_2189444.shtml">Fundamental Research Funds for the Central Universities</a>.
 - *2021.12*: &nbsp;  [Review] Serve as Program Committee Member for <a href="https://cvpr2022.thecvf.com/">CVPR 2022</a>.
 - *2021.10*: &nbsp; [Project] One NSFC Young Scientists Fund project has been funded by <a href="https://www.nsfc.gov.cn/">National Natural Science Foundation of China (NSFC)</a>. 

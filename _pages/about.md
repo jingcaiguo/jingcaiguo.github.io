@@ -155,10 +155,6 @@ In *Proceedings of the Twenty-Eighth ACM International Conference on Multimedia*
   F. Huo, W. Xu, S. Guo, **<u><font size=3>J. Guo</font></u>**, H. Wang, Z. Liu, X. Lu,<br>
   In *Proceedings of the Thirty-Seventh AAAI Conference on Artificial Intelligence* (**<font color=Blue>AAAI</font>**, CCF-A/Core-A), 2024.
 
-- [Graph Knows Unknowns: Reformulate Zero-Shot Learning as Sample-Level Graph Recognition](https://ojs.aaai.org/index.php/AAAI/article/view/25942),<br>
-  **<u><font size=3>J. Guo</font></u>**, S. Guo, Q. Zhou, Z. Liu, X. Lu, F. Huo,<br>
-  In *Proceedings of the Thirty-Seventh AAAI Conference on Artificial Intelligence* (**<font color=Blue>AAAI</font>**, CCF-A/Core-A), 2023.
-
 - [UTDNet: A Unified Triplet Decoder Network for Multimodal Salient Object Detection](),<br>
   F. Huo, **<u><font size=3>J. Guo*</font></u>**, Z. Liu, W. Xu, S. Guo,<br>
   *Neural Networks* (**<font color=Blue>NN</font>**, JCR-Q1/中科院1区/IF=7.8), 2023.
@@ -186,6 +182,10 @@ In *Proceedings of the Twenty-Eighth ACM International Conference on Multimedia*
 - [Towards Fairer and More Efficient Federated Learning via Multidimensional Personalized Edge Models](),<br>
   Y. Wang, **<u><font size=3>J. Guo</font></u>**, J. Zhang, S. Guo, W. Zhang, Q. Zheng,<br>
   In *Proceedings of the 2023 International Joint Conference on Neural Networks* (**<font color=Blue>IJCNN</font>**, CCF-C/Core-B), 2023.
+
+- [Graph Knows Unknowns: Reformulate Zero-Shot Learning as Sample-Level Graph Recognition](https://ojs.aaai.org/index.php/AAAI/article/view/25942),<br>
+  **<u><font size=3>J. Guo</font></u>**, S. Guo, Q. Zhou, Z. Liu, X. Lu, F. Huo,<br>
+  In *Proceedings of the Thirty-Seventh AAAI Conference on Artificial Intelligence* (**<font color=Blue>AAAI</font>**, CCF-A/Core-A), 2023.
   
 - [Personalized Federated Learning with Contextualized Generalization](https://www.ijcai.org/proceedings/2022/0311.pdf),<br>
   X. Tang, S. Guo, **<u><font size=3>J. Guo*</font></u>**,<br>

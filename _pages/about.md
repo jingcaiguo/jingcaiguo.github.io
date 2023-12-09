@@ -36,7 +36,7 @@ I am generally interested in **Machine Learning** and **Edge AI**, with a partic
 
 ## Research Students/Staffs
 - <a href = "https://keepgoingjkg.github.io/about/">Miaoge Li</a>, B.E. & M.E. (Xidian), Incoming Ph.D. Student (May 2024-)
-- <a href = "">Yang Chen</a>, B.E. & M.E. (UESTC), Incoming Ph.D. Student (Sept 2024-)
+- <a href = "https://cseeyangchen.github.io/">Yang Chen</a>, B.E. & M.E. (UESTC), Incoming Ph.D. Student (Sept 2024-)
 - <a href = "https://zjrao.github.io/">Zhijie Rao</a>, B.E. (BUPT), M.E. (XMU), Research Assistant (Sept 2023-)
 - <a href = "https://mirrorigin.github.io/">Jingming Liang</a>, B.E. & M.E. (HUST), Research Assistant (Sept 2023-)
 
@@ -50,7 +50,7 @@ I am generally interested in **Machine Learning** and **Edge AI**, with a partic
 <span class='anchor' id='news'></span>
 # 🔥 News
 - 🎉🎉 We have some fully funded openings for **PhD Student**, **Postdoctoral Researcher**, and **Research Assistant** to work and have fun together on multiple research projects. Drop me an email (jc-jingcai.guo@polyu.edu.hk) with your complete CV if you are interested. Candidates with strong programming and mathematics backgrounds are preferred. **Visiting Students/Researchers** (onsite/remote) are also welcome!
-- *2023.12*: &nbsp; [Supervision] Congratulations to <a href = "https://keepgoingjkg.github.io/about/">Miaoge Li</a> and <a href = "">Yang Chen</a> for being granted the Ph.D. offer from PolyU.
+- *2023.12*: &nbsp; [Supervision] Congratulations to <a href = "https://keepgoingjkg.github.io/about/">Miaoge Li</a> and <a href = "https://cseeyangchen.github.io/">Yang Chen</a> for being granted the Ph.D. offer from PolyU.
 - *2023.12*: &nbsp; [Editorship] Serve as Associate Editor for <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8782664">IEEE Open Journal of the Computer Society (IEEE OJ-CS)</a>.
 - *2022.07*: &nbsp; [Organization] Serve as Session Chair for <a href="https://events.vtsociety.org/vtc2023-fall/">VTC 2023</a>.
 - *2023.09*: &nbsp; [Editorship] Serve as Guest Editor for <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6570650">IEEE Transactions on Computational Social Systems (IEEE TCSS)</a> (Special Issue on Few-shot/Zero-shot Learning for Knowledge Discovery in Social Networks).

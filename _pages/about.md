@@ -35,10 +35,10 @@ I am generally interested in **Machine Learning** and **Edge AI**, with a partic
 **I am fortunate to supervise and work together with these gifted students/staffs:**
 
 ## Research Students/Staffs
-- Miaoge Li, B.E. & M.E. (Xidian), Incoming Ph.D. Student (May 2024-)
-- Yang Chen, B.E. & M.E. (UESTC), Incoming Ph.D. Student (Sept 2024-)
-- Zhijie Rao, B.E. (BUPT), M.E. (XMU), Research Assistant (Sept 2023-)
-- Jingming Liang, B.E. & M.E. (HUST), Research Assistant (Sept 2023-)
+- <a href = "https://keepgoingjkg.github.io/about/">Miaoge Li</a>, B.E. & M.E. (Xidian), Incoming Ph.D. Student (May 2024-)
+- <a href = "">Yang Chen</a>, B.E. & M.E. (UESTC), Incoming Ph.D. Student (Sept 2024-)
+- <a href = "https://zjrao.github.io/">Zhijie Rao</a>, B.E. (BUPT), M.E. (XMU), Research Assistant (Sept 2023-)
+- <a href = "https://mirrorigin.github.io/">Jingming Liang</a>, B.E. & M.E. (HUST), Research Assistant (Sept 2023-)
 
 ## Undergraduate Students
 - Zhiyu Wang, B.Sc. (PolyU), Capstone Project (Sept 2023-)

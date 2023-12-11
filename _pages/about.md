@@ -150,12 +150,12 @@ In *Proceedings of the Twenty-Eighth ACM International Conference on Multimedia*
   Q. Zhou, **<u><font size=3>J. Guo*</font></u>**, S. Guo, R. Li, J. Zhang, B. Wang, Z. Xu,<br>
   In *Proceedings of the Thirty-Seventh AAAI Conference on Artificial Intelligence* (**<font color=Blue>AAAI</font>**, CCF-A/Core-A*), 2024.
 
-- [Non-Exemplar Online Class-incremental Continual Learning via Dual-prototype Self-augment and Refinement](),<br>
-  F. Huo, W. Xu, **<u><font size=3>J. Guo</font></u>**, H. Wang, Y. Fan,<br>
+- [ProCC: Progressive Cross-primitive Compatibility for Open-World Compositional Zero-Shot Learning](),<br>
+  F. Huo, W. Xu, S. Guo, **<u><font size=3>J. Guo*</font></u>**, H. Wang, Z. Liu, X. Lu,<br>
   In *Proceedings of the Thirty-Seventh AAAI Conference on Artificial Intelligence* (**<font color=Blue>AAAI</font>**, CCF-A/Core-A*), 2024.
 
-- [ProCC: Progressive Cross-primitive Compatibility for Open-World Compositional Zero-Shot Learning](),<br>
-  F. Huo, W. Xu, S. Guo, **<u><font size=3>J. Guo</font></u>**, H. Wang, Z. Liu, X. Lu,<br>
+- [Non-Exemplar Online Class-incremental Continual Learning via Dual-prototype Self-augment and Refinement](),<br>
+  F. Huo, W. Xu, **<u><font size=3>J. Guo</font></u>**, H. Wang, Y. Fan,<br>
   In *Proceedings of the Thirty-Seventh AAAI Conference on Artificial Intelligence* (**<font color=Blue>AAAI</font>**, CCF-A/Core-A*), 2024.
 
 - [UTDNet: A Unified Triplet Decoder Network for Multimodal Salient Object Detection](),<br>

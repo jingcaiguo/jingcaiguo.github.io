@@ -73,7 +73,7 @@ I am generally interested in **Machine Learning** and **Edge AI**, with a partic
 # 📚 Publications 
 
 ## 🎙 Five Representative Papers 
-(**__<u><font size=4>*</font></u>__ Marked if I am the corresponding author(s)**.)
+(** --<font size=4>*</font>--: Marked if I am the corresponding author(s)**.)
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2023</div><img src='images/aaai23-zsl.png' alt="sym" width=255px></div></div>
 <div class='paper-box-text' markdown="1">

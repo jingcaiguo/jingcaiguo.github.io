@@ -73,11 +73,8 @@ I am generally interested in **Machine Learning** and **Edge AI**, with a partic
 # 📚 Publications 
 
 ## 🎙 Five Representative Papers 
-(** <u><font size=4>*</font></u>: Marked if I am the corresponding author(s)**.)
 
-(** <u><font size=5>*</font></u>: Marked if I am the corresponding author(s)**.)
-
-(** <u><font size=6>*</font></u>: Marked if I am the corresponding author(s)**.)
+(**<font size=5>*</font>: Marked if I am the corresponding author(s)**.)
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2023</div><img src='images/aaai23-zsl.png' alt="sym" width=255px></div></div>
 <div class='paper-box-text' markdown="1">
@@ -147,7 +144,7 @@ In *Proceedings of the Twenty-Eighth ACM International Conference on Multimedia*
 </div>
 
 ## Selected Papers
-(**__*__ Marked if I am the corresponding author(s)**.)
+(**<font size=5>*</font>: Marked if I am the corresponding author(s)**.)
 
 - [On the Robustness of Neural-enhanced Video Streaming Against Adversarial Attacks](),<br>
   Q. Zhou, **<u><font size=4>J. Guo*</font></u>**, S. Guo, R. Li, J. Zhang, B. Wang, Z. Xu,<br>

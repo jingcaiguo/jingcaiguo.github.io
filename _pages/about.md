@@ -144,7 +144,8 @@ In *Proceedings of the Twenty-Eighth ACM International Conference on Multimedia*
 </div>
 
 ## Selected Papers
-(**<font size=5>*</font>: Marked if I am the corresponding author(s)**.)
+**<u><font size=4>J. Guo<font color=Blue>*</font></font></u>**
+(**__*__: Marked if I am the corresponding author(s)**.)
 
 - [On the Robustness of Neural-enhanced Video Streaming Against Adversarial Attacks](),<br>
   Q. Zhou, **<u><font size=4>J. Guo*</font></u>**, S. Guo, R. Li, J. Zhang, B. Wang, Z. Xu,<br>

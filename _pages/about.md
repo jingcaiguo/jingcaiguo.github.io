@@ -37,6 +37,7 @@ I am generally interested in **Machine Learning** and **Edge AI**, with a partic
 ## Research Students/Staffs
 - <a href = "https://keepgoingjkg.github.io/about/">Miaoge Li</a>, B.E. & M.E. (Xidian), Incoming Ph.D. Student (May 2024-)
 - <a href = "https://cseeyangchen.github.io/">Yang Chen</a>, B.E. & M.E. (UESTC), Incoming Ph.D. Student (Sept 2024-)
+- <a href = "">Junyang Chen</a>, Assistant Professor (SZU), Visiting Scholar (Mar 2024-)
 - <a href = "https://zjrao.github.io/">Zhijie Rao</a>, B.E. (BUPT), M.E. (XMU), Research Assistant (Sept 2023-)
 - <a href = "https://mirrorigin.github.io/">Jingming Liang</a>, B.E. & M.E. (HUST), Research Assistant (Sept 2023-)
 

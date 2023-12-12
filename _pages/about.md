@@ -161,11 +161,11 @@ In *Proceedings of the Twenty-Eighth ACM International Conference on Multimedia*
 
 - [**UTDNet: A Unified Triplet Decoder Network for Multimodal Salient Object Detection**](),<br>
   F. Huo, **<u><font size=4>J. Guo*</font></u>**, Z. Liu, W. Xu, S. Guo,<br>
-  *Neural Networks* (**<font color=Blue>NN</font>**, JCR-Q1/中科院1区/IF=7.8), 2023.
+  *Neural Networks* (**<font color=Blue>NN</font>**, JCR-Q1/中科院1区), 2023.
 
 - [**Towards performance-maximizing neural network pruning via global channel attention**](),<br>
   Y. Wang, S. Guo, **<u><font size=4>J. Guo</font></u>**, J. Zhang, W. Zhang, C. Yan, Y. Zhang,<br>
-  *Neural Networks* (**<font color=Blue>NN</font>**, JCR-Q1/中科院1区/IF=7.8), 2023.
+  *Neural Networks* (**<font color=Blue>NN</font>**, JCR-Q1/中科院1区), 2023.
 
 - [**(ML)$^2$P-Encoder: On Exploration of Channel-Class Correlation for Multi-Label Zero-Shot Learning**](https://openaccess.thecvf.com/content/CVPR2023/papers/Liu_ML2P-Encoder_On_Exploration_of_Channel-Class_Correlation_for_Multi-Label_Zero-Shot_Learning_CVPR_2023_paper.pdf),<br>
   Z. Liu, S. Guo, X. Lu, **<u><font size=4>J. Guo*</font></u>**, J. Zhang, Y. Zeng, F. Huo,<br>
@@ -197,11 +197,11 @@ In *Proceedings of the Twenty-Eighth ACM International Conference on Multimedia*
 
 - [**Towards Unbiased Multi-Label Zero-Shot Learning with Pyramid and Semantic Attention**](),<br>
   Z. Liu, S. Guo, **<u><font size=4>J. Guo*</font></u>**, Y. Xu, F. Huo,<br>
-  *IEEE Transactions on Multimedia* (**<font color=Blue>TMM</font>**, JCR-Q1/中科院1区/IF=8.182), 2022.
+  *IEEE Transactions on Multimedia* (**<font color=Blue>TMM</font>**, JCR-Q1/中科院1区), 2022.
 
 - [**Conservative Novelty Synthesizing Network for Malware Recognition in an Open-Set Scenario**](),<br>
   **<u><font size=4>J. Guo</font></u>**, S. Guo, S. Ma, Y. Sun, Y. Xu,<br>
-  *IEEE Transactions on Neural Networks and Learning Systems* (**<font color=Blue>TNNLS</font>**, JCR-Q1/中科院1区/IF=14.255), 2021.<br>
+  *IEEE Transactions on Neural Networks and Learning Systems* (**<font color=Blue>TNNLS</font>**, JCR-Q1/中科院1区), 2021.<br>
   (<font color=Blue>Outstanding Paper Award of</font> [<font color=Blue>GDCA</font>](http://www.gdcomf.com/))
 
 - [**INT8 Training with Loss-Aware Compensation and Backward Quantization for Tiny On-Device Learning**](),<br>
@@ -210,7 +210,7 @@ In *Proceedings of the Twenty-Eighth ACM International Conference on Multimedia*
 
 - [**On-Device Learning Systems for Edge Intelligence: A Software and Hardware Synergy Perspective**](),<br>
   Q. Zhou, Z. Qu, S. Guo, B. Luo, **<u><font size=4>J. Guo</font></u>**, Z. Xu, R. Akerkar,<br>
-  *IEEE Internet of Things Journal* (**<font color=Blue>IoT-J</font>**, JCR-Q1/中科院1区/IF=10.238), 2021.
+  *IEEE Internet of Things Journal* (**<font color=Blue>IoT-J</font>**, JCR-Q1/中科院1区), 2021.
   
 - [**Dual-View Attention Networks for Single Image Super-Resolution**](https://dl.acm.org/doi/10.1145/3394171.3413613),<br>
   **<u><font size=4>J. Guo</font></u>**, S. Ma, J. Zhang, Q. Zhou, S. Guo,<br>
@@ -218,7 +218,7 @@ In *Proceedings of the Twenty-Eighth ACM International Conference on Multimedia*
 
 - [**A Novel Perspective to Zero-Shot Learning: Towards an Alignment of Manifold Structures via Semantic Feature Expansion**](),<br>
   **<u><font size=4>J. Guo</font></u>**, S. Guo,<br>
-  *IEEE Transactions on Multimedia* (**<font color=Blue>TMM</font>**, JCR-Q1/中科院1区/IF=8.182), 2020.
+  *IEEE Transactions on Multimedia* (**<font color=Blue>TMM</font>**, JCR-Q1/中科院1区), 2020.
 
 - [**Adaptive Adjustment with Semantic Feature Space for Zero-Shot Recognition**](),<br>
   **<u><font size=4>J. Guo</font></u>**, S. Guo,<br>

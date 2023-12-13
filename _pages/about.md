@@ -161,7 +161,7 @@ In *Proceedings of the Twenty-Eighth ACM International Conference on Multimedia*
   In *Proceedings of the Thirty-Seventh AAAI Conference on Artificial Intelligence* (**<font color=Blue>AAAI</font>**, CCF-A/Core-A*), 2024.
 
 - [**UTDNet: A Unified Triplet Decoder Network for Multimodal Salient Object Detection**](),<br>
-  F. Huo, **<u><font size=4>J. Guo*</font></u>**, Z. Liu, W. Xu, S. Guo,<br>
+  F. Huo, Z. Liu, **<u><font size=4>J. Guo*</font></u>**, W. Xu, S. Guo,<br>
   *Neural Networks* (**<font color=Blue>NN</font>**, JCR-Q1/中科院1区), 2023.
 
 - [**Towards performance-maximizing neural network pruning via global channel attention**](),<br>

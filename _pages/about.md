@@ -160,6 +160,10 @@ In *Proceedings of the Twenty-Eighth ACM International Conference on Multimedia*
   F. Huo, W. Xu, **<u><font size=4>J. Guo</font></u>**, H. Wang, Y. Fan,<br>
   In *Proceedings of the Thirty-Seventh AAAI Conference on Artificial Intelligence* (**<font color=Blue>AAAI</font>**, CCF-A/Core-A*), 2024.
 
+- [**PASS: Patch Automatic Skip Scheme for Efficient On-device Video Perception**](),<br>
+  Q. Zhou, S. Guo, J. Pan, J. Liang, **<u><font size=4>J. Guo</font></u>**, Z. Xu, J. Zhou,<br>
+  *IEEE Transactions on Pattern Analysis and Machine Intelligence* (**<font color=Blue>TPAMI</font>**, JCR-Q1/中科院1区Top), 2024.
+
 - [**UTDNet: A Unified Triplet Decoder Network for Multimodal Salient Object Detection**](),<br>
   F. Huo, Z. Liu, **<u><font size=4>J. Guo*</font></u>**, W. Xu, S. Guo,<br>
   *Neural Networks* (**<font color=Blue>NN</font>**, JCR-Q1/中科院1区Top), 2023.

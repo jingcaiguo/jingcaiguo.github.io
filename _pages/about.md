@@ -73,7 +73,7 @@ I am generally interested in **Machine Learning** and **Artificial Intelligence*
 <span class='anchor' id='publications'></span>
 # 📚 Publications 
 
-## 🎙 Five Representative Papers (" * ": indicates corresponding author(s))
+## 🎙 Five Representative Papers (“ * ”: indicates corresponding author(s))
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2023</div><img src='images/aaai23-zsl.png' alt="sym" width=255px></div></div>
 <div class='paper-box-text' markdown="1">
@@ -142,10 +142,10 @@ In *Proceedings of the Twenty-Eighth ACM International Conference on Multimedia*
 </div>
 </div>
 
-## Selected Papers (" * ": indicates corresponding author(s))
+## Selected Papers (“ * ”: indicates corresponding author(s))
 
 
-**<font size=4, color=Blue>Topic-1: Learning from Limited Data</font>**
+**<font color=Blue><font size=4>Topic-1: Learning from Limited Data</font></font>**
 
 - [**ProCC: Progressive Cross-primitive Compatibility for Open-World Compositional Zero-Shot Learning**](),<br>
   F. Huo, W. Xu, S. Guo, **<u><font size=4>J. Guo*</font></u>**, H. Wang, Z. Liu, X. Lu,<br>
@@ -183,7 +183,7 @@ In *Proceedings of the Twenty-Eighth ACM International Conference on Multimedia*
   **<u><font size=4>J. Guo</font></u>**, S. Guo,<br>
   In *Proceedings of the Twentieth IEEE International Conference on Multimedia and Expo* (**<font color=Blue>ICME</font>**, CCF-B/Core-A), 2019.
 
-**<font size=4, color=Blue>Topic-2: Learning with Constrained Computing Resource</font>**
+**<font color=Blue><font size=4>Topic-2: Learning with Constrained Computing Resource</font></font>**
 
 - [**On the Robustness of Neural-enhanced Video Streaming Against Adversarial Attacks**](),<br>
   Q. Zhou, **<u><font size=4>J. Guo*</font></u>**, S. Guo, R. Li, J. Zhang, B. Wang, Z. Xu,<br>
@@ -221,7 +221,7 @@ In *Proceedings of the Twenty-Eighth ACM International Conference on Multimedia*
   Q. Zhou, Z. Qu, S. Guo, B. Luo, **<u><font size=4>J. Guo</font></u>**, Z. Xu, R. Akerkar,<br>
   *IEEE Internet of Things Journal* (**<font color=Blue>IoT-J</font>**, JCR-Q1/中科院1区Top), 2021.
 
-**<font size=4, color=Blue>Topic-3: Applications</font>**
+**<font color=Blue><font size=4>Topic-3: Applications</font></font>**
 
 - [**UTDNet: A Unified Triplet Decoder Network for Multimodal Salient Object Detection**](),<br>
   F. Huo, Z. Liu, **<u><font size=4>J. Guo*</font></u>**, W. Xu, S. Guo,<br>

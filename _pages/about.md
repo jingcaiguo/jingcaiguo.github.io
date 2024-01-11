@@ -190,7 +190,7 @@ In *Proceedings of the Twenty-Eighth ACM International Conference on Multimedia*
   In *Proceedings of the Thirty-Eighth AAAI Conference on Artificial Intelligence* (**<font color=Blue>AAAI</font>**, CCF-A/Core-A*), 2024.
 
 - [**PASS: Patch Automatic Skip Scheme for Efficient On-device Video Perception**](),<br>
-  Q. Zhou, S. Guo, J. Pan, J. Liang, **<u><font size=4>J. Guo</font></u>**, Z. Xu, J. Zhou,<br>
+  Q. Zhou, S. Guo, J. Pan, J. Liang, **<u><font size=4>J. Guo*</font></u>**, Z. Xu, J. Zhou,<br>
   *IEEE Transactions on Pattern Analysis and Machine Intelligence* (**<font color=Blue>TPAMI</font>**, JCR-Q1/中科院1区Top), 2024.
 
 - [**Towards performance-maximizing neural network pruning via global channel attention**](),<br>

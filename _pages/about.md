@@ -150,7 +150,7 @@ In *Proceedings of the Twenty-Eighth ACM International Conference on Multimedia*
 **<font color=Blue><font size=4>Topic-1: Learning from Limited Data</font></font>**
 
 - [**ProCC: Progressive Cross-primitive Compatibility for Open-World Compositional Zero-Shot Learning**](),<br>
-  F. Huo, W. Xu, S. Guo, **<u><font size=4>J. Guo*</font></u>**, H. Wang, Z. Liu, X. Lu,<br>
+  F. Huo, W. Xu, S. Guo, **<u><font size=4>J. Guo<sup>#</sup></font></u>**, H. Wang, Z. Liu, X. Lu,<br>
   In *Proceedings of the Thirty-Eighth AAAI Conference on Artificial Intelligence* (**<font color=Blue>AAAI</font>**, CCF-A/Core-A*), 2024.
 
 - [**Non-Exemplar Online Class-incremental Continual Learning via Dual-prototype Self-augment and Refinement**](),<br>

@@ -75,7 +75,7 @@ I am currently serving as **Associate Editor** for IEEE Open Journal of the Comp
 <span class='anchor' id='publications'></span>
 # 📚 Publications 
 
-## 🎙 Five Representative Papers (“ * ”: indicates corresponding author(s))
+## 🎙 Five Representative Papers (“ # ”: indicates corresponding author(s))
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2023</div><img src='images/aaai23-zsl.png' alt="sym" width=255px></div></div>
 <div class='paper-box-text' markdown="1">
@@ -94,7 +94,7 @@ In *Proceedings of the Thirty-Seventh AAAI Conference on Artificial Intelligence
 <div class='paper-box-text' markdown="1">
 [**$(ML)^2$P-Encoder: On Exploration of Channel-class Correlation for Multi-Label Zero-Shot Learning,**](https://openaccess.thecvf.com/content/CVPR2023/papers/Liu_ML2P-Encoder_On_Exploration_of_Channel-Class_Correlation_for_Multi-Label_Zero-Shot_Learning_CVPR_2023_paper.pdf)
 
-Z. Liu, S. Guo, X. Lu, **<u><font size=4>J. Guo*</font></u>**, J. Zhang, Y. Zeng, F. Huo,
+Z. Liu, S. Guo, X. Lu, **<u><font size=4>J. Guo<sup>#</sup></font></u>**, J. Zhang, Y. Zeng, F. Huo,
 
 In *Proceedings of the Thirty-Fourth IEEE/CVF Conference on Computer Vision and Pattern Recognition* (**<font color=Blue>CVPR</font>**, CCF-A/Core-A*), 2023.
 
@@ -108,7 +108,7 @@ In *Proceedings of the Thirty-Fourth IEEE/CVF Conference on Computer Vision and 
 <div class='paper-box-text' markdown="1">
 [**Decomposed Soft Prompt Guided Fusion Enhancing for Compositional Zero-Shot Learning,**](https://openaccess.thecvf.com/content/CVPR2023/papers/Lu_Decomposed_Soft_Prompt_Guided_Fusion_Enhancing_for_Compositional_Zero-Shot_Learning_CVPR_2023_paper.pdf)
 
-X. Lu, S. Guo, Z. Liu, **<u><font size=4>J. Guo*</font></u>**,
+X. Lu, S. Guo, Z. Liu, **<u><font size=4>J. Guo<sup>#</sup></font></u>**,
 
 In *Proceedings of the Thirty-Fourth IEEE/CVF Conference on Computer Vision and Pattern Recognition* (**<font color=Blue>CVPR</font>**, CCF-A/Core-A*), 2023.
 
@@ -122,7 +122,7 @@ In *Proceedings of the Thirty-Fourth IEEE/CVF Conference on Computer Vision and 
 <div class='paper-box-text' markdown="1">
 [**Personalized Federated Learning with Contextualized Generalization,**](https://www.ijcai.org/proceedings/2022/0311.pdf)
 
-X. Tang, S. Guo, **<u><font size=4>J. Guo*</font></u>**,
+X. Tang, S. Guo, **<u><font size=4>J. Guo<sup>#</sup></font></u>**,
 
 In *Proceedings of the Thirty-First International Joint Conference on Artificial Intelligence* (**<font color=Blue>IJCAI</font>**, CCF-A/Core-A*), 2022.
 
@@ -144,7 +144,7 @@ In *Proceedings of the Twenty-Eighth ACM International Conference on Multimedia*
 </div>
 </div>
 
-## Selected Papers (“ * ”: indicates corresponding author(s))
+## Selected Papers (“ # ”: indicates corresponding author(s))
 
 
 **<font color=Blue><font size=4>Topic-1: Learning from Limited Data</font></font>**
@@ -158,11 +158,11 @@ In *Proceedings of the Twenty-Eighth ACM International Conference on Multimedia*
   In *Proceedings of the Thirty-Eighth AAAI Conference on Artificial Intelligence* (**<font color=Blue>AAAI</font>**, CCF-A/Core-A*), 2024.
 
 - [**(ML)$^2$P-Encoder: On Exploration of Channel-Class Correlation for Multi-Label Zero-Shot Learning**](https://openaccess.thecvf.com/content/CVPR2023/papers/Liu_ML2P-Encoder_On_Exploration_of_Channel-Class_Correlation_for_Multi-Label_Zero-Shot_Learning_CVPR_2023_paper.pdf),<br>
-  Z. Liu, S. Guo, X. Lu, **<u><font size=4>J. Guo*</font></u>**, J. Zhang, Y. Zeng, F. Huo,<br>
+  Z. Liu, S. Guo, X. Lu, **<u><font size=4>J. Guo<sup>#</sup></font></u>**, J. Zhang, Y. Zeng, F. Huo,<br>
   In *Proceedings of the Thirty-Fourth IEEE/CVF Conference on Computer Vision and Pattern Recognition* (**<font color=Blue>CVPR</font>**, CCF-A/Core-A*), 2023.
 
 - [**Decomposed Soft Prompt Guided Fusion Enhancing for Compositional Zero-Shot Learning**](https://openaccess.thecvf.com/content/CVPR2023/papers/Lu_Decomposed_Soft_Prompt_Guided_Fusion_Enhancing_for_Compositional_Zero-Shot_Learning_CVPR_2023_paper.pdf),<br>
-  X. Lu, S. Guo, Z. Liu, **<u><font size=4>J. Guo*</font></u>**,<br>
+  X. Lu, S. Guo, Z. Liu, **<u><font size=4>J. Guo<sup>#</sup></font></u>**,<br>
   In *Proceedings of the Thirty-Fourth IEEE/CVF Conference on Computer Vision and Pattern Recognition* (**<font color=Blue>CVPR</font>**, CCF-A/Core-A*), 2023.
 
 - [**Graph Knows Unknowns: Reformulate Zero-Shot Learning as Sample-Level Graph Recognition**](https://ojs.aaai.org/index.php/AAAI/article/view/25942),<br>
@@ -170,7 +170,7 @@ In *Proceedings of the Twenty-Eighth ACM International Conference on Multimedia*
   In *Proceedings of the Thirty-Seventh AAAI Conference on Artificial Intelligence* (**<font color=Blue>AAAI</font>**, CCF-A/Core-A*), 2023.
 
 - [**Towards Unbiased Multi-Label Zero-Shot Learning with Pyramid and Semantic Attention**](),<br>
-  Z. Liu, S. Guo, **<u><font size=4>J. Guo*</font></u>**, Y. Xu, F. Huo,<br>
+  Z. Liu, S. Guo, **<u><font size=4>J. Guo<sup>#</sup></font></u>**, Y. Xu, F. Huo,<br>
   *IEEE Transactions on Multimedia* (**<font color=Blue>TMM</font>**, JCR-Q1/中科院1区Top), 2022.
 
 - [**A Novel Perspective to Zero-Shot Learning: Towards an Alignment of Manifold Structures via Semantic Feature Expansion**](),<br>
@@ -188,11 +188,11 @@ In *Proceedings of the Twenty-Eighth ACM International Conference on Multimedia*
 **<font color=Blue><font size=4>Topic-2: Learning with Constrained Computing Resource</font></font>**
 
 - [**On the Robustness of Neural-enhanced Video Streaming Against Adversarial Attacks**](),<br>
-  Q. Zhou, **<u><font size=4>J. Guo*</font></u>**, S. Guo, R. Li, J. Zhang, B. Wang, Z. Xu,<br>
+  Q. Zhou, **<u><font size=4>J. Guo<sup>#</sup></font></u>**, S. Guo, R. Li, J. Zhang, B. Wang, Z. Xu,<br>
   In *Proceedings of the Thirty-Eighth AAAI Conference on Artificial Intelligence* (**<font color=Blue>AAAI</font>**, CCF-A/Core-A*), 2024.
 
 - [**PASS: Patch Automatic Skip Scheme for Efficient On-device Video Perception**](),<br>
-  Q. Zhou, S. Guo, J. Pan, J. Liang, **<u><font size=4>J. Guo*</font></u>**, Z. Xu, J. Zhou,<br>
+  Q. Zhou, S. Guo, J. Pan, J. Liang, **<u><font size=4>J. Guo<sup>#</sup></font></u>**, Z. Xu, J. Zhou,<br>
   *IEEE Transactions on Pattern Analysis and Machine Intelligence* (**<font color=Blue>TPAMI</font>**, JCR-Q1/中科院1区Top), 2024.
 
 - [**Towards performance-maximizing neural network pruning via global channel attention**](),<br>
@@ -200,7 +200,7 @@ In *Proceedings of the Twenty-Eighth ACM International Conference on Multimedia*
   *Neural Networks* (**<font color=Blue>NN</font>**, JCR-Q1/中科院1区Top), 2023.
 
 - [**Towards Data-Independent Knowledge Transfer in Model-Heterogeneous Federated Learning**](),<br>
-  J. Zhang, S. Guo, **<u><font size=4>J. Guo*</font></u>**, D. Zeng, J. Zhou, A. Zomaya,<br>
+  J. Zhang, S. Guo, **<u><font size=4>J. Guo<sup>#</sup></font></u>**, D. Zeng, J. Zhou, A. Zomaya,<br>
   *IEEE Transactions on Computers* (**<font color=Blue>TC</font>**, CCF-A), 2023.
 
 - [**Hwamei: A Learning-Based Aggregation Framework for Hierarchical Federated Learning System**](),<br>
@@ -212,7 +212,7 @@ In *Proceedings of the Twenty-Eighth ACM International Conference on Multimedia*
   In *Proceedings of the 2023 International Joint Conference on Neural Networks* (**<font color=Blue>IJCNN</font>**, CCF-C/Core-B), 2023.
 
 - [**Personalized Federated Learning with Contextualized Generalization**](https://www.ijcai.org/proceedings/2022/0311.pdf),<br>
-  X. Tang, S. Guo, **<u><font size=4>J. Guo*</font></u>**,<br>
+  X. Tang, S. Guo, **<u><font size=4>J. Guo<sup>#</sup></font></u>**,<br>
   In *Proceedings of the Thirty-First International Joint Conference on Artificial Intelligence* (**<font color=Blue>IJCAI</font>**, CCF-A/Core-A*), 2022.
 
 - [**INT8 Training with Loss-Aware Compensation and Backward Quantization for Tiny On-Device Learning**](),<br>
@@ -226,7 +226,7 @@ In *Proceedings of the Twenty-Eighth ACM International Conference on Multimedia*
 **<font color=Blue><font size=4>Topic-3: Applications</font></font>**
 
 - [**UTDNet: A Unified Triplet Decoder Network for Multimodal Salient Object Detection**](),<br>
-  F. Huo, Z. Liu, **<u><font size=4>J. Guo*</font></u>**, W. Xu, S. Guo,<br>
+  F. Huo, Z. Liu, **<u><font size=4>J. Guo<sup>#</sup></font></u>**, W. Xu, S. Guo,<br>
   *Neural Networks* (**<font color=Blue>NN</font>**, JCR-Q1/中科院1区Top), 2023.
 
 - [**Conservative Novelty Synthesizing Network for Malware Recognition in an Open-Set Scenario**](),<br>

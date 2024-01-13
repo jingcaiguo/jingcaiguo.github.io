@@ -151,7 +151,7 @@ In *Proceedings of the Twenty-Eighth ACM International Conference on Multimedia*
 <!-- **<font color=Blue><font size=4>Topic-2: Learning with Constrained Computing Resource</font></font>** -->
 <!-- **<font color=Blue><font size=4>Topic-3: Applications</font></font>** -->
 
-- **<font color=Blue>AAAI ‘24</font>** [**On the Robustness of Neural-enhanced Video Streaming Against Adversarial Attacks**](),<br>
+- **<font color=Blue>[AAAI ‘24]</font>** [**On the Robustness of Neural-enhanced Video Streaming Against Adversarial Attacks**](),<br>
   Q. Zhou, **<u><font size=4>J. Guo<sup>#</sup></font></u>**, S. Guo, R. Li, J. Zhang, B. Wang, Z. Xu,<br>
   In *Proceedings of the Thirty-Eighth AAAI Conference on Artificial Intelligence* (**<font color=Blue>AAAI</font>**, CCF-A/Core-A*), 2024.
 

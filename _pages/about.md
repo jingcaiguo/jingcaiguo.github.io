@@ -75,7 +75,7 @@ I am currently serving as **Associate Editor** for IEEE Open Journal of the Comp
 <span class='anchor' id='publications'></span>
 # 📚 Publications 
 
-## 🎙 Five Representative Papers (“ # ”: indicates corresponding author(s))
+## 🎙 Five Representative Papers \[“ # ” is marked if I am the Corresponding Author(s)\]
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2023</div><img src='images/aaai23-zsl.png' alt="sym" width=255px></div></div>
 <div class='paper-box-text' markdown="1">
@@ -144,7 +144,7 @@ In *Proceedings of the Twenty-Eighth ACM International Conference on Multimedia*
 </div>
 </div>
 
-## Selected Papers (“ # ”: indicates corresponding author(s))
+## Selected Papers \[“ # ” is marked if I am the Corresponding Author(s)\]
 
 
 <!-- **<font color=Blue><font size=4>Topic-1: Learning from Limited Data</font></font>** -->

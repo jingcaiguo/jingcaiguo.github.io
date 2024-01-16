@@ -151,6 +151,10 @@ In *Proceedings of the Twenty-Eighth ACM International Conference on Multimedia*
 <!-- **<font color=Blue><font size=4>Topic-2: Learning with Constrained Computing Resource</font></font>** -->
 <!-- **<font color=Blue><font size=4>Topic-3: Applications</font></font>** -->
 
+- [**Learning Personalized Causally Invariant Representations for Heterogeneous Federated Clients**](),<br>
+  X. Tang, S. Guo, J. Zhang, and **<u><font size=4>J. Guo<sup>#</sup></font></u>**,<br>
+  In *Proceedings of the Twelfth International Conference on Learning Representations* (**<font color=Blue>ICLR</font>**, CCF-A/Core-A*), 2024.
+
 - [**On the Robustness of Neural-enhanced Video Streaming Against Adversarial Attacks**](),<br>
   Q. Zhou, **<u><font size=4>J. Guo<sup>#</sup></font></u>**, S. Guo, R. Li, J. Zhang, B. Wang, Z. Xu,<br>
   In *Proceedings of the Thirty-Eighth AAAI Conference on Artificial Intelligence* (**<font color=Blue>AAAI</font>**, CCF-A/Core-A*), 2024.

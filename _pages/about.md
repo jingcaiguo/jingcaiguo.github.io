@@ -53,6 +53,7 @@ I am currently serving as **Associate Editor** for IEEE Open Journal of the Comp
 <span class='anchor' id='news'></span>
 # 🔥 News
 - 🎉🎉 We have some fully funded openings for **PhD Student**, **Postdoctoral Researcher**, and **Research Assistant** to work and have fun together on multiple research projects. Drop me an email (jc-jingcai.guo@polyu.edu.hk) with your complete CV if you are interested. Candidates with strong programming and mathematics backgrounds are preferred. **Visiting Students/Researchers** (onsite/remote) are also welcome!
+- *2024.01*: &nbsp; [Conference] Serve as Area Chair for <a href="https://2024.acmmm.org/">ACM-MM 2024</a>.
 - *2023.12*: &nbsp; [Supervision] Congratulations to <a href = "https://keepgoingjkg.github.io/about/">Miaoge Li</a> and <a href = "https://cseeyangchen.github.io/">Yang Chen</a> for being granted the Ph.D. offer from PolyU.
 - *2023.12*: &nbsp; [Editorship] Serve as Associate Editor for <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8782664">IEEE Open Journal of the Computer Society (IEEE OJ-CS)</a>.
 - *2023.10*: &nbsp; [Organization] Serve as Session Chair for <a href="https://events.vtsociety.org/vtc2023-fall/">VTC 2023</a>.
@@ -62,7 +63,7 @@ I am currently serving as **Associate Editor** for IEEE Open Journal of the Comp
 <!-- - *2023.02*: &nbsp; [Review] Serve as Reviewer for <a href="https://iccv2023.thecvf.com/">ICCV 2023</a> and <a href="https://nips.cc/">NeurIPS 2023</a>. -->
 <!-- - *2022.11*: &nbsp; [Review] Serve as Program Committee Member for <a href="https://cvpr2023.thecvf.com/">CVPR 2023</a> and Reviewer for <a href="https://iclr.cc/">ICLR 2023</a>. -->
 <!-- - *2022.08*: &nbsp;  [Review] Serve as Program Committee Member for <a href="https://aaai.org/Conferences/AAAI-23/">AAAI 2023</a>. -->
-- *2022.07*: &nbsp; [Organization] Serve as Session Chair for <a href="https://2022.ieeeicme.org/">ICME 2022</a>.
+- *2022.07*: &nbsp; [Conference] Serve as Session Chair for <a href="https://2022.ieeeicme.org/">ICME 2022</a>.
 <!-- - *2022.04*: &nbsp;  [Review] Serve as Program Committee Member for <a href="https://2022.acmmm.org/">ACM-MM 2022</a>. -->
 <!-- - *2022.03*: &nbsp;  [Review] Serve as Program Committee Member for <a href="https://neurips.cc/">NeurIPS 2022</a> and <a href="https://eccv2022.ecva.net/">ECCV 2022</a>. -->
 - *2022.03*: &nbsp; [Panel Review] Serve as Panel Reviewer for the Young Scientists Fund of <a href="https://www.nsfc.gov.cn/">National Natural Science Foundation of China (NSFC)</a>.
@@ -278,10 +279,11 @@ In *Proceedings of the Twenty-Eighth ACM International Conference on Multimedia*
 <span class='anchor' id='services'></span>
 # 👔 Services
 
-##  Conference Organizing Committee
+##  Conference Organizing
 
-- **Publicity Chair:** The 41st IEEE International Symposium on Reliable Distributed Systems (**SRDS** 2022)
+- **Area Chair:** The 32nd ACM International Conference on Multimedia (**ACM-MM** 2024)
 - **Session Chair:** The 98th IEEE Vehicular Technology Conference (**VTC** 2023 Fall)
+- **Publicity Chair:** The 41st IEEE International Symposium on Reliable Distributed Systems (**SRDS** 2022)
 - **Session Chair:** The 23th IEEE International Conference on Multimedia and Expo (**ICME** 2022)
 
 ##  Journal Editorship

@@ -31,25 +31,6 @@ I am currently serving as **Associate Editor** for IEEE Open Journal of the Comp
 - 2013-2015: M.E., Waseda University (早稻田大学), Japan🇯🇵 (Supervisor: <a href = "https://www.waseda.jp/top/">Prof. Takayuki Furuzuki</a>)
 - 2009-2013: B.E., Sichuan University (四川大学), China🇨🇳
 
-<span class='anchor' id='group'></span>
-# 🌏 Group
-
-**I am fortunate to supervise and work together with these gifted students/staffs:**
-
-## Research Students/Staffs
-- <a href = "https://keepgoingjkg.github.io/about/">Miaoge Li</a>, B.E. & M.E. (Xidian), Incoming Ph.D. Student (May 2024-)
-- <a href = "https://cseeyangchen.github.io/">Yang Chen</a>, B.E. & M.E. (UESTC), Incoming Ph.D. Student (Sept 2024-)
-- <a href = "">Junyang Chen</a>, Assistant Professor (SZU), Visiting Scholar (Mar 2024-)
-- <a href = "https://zjrao.github.io/">Zhijie Rao</a>, B.E. (BUPT), M.E. (XMU), Research Assistant (Sept 2023-)
-- <a href = "https://mirrorigin.github.io/">Jingming Liang</a>, B.E. & M.E. (HUST), Research Assistant (Sept 2023-)
-
-## Undergraduate Students
-- Zhiyu Wang, B.Sc. (PolyU), Capstone Project (Sept 2023-)
-- Arnab Mazumder, B.Sc. (PolyU), Capstone Project (Sept 2023-)
-- Yalun Tang, B.Sc. (PolyU), Capstone Project (Sept 2023-)
-- Zheyu Zhu, B.Sc. (PolyU), Capstone Project (Sept 2023-)
-- Junchen Yue, B.Sc. (PolyU), Capstone Project (Sept 2023-)
-
 <span class='anchor' id='news'></span>
 # 🔥 News
 - 🎉🎉 We have some fully funded openings for **PhD Student**, **Postdoctoral Researcher**, and **Research Assistant** to work and have fun together on multiple research projects. Drop me an email (jc-jingcai.guo@polyu.edu.hk) with your complete CV if you are interested. Candidates with strong programming and mathematics backgrounds are preferred. **Visiting Students/Researchers** (onsite/remote) are also welcome!
@@ -71,7 +52,26 @@ I am currently serving as **Associate Editor** for IEEE Open Journal of the Comp
 <!-- - *2022.01*: &nbsp;  [Review] Serve as Reviewer for <a href="https://icml.cc/">ICML 2022</a>. -->
 - *2021.10*: &nbsp; [Project] One project has been granted by <a href="https://www.edu.cn/rd/gai_kuang/zheng_ce_fa_gui/202112/t20211214_2189444.shtml">Fundamental Research Funds for the Central Universities</a>.
 <!-- - *2021.12*: &nbsp;  [Review] Serve as Program Committee Member for <a href="https://cvpr2022.thecvf.com/">CVPR 2022</a>. -->
-- *2021.10*: &nbsp; [Project] One NSFC Young Scientists Fund has been granted by <a href="https://www.nsfc.gov.cn/">National Natural Science Foundation of China (NSFC)</a>. 
+- *2021.10*: &nbsp; [Project] One NSFC Young Scientists Fund has been granted by <a href="https://www.nsfc.gov.cn/">National Natural Science Foundation of China (NSFC)</a>.
+
+<span class='anchor' id='group'></span>
+# 🌏 Group
+
+**I am fortunate to supervise and work together with these gifted students/staffs:**
+
+## Research Students/Staffs
+- <a href = "https://keepgoingjkg.github.io/about/">Miaoge Li</a>, B.E. & M.E. (Xidian), Incoming Ph.D. Student (May 2024-)
+- <a href = "https://cseeyangchen.github.io/">Yang Chen</a>, B.E. & M.E. (UESTC), Incoming Ph.D. Student (Sept 2024-)
+- <a href = "">Junyang Chen</a>, Assistant Professor (SZU), Visiting Scholar (Mar 2024-)
+- <a href = "https://zjrao.github.io/">Zhijie Rao</a>, B.E. (BUPT), M.E. (XMU), Research Assistant (Sept 2023-)
+- <a href = "https://mirrorigin.github.io/">Jingming Liang</a>, B.E. & M.E. (HUST), Research Assistant (Sept 2023-)
+
+## Undergraduate Students
+- Zhiyu Wang, B.Sc. (PolyU), Capstone Project (Sept 2023-)
+- Arnab Mazumder, B.Sc. (PolyU), Capstone Project (Sept 2023-)
+- Yalun Tang, B.Sc. (PolyU), Capstone Project (Sept 2023-)
+- Zheyu Zhu, B.Sc. (PolyU), Capstone Project (Sept 2023-)
+- Junchen Yue, B.Sc. (PolyU), Capstone Project (Sept 2023-)
 
 <span class='anchor' id='publications'></span>
 # 📚 Publications 

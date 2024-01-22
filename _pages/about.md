@@ -21,7 +21,7 @@ I am a Research Assistant Professor with Department of Computing, <a href = "htt
 
 I am generally interested in **Machine Learning** and **Artificial Intelligence** in **Edges**, with an ultimate goal of building a **Generalized Intelligent Paradigm** that can be learned from **Limited Resources** in terms of **Data**, **Computing Capability**, or **Both**, and some of their derivative **Applications** that are beneficial from theory to practice. Some specific topics include zero/few-shot learning, federated/distributed learning, model compression, representation learning, and the deployment/training of foundation models on edges. Our works are published in prestigious venues in artificial intelligence and its interdisciplinary topics, including AAAI, CVPR, IJCAI, ICLR, ACM-MM, USENIX-ATC, ICME, ICASSP, ICDCS, TNNLS, TPAMI, TMM, TC, NN, etc. As the PI, I have secured several external grants like **GRF** from the **Hong Kong RGC**, **Young Scientists Fund** from the **NSFC**, **Fundamental Research Funds for the Central Universities**, and one internal grant from PolyU. If you are interested in any of these topics, please feel free to e-mail me!
 
-I am currently serving as **Associate Editor** for IEEE Open Journal of the Computer Society (IEEE OJ-CS), **Guest Editor** for IEEE Transactions on Computational Social Systems (IEEE TCSS), and have served as **Publicity Co-Chair** for the 41st IEEE International Symposium on Reliable Distributed Systems (SRDS 2022). I regularly serve as **PC Member** and/or **Reviewer** for prestigious conferences, including AAAI, CVPR, NeurIPS, ACM-MM, ICML, ICCV, ICME, ICASSP, ECCV, etc., and a series of IEEE transactions and journals such TNNLS, TMM, TMC, TKDE, TSUSC, JSAC, IoT-J, etc. I am a **Panel Reviewer** for the Young Scientists Fund of the National Natural Science Foundation of China (NSFC). I am a member of IEEE and CCF. I was the recipient of RGC-HKPFS in 2017.
+I am currently serving as **Associate Editor** for IEEE Open Journal of the Computer Society (IEEE OJ-CS) and **Guest Editor** for IEEE Transactions on Computational Social Systems (IEEE TCSS). I have served as **Publicity Co-Chair** for the 41st IEEE International Symposium on Reliable Distributed Systems (SRDS 2022), and haved served as **Area Chair** and/or **Session Chair** for prestigious conferences like ICML, ACM-MM, ICME, and VTC. Besides, I also regularly serve as **PC Member** and/or **Reviewer** for AAAI, CVPR, NeurIPS, ACM-MM, ICML, ICCV, ICME, ICASSP, ECCV, etc., and a series of IEEE transactions and journals such TNNLS, TMM, TMC, TKDE, TSUSC, JSAC, IoT-J, etc. I am a **Panel Reviewer** for the Young Scientists Fund of the National Natural Science Foundation of China (NSFC). I am a member of IEEE and CCF. I was the recipient of RGC-HKPFS in 2017.
 
 <span class='anchor' id='education'></span>
 # 🎓 Education
@@ -34,6 +34,7 @@ I am currently serving as **Associate Editor** for IEEE Open Journal of the Comp
 <span class='anchor' id='news'></span>
 # 🔥 News
 - 🎉🎉 We have some fully funded openings for **PhD Student**, **Postdoctoral Researcher**, and **Research Assistant** to work and have fun together on multiple research projects. Drop me an email (jc-jingcai.guo@polyu.edu.hk) with your complete CV if you are interested. Candidates with strong programming and mathematics backgrounds are preferred. **Visiting Students/Researchers** (onsite/remote) are also welcome!
+- *2024.01*: &nbsp; [Conference] Serve as Area Chair for <a href="https://icml.cc/Conferences/2024/CallForPapers">ICML 2024</a>.
 - *2024.01*: &nbsp; [Conference] Serve as Area Chair for <a href="https://2024.acmmm.org/">ACM-MM 2024</a>.
 - *2023.12*: &nbsp; [Supervision] Congratulations to <a href = "https://keepgoingjkg.github.io/about/">Miaoge Li</a> and <a href = "https://cseeyangchen.github.io/">Yang Chen</a> for being granted the Ph.D. offer from PolyU.
 - *2023.12*: &nbsp; [Editorship] Serve as Associate Editor for <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8782664">IEEE Open Journal of the Computer Society (IEEE OJ-CS)</a>.
@@ -279,8 +280,9 @@ In *Proceedings of the Twenty-Eighth ACM International Conference on Multimedia*
 <span class='anchor' id='services'></span>
 # 👔 Services
 
-##  Conference Organizing
+##  Conference Service
 
+- **Area Chair:** The 41st International Conference on Machine Learning (**ICML** 2024)
 - **Area Chair:** The 32nd ACM International Conference on Multimedia (**ACM-MM** 2024)
 - **Session Chair:** The 98th IEEE Vehicular Technology Conference (**VTC** 2023 Fall)
 - **Publicity Chair:** The 41st IEEE International Symposium on Reliable Distributed Systems (**SRDS** 2022)

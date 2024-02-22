@@ -155,7 +155,7 @@ In *Proceedings of the Twenty-Eighth ACM International Conference on Multimedia*
 <!-- **<font color=Blue><font size=4>Topic-3: Applications</font></font>** -->
 
 - [**Learning Personalized Causally Invariant Representations for Heterogeneous Federated Clients**](),<br>
-  X. Tang, S. Guo, J. Zhang, and **<u><font size=4>J. Guo<sup>#</sup></font></u>**,<br>
+  X. Tang, S. Guo, J. Zhang, and **<u><font size=4>J. Guo</font></u>**,<br>
   In *Proceedings of the Twelfth International Conference on Learning Representations* (**<font color=Blue>ICLR</font>**, CCF-A/Core-A*), 2024.
 
 - [**On the Robustness of Neural-enhanced Video Streaming Against Adversarial Attacks**](),<br>

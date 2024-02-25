@@ -158,6 +158,10 @@ In *Proceedings of the Twenty-Eighth ACM International Conference on Multimedia*
   X. Tang, S. Guo, J. Zhang, and **<u><font size=4>J. Guo</font></u>**,<br>
   In *Proceedings of the Twelfth International Conference on Learning Representations* (**<font color=Blue>ICLR</font>**, CCF-A/Core-A*), 2024.
 
+- [**Multi-modal Dual-embedding Networks for Malware Open-set Recognition**](),<br>
+  **<u><font size=4>J. Guo</font></u>**, H. Wang, Y. Xu, W. Xu, Y. Zhan, Y. Sun, and S. Guo,<br>
+  *IEEE Transactions on Neural Networks and Learning Systems* (**<font color=Blue>TNNLS</font>**, JCR-Q1/中科院1区Top), 2024.
+
 - [**On the Robustness of Neural-enhanced Video Streaming Against Adversarial Attacks**](),<br>
   Q. Zhou, **<u><font size=4>J. Guo<sup>#</sup></font></u>**, S. Guo, R. Li, J. Zhang, B. Wang, Z. Xu,<br>
   In *Proceedings of the Thirty-Eighth AAAI Conference on Artificial Intelligence* (**<font color=Blue>AAAI</font>**, CCF-A/Core-A*), 2024.

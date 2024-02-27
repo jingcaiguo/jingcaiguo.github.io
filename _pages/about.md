@@ -95,7 +95,7 @@ In *Proceedings of the Thirty-Seventh AAAI Conference on Artificial Intelligence
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2023</div><img src='images/cvpr23-mlzsl.png' alt="sym" width=350px></div></div>
 <div class='paper-box-text' markdown="1">
-[**$(ML)^2$P-Encoder: On Exploration of Channel-class Correlation for Multi-Label Zero-Shot Learning,**](https://openaccess.thecvf.com/content/CVPR2023/papers/Liu_ML2P-Encoder_On_Exploration_of_Channel-Class_Correlation_for_Multi-Label_Zero-Shot_Learning_CVPR_2023_paper.pdf)
+[**(ML)$^2$P-Encoder: On Exploration of Channel-Class Correlation for Multi-Label Zero-Shot Learning,**](https://openaccess.thecvf.com/content/CVPR2023/papers/Liu_ML2P-Encoder_On_Exploration_of_Channel-Class_Correlation_for_Multi-Label_Zero-Shot_Learning_CVPR_2023_paper.pdf)
 
 Z. Liu, S. Guo, X. Lu, **<u><font size=4>J. Guo<sup>#</sup></font></u>**, J. Zhang, Y. Zeng, F. Huo,
 

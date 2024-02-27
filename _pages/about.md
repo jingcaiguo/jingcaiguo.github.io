@@ -150,7 +150,7 @@ In *Proceedings of the Twenty-Eighth ACM International Conference on Multimedia*
 ## Selected Papers \[“ # ” is marked if I am the Corresponding Author(s)\]
 
 
-**<font color=Blue><font size=4>\[Topic-1: Learning from "Limited Data"\]</font></font>**
+**<font color=Blue><font size=4>Topic-1: Learning from "Limited Data"</font></font>**
 
 - [**C$^2$KD: Bridging the Modality Gap for Cross-Modal Knowledge Distillation**](),<br>
   F. Huo, W. Xu, **<u><font size=4>J. Guo</font></u>**, H. Wang, and Song Guo,<br>

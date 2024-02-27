@@ -101,7 +101,7 @@ Z. Liu, S. Guo, X. Lu, **<u><font size=4>J. Guo<sup>#</sup></font></u>**, J. Zha
 
 In *Proceedings of the Thirty-Fourth IEEE/CVF Conference on Computer Vision and Pattern Recognition* (**<font color=Blue>CVPR</font>**, CCF-A/Core-A*), 2023.
 
-**Contribution**: We first suggest the concept of channel-class correlation in multi-label zero-shot learning and design a channel-sensitive attention module $(ML)^2$ P-Encoder to extract and preserve channel-wise semantics.
+**Contribution**: We first suggest the concept of channel-class correlation in multi-label zero-shot learning and design a channel-sensitive attention module, i.e., (ML)$^2$P-Encoder, to extract and preserve channel-wise semantics.
 </div>
 </div>
 

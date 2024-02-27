@@ -154,6 +154,14 @@ In *Proceedings of the Twenty-Eighth ACM International Conference on Multimedia*
 <!-- **<font color=Blue><font size=4>Topic-2: Learning with Constrained Computing Resource</font></font>** -->
 <!-- **<font color=Blue><font size=4>Topic-3: Applications</font></font>** -->
 
+- [**C$^2$KD: Bridging the Modality Gap for Cross-Modal Knowledge Distillation**](),<br>
+  F. Huo, W. Xu, **<u><font size=4>J. Guo</font></u>**, H. Wang, and Song Guo,<br>
+  In *Proceedings of the Thirty-Fifth IEEE/CVF Conference on Computer Vision and Pattern Recognition* (**<font color=Blue>CVPR</font>**, CCF-A/Core-A*), 2024.
+
+- [**DiPrompT: Disentangled Prompt Tuning for Multiple Latent Domain Generalization in Federated Learning**](),<br>
+  S. Bai, J. Zhang, S. Guo, S. Li, **<u><font size=4>J. Guo</font></u>**, J. Hou, T. Han, and X. Lu,<br>
+  In *Proceedings of the Thirty-Fifth IEEE/CVF Conference on Computer Vision and Pattern Recognition* (**<font color=Blue>CVPR</font>**, CCF-A/Core-A*), 2024.
+
 - [**Learning Personalized Causally Invariant Representations for Heterogeneous Federated Clients**](),<br>
   X. Tang, S. Guo, J. Zhang, and **<u><font size=4>J. Guo</font></u>**,<br>
   In *Proceedings of the Twelfth International Conference on Learning Representations* (**<font color=Blue>ICLR</font>**, CCF-A/Core-A*), 2024.

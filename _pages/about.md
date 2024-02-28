@@ -66,7 +66,7 @@ I am currently serving as **Associate Editor** for IEEE Open Journal of the Comp
 - <a href = "https://cseeyangchen.github.io/">Yang Chen</a> (UESTC), Incoming Ph.D. Student (Sept 2024-)
 - <a href = "https://zjrao.github.io/">Zhijie Rao</a> (Xiamen University), Research Assistant (Sept 2023-May 2024) & Incoming Ph.D. Student (May 2024-)
 - <a href = "">Junyang Chen</a> (Assistant Professor at Shenzhen University), Visiting Scholar (Mar 2024-)
-- <a href = "https://mirrorigin.github.io/">Jingming Liang</a> (HUST), Research Assistant (Sept 2023-), Next Stop: Ph.D. Student at the University of Lowa (Sept 2024-)
+- <a href = "https://mirrorigin.github.io/">Jingming Liang</a> (HUST), Research Assistant (Sept 2023-), Next Stop: Ph.D. Student at University of Lowa (Sept 2024-)
 
 ## Undergraduate Students
 - Zhiyu Wang, B.Sc. (PolyU), Capstone Project (Sept 2023-)

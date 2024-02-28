@@ -148,10 +148,10 @@ In *Proceedings of the Twenty-Eighth ACM International Conference on Multimedia*
 </div>
 
 ## Selected Papers 
-\[ **#:** Corresponding Author, **‡:** Supervised Student, **†:** Collaborating Student \]
+\[ **#**: Corresponding Author, **‡**: Supervising Student, **†**: Collaborating Student \]
 
 - [**C$^2$KD: Bridging the Modality Gap for Cross-Modal Knowledge Distillation**](),<br>
-  F. Huo, W. Xu, **<u><font size=4>J. Guo</font></u>**, H. Wang, and Song Guo,<br>
+  F. Huo<sup>‡</sup>, W. Xu, **<u><font size=4>J. Guo</font></u>**, H. Wang, and Song Guo,<br>
   In *Proceedings of the Thirty-Fifth IEEE/CVF Conference on Computer Vision and Pattern Recognition* (**<font color=Blue>CVPR</font>**, CCF-A/Core-A*), **2024**.
  
 - [**DiPrompT: Disentangled Prompt Tuning for Multiple Latent Domain Generalization in Federated Learning**](),<br>

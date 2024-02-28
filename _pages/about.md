@@ -76,8 +76,9 @@ I am currently serving as **Associate Editor** for IEEE Open Journal of the Comp
 - Junchen Yue, B.Sc. (PolyU), Capstone Project (Sept 2023-)
 
 <span class='anchor' id='publications'></span>
-# 📚 Publications 
+# 📚 Selected Publications 
 
+<!--
 ## 🎙 Five Representative Papers \[“ # ” is marked if I am the Corresponding Author(s)\]
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2023</div><img src='images/aaai23-zsl.png' alt="sym" width=255px></div></div>
@@ -146,6 +147,7 @@ In *Proceedings of the Twenty-Eighth ACM International Conference on Multimedia*
 **Contribution**: We introduce the dual-view attention networks to improve the restoration ability of high-frequency information for CNNs-based single-image super-resolution models that can obtain better quantitative performance along with more visually pleasing images.
 </div>
 </div>
+-->
 
 ## Selected Papers 
 \[ **#**: Corresponding Author, **‡**: Supervising Student, **†**: Collaborating Student \]
@@ -255,7 +257,6 @@ In *Proceedings of the Twenty-Eighth ACM International Conference on Multimedia*
   **<u><font size=4>J. Guo</font></u>**, S. Guo,<br>
   In *Proceedings of the Twentieth IEEE International Conference on Multimedia and Expo* (**<font color=Blue>ICME</font>**, CCF-B/Core-A), **2019**.
  
-
 ## Selected Books/Chapters
 
 - [**Application: Image-Based Visual Perception**](),<br>

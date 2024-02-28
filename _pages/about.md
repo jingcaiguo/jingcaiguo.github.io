@@ -228,11 +228,11 @@ In *Proceedings of the Twenty-Eighth ACM International Conference on Multimedia*
   (<font color=Blue>Outstanding Paper Award of</font> [<font color=Blue>GDCA</font>](http://www.gdcomf.com/))
  
 - [**INT8 Training with Loss-Aware Compensation and Backward Quantization for Tiny On-Device Learning**](),<br>
-  Q. Zhou<sup>†</sup>, S. Guo, Z. Qu, **<u><font size=4>J. Guo</font></u>**, Z. Xu, J. Zhang, T. Guo, B. Luo, J. Zhou,<br>
+  Q. Zhou, S. Guo, Z. Qu, **<u><font size=4>J. Guo</font></u>**, Z. Xu, J. Zhang, T. Guo, B. Luo, J. Zhou,<br>
   In *Proceedings of the 2021 USENIX Annual Technical Conference* (**<font color=Blue>USENIX-ATC</font>**, CCF-A/Core-A*), **2021**.
  
 - [**On-Device Learning Systems for Edge Intelligence: A Software and Hardware Synergy Perspective**](),<br>
-  Q. Zhou<sup>†</sup>, Z. Qu, S. Guo, B. Luo, **<u><font size=4>J. Guo</font></u>**, Z. Xu, R. Akerkar,<br>
+  Q. Zhou, Z. Qu, S. Guo, B. Luo, **<u><font size=4>J. Guo</font></u>**, Z. Xu, R. Akerkar,<br>
   *IEEE Internet of Things Journal* (**<font color=Blue>IoT-J</font>**, JCR-Q1), **2021**.
  
 - [**Dual-View Attention Networks for Single Image Super-Resolution**](https://dl.acm.org/doi/10.1145/3394171.3413613),<br>

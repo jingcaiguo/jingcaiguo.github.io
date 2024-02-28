@@ -260,7 +260,7 @@ In *Proceedings of the Twenty-Eighth ACM International Conference on Multimedia*
 ## Selected Books/Chapters
 
 - [**Application: Image-Based Visual Perception**](),<br>
-  **<u><font size=4>J. Guo</font></u>**, Z. Liu,<br>
+  **<u><font size=4>J. Guo</font></u>**, and Z. Liu,<br>
   *Machine Learning on Commodity Tiny Devices*, edited by S. Guo&Q. Zhou, CRC Press, **2022**.
 
 <span class='anchor' id='grants'></span>

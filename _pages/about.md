@@ -152,7 +152,7 @@ In *Proceedings of the Twenty-Eighth ACM International Conference on Multimedia*
 -->
 
 ## Selected Papers 
-\[ **#**: Corresponding Author, **‡**: Supervising Student, **†**: Collaborating Student \]
+**\[** **Remarks:** **#**- **Corresponding Author**, **‡**- **Supervising Student**, and **†**- **Collaborating Student** **\]**
 
 - [**C$^2$KD: Bridging the Modality Gap for Cross-Modal Knowledge Distillation**](),<br>
   F. Huo<sup>†</sup>, W. Xu, **<u><font size=4>J. Guo</font></u>**, H. Wang, and Song Guo,<br>

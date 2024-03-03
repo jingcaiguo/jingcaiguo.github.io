@@ -168,7 +168,7 @@ In *Proceedings of the Twenty-Eighth ACM International Conference on Multimedia*
  
 - [**Multi-modal Dual-embedding Networks for Malware Open-set Recognition**](),<br>
   **<u><font size=4>J. Guo</font></u>**, H. Wang, Y. Xu, W. Xu, Y. Zhan, Y. Sun, and S. Guo,<br>
-  *IEEE Transactions on Neural Networks and Learning Systems* (**<font color=Blue>TNNLS</font>**, JCR-Q1), **2024**.
+  *IEEE Transactions on Neural Networks and Learning Systems* (**<font color=Blue>TNNLS</font>**, JCR-Q1), **2024**, To appear.
  
 - [**On the Robustness of Neural-enhanced Video Streaming Against Adversarial Attacks**](),<br>
   Q. Zhou<sup>†</sup>, **<u><font size=4>J. Guo<sup>#</sup></font></u>**, S. Guo, R. Li, J. Zhang, B. Wang, Z. Xu,<br>
@@ -184,7 +184,7 @@ In *Proceedings of the Twenty-Eighth ACM International Conference on Multimedia*
  
 - [**PASS: Patch Automatic Skip Scheme for Efficient On-device Video Perception**](),<br>
   Q. Zhou<sup>†</sup>, S. Guo, J. Pan, J. Liang, **<u><font size=4>J. Guo<sup>#</sup></font></u>**, Z. Xu, J. Zhou,<br>
-  *IEEE Transactions on Pattern Analysis and Machine Intelligence* (**<font color=Blue>TPAMI</font>**, JCR-Q1), **2024**.
+  *IEEE Transactions on Pattern Analysis and Machine Intelligence* (**<font color=Blue>TPAMI</font>**, JCR-Q1), **2024**, To appear.
  
 - [**(ML)$^2$P-Encoder: On Exploration of Channel-Class Correlation for Multi-Label Zero-Shot Learning**](https://openaccess.thecvf.com/content/CVPR2023/papers/Liu_ML2P-Encoder_On_Exploration_of_Channel-Class_Correlation_for_Multi-Label_Zero-Shot_Learning_CVPR_2023_paper.pdf),<br>
   Z. Liu<sup>†</sup>, S. Guo, X. Lu<sup>†</sup>, **<u><font size=4>J. Guo<sup>#</sup></font></u>**, J. Zhang, Y. Zeng, F. Huo,<br>

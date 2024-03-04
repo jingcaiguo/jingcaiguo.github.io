@@ -156,15 +156,15 @@ In *Proceedings of the Twenty-Eighth ACM International Conference on Multimedia*
 
 - [**C$^2$KD: Bridging the Modality Gap for Cross-Modal Knowledge Distillation**](),<br>
   F. Huo<sup>†</sup>, W. Xu, **<u><font size=4>J. Guo</font></u>**, H. Wang, and Song Guo,<br>
-  In *Proceedings of the Thirty-Fifth IEEE/CVF Conference on Computer Vision and Pattern Recognition* (**<font color=Blue>CVPR</font>**, CCF-A/Core-A*), **2024**.
+  *IEEE/CVF Conference on Computer Vision and Pattern Recognition* (**<font color=Blue>CVPR</font>**, CCF-A/Core-A*), **2024**.
  
 - [**DiPrompT: Disentangled Prompt Tuning for Multiple Latent Domain Generalization in Federated Learning**](),<br>
   S. Bai, J. Zhang, S. Guo, S. Li, **<u><font size=4>J. Guo</font></u>**, J. Hou, T. Han, and X. Lu,<br>
-  In *Proceedings of the Thirty-Fifth IEEE/CVF Conference on Computer Vision and Pattern Recognition* (**<font color=Blue>CVPR</font>**, CCF-A/Core-A*), **2024**.
+  *IEEE/CVF Conference on Computer Vision and Pattern Recognition* (**<font color=Blue>CVPR</font>**, CCF-A/Core-A*), **2024**.
  
 - [**Learning Personalized Causally Invariant Representations for Heterogeneous Federated Clients**](),<br>
   X. Tang<sup>†</sup>, S. Guo, J. Zhang<sup>†</sup>, and **<u><font size=4>J. Guo</font></u>**,<br>
-  In *Proceedings of the Twelfth International Conference on Learning Representations* (**<font color=Blue>ICLR</font>**, CCF-A/Core-A*), **2024**.
+  *International Conference on Learning Representations* (**<font color=Blue>ICLR</font>**, CCF-A/Core-A*), **2024**.
  
 - [**Multi-modal Dual-embedding Networks for Malware Open-set Recognition**](),<br>
   **<u><font size=4>J. Guo</font></u>**, H. Wang, Y. Xu, W. Xu, Y. Zhan, Y. Sun, and S. Guo,<br>
@@ -172,15 +172,15 @@ In *Proceedings of the Twenty-Eighth ACM International Conference on Multimedia*
  
 - [**On the Robustness of Neural-enhanced Video Streaming Against Adversarial Attacks**](),<br>
   Q. Zhou<sup>†</sup>, **<u><font size=4>J. Guo<sup>#</sup></font></u>**, S. Guo, R. Li, J. Zhang, B. Wang, Z. Xu,<br>
-  In *Proceedings of the Thirty-Eighth AAAI Conference on Artificial Intelligence* (**<font color=Blue>AAAI</font>**, CCF-A/Core-A*), **2024**.
+  *AAAI Conference on Artificial Intelligence* (**<font color=Blue>AAAI</font>**, CCF-A/Core-A*), **2024**.
  
 - [**ProCC: Progressive Cross-primitive Compatibility for Open-World Compositional Zero-Shot Learning**](),<br>
   F. Huo<sup>†</sup>, W. Xu, S. Guo, **<u><font size=4>J. Guo<sup>#</sup></font></u>**, H. Wang, Z. Liu, X. Lu,<br>
-  In *Proceedings of the Thirty-Eighth AAAI Conference on Artificial Intelligence* (**<font color=Blue>AAAI</font>**, CCF-A/Core-A*), **2024**.
+  *AAAI Conference on Artificial Intelligence* (**<font color=Blue>AAAI</font>**, CCF-A/Core-A*), **2024**.
  
 - [**Non-Exemplar Online Class-incremental Continual Learning via Dual-prototype Self-augment and Refinement**](),<br>
   F. Huo<sup>†</sup>, W. Xu, **<u><font size=4>J. Guo</font></u>**, H. Wang, Y. Fan,<br>
-  In *Proceedings of the Thirty-Eighth AAAI Conference on Artificial Intelligence* (**<font color=Blue>AAAI</font>**, CCF-A/Core-A*), **2024**.
+  *AAAI Conference on Artificial Intelligence* (**<font color=Blue>AAAI</font>**, CCF-A/Core-A*), **2024**.
  
 - [**PASS: Patch Automatic Skip Scheme for Efficient On-device Video Perception**](),<br>
   Q. Zhou<sup>†</sup>, S. Guo, J. Pan, J. Liang, **<u><font size=4>J. Guo<sup>#</sup></font></u>**, Z. Xu, J. Zhou,<br>
@@ -188,15 +188,15 @@ In *Proceedings of the Twenty-Eighth ACM International Conference on Multimedia*
  
 - [**(ML)$^2$P-Encoder: On Exploration of Channel-Class Correlation for Multi-Label Zero-Shot Learning**](https://openaccess.thecvf.com/content/CVPR2023/papers/Liu_ML2P-Encoder_On_Exploration_of_Channel-Class_Correlation_for_Multi-Label_Zero-Shot_Learning_CVPR_2023_paper.pdf),<br>
   Z. Liu<sup>†</sup>, S. Guo, X. Lu<sup>†</sup>, **<u><font size=4>J. Guo<sup>#</sup></font></u>**, J. Zhang, Y. Zeng, F. Huo,<br>
-  In *Proceedings of the Thirty-Fourth IEEE/CVF Conference on Computer Vision and Pattern Recognition* (**<font color=Blue>CVPR</font>**, CCF-A/Core-A*), **2023**.
+  *IEEE/CVF Conference on Computer Vision and Pattern Recognition* (**<font color=Blue>CVPR</font>**, CCF-A/Core-A*), **2023**.
  
 - [**Decomposed Soft Prompt Guided Fusion Enhancing for Compositional Zero-Shot Learning**](https://openaccess.thecvf.com/content/CVPR2023/papers/Lu_Decomposed_Soft_Prompt_Guided_Fusion_Enhancing_for_Compositional_Zero-Shot_Learning_CVPR_2023_paper.pdf),<br>
   X. Lu<sup>†</sup>, S. Guo, Z. Liu<sup>†</sup>, **<u><font size=4>J. Guo<sup>#</sup></font></u>**,<br>
-  In *Proceedings of the Thirty-Fourth IEEE/CVF Conference on Computer Vision and Pattern Recognition* (**<font color=Blue>CVPR</font>**, CCF-A/Core-A*), **2023**.
+  *IEEE/CVF Conference on Computer Vision and Pattern Recognition* (**<font color=Blue>CVPR</font>**, CCF-A/Core-A*), **2023**.
  
 - [**Graph Knows Unknowns: Reformulate Zero-Shot Learning as Sample-Level Graph Recognition**](https://ojs.aaai.org/index.php/AAAI/article/view/25942),<br>
   **<u><font size=4>J. Guo</font></u>**, S. Guo, Q. Zhou, Z. Liu, X. Lu, F. Huo,<br>
-  In *Proceedings of the Thirty-Seventh AAAI Conference on Artificial Intelligence* (**<font color=Blue>AAAI</font>**, CCF-A/Core-A*), **2023**.
+  *AAAI Conference on Artificial Intelligence* (**<font color=Blue>AAAI</font>**, CCF-A/Core-A*), **2023**.
  
 - [**UTDNet: A Unified Triplet Decoder Network for Multimodal Salient Object Detection**](),<br>
   F. Huo<sup>†</sup>, Z. Liu<sup>†</sup>, **<u><font size=4>J. Guo<sup>#</sup></font></u>**, W. Xu, S. Guo,<br>
@@ -212,15 +212,15 @@ In *Proceedings of the Twenty-Eighth ACM International Conference on Multimedia*
  
 - [**Hwamei: A Learning-Based Aggregation Framework for Hierarchical Federated Learning System**](),<br>
   T. Qi, Y. Zhan, P. Li, **<u><font size=4>J. Guo</font></u>**, Y. Xia,<br>
-  In *Proceedings of the Fouty-Third IEEE International Conference on Distributed Computing Systems* (**<font color=Blue>ICDCS</font>**, CCF-B/Core-A), **2023**.
+  *IEEE International Conference on Distributed Computing Systems* (**<font color=Blue>ICDCS</font>**, CCF-B/Core-A), **2023**.
  
 - [**Towards Fairer and More Efficient Federated Learning via Multidimensional Personalized Edge Models**](),<br>
   Y. Wang<sup>†</sup>, **<u><font size=4>J. Guo</font></u>**, J. Zhang, S. Guo, W. Zhang, Q. Zheng,<br>
-  In *Proceedings of the 2023 International Joint Conference on Neural Networks* (**<font color=Blue>IJCNN</font>**, CCF-C/Core-B), **2023**.
+  *International Joint Conference on Neural Networks* (**<font color=Blue>IJCNN</font>**, CCF-C/Core-B), **2023**.
 
 - [**Personalized Federated Learning with Contextualized Generalization**](https://www.ijcai.org/proceedings/2022/0311.pdf),<br>
   X. Tang<sup>†</sup>, S. Guo, **<u><font size=4>J. Guo<sup>#</sup></font></u>**,<br>
-  In *Proceedings of the Thirty-First International Joint Conference on Artificial Intelligence* (**<font color=Blue>IJCAI</font>**, CCF-A/Core-A*), **2022**.
+  *International Joint Conference on Artificial Intelligence* (**<font color=Blue>IJCAI</font>**, CCF-A/Core-A*), **2022**.
  
 - [**Towards Unbiased Multi-Label Zero-Shot Learning with Pyramid and Semantic Attention**](),<br>
   Z. Liu<sup>†</sup>, S. Guo, **<u><font size=4>J. Guo<sup>#</sup></font></u>**, Y. Xu, F. Huo,<br>
@@ -233,7 +233,7 @@ In *Proceedings of the Twenty-Eighth ACM International Conference on Multimedia*
  
 - [**INT8 Training with Loss-Aware Compensation and Backward Quantization for Tiny On-Device Learning**](),<br>
   Q. Zhou, S. Guo, Z. Qu, **<u><font size=4>J. Guo</font></u>**, Z. Xu, J. Zhang, T. Guo, B. Luo, J. Zhou,<br>
-  In *Proceedings of the 2021 USENIX Annual Technical Conference* (**<font color=Blue>USENIX-ATC</font>**, CCF-A/Core-A*), **2021**.
+  *USENIX Annual Technical Conference* (**<font color=Blue>USENIX-ATC</font>**, CCF-A/Core-A*), **2021**.
  
 - [**On-Device Learning Systems for Edge Intelligence: A Software and Hardware Synergy Perspective**](),<br>
   Q. Zhou, Z. Qu, S. Guo, B. Luo, **<u><font size=4>J. Guo</font></u>**, Z. Xu, R. Akerkar,<br>
@@ -241,7 +241,7 @@ In *Proceedings of the Twenty-Eighth ACM International Conference on Multimedia*
  
 - [**Dual-View Attention Networks for Single Image Super-Resolution**](https://dl.acm.org/doi/10.1145/3394171.3413613),<br>
   **<u><font size=4>J. Guo</font></u>**, S. Ma, J. Zhang, Q. Zhou, S. Guo,<br>
-  In *Proceedings of the Twenty-Eighth ACM International Conference on Multimedia* (**<font color=Blue>ACM-MM</font>**, CCF-A/Core-A*), **2020**.
+  *ACM International Conference on Multimedia* (**<font color=Blue>ACM-MM</font>**, CCF-A/Core-A*), **2020**.
  
 - [**A Novel Perspective to Zero-Shot Learning: Towards an Alignment of Manifold Structures via Semantic Feature Expansion**](),<br>
   **<u><font size=4>J. Guo</font></u>**, S. Guo,<br>
@@ -249,15 +249,15 @@ In *Proceedings of the Twenty-Eighth ACM International Conference on Multimedia*
  
 - [**Adaptive Adjustment with Semantic Feature Space for Zero-Shot Recognition**](),<br>
   **<u><font size=4>J. Guo</font></u>**, S. Guo,<br>
-  In *Proceedings of the Forty-Fourth IEEE International Conference on Acoustics, Speech, and Signal Processing* (**<font color=Blue>ICASSP</font>**, CCF-B/Core-B), **2019**.
+  *IEEE International Conference on Acoustics, Speech, and Signal Processing* (**<font color=Blue>ICASSP</font>**, CCF-B/Core-B), **2019**.
  
 - [**EE-AE: An Exclusivity Enhanced Unsupervised Feature Learning Approach**](),<br>
   **<u><font size=4>J. Guo</font></u>**, S. Guo,<br>
-  In *Proceedings of the Forty-Fourth IEEE International Conference on Acoustics, Speech, and Signal Processing* (**<font color=Blue>ICASSP</font>**, CCF-B/Core-B), **2019**.
+  *IEEE International Conference on Acoustics, Speech, and Signal Processing* (**<font color=Blue>ICASSP</font>**, CCF-B/Core-B), **2019**.
  
 - [**AMS-SFE: Towards an Alignment of Manifold Structures via Semantic Feature Expansion for Zero-Shot Learning**](),<br>
   **<u><font size=4>J. Guo</font></u>**, S. Guo,<br>
-  In *Proceedings of the Twentieth IEEE International Conference on Multimedia and Expo* (**<font color=Blue>ICME</font>**, CCF-B/Core-A), **2019**.
+  *IEEE International Conference on Multimedia and Expo* (**<font color=Blue>ICME</font>**, CCF-B/Core-A), **2019**.
  
 ## Selected Books/Chapters
 

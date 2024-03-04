@@ -1,7 +1,7 @@
 # main links links
 main:
   - title: "About"
-    url: "/#-about-me"
+    url: "/#-about"
 
   - title: "Group"
     url: "/#-group"
@@ -22,7 +22,7 @@ main:
     url: "/#-services"       
 
   - title: "Selected Honors"
-    url: "/#-selected-honors"
+    url: "/#-honors"
 
   - title: "Sponsors"
     url: "/#-sponsors"

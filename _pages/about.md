@@ -79,7 +79,6 @@ I am currently serving as **Associate Editor** for IEEE Open Journal of the Comp
 
 <span class='anchor' id='publications'></span>
 # 📚 Selected Publications 
-
 ## Selected Papers 
 **\[** **Remarks:** **#**- **Corresponding Author**, **‡**- **Supervising Student**, and **†**- **Collaborating Student** **\]**
 

@@ -15,7 +15,7 @@ redirect_from:
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
-<span class='anchor' id='about-me'></span>
+<span class='anchor' id='about'></span>
 
 I am a Research Assistant Professor with Department of Computing, <a href = "https://www.polyu.edu.hk/comp/people/academic-staff/dr-guo-jingcai/">Hong Kong Polytechnic University</a>, Hong Kong SAR, where I received my Ph.D. degree under the supervision of <a href = "https://scholar.google.com/citations?user=Ib-sizwAAAAJ&hl=en">Prof. Song Guo</a> in Dec. 2020. Prior to that, I received my M.Eng. degree (2015) from <a href = "https://www.waseda.jp/top/">Waseda University</a>, Japan, under the supervision of <a href = "https://www.waseda.jp/top/">Prof. Takayuki Furuzuki</a>, and B.Eng. degree (2013) from <a href = "http://en.scu.edu.cn/">Sichuan University</a>, China, all in Computer Science. From 2021 to 2022, I was an Associate Professor with School of Computing and Artificial Intelligence, <a href ="https://e.swufe.edu.cn/">SWUFE</a>, China, and from 2019 to 2020, I was a Visiting Ph.D./Researcher under the supervision of <a href ="https://scholar.google.com/citations?user=RwlJNLcAAAAJ&hl=en">Prof. Dacheng Tao</a>, with School of Computer Science, <a href = "https://sydney.edu.au/">The University of Sydney</a>, Australia.
 
@@ -264,7 +264,7 @@ I am currently serving as **Associate Editor** for IEEE Open Journal of the Comp
 - Reviewer for IEEE Transactions on Emerging Topics in Computing (**IEEE TETC**)
 - Reviewer for ACM Computing Surveys (**ACM CSUR**)
 
-<span class='anchor' id='selected-honors'></span>
+<span class='anchor' id='honors'></span>
 # 🎖 Selected Honors
 - **Hong Kong Ph.D. Fellowship (2017),**<br>
   Funding source: Hong Kong Research Grants Council (acceptance rate ~= 1.7%, 231 out of 14000).

@@ -191,7 +191,7 @@ I am currently serving as **Associate Editor** for IEEE Open Journal of the Comp
 
 - [**Application: Image-Based Visual Perception**](),<br>
   **<u><font size=4>J. Guo</font></u>**, and Z. Liu,<br>
-  *Machine Learning on Commodity Tiny Devices*, edited by S. Guo&Q. Zhou, CRC Press, **2022**.
+  *Machine Learning on Commodity Tiny Devices*, CRC Press (ISBN 9781003340225), **2022**.
 
 <span class='anchor' id='grants'></span>
 # 💰 Grants

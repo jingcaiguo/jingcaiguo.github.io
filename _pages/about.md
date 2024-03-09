@@ -91,7 +91,7 @@ I am currently serving as **Associate Editor** for IEEE Open Journal of the Comp
   *IEEE/CVF Conference on Computer Vision and Pattern Recognition* (**<font color=Blue>CVPR</font>**, CCF-A/Core-A*), **2024**.
  
 - [**Learning Personalized Causally Invariant Representations for Heterogeneous Federated Clients**](),<br>
-  X. Tang<sup>†</sup>, S. Guo, J. Zhang<sup>†</sup>, and **<u><font size=4>J. Guo</font></u>**,<br>
+  X. Tang, S. Guo, J. Zhang<sup>†</sup>, and **<u><font size=4>J. Guo</font></u>**,<br>
   *International Conference on Learning Representations* (**<font color=Blue>ICLR</font>**, CCF-A/Core-A*), **2024**.
  
 - [**Multi-modal Dual-embedding Networks for Malware Open-set Recognition**](),<br>
@@ -147,7 +147,7 @@ I am currently serving as **Associate Editor** for IEEE Open Journal of the Comp
   *International Joint Conference on Neural Networks* (**<font color=Blue>IJCNN</font>**, CCF-C/Core-B), **2023**.
 
 - [**Personalized Federated Learning with Contextualized Generalization**](https://www.ijcai.org/proceedings/2022/0311.pdf),<br>
-  X. Tang<sup>†</sup>, S. Guo, **<u><font size=4>J. Guo<sup>#</sup></font></u>**,<br>
+  X. Tang, S. Guo, **<u><font size=4>J. Guo<sup>#</sup></font></u>**,<br>
   *International Joint Conference on Artificial Intelligence* (**<font color=Blue>IJCAI</font>**, CCF-A/Core-A*), **2022**.
  
 - [**Towards Unbiased Multi-Label Zero-Shot Learning with Pyramid and Semantic Attention**](),<br>

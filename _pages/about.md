@@ -83,7 +83,7 @@ I am currently serving as **Associate Editor** for IEEE Open Journal of the Comp
 **\[** **Remarks:** **#**- **Corresponding Author**, **‡**- **Supervising Student**, and **†**- **Collaborating Student** **\]**
 
 - [**C$^2$KD: Bridging the Modality Gap for Cross-Modal Knowledge Distillation**](),<br>
-  F. Huo<sup>†</sup>, W. Xu, **<u><font size=4>J. Guo</font></u>**, H. Wang, and Song Guo,<br>
+  F. Huo**<sup>†</sup>**, W. Xu, **<u><font size=4>J. Guo</font></u>**, H. Wang, and Song Guo,<br>
   *IEEE/CVF Conference on Computer Vision and Pattern Recognition* (**<font color=Blue>CVPR</font>**, CCF-A/Core-A*), **2024**.
  
 - [**DiPrompT: Disentangled Prompt Tuning for Multiple Latent Domain Generalization in Federated Learning**](),<br>

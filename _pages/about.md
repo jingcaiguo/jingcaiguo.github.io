@@ -68,6 +68,11 @@ I am currently serving as **Associate Editor** for IEEE Open Journal of the Comp
 - <a href = "">Junyang Chen</a> (Assistant Professor at Shenzhen University), Visiting Scholar (Mar 2024-)
 - <a href = "https://mirrorigin.github.io/">Jingming Liang</a> (HUST), Research Assistant (Sept 2023-), Next Stop: Ph.D. Student at University of Iowa (Sept 2024-)
 
+<div style="display: inline">
+this is a test
+</div>
+<img src="images/miaoge-li.jpg"/>
+
 <!--
 ## Undergraduate Students
 - Zhiyu Wang, B.Sc. (PolyU), Capstone Project (Sept 2023-)

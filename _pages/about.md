@@ -1,4 +1,4 @@
-![image](https://github.com/jingcaiguo/jingcaiguo.github.io/assets/39401384/d1380f0b-c6e5-47a2-a53a-b19d8dc86685)---
+---
 permalink: /
 title: ""
 excerpt: ""

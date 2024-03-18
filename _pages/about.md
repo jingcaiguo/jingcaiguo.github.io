@@ -1,4 +1,4 @@
----
+![image](https://github.com/jingcaiguo/jingcaiguo.github.io/assets/39401384/d1380f0b-c6e5-47a2-a53a-b19d8dc86685)---
 permalink: /
 title: ""
 excerpt: ""
@@ -24,7 +24,7 @@ I am generally interested in **Artificial Intelligence** in **"Edges"**, with an
 I am currently serving as **Associate Editor** for IEEE Open Journal of the Computer Society (IEEE OJ-CS) and **Guest Editor** for IEEE Transactions on Computational Social Systems (IEEE TCSS). I have served as **Publicity Chair** for SRDS 2022, and have served as **Area Chair** and/or **Session Chair** for prestigious conferences like ICML, ACM-MM, ICME, and VTC. Besides, I also regularly serve as **PC Member** and/or **Reviewer** for AAAI, CVPR, NeurIPS, ACM-MM, ICML, ICCV, ICME, ICASSP, ECCV, etc., and a series of IEEE transactions and journals such TNNLS, TMM, TMC, TKDE, TSUSC, JSAC, IoT-J, etc. I am a **Panel Reviewer** for the Young Scientists Fund of the National Natural Science Foundation of China (NSFC). I am a member of IEEE and CCF. I was the recipient of RGC-HKPFS in 2017.
 
 <span class='anchor' id='education'></span>
-# 🎓 Education
+# 🎓 Academic Qualifications
 
 - 2017-2020: Ph.D., The Hong Kong Polytechnic University (香港理工大学), Hong Kong🇭🇰 (Supervisor: <a href = "https://scholar.google.com/citations?user=Ib-sizwAAAAJ&hl=en">Prof. Song Guo</a>)
 - 2019-2020: Visiting Ph.D./Researcher, The University of Sydney (悉尼大学), Australia🇦🇺 (Supervisor: <a href ="https://scholar.google.com/citations?user=RwlJNLcAAAAJ&hl=en">Prof. Dacheng Tao</a>)

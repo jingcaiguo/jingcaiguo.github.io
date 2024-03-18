@@ -68,7 +68,7 @@ I am currently serving as **Associate Editor** for IEEE Open Journal of the Comp
 - <a href = "">Junyang Chen</a> (Assistant Professor at Shenzhen University), Visiting Scholar (Mar 2024-), *Chief Supervisor*.
 
 ## Alumni
-- <a href = "https://mirrorigin.github.io/">Jingming Liang</a> (HUST), Research Assistant (Sept 2023-Mar 2024), *Chief Supervisor*. Placement: Ph.D. Student at University of Iowa.
+- <a href = "https://mirrorigin.github.io/">Jingming Liang</a> (HUST), Research Assistant (Sept 2023-Mar 2024), *Chief Supervisor* \[Placement: Ph.D. Student at University of Iowa\].
 
 
 

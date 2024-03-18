@@ -61,7 +61,7 @@ I am currently serving as **Associate Editor** for IEEE Open Journal of the Comp
 
 **I am fortunate to supervise and work together with these gifted students/staffs:**
 
-## Research Students/Staffs
+## Research Students/Staffs (as Chief Supervisor)
 - <a href = "https://keepgoingjkg.github.io/about/">Miaoge Li</a> (Xidian University), Incoming Ph.D. Student (May 2024-)
 - <a href = "https://cseeyangchen.github.io/">Yang Chen</a> (UESTC), Incoming Ph.D. Student (Sept 2024-)
 - <a href = "https://zjrao.github.io/">Zhijie Rao</a> (Xiamen University), Research Assistant (Sept 2023-May 2024) & Incoming Ph.D. Student (May 2024-)

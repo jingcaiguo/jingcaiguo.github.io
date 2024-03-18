@@ -57,7 +57,7 @@ I am currently serving as **Associate Editor** for IEEE Open Journal of the Comp
 - *2021.10*: &nbsp; [Project] One NSFC Young Scientists Fund has been granted by <a href="https://www.nsfc.gov.cn/">National Natural Science Foundation of China (NSFC)</a>.
 
 <span class='anchor' id='group'></span>
-# 🌏 Group
+# 🌏 Team
 
 **I am fortunate to supervise and work together with these gifted students/staffs:**
 

@@ -88,7 +88,7 @@ I am currently serving as **Associate Editor** for IEEE Open Journal of the Comp
 <!--
 **\[** **Remarks:** **#**- **Corresponding Author**, **‡**- **Supervising Student**, and **†**- **Collaborating Student** **\]**
 -->
-**\[** **Remarks:** **#** - **Corresponding Author(s)**\]**
+**\[** **Remarks:** **#**- **Corresponding Author**. **\]**
 
 - [**C$^2$KD: Bridging the Modality Gap for Cross-Modal Knowledge Distillation**](),<br>
   F. Huo, W. Xu, **<u><font size=4>J. Guo</font></u>**, H. Wang, and Song Guo,<br>
@@ -104,7 +104,7 @@ I am currently serving as **Associate Editor** for IEEE Open Journal of the Comp
  
 - [**Multi-modal Dual-embedding Networks for Malware Open-set Recognition**](),<br>
   **<u><font size=4>J. Guo</font></u>**, H. Wang, Y. Xu, W. Xu, Y. Zhan, Y. Sun, and S. Guo,<br>
-  *IEEE Transactions on Neural Networks and Learning Systems* (**<font color=Blue>TNNLS</font>**, JCR-Q1), **2024**, To appear.
+  *IEEE Transactions on Neural Networks and Learning Systems* (**<font color=Blue>TNNLS</font>**, JCR-Q1), **2024**.
  
 - [**On the Robustness of Neural-enhanced Video Streaming Against Adversarial Attacks**](),<br>
   Q. Zhou, **<u><font size=4>J. Guo<sup>#</sup></font></u>**, S. Guo, R. Li, J. Zhang, B. Wang, Z. Xu,<br>

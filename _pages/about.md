@@ -241,7 +241,7 @@ I am currently serving as **Associate Editor** for IEEE Open Journal of the Comp
 ##  Journal Editorship
 
 - **Associate Editor:** IEEE Open Journal of the Computer Society (**IEEE OJ-CS**, 2023-)
-- **Guest Editor:** IEEE Transactions on Computational Social Systems (**IEEE TCSS**, Special Issue, 2023-)
+- **Guest Editor:** IEEE Transactions on Computational Social Systems (**IEEE TCSS**, 2023-)
 
 ## Conference PC Member/Reviewer
 

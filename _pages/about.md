@@ -33,7 +33,8 @@ I am currently serving as **Associate Editor** for IEEE Open Journal of the Comp
 
 <span class='anchor' id='news'></span>
 # 🔥 News
-- 🎉🎉 We have some fully funded openings for **PhD Student**, **Postdoctoral Researcher**, and **Research Assistant** to work and have fun together on multiple research projects. Drop me an email (jc-jingcai.guo@polyu.edu.hk) with your complete CV if you are interested. Candidates with strong programming and mathematics backgrounds are preferred. **Visiting Students/Researchers** (onsite/remote) are also welcome! 
+- 🎉🎉 We have some fully funded openings for **PhD Student**, **Postdoctoral Researcher**, and **Research Assistant** to work and have fun together on multiple research projects. Drop me an email (jc-jingcai.guo@polyu.edu.hk) with your complete CV if you are interested. Candidates with strong programming and mathematics backgrounds are preferred. **Visiting Students/Researchers** (onsite/remote) are also welcome!
+- *2024.03*: &nbsp; [Conference] Serve as Track Chair for <a href="https://events.vtsociety.org/vtc2024-fall/committees/technical-program-committee/">VTC2024-Fall</a>.
 - *2024.01*: &nbsp; [Supervision] Congratulations to <a href = "https://zjrao.github.io/">Zhijie Rao</a> for being granted the Ph.D. offer from PolyU.
 - *2024.01*: &nbsp; [Conference] Serve as Area Chair for <a href="https://icml.cc/Conferences/2024/CallForPapers">ICML 2024</a>.
 - *2024.01*: &nbsp; [Conference] Serve as Area Chair for <a href="https://2024.acmmm.org/">ACM-MM 2024</a>.

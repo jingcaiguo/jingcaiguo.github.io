@@ -83,6 +83,19 @@ I am currently serving as **Associate Editor** for IEEE Open Journal of the Comp
 - Junchen Yue, B.Sc. (PolyU), Capstone Project (Sept 2023-)
 -->
 
+
+<span class='anchor' id='grants'></span>
+# 💰 Grants
+
+- **<font color=Blue>[PI]:</font>** Empowering TinyML with Low-shot Learning for Edge AI Systems,<br>
+  Funding source: **General Research Fund (GRF)** of the Research Grants Council of Hong Kong, No.152211/23E, 2024-2026.
+  
+- **<font color=Blue>[PI]:</font>** Entity Anti-fraud Prediction Combining Zero-Shot Learning and Graph Neural Networks,<br>
+  Funding source: **Young Scientists Fund** of the National Natural Science Foundation of China (NSFC), No.62102327, 2022-2024.
+
+- **<font color=Blue>[PI]:</font>** Learning-Based Anti-Fraud Prevention in Financial Industry,<br>
+  Funding source: **Fundamental Research Funds** for the Central Universities, No.JBK21YJ04, 2021-2021.
+
 <span class='anchor' id='publications'></span>
 # 📚 Selected Publications 
 
@@ -355,17 +368,6 @@ I am currently serving as **Associate Editor** for IEEE Open Journal of the Comp
   **<font size=4>J. Guo</font>**, and Z. Liu,<br>
   *Machine Learning on Commodity Tiny Devices*, CRC Press (ISBN 9781003340225), **2022**.
 
-<span class='anchor' id='grants'></span>
-# 💰 Grants
-
-- **<font color=Blue>[PI]:</font>** Empowering TinyML with Low-shot Learning for Edge AI Systems,<br>
-  Funding source: **General Research Fund (GRF)** of the Research Grants Council of Hong Kong, No.152211/23E, 2024-2026.
-  
-- **<font color=Blue>[PI]:</font>** Entity Anti-fraud Prediction Combining Zero-Shot Learning and Graph Neural Networks,<br>
-  Funding source: **Young Scientists Fund** of the National Natural Science Foundation of China (NSFC), No.62102327, 2022-2024.
-
-- **<font color=Blue>[PI]:</font>** Learning-Based Anti-Fraud Prevention in Financial Industry,<br>
-  Funding source: **Fundamental Research Funds** for the Central Universities, No.JBK21YJ04, 2021-2021.
 
 <!--
 <span class='anchor' id='invited-talks'></span>

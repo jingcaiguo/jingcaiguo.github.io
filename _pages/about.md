@@ -86,12 +86,12 @@ I am currently serving as **Associate Editor** for IEEE Open Journal of the Comp
 <span class='anchor' id='publications'></span>
 # 📚 Selected Publications 
 
-## Selected Papers (remarks: # - Corresponding Author(s))
+## Selected Papers
 <!--
 **\[** **Remarks:** **#**- **Corresponding Author**, **‡**- **Supervising Student**, and **†**- **Collaborating Student** **\]**
 -->
 
-**\[** **Remarks:** **#**- **Corresponding Author**. **\]**
+**\[** **Remarks:** **#**- **Corresponding Author(s)**. **\]**
 
 ***<font size=4><font color=Blue>Learning from Limited Data</font></font>***
 

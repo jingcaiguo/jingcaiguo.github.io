@@ -93,7 +93,7 @@ I am currently serving as **Associate Editor** for IEEE Open Journal of the Comp
 
 **\[** **Remarks:** **#**- **Corresponding Author**. **\]**
 
-**<font color=Blue>Topic: Learning from Limited Data</font>**
+***<font size=4><font color=Blue>Learning from Limited Data</font></font>***
 
 - [**ParsNets: A Parsimonious Composition of Orthogonal and Low-Rank Linear Networks for Zero-Shot Learning**](),<br>
   **<font size=4>J. Guo<sup>#</sup></font>**, Q. Zhou, X. Lu, R. Li, Z. Liu, J. Zhang, B. Han, J. Chen, X. Xie, S. Guo,<br>
@@ -152,7 +152,9 @@ I am currently serving as **Associate Editor** for IEEE Open Journal of the Comp
 
 
 
-**<font color=Blue>Topic: Learning with Limited Computing Capability</font>**
+
+
+***<font size=4><font color=Blue>Learning with Limited Computing Capability</font></font>***
 
 - [**DiPrompT: Disentangled Prompt Tuning for Multiple Latent Domain Generalization in Federated Learning**](),<br>
   S. Bai, J. Zhang, S. Guo, S. Li, **<font size=4>J. Guo</font>**, J. Hou, T. Han, and X. Lu,<br>
@@ -199,7 +201,8 @@ I am currently serving as **Associate Editor** for IEEE Open Journal of the Comp
 
 
 
-**<font color=Blue>Topic: Application</font>**
+
+***<font size=4><font color=Blue>Application</font></font>***
 
 - [**Multi-modal Dual-embedding Networks for Malware Open-set Recognition**](),<br>
   **<font size=4>J. Guo</font>**, H. Wang, Y. Xu, W. Xu, Y. Zhan, Y. Sun, and S. Guo,<br>

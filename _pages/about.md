@@ -198,7 +198,7 @@ I am currently serving as **Associate Editor** for IEEE Open Journal of the Comp
 
 - [**Towards Fairer and More Efficient Federated Learning via Multidimensional Personalized Edge Models**](),<br>
   Y. Wang, **<font size=4>J. Guo</font>**, J. Zhang, S. Guo, W. Zhang, Q. Zheng,<br>
-  *International Joint Conference on Neural Networks* (**<font color=Blue>IJCNN</font>**, CCF-C/Core-B), **2023**.
+  *International Joint Conference on Neural Networks* (**<font color=Blue>IJCNN</font>**, Core-B), **2023**.
 
 - [**Personalized Federated Learning with Contextualized Generalization**](https://www.ijcai.org/proceedings/2022/0311.pdf),<br>
   X. Tang, S. Guo, **<font size=4>J. Guo<sup>#</sup></font>**,<br>

@@ -99,7 +99,7 @@ I am currently serving as **Associate Editor** for IEEE Open Journal of the Comp
 <span class='anchor' id='publications'></span>
 # 📚 Selected Publications 
 
-## Selected Peer-reviewed Papers
+## Selected Peer-reviewed Papers \[ #-: Corresponding Author(s) \]
 <!--
 **\[** **Remarks:** **#**- **Corresponding Author**, **‡**- **Supervising Student**, and **†**- **Collaborating Student** **\]**
 -->
@@ -107,9 +107,9 @@ I am currently serving as **Associate Editor** for IEEE Open Journal of the Comp
 **\[** **Remarks:** **#**- **Corresponding Author(s)**; **___**- **Direct supervision (PhD, RA, or Collaborating Students)**.  **\]**
 -->
 
-**\[** **Remarks:** **\]** 
+<!-- **\[** **Remarks:** **\]** -->
 
-**#-** **Corresponding Author(s)**.
+<!-- **#-** **Corresponding Author(s)**.-->
 
 **<font color="MediumVioletRed">[Data]-</font>** **Learning from Limited Data**
 

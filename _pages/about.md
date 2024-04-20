@@ -111,7 +111,7 @@ I am currently serving as **Associate Editor** for IEEE Open Journal of the Comp
 **\[** **Topics:** **<font color="MediumVioletRed">[Data]-</font>** **Learning from Limited Data**; **<font color="MediumVioletRed">[Capability]-</font>** **Learning with Limited Computing Capability**; and **<font color="MediumVioletRed">[APPs]-</font>** **Derivative / Related Applications**. **\]**
 
 
-***<font size=4><font color="MediumVioletRed">2024</font></font>***
+***<font size=4><font color="MediumVioletRed">--2024--</font></font>***
 
 - **<font color="MediumVioletRed">[Data]-</font>** [**ParsNets: A Parsimonious Composition of Orthogonal and Low-Rank Linear Networks for Zero-Shot Learning**](),<br>
   **<font size=4>J. Guo<sup>#</sup></font>**, Q. Zhou, X. Lu, R. Li, Z. Liu, J. Zhang, B. Han, J. Chen, X. Xie, S. Guo,<br>
@@ -153,7 +153,7 @@ I am currently serving as **Associate Editor** for IEEE Open Journal of the Comp
   F. Huo, W. Xu, **<font size=4>J. Guo</font>**, H. Wang, and Song Guo,<br>
   *IEEE/CVF Conference on Computer Vision and Pattern Recognition* (**<font color="MediumVioletRed">CVPR</font>**, CCF-A/Core-A*), **2024**.
 
-***<font size=4><font color="MediumVioletRed">2023</font></font>***
+***<font size=4><font color="MediumVioletRed">--2023--</font></font>***
 
 - **<font color="MediumVioletRed">[Data]-</font>** [**Graph Knows Unknowns: Reformulate Zero-Shot Learning as Sample-Level Graph Recognition**](https://ojs.aaai.org/index.php/AAAI/article/view/25942),<br>
   **<font size=4>J. Guo</font>**, S. Guo, Q. Zhou, Z. Liu, X. Lu, F. Huo,<br>
@@ -187,7 +187,7 @@ I am currently serving as **Associate Editor** for IEEE Open Journal of the Comp
   Y. Wang, **<font size=4>J. Guo</font>**, J. Zhang, S. Guo, W. Zhang, Q. Zheng,<br>
   *International Joint Conference on Neural Networks* (**<font color="MediumVioletRed">IJCNN</font>**, Core-B), **2023**.
 
-***<font size=4><font color="MediumVioletRed">2022 and Before</font></font>***
+***<font size=4><font color="MediumVioletRed">--2022 and Before--</font></font>***
 
 - **<font color="MediumVioletRed">[Capability]-</font>** [**Personalized Federated Learning with Contextualized Generalization**](https://www.ijcai.org/proceedings/2022/0311.pdf),<br>
   X. Tang, S. Guo, **<font size=4>J. Guo<sup>#</sup></font>**,<br>

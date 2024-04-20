@@ -99,7 +99,7 @@ I am currently serving as **Associate Editor** for IEEE Open Journal of the Comp
 <span class='anchor' id='publications'></span>
 # 📚 Selected Publications 
 
-## Selected Papers
+## Selected Peer-reviewed Papers
 <!--
 **\[** **Remarks:** **#**- **Corresponding Author**, **‡**- **Supervising Student**, and **†**- **Collaborating Student** **\]**
 -->
@@ -115,7 +115,7 @@ I am currently serving as **Associate Editor** for IEEE Open Journal of the Comp
 
 **<font color="MediumVioletRed">[Capability]-</font>** **Learning with Limited Computing Capability**
 
-**<font color="MediumVioletRed">[APPs]-</font>** **Derivative / Related Applications**
+**<font color="MediumVioletRed">[APPs]-</font>** **Derivative/Related Applications**
 
 
 ***<font size=4><font color="MediumVioletRed">--2024--</font></font>***

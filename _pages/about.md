@@ -148,13 +148,13 @@ I am currently serving as **Associate Editor** for IEEE Open Journal of the Comp
   Q. Zhou, S. Guo, J. Pan, J. Liang, **<font size=4>J. Guo<sup>#</sup></font>**, Z. Xu, J. Zhou,<br>
   *IEEE Transactions on Pattern Analysis and Machine Intelligence* (**<font color="MediumVioletRed">TPAMI</font>**, JCR-Q1), **2024**, To appear.
 
-- **<font color="MediumVioletRed">[Capability]-</font>** [**DiPrompT: Disentangled Prompt Tuning for Multiple Latent Domain Generalization in Federated Learning**](),<br>
-  S. Bai, J. Zhang, S. Guo, S. Li, **<font size=4>J. Guo</font>**, J. Hou, T. Han, and X. Lu,<br>
-  *IEEE/CVF Conference on Computer Vision and Pattern Recognition* (**<font color="MediumVioletRed">CVPR</font>**, CCF-A/Core-A*), **2024**.
-
 - **<font color="MediumVioletRed">[Capability]-</font>** [**Learning Personalized Causally Invariant Representations for Heterogeneous Federated Clients**](),<br>
   X. Tang, S. Guo, J. Zhang, and **<font size=4>J. Guo</font>**,<br>
   *International Conference on Learning Representations* (**<font color="MediumVioletRed">ICLR</font>**, CCF-A/Core-A*), **2024**.
+
+- **<font color="MediumVioletRed">[Capability]-</font>** [**DiPrompT: Disentangled Prompt Tuning for Multiple Latent Domain Generalization in Federated Learning**](),<br>
+  S. Bai, J. Zhang, S. Guo, S. Li, **<font size=4>J. Guo</font>**, J. Hou, T. Han, and X. Lu,<br>
+  *IEEE/CVF Conference on Computer Vision and Pattern Recognition* (**<font color="MediumVioletRed">CVPR</font>**, CCF-A/Core-A*), **2024**.
 
 - **<font color="MediumVioletRed">[APPs]-</font>** [**C$^2$KD: Bridging the Modality Gap for Cross-Modal Knowledge Distillation**](),<br>
   F. Huo, W. Xu, **<font size=4>J. Guo</font>**, H. Wang, and Song Guo,<br>

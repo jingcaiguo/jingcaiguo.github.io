@@ -112,124 +112,124 @@ I am currently serving as **Associate Editor** for IEEE Open Journal of the Comp
 
 ***<font size=4><font color="MediumVioletRed">2024</font></font>***
 
-- **<font color="MediumVioletRed">Data</font>** [**ParsNets: A Parsimonious Composition of Orthogonal and Low-Rank Linear Networks for Zero-Shot Learning**](),<br>
+- **<font color="MediumVioletRed">[Data]-</font>** [**ParsNets: A Parsimonious Composition of Orthogonal and Low-Rank Linear Networks for Zero-Shot Learning**](),<br>
   **<font size=4>J. Guo<sup>#</sup></font>**, Q. Zhou, X. Lu, R. Li, Z. Liu, J. Zhang, B. Han, J. Chen, X. Xie, S. Guo,<br>
   *International Joint Conference on Artificial Intelligence* (**<font color="MediumVioletRed">IJCAI</font>**, CCF-A/Core-A*), **2024**.
 
-- **<font color="MediumVioletRed">Data</font>** [**Dual Expert Distillation Network for Generalized Zero-Shot Learning**](),<br>
+- **<font color="MediumVioletRed">[Data]-</font>** [**Dual Expert Distillation Network for Generalized Zero-Shot Learning**](),<br>
   Z. Rao, **<font size=4>J. Guo<sup>#</sup></font>**, X. Lu, J. Liang, J. Zhang, H. Wang, K. Wei, X. Cao,<br>
   *International Joint Conference on Artificial Intelligence* (**<font color="MediumVioletRed">IJCAI</font>**, CCF-A/Core-A*), **2024**.
 
-- **<font color="MediumVioletRed">APPs</font>** [**Multi-modal Dual-embedding Networks for Malware Open-set Recognition**](),<br>
+- **<font color="MediumVioletRed">[APPs]-</font>** [**Multi-modal Dual-embedding Networks for Malware Open-set Recognition**](),<br>
   **<font size=4>J. Guo</font>**, H. Wang, Y. Xu, W. Xu, Y. Zhan, Y. Sun, and S. Guo,<br>
   *IEEE Transactions on Neural Networks and Learning Systems* (**<font color="MediumVioletRed">TNNLS</font>**, JCR-Q1), **2024**.
 
-- **<font color="MediumVioletRed">Data</font>** [**On the Robustness of Neural-enhanced Video Streaming Against Adversarial Attacks**](),<br>
+- **<font color="MediumVioletRed">[Data]-</font>** [**On the Robustness of Neural-enhanced Video Streaming Against Adversarial Attacks**](),<br>
   Q. Zhou, **<font size=4>J. Guo<sup>#</sup></font>**, S. Guo, R. Li, J. Zhang, B. Wang, Z. Xu,<br>
   *AAAI Conference on Artificial Intelligence* (**<font color="MediumVioletRed">AAAI</font>**, CCF-A/Core-A*), **2024**.
 
-- **<font color="MediumVioletRed">Data</font>** [**ProCC: Progressive Cross-primitive Compatibility for Open-World Compositional Zero-Shot Learning**](),<br>
+- **<font color="MediumVioletRed">[Data]-</font>** [**ProCC: Progressive Cross-primitive Compatibility for Open-World Compositional Zero-Shot Learning**](),<br>
   F. Huo, W. Xu, S. Guo, **<font size=4>J. Guo<sup>#</sup></font>**, H. Wang, Z. Liu, X. Lu,<br>
   *AAAI Conference on Artificial Intelligence* (**<font color="MediumVioletRed">AAAI</font>**, CCF-A/Core-A*), **2024**.
 
-- **<font color="MediumVioletRed">Data</font>** [**Non-Exemplar Online Class-incremental Continual Learning via Dual-prototype Self-augment and Refinement**](),<br>
+- **<font color="MediumVioletRed">[Data]-</font>** [**Non-Exemplar Online Class-incremental Continual Learning via Dual-prototype Self-augment and Refinement**](),<br>
   F. Huo, W. Xu, **<font size=4>J. Guo</font>**, H. Wang, Y. Fan,<br>
   *AAAI Conference on Artificial Intelligence* (**<font color="MediumVioletRed">AAAI</font>**, CCF-A/Core-A*), **2024**.
 
-- **<font color="MediumVioletRed">Capability</font>** [**PASS: Patch Automatic Skip Scheme for Efficient On-device Video Perception**](),<br>
+- **<font color="MediumVioletRed">[Capability]-</font>** [**PASS: Patch Automatic Skip Scheme for Efficient On-device Video Perception**](),<br>
   Q. Zhou, S. Guo, J. Pan, J. Liang, **<font size=4>J. Guo<sup>#</sup></font>**, Z. Xu, J. Zhou,<br>
   *IEEE Transactions on Pattern Analysis and Machine Intelligence* (**<font color="MediumVioletRed">TPAMI</font>**, JCR-Q1), **2024**, To appear.
 
-- **<font color="MediumVioletRed">Capability</font>** [**DiPrompT: Disentangled Prompt Tuning for Multiple Latent Domain Generalization in Federated Learning**](),<br>
+- **<font color="MediumVioletRed">[Capability]-</font>** [**DiPrompT: Disentangled Prompt Tuning for Multiple Latent Domain Generalization in Federated Learning**](),<br>
   S. Bai, J. Zhang, S. Guo, S. Li, **<font size=4>J. Guo</font>**, J. Hou, T. Han, and X. Lu,<br>
   *IEEE/CVF Conference on Computer Vision and Pattern Recognition* (**<font color="MediumVioletRed">CVPR</font>**, CCF-A/Core-A*), **2024**.
 
-- **<font color="MediumVioletRed">Capability</font>** [**Learning Personalized Causally Invariant Representations for Heterogeneous Federated Clients**](),<br>
+- **<font color="MediumVioletRed">[Capability]-</font>** [**Learning Personalized Causally Invariant Representations for Heterogeneous Federated Clients**](),<br>
   X. Tang, S. Guo, J. Zhang, and **<font size=4>J. Guo</font>**,<br>
   *International Conference on Learning Representations* (**<font color="MediumVioletRed">ICLR</font>**, CCF-A/Core-A*), **2024**.
 
-- **<font color="MediumVioletRed">APPs</font>** [**C$^2$KD: Bridging the Modality Gap for Cross-Modal Knowledge Distillation**](),<br>
+- **<font color="MediumVioletRed">[APPs]-</font>** [**C$^2$KD: Bridging the Modality Gap for Cross-Modal Knowledge Distillation**](),<br>
   F. Huo, W. Xu, **<font size=4>J. Guo</font>**, H. Wang, and Song Guo,<br>
   *IEEE/CVF Conference on Computer Vision and Pattern Recognition* (**<font color="MediumVioletRed">CVPR</font>**, CCF-A/Core-A*), **2024**.
 
 ***<font size=4><font color="MediumVioletRed">2023</font></font>***
 
-- **<font color="MediumVioletRed">Data</font>** [**Graph Knows Unknowns: Reformulate Zero-Shot Learning as Sample-Level Graph Recognition**](https://ojs.aaai.org/index.php/AAAI/article/view/25942),<br>
+- **<font color="MediumVioletRed">[Data]-</font>** [**Graph Knows Unknowns: Reformulate Zero-Shot Learning as Sample-Level Graph Recognition**](https://ojs.aaai.org/index.php/AAAI/article/view/25942),<br>
   **<font size=4>J. Guo</font>**, S. Guo, Q. Zhou, Z. Liu, X. Lu, F. Huo,<br>
   *AAAI Conference on Artificial Intelligence* (**<font color="MediumVioletRed">AAAI</font>**, CCF-A/Core-A*), **2023**.
 
-- **<font color="MediumVioletRed">Data</font>** [**(ML)$^2$P-Encoder: On Exploration of Channel-Class Correlation for Multi-Label Zero-Shot Learning**](https://openaccess.thecvf.com/content/CVPR2023/papers/Liu_ML2P-Encoder_On_Exploration_of_Channel-Class_Correlation_for_Multi-Label_Zero-Shot_Learning_CVPR_2023_paper.pdf),<br>
+- **<font color="MediumVioletRed">[Data]-</font>** [**(ML)$^2$P-Encoder: On Exploration of Channel-Class Correlation for Multi-Label Zero-Shot Learning**](https://openaccess.thecvf.com/content/CVPR2023/papers/Liu_ML2P-Encoder_On_Exploration_of_Channel-Class_Correlation_for_Multi-Label_Zero-Shot_Learning_CVPR_2023_paper.pdf),<br>
   Z. Liu, S. Guo, X. Lu, **<font size=4>J. Guo<sup>#</sup></font>**, J. Zhang, Y. Zeng, F. Huo,<br>
   *IEEE/CVF Conference on Computer Vision and Pattern Recognition* (**<font color="MediumVioletRed">CVPR</font>**, CCF-A/Core-A*), **2023**.
 
-- **<font color="MediumVioletRed">Data</font>** [**Decomposed Soft Prompt Guided Fusion Enhancing for Compositional Zero-Shot Learning**](https://openaccess.thecvf.com/content/CVPR2023/papers/Lu_Decomposed_Soft_Prompt_Guided_Fusion_Enhancing_for_Compositional_Zero-Shot_Learning_CVPR_2023_paper.pdf),<br>
+- **<font color="MediumVioletRed">[Data]-</font>** [**Decomposed Soft Prompt Guided Fusion Enhancing for Compositional Zero-Shot Learning**](https://openaccess.thecvf.com/content/CVPR2023/papers/Lu_Decomposed_Soft_Prompt_Guided_Fusion_Enhancing_for_Compositional_Zero-Shot_Learning_CVPR_2023_paper.pdf),<br>
   X. Lu, S. Guo, Z. Liu, **<font size=4>J. Guo<sup>#</sup></font>**,<br>
   *IEEE/CVF Conference on Computer Vision and Pattern Recognition* (**<font color="MediumVioletRed">CVPR</font>**, CCF-A/Core-A*), **2023**.
 
-- **<font color="MediumVioletRed">Capability</font>** [**Towards Data-Independent Knowledge Transfer in Model-Heterogeneous Federated Learning**](),<br>
+- **<font color="MediumVioletRed">[Capability]-</font>** [**Towards Data-Independent Knowledge Transfer in Model-Heterogeneous Federated Learning**](),<br>
   J. Zhang, S. Guo, **<font size=4>J. Guo<sup>#</sup></font>**, D. Zeng, J. Zhou, A. Zomaya,<br>
   *IEEE Transactions on Computers* (**<font color="MediumVioletRed">TC</font>**, CCF-A), **2023**.
 
-- **<font color="MediumVioletRed">APPs</font>** [**UTDNet: A Unified Triplet Decoder Network for Multimodal Salient Object Detection**](),<br>
+- **<font color="MediumVioletRed">[APPs]-</font>** [**UTDNet: A Unified Triplet Decoder Network for Multimodal Salient Object Detection**](),<br>
   F. Huo, Z. Liu, **<font size=4>J. Guo<sup>#</sup></font>**, W. Xu, S. Guo,<br>
   *Neural Networks* (**<font color="MediumVioletRed">NN</font>**, JCR-Q1), **2023**.
 
-- **<font color="MediumVioletRed">Capability</font>** [**Towards performance-maximizing neural network pruning via global channel attention**](),<br>
+- **<font color="MediumVioletRed">[Capability]-</font>** [**Towards performance-maximizing neural network pruning via global channel attention**](),<br>
   Y. Wang, S. Guo, **<font size=4>J. Guo</font>**, J. Zhang, W. Zhang, C. Yan, Y. Zhang,<br>
   *Neural Networks* (**<font color="MediumVioletRed">NN</font>**, JCR-Q1), **2023**.
 
-- **<font color="MediumVioletRed">Capability</font>** [**Hwamei: A Learning-Based Aggregation Framework for Hierarchical Federated Learning System**](),<br>
+- **<font color="MediumVioletRed">[Capability]-</font>** [**Hwamei: A Learning-Based Aggregation Framework for Hierarchical Federated Learning System**](),<br>
   T. Qi, Y. Zhan, P. Li, **<font size=4>J. Guo</font>**, Y. Xia,<br>
   *IEEE International Conference on Distributed Computing Systems* (**<font color="MediumVioletRed">ICDCS</font>**, CCF-B/Core-A), **2023**.
 
-- **<font color="MediumVioletRed">Capability</font>** [**Towards Fairer and More Efficient Federated Learning via Multidimensional Personalized Edge Models**](),<br>
+- **<font color="MediumVioletRed">[Capability]-</font>** [**Towards Fairer and More Efficient Federated Learning via Multidimensional Personalized Edge Models**](),<br>
   Y. Wang, **<font size=4>J. Guo</font>**, J. Zhang, S. Guo, W. Zhang, Q. Zheng,<br>
   *International Joint Conference on Neural Networks* (**<font color="MediumVioletRed">IJCNN</font>**, Core-B), **2023**.
 
 ***<font size=4><font color="MediumVioletRed">2022 and Before</font></font>***
 
-- **<font color="MediumVioletRed">Capability</font>** [**Personalized Federated Learning with Contextualized Generalization**](https://www.ijcai.org/proceedings/2022/0311.pdf),<br>
+- **<font color="MediumVioletRed">[Capability]-</font>** [**Personalized Federated Learning with Contextualized Generalization**](https://www.ijcai.org/proceedings/2022/0311.pdf),<br>
   X. Tang, S. Guo, **<font size=4>J. Guo<sup>#</sup></font>**,<br>
   *International Joint Conference on Artificial Intelligence* (**<font color="MediumVioletRed">IJCAI</font>**, CCF-A/Core-A*), **2022**.
 
-- **<font color="MediumVioletRed">Data</font>** [**Towards Unbiased Multi-Label Zero-Shot Learning with Pyramid and Semantic Attention**](),<br>
+- **<font color="MediumVioletRed">[Data]-</font>** [**Towards Unbiased Multi-Label Zero-Shot Learning with Pyramid and Semantic Attention**](),<br>
   Z. Liu, S. Guo, **<font size=4>J. Guo<sup>#</sup></font>**, Y. Xu, F. Huo,<br>
   *IEEE Transactions on Multimedia* (**<font color="MediumVioletRed">TMM</font>**, JCR-Q1), **2022**.
 
-- **<font color="MediumVioletRed">APPs</font>** [**Conservative Novelty Synthesizing Network for Malware Recognition in an Open-Set Scenario**](),<br>
+- **<font color="MediumVioletRed">[APPs]-</font>** [**Conservative Novelty Synthesizing Network for Malware Recognition in an Open-Set Scenario**](),<br>
   **<font size=4>J. Guo</font>**, S. Guo, S. Ma, Y. Sun, Y. Xu,<br>
   *IEEE Transactions on Neural Networks and Learning Systems* (**<font color="MediumVioletRed">TNNLS</font>**, JCR-Q1), **2021**.<br>
   (<font color="MediumVioletRed">Outstanding Paper Award of</font> [<font color="MediumVioletRed">GDCA</font>](http://www.gdcomf.com/))
 
-- **<font color="MediumVioletRed">Capability</font>** [**INT8 Training with Loss-Aware Compensation and Backward Quantization for Tiny On-Device Learning**](),<br>
+- **<font color="MediumVioletRed">[Capability]-</font>** [**INT8 Training with Loss-Aware Compensation and Backward Quantization for Tiny On-Device Learning**](),<br>
   Q. Zhou, S. Guo, Z. Qu, **<font size=4>J. Guo</font>**, Z. Xu, J. Zhang, T. Guo, B. Luo, J. Zhou,<br>
   *USENIX Annual Technical Conference* (**<font color="MediumVioletRed">USENIX-ATC</font>**, CCF-A/Core-A*), **2021**.
 
-- **<font color="MediumVioletRed">Capability</font>** [**On-Device Learning Systems for Edge Intelligence: A Software and Hardware Synergy Perspective**](),<br>
+- **<font color="MediumVioletRed">[Capability]-</font>** [**On-Device Learning Systems for Edge Intelligence: A Software and Hardware Synergy Perspective**](),<br>
   Q. Zhou, Z. Qu, S. Guo, B. Luo, **<font size=4>J. Guo</font>**, Z. Xu, R. Akerkar,<br>
   *IEEE Internet of Things Journal* (**<font color="MediumVioletRed">IoT-J</font>**, JCR-Q1), **2021**.
 
-- **<font color="MediumVioletRed">APPs</font>** [**Dual-View Attention Networks for Single Image Super-Resolution**](https://dl.acm.org/doi/10.1145/3394171.3413613),<br>
+- **<font color="MediumVioletRed">[APPs]-</font>** [**Dual-View Attention Networks for Single Image Super-Resolution**](https://dl.acm.org/doi/10.1145/3394171.3413613),<br>
   **<font size=4>J. Guo</font>**, S. Ma, J. Zhang, Q. Zhou, S. Guo,<br>
   *ACM International Conference on Multimedia* (**<font color="MediumVioletRed">ACM-MM</font>**, CCF-A/Core-A*), **2020**.
 
-- **<font color="MediumVioletRed">Data</font>** [**A Novel Perspective to Zero-Shot Learning: Towards an Alignment of Manifold Structures via Semantic Feature Expansion**](),<br>
+- **<font color="MediumVioletRed">[Data]-</font>** [**A Novel Perspective to Zero-Shot Learning: Towards an Alignment of Manifold Structures via Semantic Feature Expansion**](),<br>
   **<font size=4>J. Guo</font>**, S. Guo,<br>
   *IEEE Transactions on Multimedia* (**<font color="MediumVioletRed">TMM</font>**, JCR-Q1), **2020**.
 
-- **<font color="MediumVioletRed">Data</font>** [**Adaptive Adjustment with Semantic Feature Space for Zero-Shot Recognition**](),<br>
+- **<font color="MediumVioletRed">[Data]-</font>** [**Adaptive Adjustment with Semantic Feature Space for Zero-Shot Recognition**](),<br>
   **<font size=4>J. Guo</font>**, S. Guo,<br>
   *IEEE International Conference on Acoustics, Speech, and Signal Processing* (**<font color="MediumVioletRed">ICASSP</font>**, CCF-B/Core-B), **2019**.
 
-- **<font color="MediumVioletRed">APPs</font>** [**EE-AE: An Exclusivity Enhanced Unsupervised Feature Learning Approach**](),<br>
+- **<font color="MediumVioletRed">[APPs]-</font>** [**EE-AE: An Exclusivity Enhanced Unsupervised Feature Learning Approach**](),<br>
   **<font size=4>J. Guo</font>**, S. Guo,<br>
   *IEEE International Conference on Acoustics, Speech, and Signal Processing* (**<font color="MediumVioletRed">ICASSP</font>**, CCF-B/Core-B), **2019**.
 
-- **<font color="MediumVioletRed">Data</font>** [**AMS-SFE: Towards an Alignment of Manifold Structures via Semantic Feature Expansion for Zero-Shot Learning**](),<br>
+- **<font color="MediumVioletRed">[Data]-</font>** [**AMS-SFE: Towards an Alignment of Manifold Structures via Semantic Feature Expansion for Zero-Shot Learning**](),<br>
   **<font size=4>J. Guo</font>**, S. Guo,<br>
   *IEEE International Conference on Multimedia and Expo* (**<font color="MediumVioletRed">ICME</font>**, CCF-B/Core-A), **2019**.
 
-- **<font color="MediumVioletRed">Data</font>** [**An improved incremental training approach for large-scaled dataset based on support vector machine**](),<br>
+- **<font color="MediumVioletRed">[Data]-</font>** [**An improved incremental training approach for large-scaled dataset based on support vector machine**](),<br>
   **<font size=4>J. Guo</font>**, <br>
   *IEEE/ACM International Conference on Big Data Computing, Applications and Technologies* (**<font color="MediumVioletRed">BDCAT</font>**), **2016**.
 

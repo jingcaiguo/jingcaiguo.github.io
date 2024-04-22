@@ -146,7 +146,7 @@ I am currently serving as **Associate Editor** for IEEE Open Journal of the Comp
 
 - **<font color="MediumVioletRed">[Capability]-</font>** [**PASS: Patch Automatic Skip Scheme for Efficient On-device Video Perception**](),<br>
   Q. Zhou, S. Guo, J. Pan, J. Liang, **<font size=4>J. Guo<sup>#</sup></font>**, Z. Xu, J. Zhou,<br>
-  *IEEE Transactions on Pattern Analysis and Machine Intelligence* (**<font color="MediumVioletRed">TPAMI</font>**, JCR-Q1), **2024**, To appear.
+  *IEEE Transactions on Pattern Analysis and Machine Intelligence* (**<font color="MediumVioletRed">TPAMI</font>**, JCR-Q1), **2024**.
 
 - **<font color="MediumVioletRed">[Capability]-</font>** [**Learning Personalized Causally Invariant Representations for Heterogeneous Federated Clients**](),<br>
   X. Tang, S. Guo, J. Zhang, and **<font size=4>J. Guo</font>**,<br>

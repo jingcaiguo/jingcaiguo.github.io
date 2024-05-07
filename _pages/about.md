@@ -416,7 +416,7 @@ I am currently serving as **Associate Editor** for IEEE Open Journal of the Comp
 
 - AAAI Conference on Artificial Intelligence (**AAAI**: 2021 / 2022 / 2023 / 2024)
 - IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**: 2022 / 2023 / 2024)
-- Conference on Neural Information Processing Systems (**NeurIPS**: 2022 / 2023)
+- Conference on Neural Information Processing Systems (**NeurIPS**: 2022 / 2023 / 2024)
 - International Conference on Computer Vision (**ICCV**: 2023)
 - International Conference on Learning Representations (**ICLR**: 2023)
 - ACM International Conference on Multimedia (**ACM-MM**: 2022)

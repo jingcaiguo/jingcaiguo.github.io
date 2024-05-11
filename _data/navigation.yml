@@ -3,7 +3,10 @@ main:
   - title: "About"
     url: "/#-about"
 
-  - title: "Group"
+  - title: "Qualification"
+    url: "/#-education”
+
+  - title: “Group"
     url: "/#-group"
 
   - title: "Grants"

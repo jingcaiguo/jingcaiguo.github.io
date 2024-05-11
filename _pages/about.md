@@ -31,6 +31,7 @@ I am currently serving as **Associate Editor** for IEEE Open Journal of the Comp
 - 2013-2015: M.E., Waseda University (早稻田大学), Japan🇯🇵 (Supervisor: <a href = "https://www.waseda.jp/top/">Prof. Takayuki Furuzuki</a>)
 - 2009-2013: B.E., Sichuan University (四川大学), China🇨🇳
 
+<!--
 <span class='anchor' id='news'></span>
 # 🔥 News
 - 🎉🎉 We have some fully funded openings for **PhD Student**, **Postdoctoral Researcher**, and **Research Assistant** to work and have fun together on multiple research projects. Drop me an email (jc-jingcai.guo@polyu.edu.hk) with your complete CV if you are interested. Candidates with strong programming and mathematics backgrounds are preferred. **Visiting Students/Researchers** (onsite/remote) are also welcome!
@@ -57,9 +58,12 @@ I am currently serving as **Associate Editor** for IEEE Open Journal of the Comp
 - *2021.10*: &nbsp; [Project] One project has been granted by <a href="https://www.edu.cn/rd/gai_kuang/zheng_ce_fa_gui/202112/t20211214_2189444.shtml">Fundamental Research Funds for the Central Universities</a>.
 <!-- - *2021.12*: &nbsp;  [Review] Serve as Program Committee Member for <a href="https://cvpr2022.thecvf.com/">CVPR 2022</a>. -->
 - *2021.10*: &nbsp; [Project] One NSFC Young Scientists Fund has been granted by <a href="https://www.nsfc.gov.cn/">National Natural Science Foundation of China (NSFC)</a>.
+-->
 
 <span class='anchor' id='group'></span>
 # 🌏 Team 
+
+- [News] 🎉🎉 We have some fully funded openings for **PhD Student**, **Postdoctoral Researcher**, and **Research Assistant** to work and have fun together on multiple research projects. Drop me an email (jc-jingcai.guo@polyu.edu.hk) with your complete CV if you are interested. Candidates with strong programming and mathematics backgrounds are preferred. **Visiting Students/Researchers** (onsite/remote) are also welcome!
 
 **I am fortunate to supervise and work together with these gifted students/staffs:**
 

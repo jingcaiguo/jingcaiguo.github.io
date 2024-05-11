@@ -39,13 +39,13 @@ I am currently serving as **Associate Editor** for IEEE Open Journal of the Comp
 **I am fortunate to supervise and work together with these gifted students/staffs:**
 
 ## Current Members
-- <a href = "https://keepgoingjkg.github.io/about/">Miaoge Li</a> (Xidian University), Incoming Ph.D. Student (May 2024-), *Chief Supervisor*.
+- <a href = "https://keepgoingjkg.github.io/about/">Miaoge Li</a> (Xidian University), Ph.D. Student (May 2024-), *Chief Supervisor*.
+- <a href = "https://zjrao.github.io/">Zhijie Rao</a> (Xiamen University), Ph.D. Student (May 2024-) / RA (Sept 2023-May 2024), *Chief Supervisor*.
 - <a href = "https://cseeyangchen.github.io/">Yang Chen</a> (UESTC), Incoming Ph.D. Student (Sept 2024-), *Chief Supervisor*.
-- <a href = "https://zjrao.github.io/">Zhijie Rao</a> (Xiamen University), Research Assistant (Sept 2023-May 2024) & Incoming Ph.D. Student (May 2024-), *Chief Supervisor*.
 - <a href = "">Junyang Chen</a> (Assistant Professor at Shenzhen University), Visiting Scholar (Mar 2024-), *Chief Supervisor*.
 
 ## Alumni
-- <a href = "https://mirrorigin.github.io/">Jingming Liang</a> (HUST), Research Assistant (Sept 2023-Mar 2024), *Chief Supervisor* \[Placement: Ph.D. Student at University of Iowa, USA.\].
+- <a href = "https://mirrorigin.github.io/">Jingming Liang</a> (HUST), RA (Sept 2023-Mar 2024), *Chief Supervisor* \[Placement: Ph.D. Student at University of Iowa, USA.\].
 
 <span class='anchor' id='grants'></span>
 # 💰 Grants

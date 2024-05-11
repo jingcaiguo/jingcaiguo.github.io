@@ -47,18 +47,6 @@ I am currently serving as **Associate Editor** for IEEE Open Journal of the Comp
 ## Alumni
 - <a href = "https://mirrorigin.github.io/">Jingming Liang</a> (HUST), Research Assistant (Sept 2023-Mar 2024), *Chief Supervisor* \[Placement: Ph.D. Student at University of Iowa, USA.\].
 
-
-
-<!--
-## Undergraduate Students
-- Zhiyu Wang, B.Sc. (PolyU), Capstone Project (Sept 2023-)
-- Arnab Mazumder, B.Sc. (PolyU), Capstone Project (Sept 2023-)
-- Yalun Tang, B.Sc. (PolyU), Capstone Project (Sept 2023-)
-- Zheyu Zhu, B.Sc. (PolyU), Capstone Project (Sept 2023-)
-- Junchen Yue, B.Sc. (PolyU), Capstone Project (Sept 2023-)
--->
-
-
 <span class='anchor' id='grants'></span>
 # 💰 Grants
 

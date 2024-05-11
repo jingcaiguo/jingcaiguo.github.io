@@ -6,14 +6,11 @@ main:
   - title: "Group"
     url: "/#-group"
 
-  - title: "News"
-    url: "/#-news"
+  - title: "Grants"
+    url: "/#-grants"
 
   - title: "Publications"
     url: "/#-publications"
-    
-  - title: "Grants"
-    url: "/#-grants"
     
   - title: "Teachings"
     url: "/#-teachings"

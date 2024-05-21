@@ -105,7 +105,7 @@ I am currently serving as **Associate Editor** for IEEE Open Journal of the Comp
 
 - **<font color="MediumVioletRed">[APPs]-</font>** [**Multi-modal Dual-embedding Networks for Malware Open-set Recognition**](),<br>
   **<font size=4>J. Guo</font>**, H. Wang, Y. Xu, W. Xu, Y. Zhan, Y. Sun, and S. Guo,<br>
-  *IEEE Transactions on Neural Networks and Learning Systems* (**<font color="MediumVioletRed">TNNLS</font>**, JCR-Q1), **2024**.
+  *IEEE Transactions on Neural Networks and Learning Systems* (**<font color="MediumVioletRed">TNNLS</font>**, IF=14.255/JCR-Q1), **2024**.
 
 - **<font color="MediumVioletRed">[Data]-</font>** [**On the Robustness of Neural-enhanced Video Streaming Against Adversarial Attacks**](),<br>
   Q. Zhou, **<font size=4>J. Guo<sup>#</sup></font>**, S. Guo, R. Li, J. Zhang, B. Wang, Z. Xu,<br>
@@ -121,7 +121,7 @@ I am currently serving as **Associate Editor** for IEEE Open Journal of the Comp
 
 - **<font color="MediumVioletRed">[Capability]-</font>** [**PASS: Patch Automatic Skip Scheme for Efficient On-device Video Perception**](),<br>
   Q. Zhou, S. Guo, J. Pan, J. Liang, **<font size=4>J. Guo<sup>#</sup></font>**, Z. Xu, J. Zhou,<br>
-  *IEEE Transactions on Pattern Analysis and Machine Intelligence* (**<font color="MediumVioletRed">TPAMI</font>**, JCR-Q1), **2024**.
+  *IEEE Transactions on Pattern Analysis and Machine Intelligence* (**<font color="MediumVioletRed">TPAMI</font>**, IF=24.314/JCR-Q1), **2024**.
 
 - **<font color="MediumVioletRed">[Capability]-</font>** [**Learning Personalized Causally Invariant Representations for Heterogeneous Federated Clients**](),<br>
   X. Tang, S. Guo, J. Zhang, and **<font size=4>J. Guo</font>**,<br>
@@ -157,11 +157,11 @@ I am currently serving as **Associate Editor** for IEEE Open Journal of the Comp
 
 - **<font color="MediumVioletRed">[APPs]-</font>** [**UTDNet: A Unified Triplet Decoder Network for Multimodal Salient Object Detection**](),<br>
   F. Huo, Z. Liu, **<font size=4>J. Guo<sup>#</sup></font>**, W. Xu, S. Guo,<br>
-  *Neural Networks* (**<font color="MediumVioletRed">NN</font>**, JCR-Q1), **2023**.
+  *Neural Networks* (**<font color="MediumVioletRed">NN</font>**, IF=9.657/JCR-Q1), **2023**.
 
 - **<font color="MediumVioletRed">[Capability]-</font>** [**Towards performance-maximizing neural network pruning via global channel attention**](),<br>
   Y. Wang, S. Guo, **<font size=4>J. Guo</font>**, J. Zhang, W. Zhang, C. Yan, Y. Zhang,<br>
-  *Neural Networks* (**<font color="MediumVioletRed">NN</font>**, JCR-Q1), **2023**.
+  *Neural Networks* (**<font color="MediumVioletRed">NN</font>**, IF=9.657/JCR-Q1), **2023**.
 
 - **<font color="MediumVioletRed">[Capability]-</font>** [**Hwamei: A Learning-Based Aggregation Framework for Hierarchical Federated Learning System**](),<br>
   T. Qi, Y. Zhan, P. Li, **<font size=4>J. Guo</font>**, Y. Xia,<br>
@@ -181,11 +181,11 @@ I am currently serving as **Associate Editor** for IEEE Open Journal of the Comp
 
 - **<font color="MediumVioletRed">[Data]-</font>** [**Towards Unbiased Multi-Label Zero-Shot Learning with Pyramid and Semantic Attention**](),<br>
   Z. Liu, S. Guo, **<font size=4>J. Guo<sup>#</sup></font>**, Y. Xu, F. Huo,<br>
-  *IEEE Transactions on Multimedia* (**<font color="MediumVioletRed">TMM</font>**, JCR-Q1), **2022**.
+  *IEEE Transactions on Multimedia* (**<font color="MediumVioletRed">TMM</font>**, IF=8.182/JCR-Q1), **2022**.
 
 - **<font color="MediumVioletRed">[APPs]-</font>** [**Conservative Novelty Synthesizing Network for Malware Recognition in an Open-Set Scenario**](),<br>
   **<font size=4>J. Guo</font>**, S. Guo, S. Ma, Y. Sun, Y. Xu,<br>
-  *IEEE Transactions on Neural Networks and Learning Systems* (**<font color="MediumVioletRed">TNNLS</font>**, JCR-Q1), **2021**.<br>
+  *IEEE Transactions on Neural Networks and Learning Systems* (**<font color="MediumVioletRed">TNNLS</font>**, IF=14.255/JCR-Q1), **2021**.<br>
   (<font color="MediumVioletRed">Outstanding Paper Award of</font> [<font color="MediumVioletRed">GDCA</font>](http://www.gdcomf.com/))
 
 - **<font color="MediumVioletRed">[Capability]-</font>** [**INT8 Training with Loss-Aware Compensation and Backward Quantization for Tiny On-Device Learning**](),<br>
@@ -194,7 +194,7 @@ I am currently serving as **Associate Editor** for IEEE Open Journal of the Comp
 
 - **<font color="MediumVioletRed">[Capability]-</font>** [**On-Device Learning Systems for Edge Intelligence: A Software and Hardware Synergy Perspective**](),<br>
   Q. Zhou, Z. Qu, S. Guo, B. Luo, **<font size=4>J. Guo</font>**, Z. Xu, R. Akerkar,<br>
-  *IEEE Internet of Things Journal* (**<font color="MediumVioletRed">IoT-J</font>**, JCR-Q1), **2021**.
+  *IEEE Internet of Things Journal* (**<font color="MediumVioletRed">IoT-J</font>**, IF=10.6/JCR-Q1), **2021**.
 
 - **<font color="MediumVioletRed">[APPs]-</font>** [**Dual-View Attention Networks for Single Image Super-Resolution**](https://dl.acm.org/doi/10.1145/3394171.3413613),<br>
   **<font size=4>J. Guo</font>**, S. Ma, J. Zhang, Q. Zhou, S. Guo,<br>
@@ -202,7 +202,7 @@ I am currently serving as **Associate Editor** for IEEE Open Journal of the Comp
 
 - **<font color="MediumVioletRed">[Data]-</font>** [**A Novel Perspective to Zero-Shot Learning: Towards an Alignment of Manifold Structures via Semantic Feature Expansion**](),<br>
   **<font size=4>J. Guo</font>**, S. Guo,<br>
-  *IEEE Transactions on Multimedia* (**<font color="MediumVioletRed">TMM</font>**, JCR-Q1), **2020**.
+  *IEEE Transactions on Multimedia* (**<font color="MediumVioletRed">TMM</font>**, IF=8.182/JCR-Q1), **2020**.
 
 - **<font color="MediumVioletRed">[Data]-</font>** [**Adaptive Adjustment with Semantic Feature Space for Zero-Shot Recognition**](),<br>
   **<font size=4>J. Guo</font>**, S. Guo,<br>
@@ -259,11 +259,11 @@ I am currently serving as **Associate Editor** for IEEE Open Journal of the Comp
 
 - [**Towards Unbiased Multi-Label Zero-Shot Learning with Pyramid and Semantic Attention**](),<br>
   Z. Liu, S. Guo, **<font size=4>J. Guo<sup>#</sup></font>**, Y. Xu, F. Huo,<br>
-  *IEEE Transactions on Multimedia* (**<font color="MediumVioletRed">TMM</font>**, JCR-Q1), **2022**.
+  *IEEE Transactions on Multimedia* (**<font color="MediumVioletRed">TMM</font>**, IF=8.182/JCR-Q1), **2022**.
 
 - [**A Novel Perspective to Zero-Shot Learning: Towards an Alignment of Manifold Structures via Semantic Feature Expansion**](),<br>
   **<font size=4>J. Guo</font>**, S. Guo,<br>
-  *IEEE Transactions on Multimedia* (**<font color="MediumVioletRed">TMM</font>**, JCR-Q1), **2020**.
+  *IEEE Transactions on Multimedia* (**<font color="MediumVioletRed">TMM</font>**, IF=8.182/JCR-Q1), **2020**.
 
 - [**Adaptive Adjustment with Semantic Feature Space for Zero-Shot Recognition**](),<br>
   **<font size=4>J. Guo</font>**, S. Guo,<br>
@@ -323,7 +323,7 @@ I am currently serving as **Associate Editor** for IEEE Open Journal of the Comp
 
 - [**Multi-modal Dual-embedding Networks for Malware Open-set Recognition**](),<br>
   **<font size=4>J. Guo</font>**, H. Wang, Y. Xu, W. Xu, Y. Zhan, Y. Sun, and S. Guo,<br>
-  *IEEE Transactions on Neural Networks and Learning Systems* (**<font color="MediumVioletRed">TNNLS</font>**, JCR-Q1), **2024**.
+  *IEEE Transactions on Neural Networks and Learning Systems* (**<font color="MediumVioletRed">TNNLS</font>**, IF=14.255/JCR-Q1), **2024**.
 
 - [**C$^2$KD: Bridging the Modality Gap for Cross-Modal Knowledge Distillation**](),<br>
   F. Huo, W. Xu, **<font size=4>J. Guo</font>**, H. Wang, and Song Guo,<br>
@@ -335,7 +335,7 @@ I am currently serving as **Associate Editor** for IEEE Open Journal of the Comp
 
 - [**Conservative Novelty Synthesizing Network for Malware Recognition in an Open-Set Scenario**](),<br>
   **<font size=4>J. Guo</font>**, S. Guo, S. Ma, Y. Sun, Y. Xu,<br>
-  *IEEE Transactions on Neural Networks and Learning Systems* (**<font color="MediumVioletRed">TNNLS</font>**, JCR-Q1), **2021**.<br>
+  *IEEE Transactions on Neural Networks and Learning Systems* (**<font color="MediumVioletRed">TNNLS</font>**, IF=14.255/JCR-Q1), **2021**.<br>
   (<font color="MediumVioletRed">Outstanding Paper Award of</font> [<font color="MediumVioletRed">GDCA</font>](http://www.gdcomf.com/))
 
 - [**Dual-View Attention Networks for Single Image Super-Resolution**](https://dl.acm.org/doi/10.1145/3394171.3413613),<br>

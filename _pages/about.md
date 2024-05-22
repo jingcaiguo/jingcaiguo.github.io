@@ -55,14 +55,14 @@ I am currently serving as **Associate Editor** for IEEE Open Journal of the Comp
 <span class='anchor' id='grants'></span>
 # 💰 Grants
 
-- **<font color="MediumVioletRed">[PI]:</font>** Empowering TinyML with Low-shot Learning for Edge AI Systems,<br>
-  Funding source: **General Research Fund (GRF)** of the Research Grants Council of Hong Kong, No.152211/23E, 2024-2026.
+- **<font color="MediumVioletRed">[PI]:</font>** **General Research Fund (GRF)** - "Empowering TinyML with Low-shot Learning for Edge AI Systems",<br>
+  Funding source: Research Grants Council of Hong Kong, No.152211/23E, 2024-2026.
   
-- **<font color="MediumVioletRed">[PI]:</font>** Entity Anti-fraud Prediction Combining Zero-Shot Learning and Graph Neural Networks,<br>
-  Funding source: **Young Scientists Fund** of the National Natural Science Foundation of China (NSFC), No.62102327, 2022-2024.
+- **<font color="MediumVioletRed">[PI]:</font>** **Young Scientists Fund** - "Entity Anti-fraud Prediction Combining Zero-Shot Learning and Graph Neural Networks",<br>
+  Funding source: The National Natural Science Foundation of China (NSFC), No.62102327, 2022-2024.
 
-- **<font color="MediumVioletRed">[PI]:</font>** Learning-Based Anti-Fraud Prevention in Financial Industry,<br>
-  Funding source: **Fundamental Research Funds** for the Central Universities, No.JBK21YJ04, 2021-2021.
+- **<font color="MediumVioletRed">[PI]:</font>** "Learning-Based Anti-Fraud Prevention in Financial Industry",<br>
+  Funding source: The Fundamental Research Funds Scheme for the Central Universities (China), No.JBK21YJ04, 2021-2021.
 
 <span class='anchor' id='publications'></span>
 # 📚 Selected Publications 

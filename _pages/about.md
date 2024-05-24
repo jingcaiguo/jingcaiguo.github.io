@@ -79,11 +79,11 @@ I am currently serving as **Associate Editor** for IEEE Open Journal of the Comp
 
 <!-- **#-** **Corresponding Author(s)**.-->
 
-**<font color="MediumVioletRed">[Data]-</font>** **Learning from Limited Data**
+**<font color="MediumVioletRed">[Data]-</font>** **Learning from Limited** **<font color="MediumVioletRed">Data</font>**
 
-**<font color="MediumVioletRed">[Capability]-</font>** **Learning with Limited Computing Capability**
+**<font color="MediumVioletRed">[Capability]-</font>** **Learning with Limited Computing** **<font color="MediumVioletRed">Capability</font>**
 
-**<font color="MediumVioletRed">[APPs]-</font>** **Derivative/Related Applications**
+**<font color="MediumVioletRed">[APPs]-</font>** **Derivative/Related** **<font color="MediumVioletRed">Applications</font>**
 
 ***
 

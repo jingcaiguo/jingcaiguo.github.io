@@ -100,7 +100,7 @@ I am currently serving as **Associate Editor** for IEEE Open Journal of the Comp
   *International Joint Conference on Artificial Intelligence* (**<font color="MediumVioletRed">IJCAI</font>**, CCF-A/Core-A*), **2024**.
 
 - **<font color="MediumVioletRed">[Capability]-</font>** [**Causally Motivated Personalized Federated Invariant Learning with Shortcut-Averse Information-Theoretic Regularization**](),<br>
-  X. Tang, S. Guo, **<font size=4>J. Guo</font>**, J. Zhang, Y. Yu,<br>
+  X. Tang, S. Guo, **<font size=4>J. Guo<sup>#</sup></font>**, J. Zhang, Y. Yu,<br>
   *International Conference on Machine Learning* (**<font color="MediumVioletRed">ICML</font>**, CCF-A/Core-A*), **2024**.
 
 - **<font color="MediumVioletRed">[APPs]-</font>** [**Multi-modal Dual-embedding Networks for Malware Open-set Recognition**](),<br>

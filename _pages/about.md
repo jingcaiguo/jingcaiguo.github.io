@@ -108,7 +108,7 @@ I am currently serving as **Associate Editor** for IEEE Open Journal of the Comp
   *IEEE Transactions on Neural Networks and Learning Systems* (**<font color="MediumVioletRed">TNNLS</font>**, IF=14.255/JCR-Q1), **2024**.
 
 - **<font color="MediumVioletRed">[Capability]-</font>** [**Data Quality-aware Mixed-precision Quantization via Hybrid Reinforcement Learning**](),<br>
-  Y. Wang, S. Guo, **<font size=4>J. Guo</font>**, W. Zhang, J. Zhang, Q. Zheng, Y. Zhang,<br>
+  Y. Wang, S. Guo, **<font size=4>J. Guo<sup>#</sup></font>**, W. Zhang, J. Zhang, Q. Zheng, Y. Zhang,<br>
   *IEEE Transactions on Neural Networks and Learning Systems* (**<font color="MediumVioletRed">TNNLS</font>**, IF=14.255/JCR-Q1), **2024**.
 
 - **<font color="MediumVioletRed">[Data]-</font>** [**On the Robustness of Neural-enhanced Video Streaming Against Adversarial Attacks**](),<br>

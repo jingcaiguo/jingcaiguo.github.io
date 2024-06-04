@@ -87,7 +87,7 @@ I am currently serving as **Associate Editor** for IEEE Open Journal of the Comp
 
 
 
-<h2 style="background-color:#D9D9D9; margin-bottom:0.4cm">&nbsp;&nbsp;<font color="MediumVioletRed">--2024--</font></h2>
+<h1 style="background-color:#D9D9D9; margin-bottom:0.4cm">&nbsp;&nbsp;<font color="MediumVioletRed">--2024--</font></h1>
 
 - ![Static Badge](https://img.shields.io/badge/Data-8A2BE2) **-** [**ParsNets: A Parsimonious Composition of Orthogonal and Low-Rank Linear Networks for Zero-Shot Learning**](),<br>
   **<font size=4>J. Guo<sup>#</sup></font>**, Q. Zhou, X. Lu, R. Li, Z. Liu, J. Zhang, B. Han, J. Chen, X. Xie, S. Guo,<br>
@@ -139,7 +139,7 @@ I am currently serving as **Associate Editor** for IEEE Open Journal of the Comp
 
 
 
-<h2 style="background-color:#D9D9D9; margin-bottom:0.4cm">&nbsp;&nbsp;<font color="MediumVioletRed">--2023--</font></h2>
+<h1 style="background-color:#D9D9D9; margin-bottom:0.4cm">&nbsp;&nbsp;<font color="MediumVioletRed">--2023--</font></h1>
 
 - ![Static Badge](https://img.shields.io/badge/Data-8A2BE2) **-** [**Graph Knows Unknowns: Reformulate Zero-Shot Learning as Sample-Level Graph Recognition**](https://ojs.aaai.org/index.php/AAAI/article/view/25942),<br>
   **<font size=4>J. Guo</font>**, S. Guo, Q. Zhou, Z. Liu, X. Lu, F. Huo,<br>
@@ -175,7 +175,7 @@ I am currently serving as **Associate Editor** for IEEE Open Journal of the Comp
 
 
 
-<h2 style="background-color:#D9D9D9; margin-bottom:0.4cm">&nbsp;&nbsp;<font color="MediumVioletRed">--2022 and Before--</font></h2>
+<h1 style="background-color:#D9D9D9; margin-bottom:0.4cm">&nbsp;&nbsp;<font color="MediumVioletRed">--2022 and Before--</font></h1>
 
 - ![Static Badge](https://img.shields.io/badge/Capability-00FF7F) **-** [**Personalized Federated Learning with Contextualized Generalization**](https://www.ijcai.org/proceedings/2022/0311.pdf),<br>
   X. Tang, S. Guo, **<font size=4>J. Guo<sup>#</sup></font>**,<br>

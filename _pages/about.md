@@ -79,7 +79,7 @@ I am currently serving as **Associate Editor** for IEEE Open Journal of the Comp
 
 <!-- **#-** **Corresponding Author(s)**.-->
 
-**<font color="MediumVioletRed">[Data]-</font>** **Learning from Limited** **<font color="MediumVioletRed">Data</font>**
+![Static Badge](https://img.shields.io/badge/Data-8A2BE2) **-** **Learning from Limited** **<font color="MediumVioletRed">Data</font>**
 
 **<font color="MediumVioletRed">[Capability]-</font>** **Learning with Limited Computing** **<font color="MediumVioletRed">Capability</font>**
 
@@ -92,11 +92,11 @@ I am currently serving as **Associate Editor** for IEEE Open Journal of the Comp
 ***
 
 
-- ![Static Badge](https://img.shields.io/badge/Data-8A2BE2) **<font color="MediumVioletRed">[Data]-</font>** [**ParsNets: A Parsimonious Composition of Orthogonal and Low-Rank Linear Networks for Zero-Shot Learning**](),<br>
+- ![Static Badge](https://img.shields.io/badge/Data-8A2BE2) **-** [**ParsNets: A Parsimonious Composition of Orthogonal and Low-Rank Linear Networks for Zero-Shot Learning**](),<br>
   **<font size=4>J. Guo<sup>#</sup></font>**, Q. Zhou, X. Lu, R. Li, Z. Liu, J. Zhang, B. Han, J. Chen, X. Xie, S. Guo,<br>
   *International Joint Conference on Artificial Intelligence* (**<font color="MediumVioletRed">IJCAI</font>**, CCF-A/Core-A*), **2024**.
 
-- **<font color="MediumVioletRed">[Data]-</font>** [**Dual Expert Distillation Network for Generalized Zero-Shot Learning**](),<br>
+- ![Static Badge](https://img.shields.io/badge/Data-8A2BE2) **-** [**Dual Expert Distillation Network for Generalized Zero-Shot Learning**](),<br>
   Z. Rao, **<font size=4>J. Guo<sup>#</sup></font>**, X. Lu, J. Liang, J. Zhang, H. Wang, K. Wei, X. Cao,<br>
   *International Joint Conference on Artificial Intelligence* (**<font color="MediumVioletRed">IJCAI</font>**, CCF-A/Core-A*), **2024**.
 
@@ -112,15 +112,15 @@ I am currently serving as **Associate Editor** for IEEE Open Journal of the Comp
   Y. Wang, S. Guo, **<font size=4>J. Guo<sup>#</sup></font>**, Y. Zhang, W. Zhang, Q. Zheng, J. Zhang,<br>
   *IEEE Transactions on Neural Networks and Learning Systems* (**<font color="MediumVioletRed">TNNLS</font>**, IF=14.255/JCR-Q1), **2024**.
 
-- **<font color="MediumVioletRed">[Data]-</font>** [**On the Robustness of Neural-enhanced Video Streaming Against Adversarial Attacks**](),<br>
+- ![Static Badge](https://img.shields.io/badge/Data-8A2BE2) **-** [**On the Robustness of Neural-enhanced Video Streaming Against Adversarial Attacks**](),<br>
   Q. Zhou, **<font size=4>J. Guo<sup>#</sup></font>**, S. Guo, R. Li, J. Zhang, B. Wang, Z. Xu,<br>
   *AAAI Conference on Artificial Intelligence* (**<font color="MediumVioletRed">AAAI</font>**, CCF-A/Core-A*), **2024**.
 
-- **<font color="MediumVioletRed">[Data]-</font>** [**ProCC: Progressive Cross-primitive Compatibility for Open-World Compositional Zero-Shot Learning**](),<br>
+- ![Static Badge](https://img.shields.io/badge/Data-8A2BE2) **-** [**ProCC: Progressive Cross-primitive Compatibility for Open-World Compositional Zero-Shot Learning**](),<br>
   F. Huo, W. Xu, S. Guo, **<font size=4>J. Guo<sup>#</sup></font>**, H. Wang, Z. Liu, X. Lu,<br>
   *AAAI Conference on Artificial Intelligence* (**<font color="MediumVioletRed">AAAI</font>**, CCF-A/Core-A*), **2024**.
 
-- **<font color="MediumVioletRed">[Data]-</font>** [**Non-Exemplar Online Class-incremental Continual Learning via Dual-prototype Self-augment and Refinement**](),<br>
+- ![Static Badge](https://img.shields.io/badge/Data-8A2BE2) **-** [**Non-Exemplar Online Class-incremental Continual Learning via Dual-prototype Self-augment and Refinement**](),<br>
   F. Huo, W. Xu, **<font size=4>J. Guo</font>**, H. Wang, Y. Fan,<br>
   *AAAI Conference on Artificial Intelligence* (**<font color="MediumVioletRed">AAAI</font>**, CCF-A/Core-A*), **2024**.
 
@@ -144,15 +144,15 @@ I am currently serving as **Associate Editor** for IEEE Open Journal of the Comp
 
 ***
 
-- **<font color="MediumVioletRed">[Data]-</font>** [**Graph Knows Unknowns: Reformulate Zero-Shot Learning as Sample-Level Graph Recognition**](https://ojs.aaai.org/index.php/AAAI/article/view/25942),<br>
+- ![Static Badge](https://img.shields.io/badge/Data-8A2BE2) **-** [**Graph Knows Unknowns: Reformulate Zero-Shot Learning as Sample-Level Graph Recognition**](https://ojs.aaai.org/index.php/AAAI/article/view/25942),<br>
   **<font size=4>J. Guo</font>**, S. Guo, Q. Zhou, Z. Liu, X. Lu, F. Huo,<br>
   *AAAI Conference on Artificial Intelligence* (**<font color="MediumVioletRed">AAAI</font>**, CCF-A/Core-A*), **2023**.
 
-- **<font color="MediumVioletRed">[Data]-</font>** [**(ML)$^2$P-Encoder: On Exploration of Channel-Class Correlation for Multi-Label Zero-Shot Learning**](https://openaccess.thecvf.com/content/CVPR2023/papers/Liu_ML2P-Encoder_On_Exploration_of_Channel-Class_Correlation_for_Multi-Label_Zero-Shot_Learning_CVPR_2023_paper.pdf),<br>
+- ![Static Badge](https://img.shields.io/badge/Data-8A2BE2) **-** [**(ML)$^2$P-Encoder: On Exploration of Channel-Class Correlation for Multi-Label Zero-Shot Learning**](https://openaccess.thecvf.com/content/CVPR2023/papers/Liu_ML2P-Encoder_On_Exploration_of_Channel-Class_Correlation_for_Multi-Label_Zero-Shot_Learning_CVPR_2023_paper.pdf),<br>
   Z. Liu, S. Guo, X. Lu, **<font size=4>J. Guo<sup>#</sup></font>**, J. Zhang, Y. Zeng, F. Huo,<br>
   *IEEE/CVF Conference on Computer Vision and Pattern Recognition* (**<font color="MediumVioletRed">CVPR</font>**, CCF-A/Core-A*), **2023**.
 
-- **<font color="MediumVioletRed">[Data]-</font>** [**Decomposed Soft Prompt Guided Fusion Enhancing for Compositional Zero-Shot Learning**](https://openaccess.thecvf.com/content/CVPR2023/papers/Lu_Decomposed_Soft_Prompt_Guided_Fusion_Enhancing_for_Compositional_Zero-Shot_Learning_CVPR_2023_paper.pdf),<br>
+- ![Static Badge](https://img.shields.io/badge/Data-8A2BE2) **-** [**Decomposed Soft Prompt Guided Fusion Enhancing for Compositional Zero-Shot Learning**](https://openaccess.thecvf.com/content/CVPR2023/papers/Lu_Decomposed_Soft_Prompt_Guided_Fusion_Enhancing_for_Compositional_Zero-Shot_Learning_CVPR_2023_paper.pdf),<br>
   X. Lu, S. Guo, Z. Liu, **<font size=4>J. Guo<sup>#</sup></font>**,<br>
   *IEEE/CVF Conference on Computer Vision and Pattern Recognition* (**<font color="MediumVioletRed">CVPR</font>**, CCF-A/Core-A*), **2023**.
 
@@ -184,7 +184,7 @@ I am currently serving as **Associate Editor** for IEEE Open Journal of the Comp
   X. Tang, S. Guo, **<font size=4>J. Guo<sup>#</sup></font>**,<br>
   *International Joint Conference on Artificial Intelligence* (**<font color="MediumVioletRed">IJCAI</font>**, CCF-A/Core-A*), **2022**.
 
-- **<font color="MediumVioletRed">[Data]-</font>** [**Towards Unbiased Multi-Label Zero-Shot Learning with Pyramid and Semantic Attention**](),<br>
+- ![Static Badge](https://img.shields.io/badge/Data-8A2BE2) **-** [**Towards Unbiased Multi-Label Zero-Shot Learning with Pyramid and Semantic Attention**](),<br>
   Z. Liu, S. Guo, **<font size=4>J. Guo<sup>#</sup></font>**, Y. Xu, F. Huo,<br>
   *IEEE Transactions on Multimedia* (**<font color="MediumVioletRed">TMM</font>**, IF=8.182/JCR-Q1), **2022**.
 
@@ -205,11 +205,11 @@ I am currently serving as **Associate Editor** for IEEE Open Journal of the Comp
   **<font size=4>J. Guo</font>**, S. Ma, J. Zhang, Q. Zhou, S. Guo,<br>
   *ACM International Conference on Multimedia* (**<font color="MediumVioletRed">ACM-MM</font>**, CCF-A/Core-A*), **2020**.
 
-- **<font color="MediumVioletRed">[Data]-</font>** [**A Novel Perspective to Zero-Shot Learning: Towards an Alignment of Manifold Structures via Semantic Feature Expansion**](),<br>
+- ![Static Badge](https://img.shields.io/badge/Data-8A2BE2) **-** [**A Novel Perspective to Zero-Shot Learning: Towards an Alignment of Manifold Structures via Semantic Feature Expansion**](),<br>
   **<font size=4>J. Guo</font>**, S. Guo,<br>
   *IEEE Transactions on Multimedia* (**<font color="MediumVioletRed">TMM</font>**, IF=8.182/JCR-Q1), **2020**.
 
-- **<font color="MediumVioletRed">[Data]-</font>** [**Adaptive Adjustment with Semantic Feature Space for Zero-Shot Recognition**](),<br>
+- ![Static Badge](https://img.shields.io/badge/Data-8A2BE2) **-** [**Adaptive Adjustment with Semantic Feature Space for Zero-Shot Recognition**](),<br>
   **<font size=4>J. Guo</font>**, S. Guo,<br>
   *IEEE International Conference on Acoustics, Speech, and Signal Processing* (**<font color="MediumVioletRed">ICASSP</font>**, CCF-B/Core-B), **2019**.
 
@@ -217,11 +217,11 @@ I am currently serving as **Associate Editor** for IEEE Open Journal of the Comp
   **<font size=4>J. Guo</font>**, S. Guo,<br>
   *IEEE International Conference on Acoustics, Speech, and Signal Processing* (**<font color="MediumVioletRed">ICASSP</font>**, CCF-B/Core-B), **2019**.
 
-- **<font color="MediumVioletRed">[Data]-</font>** [**AMS-SFE: Towards an Alignment of Manifold Structures via Semantic Feature Expansion for Zero-Shot Learning**](),<br>
+- ![Static Badge](https://img.shields.io/badge/Data-8A2BE2) **-** [**AMS-SFE: Towards an Alignment of Manifold Structures via Semantic Feature Expansion for Zero-Shot Learning**](),<br>
   **<font size=4>J. Guo</font>**, S. Guo,<br>
   *IEEE International Conference on Multimedia and Expo* (**<font color="MediumVioletRed">ICME</font>**, CCF-B/Core-A), **2019**.
 
-- **<font color="MediumVioletRed">[Data]-</font>** [**An improved incremental training approach for large-scaled dataset based on support vector machine**](),<br>
+- ![Static Badge](https://img.shields.io/badge/Data-8A2BE2) **-** [**An improved incremental training approach for large-scaled dataset based on support vector machine**](),<br>
   **<font size=4>J. Guo</font>**, <br>
   *IEEE/ACM International Conference on Big Data Computing, Applications and Technologies* (**<font color="MediumVioletRed">BDCAT</font>**), **2016**.
 

@@ -89,7 +89,7 @@ I am currently serving as **Associate Editor** for IEEE Open Journal of the Comp
 
 <h2 style="background-color:#D9D9D9; margin-bottom:0.25cm">&nbsp;--2024--</h2>
 
-***<font size=5><font color="MediumVioletRed">Data</font></font>***
+***<font size=5>--2024--</font>***
 
 ***
 

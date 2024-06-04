@@ -87,8 +87,11 @@ I am currently serving as **Associate Editor** for IEEE Open Journal of the Comp
 
 
 
-**<h2 style="background-color:#D9D9D9; margin-bottom:0.25cm">&nbsp;--2024--</h2>**
-<table><tr><td bgcolor=gray><font size=6>—2024--</font></td></tr></table>
+<h2 style="background-color:#D9D9D9; margin-bottom:0.25cm">&nbsp;--2024--</h2>
+
+***<font size=5><font color="MediumVioletRed">Data</font></font>***
+
+***
 
 - ![Static Badge](https://img.shields.io/badge/Data-8A2BE2) **-** [**ParsNets: A Parsimonious Composition of Orthogonal and Low-Rank Linear Networks for Zero-Shot Learning**](),<br>
   **<font size=4>J. Guo<sup>#</sup></font>**, Q. Zhou, X. Lu, R. Li, Z. Liu, J. Zhang, B. Han, J. Chen, X. Xie, S. Guo,<br>

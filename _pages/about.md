@@ -31,6 +31,17 @@ I am currently serving as **Associate Editor** for IEEE Open Journal of the Comp
 - 2013-2015: M.E., Waseda University (早稻田大学), Japan🇯🇵 (Supervisor: <a href = "https://www.waseda.jp/top/">Prof. Takayuki Furuzuki</a>)
 - 2009-2013: B.E., Sichuan University (四川大学), China🇨🇳
 
+<span class='anchor' id='news'></span>
+# 🔥 News
+- *2024.03*: &nbsp; [Survey] We have a broad & systematic review of recent advances in fine-grained zero-shot learning. The preprint (<a href="https://arxiv.org/pdf/2401.17766">Fine-Grained Zero-Shot Learning: Advances, Challenges, and Prospects</a>) and associated <a href="https://github.com/eigenailab/Awesome-Fine-Grained-Zero-Shot-Learning">Repository</a> have been released. Many thanks to the co-contributors <a href = "https://zjrao.github.io/">Zhijie Rao</a>, <a href = "https://scholar.google.com/citations?user=9ZypKEYAAAAJ&hl=en">Dr. Zhi Chen</a>, <a href = "https://scholar.google.com/citations?user=64zxhRUAAAAJ&hl=en">Dr. Jingren Zhou</a>, and <a href = "https://scholar.google.com/citations?user=RwlJNLcAAAAJ&hl=en">Prof. Dacheng Tao</a>.
+- *2024.03*: &nbsp; [Conference] Serve as Track Chair for <a href="https://events.vtsociety.org/vtc2024-fall/committees/technical-program-committee/">VTC2024-Fall</a>.
+- *2024.01*: &nbsp; [Conference] Serve as Area Chair for <a href="https://icml.cc/Conferences/2024/CallForPapers">ICML 2024</a>.
+- *2024.01*: &nbsp; [Conference] Serve as Area Chair for <a href="https://2024.acmmm.org/">ACM-MM 2024</a>.
+- *2023.12*: &nbsp; [Editorship] Serve as Associate Editor for <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8782664">IEEE Open Journal of the Computer Society (IEEE OJ-CS)</a>.
+- *2023.10*: &nbsp; [Conference] Serve as Session Chair for <a href="https://events.vtsociety.org/vtc2023-fall/">VTC 2023</a>.
+- *2023.09*: &nbsp; [Editorship] Serve as Guest Editor for <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6570650">IEEE Transactions on Computational Social Systems (IEEE TCSS)</a> (Special Issue on Few-shot/Zero-shot Learning for Knowledge Discovery in Social Networks).
+- *2023.07*: &nbsp; [Project] One General Research Fund (GRF) has been granted by <a href="https://www.ugc.edu.hk/eng/rgc/funding_opport/grf/index.html">Research Grants Council (RGC) of Hong Kong</a>.
+
 <span class='anchor' id='group'></span>
 # 🌏 Team 
 

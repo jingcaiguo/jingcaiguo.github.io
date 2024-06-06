@@ -38,7 +38,7 @@ I am currently serving as **Associate Editor** for IEEE Open Journal of the Comp
 - *2024.01*: &nbsp; [Supervision] Congratulations to <a href = "https://zjrao.github.io/">Zhijie Rao</a> for being granted the Ph.D. offer from PolyU.
 - *2024.01*: &nbsp; [Conference] Serve as Area Chair for <a href="https://icml.cc/Conferences/2024/CallForPapers">ICML 2024</a>.
 - *2024.01*: &nbsp; [Conference] Serve as Area Chair for <a href="https://2024.acmmm.org/">ACM-MM 2024</a>.
-- *2023.12*: &nbsp; [Supervision] Congratulations to <a href = "https://keepgoingjkg.github.io/about/">Miaoge Li</a> and <a href = "https://cseeyangchen.github.io/">Yang Chen</a> for being granted the Ph.D. offer from PolyU.
+- *2023.12*: &nbsp; [Supervision] Congratulations to <a href = "https://keepgoingjkg.github.io/about/">Miaoge Li</a> and <a href = "https://cseeyangchen.github.io/">Yang Chen</a> for being granted the Ph.D. offers from PolyU.
 - *2023.12*: &nbsp; [Editorship] Serve as Associate Editor for <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8782664">IEEE Open Journal of the Computer Society (IEEE OJ-CS)</a>.
 - *2023.10*: &nbsp; [Conference] Serve as Session Chair for <a href="https://events.vtsociety.org/vtc2023-fall/">VTC 2023</a>.
 - *2023.09*: &nbsp; [Editorship] Serve as Guest Editor for <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6570650">IEEE Transactions on Computational Social Systems (IEEE TCSS)</a> (Special Issue on Few-shot/Zero-shot Learning for Knowledge Discovery in Social Networks).

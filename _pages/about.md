@@ -26,8 +26,8 @@ I am currently serving as **Associate Editor** for IEEE Open Journal of the Comp
 <span class='anchor' id='education'></span>
 # 🎓 Academic Qualifications
 
-- 2017-2021: Ph.D., The Hong Kong Polytechnic University (香港理工大学), Hong Kong🇭🇰 (Supervisor: <a href = "https://scholar.google.com/citations?user=Ib-sizwAAAAJ&hl=en">Prof. Song Guo</a>)
-- 2019-2020: Visiting Ph.D./Researcher, The University of Sydney (悉尼大学), Australia🇦🇺 (Supervisor: <a href ="https://scholar.google.com/citations?user=RwlJNLcAAAAJ&hl=en">Prof. Dacheng Tao</a>)
+- 2017-2021: Ph.D., The Hong Kong Polytechnic University (香港理工大学), Hong Kong🇭🇰 (Supervisor: <a href = "https://scholar.google.com/citations?user=Ib-sizwAAAAJ&hl=en">Prof. Song Guo</a>, *now HKUST*)
+- 2019-2020: Visiting Ph.D./Researcher, The University of Sydney (悉尼大学), Australia🇦🇺 (Supervisor: <a href ="https://scholar.google.com/citations?user=RwlJNLcAAAAJ&hl=en">Prof. Dacheng Tao</a>, *now NTU*)
 - 2013-2015: M.E., Waseda University (早稻田大学), Japan🇯🇵 (Supervisor: <a href = "https://www.waseda.jp/top/">Prof. Takayuki Furuzuki</a>)
 - 2009-2013: B.E., Sichuan University (四川大学), China🇨🇳
 

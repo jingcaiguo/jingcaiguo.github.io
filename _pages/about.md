@@ -71,7 +71,7 @@ I am currently serving as **Associate Editor** for IEEE Open Journal of the Comp
   Funding source: The National Natural Science Foundation of China (NSFC), No.62102327, 2022-2024.
 
 - **<font color="MediumVioletRed">[PI]:</font>** Start-up Fund for RAPs under the Strategic Hiring Scheme,<br>
-  Funding source: PolyU Internal Fund, No.P0043932, 2022-2024.
+  Funding source: PolyU Research Grant, No.P0043932, 2022-2024.
 
 - **<font color="MediumVioletRed">[PI]:</font>** "Learning-Based Anti-Fraud Prevention in Financial Industry",<br>
   Funding source: The Fundamental Research Funds Scheme for the Central Universities (China), No.JBK21YJ04, 2021-2021.

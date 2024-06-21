@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about'></span>
 
-I am a Research Assistant Professor with Department of Computing at <a href = "https://www.polyu.edu.hk/comp/people/academic-staff/dr-guo-jingcai/">The Hong Kong Polytechnic University (PolyU)</a> and also a "副研究员" affiliated with <a href = "https://www.polyu-szbase.com/">PolyU Shenzhen Research Institute</a> (<font color="MediumVioletRed">eligible to hire/supervise Ph.D./Postdoc/RA at PolyU</font>). I successfully defended my Ph.D. degree in Dec. 2020 at the same university, supervised by <a href = "https://scholar.google.com/citations?user=Ib-sizwAAAAJ&hl=en">Prof. Song Guo</a> (*now HKUST*). Prior to that, I received my M.E. degree (2015) from <a href = "https://www.waseda.jp/top/">Waseda University</a>, Japan, supervised by <a href = "https://www.waseda.jp/top/">Prof. Takayuki Furuzuki</a>, and B.E. degree (2013) from <a href = "http://en.scu.edu.cn/">Sichuan University</a>, China, all in Computer Science. From 2021 to 2022, I was an Associate Professor with School of Computing and Artificial Intelligence, <a href ="https://e.swufe.edu.cn/">SWUFE</a>, China, and from 2019 to 2020, I was a Visiting Ph.D./Researcher with <a href = "https://sydney.edu.au/">University of Sydney</a>, Australia, supervised by <a href ="https://scholar.google.com/citations?user=RwlJNLcAAAAJ&hl=en">Prof. Dacheng Tao</a> (*now NTU*). Before I did my Ph.D., I had two years of experience in investment banking after Waseda (*"Life is about trial"*).
+I am a Research Assistant Professor with Department of Computing at <a href = "https://www.polyu.edu.hk/comp/people/academic-staff/dr-guo-jingcai/">The Hong Kong Polytechnic University (PolyU)</a> and also a "副研究员" affiliated with <a href = "https://www.polyu-szbase.com/">PolyU Shenzhen Research Institute</a> (<font color="MediumVioletRed">eligible to hire/supervise Ph.D./Postdoc/RA at PolyU</font>). I successfully defended my Ph.D. degree in Dec. 2020 at the same university, supervised by <a href = "https://scholar.google.com/citations?user=Ib-sizwAAAAJ&hl=en">Prof. Song Guo</a> (*now HKUST*). Prior to that, I received my M.E. degree (2015) from <a href = "https://www.waseda.jp/top/">Waseda University</a>, Japan, supervised by <a href = "https://www.waseda.jp/top/">Prof. Takayuki Furuzuki</a>, and B.E. degree (2013) from <a href = "http://en.scu.edu.cn/">Sichuan University</a>, China, all in Computer Science. From 2021 to 2022, I was an Associate Professor with School of Computing and Artificial Intelligence, <a href ="https://e.swufe.edu.cn/">SWUFE</a>, China, and from 2019 to 2020, I was a Visiting Ph.D./Researcher with <a href = "https://sydney.edu.au/">University of Sydney</a>, Australia, supervised by <a href ="https://scholar.google.com/citations?user=RwlJNLcAAAAJ&hl=en">Prof. Dacheng Tao</a> (*now NTU*). Before I did my Ph.D., I had two years of experience in investment banking after Waseda.
 
 I am generally interested in ***<font size=4><font color="MediumVioletRed">Low-Shot AI</font></font>***, with an ultimate goal of building **Generalized Intelligent Paradigms** that learn from/with **Limited Resources** in terms of ***<font size=4><font color="MediumVioletRed">Data</font></font>*** (![Static Badge](https://img.shields.io/badge/Data-8A2BE2)), ***Computing*** ***<font size=4><font color="MediumVioletRed">Capability</font></font>*** (![Static Badge](https://img.shields.io/badge/Capability-00FF7F)), and some of their derivative ***<font size=4><font color="MediumVioletRed">Applications</font></font>*** (![Static Badge](https://img.shields.io/badge/APPs-DAA520)) that are beneficial from theory to practice. Our topics include zero/few-shot learning, federated/distributed learning, model compression, representation learning, and lightweight deployment/training of foundation models. Our works are consistently published in prestigious venues, including AAAI, CVPR, IJCAI, ICML, ICLR, MM, ATC, ICME, ICASSP, ICDCS, TNNLS, TPAMI, TMM, TC, NN, etc. As the **Principal Investigator (PI)**, I have secured several external grants like the **General Research Fund (GRF)** from **Hong Kong RGC**, the **Young Scientists Fund** from **NSFC**, and the **Fundamental Research Funds** for the Central Universities. If you are interested in any of these topics, please feel free to e-mail me!
 
@@ -122,7 +122,7 @@ I am currently serving as **Associate Editor** for IEEE Open Journal of the Comp
 
 - ![Static Badge](https://img.shields.io/badge/Capability-00FF7F) **-** [**Data Quality-aware Mixed-precision Quantization via Hybrid Reinforcement Learning**](),<br>
   Y. Wang, S. Guo, **<font size=4>J. Guo<sup>#</sup></font>**, Y. Zhang, W. Zhang, Q. Zheng, J. Zhang,<br>
-  *IEEE Transactions on Neural Networks and Learning Systems* (**<font color="MediumVioletRed">TNNLS</font>**, IF=14.255/JCR-Q1), **2024**.
+  *IEEE Transactions on Neural Networks and Learning Systems* (**<font color="MediumVioletRed">TNNLS</font>**, IF=14.255/JCR-Q1, DOI:10.1109/TNNLS.2024.3409692), **2024**.
 
 - ![Static Badge](https://img.shields.io/badge/Data-8A2BE2) **-** [**On the Robustness of Neural-enhanced Video Streaming Against Adversarial Attacks**](),<br>
   Q. Zhou, **<font size=4>J. Guo<sup>#</sup></font>**, S. Guo, R. Li, J. Zhang, B. Wang, Z. Xu,<br>
@@ -138,7 +138,7 @@ I am currently serving as **Associate Editor** for IEEE Open Journal of the Comp
 
 - ![Static Badge](https://img.shields.io/badge/Capability-00FF7F) **-** [**PASS: Patch Automatic Skip Scheme for Efficient On-device Video Perception**](),<br>
   Q. Zhou, S. Guo, J. Pan, J. Liang, **<font size=4>J. Guo<sup>#</sup></font>**, Z. Xu, J. Zhou,<br>
-  *IEEE Transactions on Pattern Analysis and Machine Intelligence* (**<font color="MediumVioletRed">TPAMI</font>**, IF=24.314/JCR-Q1), **2024**.
+  *IEEE Transactions on Pattern Analysis and Machine Intelligence* (**<font color="MediumVioletRed">TPAMI</font>**, IF=24.314/JCR-Q1, DOI:10.1109/TPAMI.2024.3350380), **2024**.
 
 - ![Static Badge](https://img.shields.io/badge/Capability-00FF7F) **-** [**Learning Personalized Causally Invariant Representations for Heterogeneous Federated Clients**](),<br>
   X. Tang, S. Guo, J. Zhang, and **<font size=4>J. Guo</font>**,<br>
@@ -173,15 +173,15 @@ I am currently serving as **Associate Editor** for IEEE Open Journal of the Comp
 
 - ![Static Badge](https://img.shields.io/badge/Capability-00FF7F) **-** [**Towards Data-Independent Knowledge Transfer in Model-Heterogeneous Federated Learning**](),<br>
   J. Zhang, S. Guo, **<font size=4>J. Guo<sup>#</sup></font>**, D. Zeng, J. Zhou, A. Zomaya,<br>
-  *IEEE Transactions on Computers* (**<font color="MediumVioletRed">TC</font>**, CCF-A), **2023**.
+  *IEEE Transactions on Computers* (**<font color="MediumVioletRed">TC</font>**, CCF-A, DOI:10.1109/TC.2023.3272801), **2023**.
 
 - ![Static Badge](https://img.shields.io/badge/APPs-DAA520) **-** [**UTDNet: A Unified Triplet Decoder Network for Multimodal Salient Object Detection**](),<br>
   F. Huo, Z. Liu, **<font size=4>J. Guo<sup>#</sup></font>**, W. Xu, S. Guo,<br>
-  *Neural Networks* (**<font color="MediumVioletRed">NN</font>**, IF=9.657/JCR-Q1), **2023**.
+  *Neural Networks* (**<font color="MediumVioletRed">NN</font>**, IF=9.657/JCR-Q1, DOI:10.1016/j.neunet.2023.11.051), **2023**.
 
 - ![Static Badge](https://img.shields.io/badge/Capability-00FF7F) **-** [**Towards performance-maximizing neural network pruning via global channel attention**](),<br>
   Y. Wang, S. Guo, **<font size=4>J. Guo</font>**, J. Zhang, W. Zhang, C. Yan, Y. Zhang,<br>
-  *Neural Networks* (**<font color="MediumVioletRed">NN</font>**, IF=9.657/JCR-Q1), **2023**.
+  *Neural Networks* (**<font color="MediumVioletRed">NN</font>**, IF=9.657/JCR-Q1, DOI:10.1016/j.neunet.2023.11.065), **2023**.
 
 - ![Static Badge](https://img.shields.io/badge/Capability-00FF7F) **-** [**Hwamei: A Learning-Based Aggregation Framework for Hierarchical Federated Learning System**](),<br>
   T. Qi, Y. Zhan, P. Li, **<font size=4>J. Guo</font>**, Y. Xia,<br>
@@ -204,11 +204,11 @@ I am currently serving as **Associate Editor** for IEEE Open Journal of the Comp
 
 - ![Static Badge](https://img.shields.io/badge/Data-8A2BE2) **-** [**Towards Unbiased Multi-Label Zero-Shot Learning with Pyramid and Semantic Attention**](),<br>
   Z. Liu, S. Guo, **<font size=4>J. Guo<sup>#</sup></font>**, Y. Xu, F. Huo,<br>
-  *IEEE Transactions on Multimedia* (**<font color="MediumVioletRed">TMM</font>**, IF=8.182/JCR-Q1), **2022**.
+  *IEEE Transactions on Multimedia* (**<font color="MediumVioletRed">TMM</font>**, IF=8.182/JCR-Q1, DOI:10.1109/TMM.2022.3222657), **2022**.
 
 - ![Static Badge](https://img.shields.io/badge/APPs-DAA520) **-** [**Conservative Novelty Synthesizing Network for Malware Recognition in an Open-Set Scenario**](),<br>
   **<font size=4>J. Guo</font>**, S. Guo, S. Ma, Y. Sun, Y. Xu,<br>
-  *IEEE Transactions on Neural Networks and Learning Systems* (**<font color="MediumVioletRed">TNNLS</font>**, IF=14.255/JCR-Q1), **2021**.<br>
+  *IEEE Transactions on Neural Networks and Learning Systems* (**<font color="MediumVioletRed">TNNLS</font>**, IF=14.255/JCR-Q1, DOI:10.1109/TNNLS.2021.3099122), **2021**.<br>
   (<font color="MediumVioletRed">Outstanding Paper Award of</font> [<font color="MediumVioletRed">GDCA</font>](http://www.gdcomf.com/))
 
 - ![Static Badge](https://img.shields.io/badge/Capability-00FF7F) **-** [**INT8 Training with Loss-Aware Compensation and Backward Quantization for Tiny On-Device Learning**](),<br>
@@ -217,7 +217,7 @@ I am currently serving as **Associate Editor** for IEEE Open Journal of the Comp
 
 - ![Static Badge](https://img.shields.io/badge/Capability-00FF7F) **-** [**On-Device Learning Systems for Edge Intelligence: A Software and Hardware Synergy Perspective**](),<br>
   Q. Zhou, Z. Qu, S. Guo, B. Luo, **<font size=4>J. Guo</font>**, Z. Xu, R. Akerkar,<br>
-  *IEEE Internet of Things Journal* (**<font color="MediumVioletRed">IoT-J</font>**, IF=10.6/JCR-Q1), **2021**.
+  *IEEE Internet of Things Journal* (**<font color="MediumVioletRed">IoT-J</font>**, IF=10.6/JCR-Q1, DOI:10.1109/JIOT.2021.3063147), **2021**.
 
 - ![Static Badge](https://img.shields.io/badge/APPs-DAA520) **-** [**Dual-View Attention Networks for Single Image Super-Resolution**](https://dl.acm.org/doi/10.1145/3394171.3413613),<br>
   **<font size=4>J. Guo</font>**, S. Ma, J. Zhang, Q. Zhou, S. Guo,<br>
@@ -225,7 +225,7 @@ I am currently serving as **Associate Editor** for IEEE Open Journal of the Comp
 
 - ![Static Badge](https://img.shields.io/badge/Data-8A2BE2) **-** [**A Novel Perspective to Zero-Shot Learning: Towards an Alignment of Manifold Structures via Semantic Feature Expansion**](),<br>
   **<font size=4>J. Guo</font>**, S. Guo,<br>
-  *IEEE Transactions on Multimedia* (**<font color="MediumVioletRed">TMM</font>**, IF=8.182/JCR-Q1), **2020**.
+  *IEEE Transactions on Multimedia* (**<font color="MediumVioletRed">TMM</font>**, IF=8.182/JCR-Q1, DOI:10.1109/TMM.2020.2984091), **2020**.
 
 - ![Static Badge](https://img.shields.io/badge/Data-8A2BE2) **-** [**Adaptive Adjustment with Semantic Feature Space for Zero-Shot Recognition**](),<br>
   **<font size=4>J. Guo</font>**, S. Guo,<br>

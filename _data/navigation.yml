@@ -1,28 +1,31 @@
 # main links links
 main:
   - title: "About"
-    url: "/#-about"
+    url: "/#-bio"
 
   - title: "Qualification"
     url: "/#-education”
 
+  - title: "News"
+    url: "/#-mynews”
+
   - title: “Group"
-    url: "/#-group"
+    url: "/#-mygroup"
 
   - title: "Grants"
-    url: "/#-grants"
+    url: "/#-mygrants"
 
   - title: "Publications"
-    url: "/#-publications"
+    url: "/#-mypublications"
     
   - title: "Teachings"
-    url: "/#-teachings"
+    url: "/#-myteachings"
     
   - title: "Services"
-    url: "/#-services"       
+    url: "/#-myservices"       
 
   - title: "Selected Honors"
-    url: "/#-honors"
+    url: "/#-myhonors"
 
   - title: "Sponsors"
-    url: "/#-sponsors"
+    url: "/#-mysponsors"

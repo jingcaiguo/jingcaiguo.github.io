@@ -15,7 +15,7 @@ redirect_from:
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
-<span class='anchor' id='about'></span>
+<span class='anchor' id='bio'></span>
 
 I am a Research Assistant Professor with Department of Computing at <a href = "https://www.polyu.edu.hk/comp/people/academic-staff/dr-guo-jingcai/">The Hong Kong Polytechnic University (PolyU)</a> and also a "副研究员" affiliated with <a href = "https://www.polyu-szbase.com/">PolyU Shenzhen Research Institute</a> (<font color="MediumVioletRed">eligible to hire/supervise Ph.D./Postdoc/RA at PolyU</font>). I successfully defended my Ph.D. degree in Dec. 2020 at the same university, supervised by <a href = "https://scholar.google.com/citations?user=Ib-sizwAAAAJ&hl=en">Prof. Song Guo</a> (*now HKUST*). Prior to that, I received my M.E. degree (2015) from <a href = "https://www.waseda.jp/top/">Waseda University</a>, Japan, supervised by <a href = "https://www.waseda.jp/top/">Prof. Takayuki Furuzuki</a>, and B.E. degree (2013) from <a href = "http://en.scu.edu.cn/">Sichuan University</a>, China, all in Computer Science. From 2021 to 2022, I was an Associate Professor with School of Computing and Artificial Intelligence, <a href ="https://e.swufe.edu.cn/">SWUFE</a>, China, and from 2019 to 2020, I was a Visiting Ph.D./Researcher with <a href = "https://sydney.edu.au/">University of Sydney</a>, Australia, supervised by <a href ="https://scholar.google.com/citations?user=RwlJNLcAAAAJ&hl=en">Prof. Dacheng Tao</a> (*now NTU*). Before I did my Ph.D., I had two years of experience in investment banking after Waseda.
 
@@ -31,7 +31,7 @@ I am currently serving as **Associate Editor** for IEEE Open Journal of the Comp
 - 2013-2015: M.E., Waseda University (早稻田大学), Japan🇯🇵 (Supervisor: <a href = "https://www.waseda.jp/top/">Prof. Takayuki Furuzuki</a>)
 - 2009-2013: B.E., Sichuan University (四川大学), China🇨🇳
 
-<span class='anchor' id='news'></span>
+<span class='anchor' id='mynews'></span>
 # 🔥 News
 - *2024.03*: &nbsp; [Survey] We have a broad & systematic review of recent advances in fine-grained zero-shot learning. The preprint (<a href="https://arxiv.org/pdf/2401.17766">Fine-Grained Zero-Shot Learning: Advances, Challenges, and Prospects</a>) and associated <a href="https://github.com/eigenailab/Awesome-Fine-Grained-Zero-Shot-Learning">Repository</a> have been released. Many thanks to the co-contributors <a href = "https://zjrao.github.io/">Zhijie Rao</a>, <a href = "https://scholar.google.com/citations?user=9ZypKEYAAAAJ&hl=en">Dr. Zhi Chen</a>, <a href = "https://scholar.google.com/citations?user=64zxhRUAAAAJ&hl=en">Dr. Jingren Zhou</a>, and <a href = "https://scholar.google.com/citations?user=RwlJNLcAAAAJ&hl=en">Prof. Dacheng Tao</a>.
 - *2024.03*: &nbsp; [Conference] Serve as Track Chair for <a href="https://events.vtsociety.org/vtc2024-fall/committees/technical-program-committee/">VTC2024-Fall</a>.
@@ -46,7 +46,7 @@ I am currently serving as **Associate Editor** for IEEE Open Journal of the Comp
 - *2022.10*: &nbsp; [Career] I joined <a href = "https://www.polyu.edu.hk/comp/people/academic-staff/">Department of Computing</a> at Hong Kong Polytechnic University as a Research Assistant Professor.
 
 
-<span class='anchor' id='group'></span>
+<span class='anchor' id='mygroup'></span>
 # 🌏 Team 
 
 🎉🎉 We have some fully funded openings for **PhD Student**, **Postdoctoral Researcher**, and **Research Assistant** to work and have fun together on multiple research projects. Drop me an email (jc-jingcai.guo@polyu.edu.hk) with your complete CV if you are interested. Candidates with strong programming and mathematics backgrounds are preferred. **Visiting Students/Researchers** (onsite/remote) are also welcome!
@@ -61,7 +61,7 @@ I am currently serving as **Associate Editor** for IEEE Open Journal of the Comp
 ## Alumni
 - <a href = "https://mirrorigin.github.io/">Jingming Liang</a> (HUST), RA (Sept 2023-Mar 2024), *Chief Supervisor* \[Placement: Ph.D. Student at University of Iowa, USA.\].
 
-<span class='anchor' id='grants'></span>
+<span class='anchor' id='mygrants'></span>
 # 💰 Grants
 
 - **<font color="MediumVioletRed">[PI]:</font>** **General Research Fund (GRF)** - "Empowering TinyML with Low-shot Learning for Edge AI Systems",<br>
@@ -76,7 +76,7 @@ I am currently serving as **Associate Editor** for IEEE Open Journal of the Comp
 - **<font color="MediumVioletRed">[PI]:</font>** "Learning-Based Anti-Fraud Prevention in Financial Industry",<br>
   Funding source: The Fundamental Research Funds Scheme for the Central Universities (China), No.JBK21YJ04, 2021-2021.
 
-<span class='anchor' id='publications'></span>
+<span class='anchor' id='mypublications'></span>
 # 📚 Selected Publications 
 
 ## Selected Papers \[ #-: Corresponding Author(s) \]
@@ -383,7 +383,7 @@ I am currently serving as **Associate Editor** for IEEE Open Journal of the Comp
 # 💬 Invited Talks
 -->
 
-<span class='anchor' id='teachings'></span>
+<span class='anchor' id='myteachings'></span>
 
 # 🧑🏻‍🏫 Teachings
 
@@ -391,7 +391,7 @@ I am currently serving as **Associate Editor** for IEEE Open Journal of the Comp
 - Data Structures and Database Systems ([Syllabus](https://www.polyu.edu.hk/comp/docdrive/tpg/subject/COMP5112.pdf)), PolyU, Spring 2023.
 - Data Structures (<a href = "./images/CST906.pdf">Syllabus</a>), SWUFE, Fall 2021.
 
-<span class='anchor' id='services'></span>
+<span class='anchor' id='myservices'></span>
 # 👔 Services
 
 ##  Conference Service
@@ -439,7 +439,7 @@ I am currently serving as **Associate Editor** for IEEE Open Journal of the Comp
 - Reviewer for IEEE Transactions on Emerging Topics in Computing (**IEEE TETC**)
 - Reviewer for ACM Computing Surveys (**ACM CSUR**)
 
-<span class='anchor' id='honors'></span>
+<span class='anchor' id='myhonors'></span>
 # 🎖 Selected Honors
 - **Hong Kong Ph.D. Fellowship** (2017), <br>
   Awarding Body: Hong Kong Research Grants Council (acceptance rate ~= 1.7%).
@@ -450,7 +450,7 @@ I am currently serving as **Associate Editor** for IEEE Open Journal of the Comp
 - **VTC2023-Fall Volunteer Service Award** (2023), <br>
   Awarding Body: The IEEE Vehicular Technology Society
 
-<span class='anchor' id='sponsors'></span>
+<span class='anchor' id='mysponsors'></span>
 # 💗 Sponsors
 
 I sincerely thank these sponsors for providing support for my research:<br>

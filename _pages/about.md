@@ -74,7 +74,7 @@ I am currently serving as **Associate Editor** for IEEE Open Journal of the Comp
 - **<font color="MediumVioletRed">[PI]:</font>** **General Research Fund (GRF)** - "Empowering TinyML with Low-shot Learning for Edge AI Systems",<br>
   Funding source: Research Grants Council of Hong Kong, No.15221123, 2024-2026.
   
-- **<font color="MediumVioletRed">[PI]:</font>** **Young Scientists Fund** - "Entity Anti-fraud Prediction Combining Zero-Shot Learning and Graph Neural Networks",<br>
+- **<font color="MediumVioletRed">[PI]:</font>** **Young Scientists Fund (NSFC)** - "Entity Anti-fraud Prediction Combining Zero-Shot Learning and Graph Neural Networks",<br>
   Funding source: The National Natural Science Foundation of China (NSFC), No.62102327, 2022-2024.
 
 - **<font color="MediumVioletRed">[PI]:</font>** Start-up Fund for RAPs under the Strategic Hiring Scheme,<br>

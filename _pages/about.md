@@ -68,19 +68,23 @@ I am currently serving as **Associate Editor** for IEEE Open Journal of the Comp
 
 # 💰 Grants
 
-- **<font color="MediumVioletRed">[PI]:</font>** **General Research Fund (GRF)** - "Advancing Robustness and Generalization in Edge AI Systems via Multi-view Representation-aware Model Refactoring",<br>
-  Funding source: Research Grants Council of Hong Kong, No.15216424, 2025-2027.
+- **<font color="MediumVioletRed">[PI]:</font>** **General Research Fund (GRF)**<br>
+  Project title: *Advancing Robustness and Generalization in Edge AI Systems via Multi-view Representation-aware Model Refactoring*<br>
+  Funding source: Research Grants Council of Hong Kong, No.15216424, 2025-2027
   
-- **<font color="MediumVioletRed">[PI]:</font>** **General Research Fund (GRF)** - "Empowering TinyML with Low-shot Learning for Edge AI Systems",<br>
-  Funding source: Research Grants Council of Hong Kong, No.15221123, 2024-2026.
+- **<font color="MediumVioletRed">[PI]:</font>** **General Research Fund (GRF)**<br>
+  Project title: *Empowering TinyML with Low-shot Learning for Edge AI Systems*<br>
+  Funding source: Research Grants Council of Hong Kong, No.15221123, 2024-2026
   
-- **<font color="MediumVioletRed">[PI]:</font>** **Young Scientists Fund (NSFC)** - "Entity Anti-fraud Prediction Combining Zero-Shot Learning and Graph Neural Networks",<br>
-  Funding source: The National Natural Science Foundation of China (NSFC), No.62102327, 2022-2024.
+- **<font color="MediumVioletRed">[PI]:</font>** **Young Scientists Fund (NSFC)**<br>
+  Project title: *Entity Anti-fraud Prediction Combining Zero-Shot Learning and Graph Neural Networks*<br>
+  Funding source: The National Natural Science Foundation of China (NSFC), No.62102327, 2022-2024
 
-- **<font color="MediumVioletRed">[PI]:</font>** Start-up Fund for RAPs under the Strategic Hiring Scheme,<br>
+- **<font color="MediumVioletRed">[PI]:</font>** Start-up Fund for RAPs under the Strategic Hiring Scheme<br>
   Funding source: PolyU Research Grant, No.P0043932, 2022-2024.
 
-- **<font color="MediumVioletRed">[PI]:</font>** "Learning-Based Anti-Fraud Prevention in Financial Industry",<br>
+- **<font color="MediumVioletRed">[PI]:</font>** Fundamental Research Funds<br>
+  Project title: *Learning-Based Anti-Fraud Prevention in Financial Industry*
   Funding source: The Fundamental Research Funds Scheme for the Central Universities (China), No.JBK21YJ04, 2021-2021.
 
 <span class='anchor' id='selected-publications'></span>

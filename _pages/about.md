@@ -15,7 +15,7 @@ redirect_from:
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
-<span class='anchor' id='bio'></span>
+<span class='anchor' id='about-me'></span>
 
 Hi there! I am currently a Research Assistant Professor with Department of Computing at <a href = "https://www.polyu.edu.hk/comp/people/academic-staff/dr-guo-jingcai/">The Hong Kong Polytechnic University (PolyU)</a> and also a "副研究员" affiliated with <a href = "https://www.polyu-szbase.com/">PolyU Shenzhen Research Institute</a> (<font color="MediumVioletRed">eligible to hire/supervise Ph.D./Postdoc/RA at PolyU</font>). I successfully defended my Ph.D. degree in Dec. 2020 at the same university, supervised by <a href = "https://scholar.google.com/citations?user=Ib-sizwAAAAJ&hl=en">Prof. Song Guo</a> (*now HKUST*). Previously, I received my M.E. degree (2015) from <a href = "https://www.waseda.jp/top/">Waseda University</a>, Japan, supervised by <a href = "https://www.waseda.jp/top/">Prof. Takayuki Furuzuki</a>, and B.E. degree (2013) from <a href = "http://en.scu.edu.cn/">Sichuan University</a>, China, all in Computer Science. From 2021 to 2022, I was an Associate Professor with School of Computing and Artificial Intelligence, <a href ="https://e.swufe.edu.cn/">SWUFE</a>, China, and from 2019 to 2020, I was a Visiting Ph.D./Researcher with <a href = "https://sydney.edu.au/">University of Sydney</a>, Australia, supervised by <a href ="https://scholar.google.com/citations?user=RwlJNLcAAAAJ&hl=en">Prof. Dacheng Tao</a> (*now NTU*). Before I did my Ph.D., I spent 2 years in investment banking after Waseda.
 
@@ -23,16 +23,16 @@ I am generally interested in ***<font size=4><font color="MediumVioletRed">Low-S
 
 I am currently serving as **Associate Editor** for IEEE Open Journal of the Computer Society (IF=5.9) and **Guest Editor** for IEEE Transactions on Computational Social Systems (IF=5.0). I have served as **Publicity Chair** for SRDS 2022 and **Track Chair** for VTC 2024 Fall, and have served as **Area Chair** and/or **Session Chair** for prestigious conferences like ICML, ACM-MM, ICME, and VTC. I also regularly serve as PC Member and/or Reviewer for AAAI, CVPR, NeurIPS, ACM-MM, ICML, ICLR, ICCV, ICME, ICASSP, ECCV, etc., and Reviewer for a series of IEEE transactions and journals like TNNLS, TMM, TMC, TKDE, TCSVT, TSUSC, JSAC, IoT-J, etc. I am a Reviewer for the General Program and the Young Scientists Fund of National Natural Science Foundation of China (NSFC). I am a member of IEEE and CCF. I was the recipient of the Hong Kong PhD Fellowship Scheme (**HKPFS**) supported by **Hong Kong RGC** in 2017 (with gratefulness 💝).
 
-<span class='anchor' id='education'></span>
+<span class='anchor' id='qualifications'></span>
 
-# 🎓 Academic Qualifications
+# 🎓 Qualifications
 
 - 2017-2021: Ph.D., The Hong Kong Polytechnic University (香港理工大学), Hong Kong🇭🇰 (Supervisor: <a href = "https://scholar.google.com/citations?user=Ib-sizwAAAAJ&hl=en">Prof. Song Guo</a>, *now HKUST*)
 - 2019-2020: Visiting Ph.D./Researcher, The University of Sydney (悉尼大学), Australia🇦🇺 (Supervisor: <a href ="https://scholar.google.com/citations?user=RwlJNLcAAAAJ&hl=en">Prof. Dacheng Tao</a>, *now NTU*)
 - 2013-2015: M.E., Waseda University (早稻田大学), Japan🇯🇵 (Supervisor: <a href = "https://www.waseda.jp/top/">Prof. Takayuki Furuzuki</a>)
 - 2009-2013: B.E., Sichuan University (四川大学), China🇨🇳
 
-<span class='anchor' id='mynews'></span>
+<span class='anchor' id='news'></span>
 
 # 🔥 News
 - *2024.07*: &nbsp; [Grant] One General Research Fund (GRF) has been granted by <a href="https://www.ugc.edu.hk/eng/rgc/funding_opport/grf/index.html">Research Grants Council (RGC) of Hong Kong</a>.
@@ -48,7 +48,7 @@ I am currently serving as **Associate Editor** for IEEE Open Journal of the Comp
 - *2023.07*: &nbsp; [Grant] One General Research Fund (GRF) has been granted by <a href="https://www.ugc.edu.hk/eng/rgc/funding_opport/grf/index.html">Research Grants Council (RGC) of Hong Kong</a>.
 - *2022.10*: &nbsp; [Career] I joined <a href = "https://www.polyu.edu.hk/comp/people/academic-staff/">Department of Computing</a> at Hong Kong Polytechnic University as a Research Assistant Professor.
 
-<span class='anchor' id='mygroup'></span>
+<span class='anchor' id='team'></span>
 
 # 🌏 Team 
 
@@ -64,7 +64,7 @@ I am currently serving as **Associate Editor** for IEEE Open Journal of the Comp
 ## Alumni
 - <a href = "https://mirrorigin.github.io/">Jingming Liang</a> (HUST), RA (Sept 2023-Mar 2024), *Chief Supervisor* \[Placement: Ph.D. Student at University of Iowa, USA.\].
 
-<span class='anchor' id='mygrants'></span>
+<span class='anchor' id='grants'></span>
 
 # 💰 Grants
 
@@ -83,7 +83,7 @@ I am currently serving as **Associate Editor** for IEEE Open Journal of the Comp
 - **<font color="MediumVioletRed">[PI]:</font>** "Learning-Based Anti-Fraud Prevention in Financial Industry",<br>
   Funding source: The Fundamental Research Funds Scheme for the Central Universities (China), No.JBK21YJ04, 2021-2021.
 
-<span class='anchor' id='mypublications'></span>
+<span class='anchor' id='selected-publications'></span>
 
 # 📚 Selected Publications 
 
@@ -240,7 +240,7 @@ I am currently serving as **Associate Editor** for IEEE Open Journal of the Comp
   **<font size=4>J. Guo</font>**, and Z. Liu,<br>
   *Machine Learning on Commodity Tiny Devices*, CRC Press (ISBN 9781003340225), **2022**.
 
-<span class='anchor' id='myteachings'></span>
+<span class='anchor' id='teachings'></span>
 
 # 🧑🏻‍🏫 Teachings
 
@@ -248,7 +248,7 @@ I am currently serving as **Associate Editor** for IEEE Open Journal of the Comp
 - Data Structures and Database Systems ([Syllabus](https://www.polyu.edu.hk/comp/docdrive/tpg/subject/COMP5112.pdf)), PolyU, Spring 2023.
 - Data Structures (<a href = "./images/CST906.pdf">Syllabus</a>) × 3 sessions, SWUFE, Fall 2021.
 
-<span class='anchor' id='myservices'></span>
+<span class='anchor' id='services'></span>
 
 # 👔 Services
 
@@ -297,7 +297,7 @@ I am currently serving as **Associate Editor** for IEEE Open Journal of the Comp
 - Reviewer for IEEE Transactions on Emerging Topics in Computing (**IEEE TETC**)
 - Reviewer for ACM Computing Surveys (**ACM CSUR**)
 
-<span class='anchor' id='myhonors'></span>
+<span class='anchor' id='selected-honors'></span>
 
 # 🎖 Selected Honors
 
@@ -310,7 +310,7 @@ I am currently serving as **Associate Editor** for IEEE Open Journal of the Comp
 - **VTC2023-Fall Volunteer Service Award** (2023), <br>
   Awarding Body: The IEEE Vehicular Technology Society
 
-<span class='anchor' id='mysponsors'></span>
+<span class='anchor' id='sponsors'></span>
 
 # 💗 Sponsors
 

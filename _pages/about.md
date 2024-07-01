@@ -306,13 +306,13 @@ I am currently serving as **Associate Editor** for IEEE Open Journal of the Comp
 # 🎖 Selected Honors
 
 - **Hong Kong Ph.D. Fellowship** (2017), <br>
-  Awarding Body: Hong Kong Research Grants Council (acceptance rate ~= 1.7%).
+  Awarding body: Hong Kong Research Grants Council (acceptance rate ~= 1.7%).
 
 - **Ting Hsing International Scholarship** (2013), <br>
-  Awarding Body: Waseda University and Ting Hsin Holding Corp. (acceptance rate ~= 4.2%).
+  Awarding body: Waseda University and Ting Hsin Holding Corp. (acceptance rate ~= 4.2%).
 
 - **VTC2023-Fall Volunteer Service Award** (2023), <br>
-  Awarding Body: The IEEE Vehicular Technology Society
+  Awarding body: The IEEE Vehicular Technology Society
 
 <span class='anchor' id='sponsors'></span>
 

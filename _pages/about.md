@@ -117,6 +117,10 @@ I am currently serving as **Associate Editor** for IEEE Open Journal of the Comp
   X. Tang, S. Guo, **<font size=4>J. Guo<sup>#</sup></font>**, J. Zhang, Y. Yu,<br>
   *International Conference on Machine Learning* (**<font color="MediumVioletRed">ICML</font>**, CCF-A/Core-A*), **2024**.
 
+- ![Static Badge](https://img.shields.io/badge/Capability-00FF7F) **-** [**Personalized Federated Domain-Incremental Learning Based on Adaptive Knowledge Matching**](),<br>
+  Y. Li, W. Xu, H. Wang, R. Li, Y. Qi, and **<font size=4>J. Guo</font>**,<br>
+  *European Conference on Computer Vision* (**<font color="MediumVioletRed”>ECCV</font>**, CCF-B/Core-A*), **2024**.
+
 - ![Static Badge](https://img.shields.io/badge/APPs-DAA520) **-** [**Multi-modal Dual-embedding Networks for Malware Open-set Recognition**](),<br>
   **<font size=4>J. Guo</font>**, H. Wang, Y. Xu, W. Xu, Y. Zhan, Y. Sun, and S. Guo,<br>
   *IEEE Transactions on Neural Networks and Learning Systems* (**<font color="MediumVioletRed">TNNLS</font>**, IF=14.255/JCR-Q1), **2024**.

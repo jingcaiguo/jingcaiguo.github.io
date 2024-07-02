@@ -119,7 +119,7 @@ I am currently serving as **Associate Editor** for IEEE Open Journal of the Comp
 
 - ![Static Badge](https://img.shields.io/badge/Capability-00FF7F) **-** [**Personalized Federated Domain-Incremental Learning Based on Adaptive Knowledge Matching**](),<br>
   Y. Li, W. Xu, H. Wang, R. Li, Y. Qi, and **<font size=4>J. Guo</font>**,<br>
-  *European Conference on Computer Vision* (**<font color="MediumVioletRed”>ECCV</font>**, CCF-B/Core-A*), **2024**.
+  *European Conference on Computer Vision* (**<font color="MediumVioletRed">ECCV</font>**, CCF-B/Core-A*), **2024**.
 
 - ![Static Badge](https://img.shields.io/badge/APPs-DAA520) **-** [**Multi-modal Dual-embedding Networks for Malware Open-set Recognition**](),<br>
   **<font size=4>J. Guo</font>**, H. Wang, Y. Xu, W. Xu, Y. Zhan, Y. Sun, and S. Guo,<br>

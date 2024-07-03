@@ -123,7 +123,7 @@ I am currently serving as **Associate Editor** for IEEE Open Journal of the Comp
 
 - ![Static Badge](https://img.shields.io/badge/APPs-DAA520) **-** [**Multi-modal Dual-embedding Networks for Malware Open-set Recognition**](),<br>
   **<font size=4>J. Guo</font>**, H. Wang, Y. Xu, W. Xu, Y. Zhan, Y. Sun, and S. Guo,<br>
-  *IEEE Transactions on Neural Networks and Learning Systems* (**<font color="MediumVioletRed">TNNLS</font>**, IF=14.255/JCR-Q1), **2024**.
+  *IEEE Transactions on Neural Networks and Learning Systems* (**<font color="MediumVioletRed">TNNLS</font>**, IF=14.255/JCR-Q1, 10.1109/TNNLS.2024.3373809), **2024**.
 
 - ![Static Badge](https://img.shields.io/badge/Capability-00FF7F) **-** [**Data Quality-aware Mixed-precision Quantization via Hybrid Reinforcement Learning**](),<br>
   Y. Wang, S. Guo, **<font size=4>J. Guo<sup>#</sup></font>**, Y. Zhang, W. Zhang, Q. Zheng, J. Zhang,<br>

@@ -185,7 +185,7 @@ I am currently serving as **Associate Editor** for IEEE Open Journal of the Comp
   Y. Wang, S. Guo, **<font size=4>J. Guo</font>**, J. Zhang, W. Zhang, C. Yan, Y. Zhang,<br>
   *Neural Networks* (**<font color="MediumVioletRed">NN</font>**, IF=9.657/JCR-Q1, DOI:10.1016/j.neunet.2023.11.065), **2023**.
 
-- ![Static Badge](https://img.shields.io/badge/Capability-00FF7F) **-** [**Hwamei: A Learning-Based Aggregation Framework for Hierarchical Federated Learning System**](),<br>
+- ![Static Badge](https://img.shields.io/badge/Capability-00FF7F) **-** [**Hwamei: A Learning-Based Synchronization Scheme for Hierarchical Federated Learning**](),<br>
   T. Qi, Y. Zhan, P. Li, **<font size=4>J. Guo</font>**, Y. Xia,<br>
   *IEEE International Conference on Distributed Computing Systems* (**<font color="MediumVioletRed">ICDCS</font>**, CCF-B/Core-A), **2023**.
 

@@ -46,7 +46,7 @@ I am currently serving as **Associate Editor** for IEEE Open Journal of the Comp
 - *2023.10*: &nbsp; [Conference] Serve as Session Chair for <a href="https://events.vtsociety.org/vtc2023-fall/">VTC 2023</a>.
 - *2023.09*: &nbsp; [Editorship] Serve as Guest Editor for <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6570650">IEEE Transactions on Computational Social Systems (IEEE TCSS)</a> (Special Issue on Few-shot/Zero-shot Learning for Knowledge Discovery in Social Networks).
 - *2023.07*: &nbsp; [Grant] One General Research Fund (GRF) has been granted by <a href="https://www.ugc.edu.hk/eng/rgc/funding_opport/grf/index.html">Research Grants Council (RGC) of Hong Kong</a>.
-- *2022.10*: &nbsp; [Career] I joined <a href = "https://www.polyu.edu.hk/comp/people/academic-staff/">Department of Computing</a> at Hong Kong Polytechnic University as a Research Assistant Professor.
+- *2022.10*: &nbsp; [Career] I joined <a href = "https://www.polyu.edu.hk/comp/people/academic-staff/">Department of Computing</a> at The Hong Kong Polytechnic University as a Research Assistant Professor.
 
 <span class='anchor' id='team'></span>
 

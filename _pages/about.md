@@ -113,6 +113,18 @@ I am currently serving as **Associate Editor** for IEEE Open Journal of the Comp
   Z. Rao, **<font size=4>J. Guo<sup>#</sup></font>**, X. Lu, J. Liang, J. Zhang, H. Wang, K. Wei, X. Cao,<br>
   *International Joint Conference on Artificial Intelligence* (**<font color="MediumVioletRed">IJCAI</font>**, CCF-A/Core-A*), **2024**.
 
+- ![Static Badge](https://img.shields.io/badge/Data-8A2BE2) **-** [**Fine-Grained Side Information Guided Dual-Prompts for Zero-Shot Skeleton Action Recognition**](),<br>
+  Y. Chen, **<font size=4>J. Guo<sup>#</sup></font>**, T. He, X. Lu, L. Wang,<br>
+  *ACM International Conference on Multimedia* (**<font color="MediumVioletRed">ACM-MM</font>**, CCF-A/Core-A*), **2024**.
+
+- ![Static Badge](https://img.shields.io/badge/Capability-00FF7F) **-** [**SFP: Spurious Feature-Targeted Pruning for Out-of-Distribution Generalization**](),<br>
+  Y. Wang, **<font size=4>J. Guo<sup>#</sup></font>**, S. Guo, Y. Liu, J. Zhang, W. Zhang,<br>
+  *ACM International Conference on Multimedia* (**<font color="MediumVioletRed">ACM-MM</font>**, CCF-A/Core-A*), **2024**.
+
+- ![Static Badge](https://img.shields.io/badge/APPs-DAA520) **-** [**FreePIH: Training-Free Painterly Image Harmonization with Diffusion Model**](),<br>
+  R. Li, **<font size=4>J. Guo<sup>#</sup></font>**, Q. Zhou, S. Guo,<br>
+  *ACM International Conference on Multimedia* (**<font color="MediumVioletRed">ACM-MM</font>**, CCF-A/Core-A*), **2024**.
+
 - ![Static Badge](https://img.shields.io/badge/Capability-00FF7F) **-** [**Causally Motivated Personalized Federated Invariant Learning with Shortcut-Averse Information-Theoretic Regularization**](),<br>
   X. Tang, S. Guo, **<font size=4>J. Guo<sup>#</sup></font>**, J. Zhang, Y. Yu,<br>
   *International Conference on Machine Learning* (**<font color="MediumVioletRed">ICML</font>**, CCF-A/Core-A*), **2024**.

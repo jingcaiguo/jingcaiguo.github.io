@@ -21,7 +21,7 @@ I am currently a Research Assistant Professor with Department of Computing at <a
 
 I am generally interested in ***<font size=4><font color="MediumVioletRed">Low-Shot AI</font></font>***: learning/modeling with **Limited Resources** in terms of ***<font size=4><font color="MediumVioletRed">Data</font></font>*** (![Static Badge](https://img.shields.io/badge/Data-8A2BE2)), ***Computing*** ***<font size=4><font color="MediumVioletRed">Capability</font></font>*** (![Static Badge](https://img.shields.io/badge/Capability-00FF7F)), and some of their derivative ***<font size=4><font color="MediumVioletRed">Applications</font></font>*** (![Static Badge](https://img.shields.io/badge/APPs-DAA520)) that are beneficial from theory to practice. Our topics include zero/few-shot learning, federated/distributed learning, model compression, representation learning, and lightweight deployment/training of foundation models. Our works are published in prestigious venues, including AAAI, CVPR, IJCAI, ICML, ICLR, MM, ATC, ICME, ICASSP, ICDCS, TNNLS, TPAMI, TMM, TC, NN, etc. As the **Principal Investigator (PI)**, I have secured several external grants like **2 × General Research Funds (GRF)** from **Hong Kong RGC**, the **Young Scientists Fund** from **NSFC**, and the **Fundamental Research Funds** for the Central Universities. If you are interested in any of these topics, please feel free to e-mail me!
 
-I am currently serving as **Associate Editor** for IEEE Open Journal of the Computer Society (IF=5.9) and **Guest Editor** for IEEE Transactions on Computational Social Systems (IF=5.0). I have served as **Publicity Chair** for SRDS 2022 and **Track Chair** for VTC 2024 Fall, and have served as **Area Chair** and/or **Session Chair** for prestigious conferences like ICML, ACM-MM, ICME, and VTC. I also regularly serve as PC Member and/or Reviewer for AAAI, CVPR, NeurIPS, ACM-MM, ICML, ICLR, ICCV, ICME, ICASSP, ECCV, etc., and Reviewer for a series of IEEE transactions and journals like TNNLS, TMM, TMC, TKDE, TCSVT, TSUSC, JSAC, IoT-J, etc. I am a Reviewer for the General Program and the Young Scientists Fund of National Natural Science Foundation of China (NSFC). I am a member of IEEE and CCF. I was the recipient of the Hong Kong PhD Fellowship Scheme (**HKPFS**) supported by **Hong Kong RGC** in 2017 (with gratefulness 💝).
+I am currently serving as **Associate Editor** for IEEE Open Journal of the Computer Society (IF=5.9) and **Guest Editor** for IEEE Transactions on Computational Social Systems (IF=5.0). I have served as **Publicity Chair** for SRDS 2022 and **Track Chair** for VTC 2024 Fall, and have served as **Area Chair** and/or **Session Chair** for prestigious conferences like ICML, ACM-MM, IJCAI, ICME, and VTC. I also regularly serve as PC Member and/or Reviewer for AAAI, CVPR, NeurIPS, ACM-MM, ICML, ICLR, ICCV, ICME, ICASSP, ECCV, etc., and Reviewer for a series of IEEE transactions and journals like TNNLS, TMM, TMC, TKDE, TCSVT, TSUSC, JSAC, IoT-J, etc. I am a Reviewer for the General Program and the Young Scientists Fund of National Natural Science Foundation of China (NSFC). I am a member of IEEE and CCF. I was the recipient of the Hong Kong PhD Fellowship Scheme (**HKPFS**) supported by **Hong Kong RGC** in 2017 (with gratefulness 💝).
 
 <span class='anchor' id='qualifications'></span>
 
@@ -35,6 +35,7 @@ I am currently serving as **Associate Editor** for IEEE Open Journal of the Comp
 <span class='anchor' id='news'></span>
 
 # 🔥 News
+- *2024.08*: &nbsp; [Conference] Serve as Session Chair for <a href="https://ijcai24.org/">IJCAI 2024</a>.
 - *2024.07*: &nbsp; [Grant] One General Research Fund (GRF) has been granted by <a href="https://www.ugc.edu.hk/eng/rgc/funding_opport/grf/index.html">Research Grants Council (RGC) of Hong Kong</a>.
 - *2024.03*: &nbsp; [Survey] We have a broad & systematic review of recent advances in fine-grained zero-shot learning. The preprint (<a href="https://arxiv.org/pdf/2401.17766">Fine-Grained Zero-Shot Learning: Advances, Challenges, and Prospects</a>) and associated <a href="https://github.com/eigenailab/Awesome-Fine-Grained-Zero-Shot-Learning">Repository</a> have been released. Many thanks to the co-contributors <a href = "https://zjrao.github.io/">Zhijie Rao</a>, <a href = "https://scholar.google.com/citations?user=9ZypKEYAAAAJ&hl=en">Dr. Zhi Chen</a>, <a href = "https://scholar.google.com/citations?user=64zxhRUAAAAJ&hl=en">Dr. Jingren Zhou</a>, and <a href = "https://scholar.google.com/citations?user=RwlJNLcAAAAJ&hl=en">Prof. Dacheng Tao</a>.
 - *2024.03*: &nbsp; [Conference] Serve as Track Chair for <a href="https://events.vtsociety.org/vtc2024-fall/committees/technical-program-committee/">VTC2024-Fall</a>.
@@ -273,6 +274,8 @@ I am currently serving as **Associate Editor** for IEEE Open Journal of the Comp
 # 👔 Services
 
 ##  Conference Service
+
+- **Session Chair:** The 33rd International Joint Conference on Artificial Intelligence (**IJCAI** 2024)
 
 - **Track Chair:** The 100th IEEE Vehicular Technology Conference (**VTC** 2024 Fall)
 - **Area Chair:** The 41st International Conference on Machine Learning (**ICML** 2024)

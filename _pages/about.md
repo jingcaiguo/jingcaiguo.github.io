@@ -276,10 +276,8 @@ I am currently serving as **Associate Editor** for IEEE Open Journal of the Comp
 # 👔 Services
 
 ##  Conference Service
-- **Senior PC:** The 39th Annual AAAI Conference on Artificial Intelligence (**AAAI** 2024)
-
+- **Senior PC:** The 39th Annual AAAI Conference on Artificial Intelligence (**AAAI** 2025)
 - **Session Chair:** The 33rd International Joint Conference on Artificial Intelligence (**IJCAI** 2024)
-
 - **Track Chair:** The 100th IEEE Vehicular Technology Conference (**VTC** 2024 Fall)
 - **Area Chair:** The 41st International Conference on Machine Learning (**ICML** 2024)
 - **Area Chair:** The 32nd ACM International Conference on Multimedia (**ACM-MM** 2024)
@@ -298,7 +296,7 @@ I am currently serving as **Associate Editor** for IEEE Open Journal of the Comp
 - IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**: 2022 / 2023 / 2024)
 - Conference on Neural Information Processing Systems (**NeurIPS**: 2022 / 2023 / 2024)
 - International Conference on Computer Vision (**ICCV**: 2023)
-- International Conference on Learning Representations (**ICLR**: 2023)
+- International Conference on Learning Representations (**ICLR**: 2023 / 2025)
 - ACM International Conference on Multimedia (**ACM-MM**: 2022)
 - International Conference on Machine Learning (**ICML**: 2022)
 - IEEE International Conference on Acoustics, Speech, and Signal Processing (**ICASSP**: 2023 / 2024)

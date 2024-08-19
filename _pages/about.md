@@ -28,15 +28,15 @@ I am currently serving as **Associate Editor** for IEEE Open Journal of the Comp
 # 🎓 Qualifications
 
 ## Work Experience
-- 2022 - Now: Research Assistant Professor, The Hong Kong Polytechnic University (香港理工大学), Hong Kong🇭🇰
-- 2021 - 2022: Postdoctoral Research Fellow (remote), The University of Sydney (悉尼大学), Australia🇦🇺 (Co-supervised by <a href ="https://scholar.google.com/citations?user=RwlJNLcAAAAJ&hl=en">Prof. Dacheng Tao</a> and <a href ="https://scholar.google.com.au/citations?user=EiLdZ_YAAAAJ&hl=en">Dr. Tongliang Liu</a>)
-- 2021 - 2022: Associate Professor, Southwestern University of Finance and Economics (西南财经大学), China🇨🇳
+- 2022-Now: Research Assistant Professor, The Hong Kong Polytechnic University, Hong Kong🇭🇰
+- 2021-2022: Postdoctoral Research Fellow (remote), University of Sydney, Australia🇦🇺 (co-supervised by <a href ="https://scholar.google.com/citations?user=RwlJNLcAAAAJ&hl=en">Prof. Dacheng Tao</a> and <a href ="https://scholar.google.com.au/citations?user=EiLdZ_YAAAAJ&hl=en">Dr. Tongliang Liu</a>)
+- 2021-2022: Associate Professor, Southwestern University of Finance and Economics, China🇨🇳
 
 ## Education Background
-- 2017-2021: Ph.D., The Hong Kong Polytechnic University (香港理工大学), Hong Kong🇭🇰 (Supervisor: <a href = "https://cse.hkust.edu.hk/admin/people/faculty/profile/songguo">Prof. Song Guo</a>, *now HKUST*)
-- 2019-2020: Visiting Ph.D., The University of Sydney (悉尼大学), Australia🇦🇺 (Supervisor: <a href ="https://scholar.google.com/citations?user=RwlJNLcAAAAJ&hl=en">Prof. Dacheng Tao</a>, *now NTU*)
-- 2013-2015: M.E., Waseda University (早稻田大学), Japan🇯🇵 (Supervisor: <a href = "https://www.waseda.jp/top/">Prof. Takayuki Furuzuki</a>)
-- 2009-2013: B.E., Sichuan University (四川大学), China🇨🇳
+- 2017-2021: Ph.D., The Hong Kong Polytechnic University, Hong Kong🇭🇰 (Supervisor: <a href = "https://cse.hkust.edu.hk/admin/people/faculty/profile/songguo">Prof. Song Guo</a>, *now HKUST*)
+- 2019-2020: Visiting Ph.D., The University of Sydney, Australia🇦🇺 (Supervisor: <a href ="https://scholar.google.com/citations?user=RwlJNLcAAAAJ&hl=en">Prof. Dacheng Tao</a>, *now NTU*)
+- 2013-2015: M.E., Waseda University, Japan🇯🇵 (Supervisor: <a href = "https://www.waseda.jp/top/">Prof. Takayuki Furuzuki</a>)
+- 2009-2013: B.E., Sichuan University, China🇨🇳
 
 <span class='anchor' id='news'></span>
 

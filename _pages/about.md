@@ -67,7 +67,7 @@ I am currently serving as **Associate Editor** for IEEE Open Journal of the Comp
 ## Current Members
 - <a href = "https://keepgoingjkg.github.io/about/">Miaoge Li</a> (Xidian University), Ph.D. Student (May 2024-), *Chief Supervisor*.
 - <a href = "https://zjrao.github.io/">Zhijie Rao</a> (Xiamen University), Ph.D. Student (May 2024-) / RA (Sept 2023-May 2024), *Chief Supervisor*.
-- <a href = "https://cseeyangchen.github.io/">Yang Chen</a> (UESTC), Incoming Ph.D. Student (Sept 2024-), *Chief Supervisor*.
+- <a href = "https://cseeyangchen.github.io/">Yang Chen</a> (UESTC), Ph.D. Student (Sept 2024-), *Chief Supervisor*.
 - <a href = "https://cseeyangchen.github.io/">Fengxin Li</a> (Renmin University), Visiting Ph.D. Student (Oct 2024-), *Chief Supervisor*.
 
 ## Alumni

@@ -138,6 +138,14 @@ I am currently serving as **Associate Editor** for IEEE Open Journal of the Comp
   X. Tang, S. Guo, **<font size=4>J. Guo<sup>#</sup></font>**, J. Zhang, Y. Yu,<br>
   *International Conference on Machine Learning* (**<font color="MediumVioletRed">ICML</font>**, CCF-A/Core-A*), **2024**.
 
+- ![Static Badge](https://img.shields.io/badge/APPs-DAA520) **-** [**CGraphNet: Contrastive Graph Context Prediction for Sparse Unlabeled Short Text Representation Learning on Social Media**](),<br>
+  J. Chen, **<font size=4>J. Guo<sup>#</sup></font>**, X. Li, H. Wang, Z. Xu, Z. Gong, L. Zhang, VCM. Leung,<br>
+  *IEEE Transactions on Computational Social Systems* (**<font color="MediumVioletRed">TCSS</font>**, IF=5.0/JCR-Q1, DOI:10.1109/TCSS.2024.3452695), **2024**.
+
+- ![Static Badge](https://img.shields.io/badge/APPs-DAA520) **-** [**A Review of Few-shot and Zero-shot Learning for Node Classification in Social Networks**](),<br>
+  J. Chen, R. Mi, H. Wang, H. Wu, J. Mo, **<font size=4>J. Guo</font>**, Z. Lai, L. Zhang, VCM. Leung,<br>
+  *IEEE Transactions on Computational Social Systems* (**<font color="MediumVioletRed">TCSS</font>**, IF=5.0/JCR-Q1, DOI:10.1109/TCSS.2024.3452697), **2024**.
+
 - ![Static Badge](https://img.shields.io/badge/Capability-00FF7F) **-** [**Personalized Federated Domain-Incremental Learning Based on Adaptive Knowledge Matching**](),<br>
   Y. Li, W. Xu, H. Wang, R. Li, Y. Qi, and **<font size=4>J. Guo</font>**,<br>
   *European Conference on Computer Vision* (**<font color="MediumVioletRed">ECCV</font>**, CCF-B/Core-A*), **2024**.
@@ -149,6 +157,10 @@ I am currently serving as **Associate Editor** for IEEE Open Journal of the Comp
 - ![Static Badge](https://img.shields.io/badge/Capability-00FF7F) **-** [**Data Quality-aware Mixed-precision Quantization via Hybrid Reinforcement Learning**](),<br>
   Y. Wang, S. Guo, **<font size=4>J. Guo<sup>#</sup></font>**, Y. Zhang, W. Zhang, Q. Zheng, J. Zhang,<br>
   *IEEE Transactions on Neural Networks and Learning Systems* (**<font color="MediumVioletRed">TNNLS</font>**, IF=14.255/JCR-Q1, DOI:10.1109/TNNLS.2024.3409692), **2024**.
+
+- ![Static Badge](https://img.shields.io/badge/APPs-DAA520) **-** [**Unveiling User Interests: A Deep User Interest Exploration Network for Sequential Location Recommendation**](),<br>
+  J. Chen, **<font size=4>J. Guo</font>**, Q. Zhang, K. Wu, L. Zhang, VCM. Leung, H. Wang, Z. Gong,<br>
+  *Information Sciences* (**<font color="MediumVioletRed">INS</font>**, IF=8.1/JCR-Q1), **2024**.
 
 - ![Static Badge](https://img.shields.io/badge/Data-8A2BE2) **-** [**On the Robustness of Neural-enhanced Video Streaming Against Adversarial Attacks**](),<br>
   Q. Zhou, **<font size=4>J. Guo<sup>#</sup></font>**, S. Guo, R. Li, J. Zhang, B. Wang, Z. Xu,<br>

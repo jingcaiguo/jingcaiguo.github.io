@@ -160,7 +160,7 @@ I am currently serving as **Associate Editor** for IEEE Open Journal of the Comp
 
 - ![Static Badge](https://img.shields.io/badge/APPs-DAA520) **-** [**Unveiling User Interests: A Deep User Interest Exploration Network for Sequential Location Recommendation**](),<br>
   J. Chen, **<font size=4>J. Guo</font>**, Q. Zhang, K. Wu, L. Zhang, VCM. Leung, H. Wang, Z. Gong,<br>
-  *Information Sciences* (**<font color="MediumVioletRed">INS</font>**, IF=8.1/JCR-Q1), **2024**.
+  *Information Sciences* (**<font color="MediumVioletRed">INS</font>**, IF=8.1/JCR-Q1, DOI:10.1016/J.INS.2024.121416), **2024**.
 
 - ![Static Badge](https://img.shields.io/badge/Data-8A2BE2) **-** [**On the Robustness of Neural-enhanced Video Streaming Against Adversarial Attacks**](),<br>
   Q. Zhou, **<font size=4>J. Guo<sup>#</sup></font>**, S. Guo, R. Li, J. Zhang, B. Wang, Z. Xu,<br>

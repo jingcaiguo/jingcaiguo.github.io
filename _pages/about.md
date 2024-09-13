@@ -146,6 +146,14 @@ I am currently serving as **Associate Editor** for IEEE Open Journal of the Comp
   J. Chen, R. Mi, H. Wang, H. Wu, J. Mo, **<font size=4>J. Guo</font>**, Z. Lai, L. Zhang, VCM. Leung,<br>
   *IEEE Transactions on Computational Social Systems* (**<font color="MediumVioletRed">TCSS</font>**, IF=5.0/JCR-Q1, DOI:10.1109/TCSS.2024.3452697), **2024**.
 
+- ![Static Badge](https://img.shields.io/badge/APPs-DAA520) **-** [**Vision-Language Meets the Skeleton: Progressively Distillation with Cross-Modal Knowledge for 3D Action Representation**](),<br>
+Y. Chen, T. He, J. Fu, L. Wang, **<font size=4>J. Guo</font>**, H. Cheng,<br>
+*IEEE Transactions on Multimedia* (**<font color="MediumVioletRed">TMM</font>**, IF=8.4/JCR-Q1, In press), **2024**.
+
+- ![Static Badge](https://img.shields.io/badge/Capability-00FF7F) **-** [**Model Decomposition and Reassembly for Purified Knowledge Transfer in Personalized Federated Learning**](),<br>
+J. Zhang, S. Guo, X. Ma, W. Xu, Q. Zhou, **<font size=4>J. Guo</font>**, Z. Hong, J. Shan,<br>
+*IEEE Transactions on Mobile Computing* (**<font color="MediumVioletRed">TMC</font>**, IF=7.7/JCR-Q1, In press), **2024**.
+
 - ![Static Badge](https://img.shields.io/badge/Capability-00FF7F) **-** [**Personalized Federated Domain-Incremental Learning Based on Adaptive Knowledge Matching**](),<br>
   Y. Li, W. Xu, H. Wang, R. Li, Y. Qi, and **<font size=4>J. Guo</font>**,<br>
   *European Conference on Computer Vision* (**<font color="MediumVioletRed">ECCV</font>**, CCF-B/Core-A*), **2024**.

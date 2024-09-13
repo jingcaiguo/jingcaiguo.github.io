@@ -244,7 +244,7 @@ J. Zhang, S. Guo, X. Ma, W. Xu, Q. Zhou, **<font size=4>J. Guo</font>**, Z. Hong
 
 - ![Static Badge](https://img.shields.io/badge/Data-8A2BE2) **-** [**Towards Unbiased Multi-Label Zero-Shot Learning with Pyramid and Semantic Attention**](),<br>
   Z. Liu, S. Guo, **<font size=4>J. Guo<sup>#</sup></font>**, Y. Xu, F. Huo,<br>
-  *IEEE Transactions on Multimedia* (**<font color="MediumVioletRed">TMM</font>**, IF=8.182/JCR-Q1, DOI:10.1109/TMM.2022.3222657), **2022**.
+  *IEEE Transactions on Multimedia* (**<font color="MediumVioletRed">TMM</font>**, IF=8.4/JCR-Q1, DOI:10.1109/TMM.2022.3222657), **2022**.
 
 - ![Static Badge](https://img.shields.io/badge/APPs-DAA520) **-** [**Conservative Novelty Synthesizing Network for Malware Recognition in an Open-Set Scenario**](),<br>
   **<font size=4>J. Guo</font>**, S. Guo, S. Ma, Y. Sun, Y. Xu,<br>
@@ -265,7 +265,7 @@ J. Zhang, S. Guo, X. Ma, W. Xu, Q. Zhou, **<font size=4>J. Guo</font>**, Z. Hong
 
 - ![Static Badge](https://img.shields.io/badge/Data-8A2BE2) **-** [**A Novel Perspective to Zero-Shot Learning: Towards an Alignment of Manifold Structures via Semantic Feature Expansion**](),<br>
   **<font size=4>J. Guo</font>**, S. Guo,<br>
-  *IEEE Transactions on Multimedia* (**<font color="MediumVioletRed">TMM</font>**, IF=8.182/JCR-Q1, DOI:10.1109/TMM.2020.2984091), **2020**.
+  *IEEE Transactions on Multimedia* (**<font color="MediumVioletRed">TMM</font>**, IF=8.4/JCR-Q1, DOI:10.1109/TMM.2020.2984091), **2020**.
 
 - ![Static Badge](https://img.shields.io/badge/Data-8A2BE2) **-** [**Adaptive Adjustment with Semantic Feature Space for Zero-Shot Recognition**](),<br>
   **<font size=4>J. Guo</font>**, S. Guo,<br>

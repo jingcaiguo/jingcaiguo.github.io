@@ -329,7 +329,6 @@ J. Zhang, S. Guo, X. Ma, W. Xu, Q. Zhou, **<font size=4>J. Guo</font>**, Z. Hong
 - European Conference on Computer Vision (**ECCV**: 2022 / 2024)
 - IEEE International Conference on Multimedia and Expo (**ICME**: 2019 / 2020 / 2021)
 - International Joint Conference on Neural Networks (**IJCNN**: 2022 / 2023 / 2024)
-- IEEE Conference on Artificial Intelligence (**CAI**: 2024)
 - IEEE International Conference on Big Data Intelligence and Computing (**DataCom**: 2018)
 
 ## Journal Reviewer

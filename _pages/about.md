@@ -140,7 +140,7 @@ I am currently serving as **Associate Editor** for IEEE Open Journal of the Comp
   
 - ![Static Badge](https://img.shields.io/badge/Capability-00FF7F) **-** [**Geometry Awakening: Cross-Geometry Learning Exhibits Superiority over Individual Structures**](),<br>
 Y. Sun, X. Cao, Y. Wang, W. Ye, **<font size=4>J. Guo</font>**, Q. Guo,<br>
-  *Annual Conference on Neural Information Processing Systems* (**<font color="MediumVioletRed”>NeurIPS</font>**, CCF-A/Core-A*), **2024**.
+  *Annual Conference on Neural Information Processing Systems* (**<font color="MediumVioletRed">NeurIPS</font>**, CCF-A/Core-A*), **2024**.
 
 - ![Static Badge](https://img.shields.io/badge/APPs-DAA520) **-** [**CGraphNet: Contrastive Graph Context Prediction for Sparse Unlabeled Short Text Representation Learning on Social Media**](),<br>
   J. Chen, **<font size=4>J. Guo<sup>#</sup></font>**, X. Li, H. Wang, Z. Xu, Z. Gong, L. Zhang, VCM. Leung,<br>

@@ -166,6 +166,10 @@ J. Zhang, S. Guo, X. Ma, W. Xu, Q. Zhou, **<font size=4>J. Guo</font>**, Z. Hong
   **<font size=4>J. Guo</font>**, H. Wang, Y. Xu, W. Xu, Y. Zhan, Y. Sun, and S. Guo,<br>
   *IEEE Transactions on Neural Networks and Learning Systems* (**<font color="MediumVioletRed">TNNLS</font>**, IF=14.255/JCR-Q1, DOI:10.1109/TNNLS.2024.3373809), **2024**.
 
+- ![Static Badge](https://img.shields.io/badge/APPs-DAA520) **-** [**SRCD: Semantic Reasoning with Compound Domains for Single-Domain Generalized Object Detection**](),<br>
+  Z. Rao, **<font size=4>J. Guo<sup>#</sup></font>**, L. Tang, Y. Huang, X. Ding, and S. Guo,<br>
+  *IEEE Transactions on Neural Networks and Learning Systems* (**<font color="MediumVioletRed">TNNLS</font>**, IF=14.255/JCR-Q1, Accept), **2024**.
+
 - ![Static Badge](https://img.shields.io/badge/Capability-00FF7F) **-** [**Data Quality-aware Mixed-precision Quantization via Hybrid Reinforcement Learning**](),<br>
   Y. Wang, S. Guo, **<font size=4>J. Guo<sup>#</sup></font>**, Y. Zhang, W. Zhang, Q. Zheng, J. Zhang,<br>
   *IEEE Transactions on Neural Networks and Learning Systems* (**<font color="MediumVioletRed">TNNLS</font>**, IF=14.255/JCR-Q1, DOI:10.1109/TNNLS.2024.3409692), **2024**.

@@ -29,7 +29,7 @@ I am currently serving as **Associate Editor** for IEEE Open Journal of the Comp
 
 ## Work Experience
 - 2022-Now: Research Assistant Professor, The Hong Kong Polytechnic University, Hong Kong🇭🇰
-- 2021-2022: Postdoctoral Research Fellow (remote), University of Sydney, Australia🇦🇺 (Supervisors: <a href ="https://scholar.google.com/citations?user=RwlJNLcAAAAJ&hl=en">Prof. Dacheng Tao</a> and <a href ="https://scholar.google.com.au/citations?user=EiLdZ_YAAAAJ&hl=en">Dr. Tongliang Liu</a>)
+- 2021-2022: Postdoctoral Research Fellow; remote, University of Sydney, Australia🇦🇺 (Supervisors: <a href ="https://scholar.google.com/citations?user=RwlJNLcAAAAJ&hl=en">Prof. Dacheng Tao</a> and <a href ="https://scholar.google.com.au/citations?user=EiLdZ_YAAAAJ&hl=en">Dr. Tongliang Liu</a>)
 - 2021-2022: Associate Professor, Southwestern University of Finance and Economics, China🇨🇳
 
 ## Education Background

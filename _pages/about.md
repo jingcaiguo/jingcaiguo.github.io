@@ -41,6 +41,7 @@ I am currently serving as **Associate Editor** for IEEE Open Journal of the Comp
 <span class='anchor' id='news'></span>
 
 # 🔥 News
+- *2024.11*: &nbsp; [Conference] Serve as Area Chair for <a href="https://icml.cc/Conferences/2025/CallForPapers">ICML 2025</a>.
 - *2024.08*: &nbsp; [Conference] Serve as Senior Program Committee for <a href="">AAAI 2025</a>.
 - *2024.08*: &nbsp; [Conference] Serve as Session Chair (multimodal learning) for <a href="https://ijcai24.org/">IJCAI 2024</a>.
 - *2024.07*: &nbsp; [Grant] One General Research Fund (GRF) has been granted by <a href="https://www.ugc.edu.hk/eng/rgc/funding_opport/grf/index.html">Research Grants Council (RGC) of Hong Kong</a>.
@@ -310,6 +311,7 @@ J. Zhang, S. Guo, X. Ma, W. Xu, Q. Zhou, **<font size=4>J. Guo</font>**, Z. Hong
 # 👔 Services
 
 ##  Conference Service
+- **Area Chair:** The 42st International Conference on Machine Learning (**ICML** 2025)
 - **Senior PC:** The 39th Annual AAAI Conference on Artificial Intelligence (**AAAI** 2025)
 - **Session Chair:** The 33rd International Joint Conference on Artificial Intelligence (**IJCAI** 2024)
 - **Track Chair (TPC Vice-Chair):** The 100th IEEE Vehicular Technology Conference (**VTC** 2024 Fall)

@@ -380,6 +380,7 @@ I sincerely thank these sponsors for providing support for my research:<br>
 <img src="./images/ugc1.png" width = "330" />
 <img src="./images/polyu.jpg" width = "130" />
 <img src="./images/waseda1.jpg" width = "200" />
+<img src="./images/huawei.png" width = "150" />
 <img src="./images/tencent.png" width = "250" />
 <img src="./images/nvidia.png" width = "150" />
 <img src="./images/tinghsing.jpeg" width = "130" />  

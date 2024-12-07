@@ -302,6 +302,7 @@ J. Zhang, S. Guo, X. Ma, W. Xu, Q. Zhou, **<font size=4>J. Guo</font>**, Z. Hong
 
 # 🧑🏻‍🏫 Teachings
 ##  As Instructor
+- Internet Infrastructure and Protocols, Postgraduate-level PolyU, Spring 2025.
 - Internet Infrastructure and Protocols ([Syllabus](https://www.polyu.edu.hk/comp/docdrive/tpg/subject/COMP5311.pdf)), Postgraduate-level PolyU, Spring 2024.
 - Data Structures and Database Systems ([Syllabus](https://www.polyu.edu.hk/comp/docdrive/tpg/subject/COMP5112.pdf)), Postgraduate-level, PolyU, Spring 2023.
 - Data Structures (<a href = "./images/CST906.pdf">Syllabus</a>) × 3 sessions, Undergraduate-level, SWUFE, Fall 2021.

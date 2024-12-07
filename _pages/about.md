@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/200fce1f-c7c9-4dd5-8014-dd7f5397e30b)---
+---
 permalink: /
 title: ""
 excerpt: ""
@@ -307,7 +307,7 @@ J. Zhang, S. Guo, X. Ma, W. Xu, Q. Zhou, **<font size=4>J. Guo</font>**, Z. Hong
 - Data Structures (<a href = "./images/CST906.pdf">Syllabus</a>) × 3 sessions, Undergraduate-level, SWUFE, Fall 2021.
 
 ##  As Teaching Assistant
-- B2B and B2C E-commerce and Management, Postgraduate-level, PolyU, Spring 2019.
+- B2B&B2C E-commerce and Management, Postgraduate-level, PolyU, Spring 2019.
 - Information Systems Project Management, Postgraduate-level, PolyU, Fall 2018
 - Big Data Analytics, Undergraduate-level, PolyU, Spring 2018
 - Web Advertising and Web Publishing, Postgraduate-level, PolyU, Fall 2017

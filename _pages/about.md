@@ -26,10 +26,11 @@ I am currently serving as **Associate Editor** for IEEE Open Journal of the Comp
 <span class='anchor' id='qualifications'></span>
 
 # 🔥 News
+- *2024.12*: &nbsp; [Grant] One **** Gifted Fund has been granted from the industry; Thank you!
 - *2024.11*: &nbsp; [Conference] Serve as Area Chair for <a href="https://icml.cc/Conferences/2025/CallForPapers">ICML 2025</a>.
 - *2024.08*: &nbsp; [Conference] Serve as Senior Program Committee for <a href="">AAAI 2025</a>.
 - *2024.08*: &nbsp; [Conference] Serve as Session Chair (multimodal learning) for <a href="https://ijcai24.org/">IJCAI 2024</a>.
-- *2024.07*: &nbsp; [Grant] One General Research Fund (GRF) has been granted by <a href="https://www.ugc.edu.hk/eng/rgc/funding_opport/grf/index.html">Research Grants Council (RGC) of Hong Kong</a>.
+- *2024.07*: &nbsp; [Grant] One General Research Fund (GRF) has been granted by <a href="https://www.ugc.edu.hk/eng/rgc/funding_opport/grf/index.html">Research Grants Council (RGC) of Hong Kong</a>; Thank you!
 <!--- *2024.03*: &nbsp; [Survey] We have a broad & systematic review of recent advances in fine-grained zero-shot learning. The preprint (<a href="https://arxiv.org/pdf/2401.17766">Fine-Grained Zero-Shot Learning: Advances, Challenges, and Prospects</a>) and associated <a href="https://github.com/eigenailab/Awesome-Fine-Grained-Zero-Shot-Learning">Repository</a> have been released. Many thanks to the co-contributors <a href = "https://zjrao.github.io/">Zhijie Rao</a>, <a href = "https://scholar.google.com/citations?user=9ZypKEYAAAAJ&hl=en">Dr. Zhi Chen</a>, <a href = "https://scholar.google.com/citations?user=64zxhRUAAAAJ&hl=en">Dr. Jingren Zhou</a>, and <a href = "https://scholar.google.com/citations?user=RwlJNLcAAAAJ&hl=en">Prof. Dacheng Tao</a>.-->
 - *2024.03*: &nbsp; [Conference] Serve as Track Chair (TPC Vice-Chair) for <a href="https://events.vtsociety.org/vtc2024-fall/committees/technical-program-committee/">VTC2024-Fall</a>.
 - *2024.01*: &nbsp; [Supervision] Congratulations to <a href = "https://zjrao.github.io/">Zhijie Rao</a> for being granted the Ph.D. offer from PolyU.
@@ -39,8 +40,8 @@ I am currently serving as **Associate Editor** for IEEE Open Journal of the Comp
 - *2023.12*: &nbsp; [Editorship] Serve as Associate Editor for <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8782664">IEEE Open Journal of the Computer Society (IEEE OJ-CS)</a>.
 - *2023.10*: &nbsp; [Conference] Serve as Session Chair for <a href="https://events.vtsociety.org/vtc2023-fall/">VTC 2023</a>.
 - *2023.09*: &nbsp; [Editorship] Serve as Guest Editor for <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6570650">IEEE Transactions on Computational Social Systems (IEEE TCSS)</a> (Special Issue on Few-shot/Zero-shot Learning for Knowledge Discovery in Social Networks).
-- *2023.07*: &nbsp; [Grant] One General Research Fund (GRF) has been granted by <a href="https://www.ugc.edu.hk/eng/rgc/funding_opport/grf/index.html">Research Grants Council (RGC) of Hong Kong</a>.
-- *2022.10*: &nbsp; [Career] I joined <a href = "https://www.polyu.edu.hk/comp/people/academic-staff/">Department of Computing</a> at The Hong Kong Polytechnic University as a Research Assistant Professor.
+- *2023.07*: &nbsp; [Grant] One General Research Fund (GRF) has been granted by <a href="https://www.ugc.edu.hk/eng/rgc/funding_opport/grf/index.html">Research Grants Council (RGC) of Hong Kong</a>; Thank you!
+- *2022.01*: &nbsp; [Grant] One NSFC-Young Scientists Fund has been granted by the <a href="https://www.nsfc.gov.cn/">National Natural Science Foundation of China (NSFC)</a>; Thank you!
 
 <span class='anchor' id='team'></span>
 
@@ -77,7 +78,11 @@ I am currently serving as **Associate Editor** for IEEE Open Journal of the Comp
 <span class='anchor' id='grants'></span>
 
 # 💰 Grants
+One **** Gifted Fund has been granted from the industry; Thank you!
 
+- **<font color="MediumVioletRed">[PI]:</font>** ** **** Gifted Fund **<br>
+  Funding source: **** the industry, 2026-2028
+  
 - **<font color="MediumVioletRed">[PI]:</font>** **General Research Fund (GRF)**<br>
   Project title: *Advancing Robustness and Generalization in Edge AI Systems via Multi-view Representation-aware Model Refactoring*<br>
   Funding source: Research Grants Council of Hong Kong, No.15216424, 2025-2027

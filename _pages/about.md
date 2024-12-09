@@ -26,7 +26,7 @@ I am currently serving as **Associate Editor** for IEEE Open Journal of the Comp
 <span class='anchor' id='qualifications'></span>
 
 # 🔥 News
-- *2024.12*: &nbsp; [Grant] One **** Gifted Fund has been granted from the industry; Thank you!
+- *2024.12*: &nbsp; [Grant] One \*\*\*\* Gifted Fund has been granted from the industry; Thank you!
 - *2024.11*: &nbsp; [Conference] Serve as Area Chair for <a href="https://icml.cc/Conferences/2025/CallForPapers">ICML 2025</a>.
 - *2024.08*: &nbsp; [Conference] Serve as Senior Program Committee for <a href="">AAAI 2025</a>.
 - *2024.08*: &nbsp; [Conference] Serve as Session Chair (multimodal learning) for <a href="https://ijcai24.org/">IJCAI 2024</a>.
@@ -80,7 +80,7 @@ I am currently serving as **Associate Editor** for IEEE Open Journal of the Comp
 # 💰 Grants
 One **** Gifted Fund has been granted from the industry; Thank you!
 
-- **<font color="MediumVioletRed">[PI]:</font>** ** **** Gifted Fund **<br>
+- **<font color="MediumVioletRed">[PI]:</font>** ** \*\*\*\* Gifted Fund **<br>
   Funding source: **** the industry, 2026-2028
   
 - **<font color="MediumVioletRed">[PI]:</font>** **General Research Fund (GRF)**<br>

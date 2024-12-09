@@ -79,7 +79,7 @@ I am currently serving as **Associate Editor** for IEEE Open Journal of the Comp
 
 # 💰 Grants
 
-- **<font color="MediumVioletRed">[PI]:</font>** \*\*\*\* ** Gifted Fund **<br>
+- **<font color="MediumVioletRed">[PI]:</font>** **\*\*\*\*** **Gifted** **Fund**<br>
   Funding source: \*\*\*\* the industry, 2026-2028
   
 - **<font color="MediumVioletRed">[PI]:</font>** **General Research Fund (GRF)**<br>

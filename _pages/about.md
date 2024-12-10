@@ -121,17 +121,19 @@ I am currently serving as **Associate Editor** for IEEE Open Journal of the Comp
 
 - ![Static Badge](https://img.shields.io/badge/Data-8A2BE2) **-** [**Epsilon: Exploring Comprehensive Visual-Semantic Projection for Multi-Label Zero-Shot Learning**](),<br>
   Z. Liu, **<font size=4>J. Guo<sup>#</sup></font>**, S. Guo, X. Lu,<br>
-  *AAAI Conference on Artificial Intelligence* (**<font color="MediumVioletRed">AAAI</font>**, CCF-A/Core-A*), **2025**.
-
+  *AAAI Conference on Artificial Intelligence* (**<font color="MediumVioletRed">AAAI</font>**, CCF-A/Core-A*), **2025**, Accepted.
 
 - ![Static Badge](https://img.shields.io/badge/Data-8A2BE2) **-** [**Concept Matching with Agent for Out-of-Distribution Detection**](),<br>
   Y, Lee, X. Cao, **<font size=4>J. Guo</font>**, W. Ye, Q. Guo, Y. Chang,<br>
-  *AAAI Conference on Artificial Intelligence* (**<font color="MediumVioletRed">AAAI</font>**, CCF-A/Core-A*), **2025**.
-
+  *AAAI Conference on Artificial Intelligence* (**<font color="MediumVioletRed">AAAI</font>**, CCF-A/Core-A*), **2025**, Accepted.
 
 - ![Static Badge]( https://img.shields.io/badge/APPs-DAA520) **-** [**DeNC: Unleash Neural Codecs in Video Streaming with Diffusion Enhancement**](),<br>
   Q. Zhou, R. Li, **<font size=4>J. Guo</font>**, Y. Huang, Z. Xu, L. Cui, S. Guo,<br>
-  *AAAI Conference on Artificial Intelligence* (**<font color="MediumVioletRed">AAAI</font>**, CCF-A/Core-A*), **2025**.
+  *AAAI Conference on Artificial Intelligence* (**<font color="MediumVioletRed">AAAI</font>**, CCF-A/Core-A*), **2025**, Accepted.
+
+- ![Static Badge](https://img.shields.io/badge/APPs-DAA520) **-** [**SRCD: Semantic Reasoning with Compound Domains for Single-Domain Generalized Object Detection**](),<br>
+  Z. Rao, **<font size=4>J. Guo<sup>#</sup></font>**, L. Tang, Y. Huang, X. Ding, and S. Guo,<br>
+  *IEEE Transactions on Neural Networks and Learning Systems* (**<font color="MediumVioletRed">TNNLS</font>**, IF=14.255/JCR-Q1, Accept), **2025**, In press.
 
 
 ***<font size=5>--2024--</font>***
@@ -189,10 +191,6 @@ J. Zhang, S. Guo, X. Ma, W. Xu, Q. Zhou, **<font size=4>J. Guo</font>**, Z. Hong
 - ![Static Badge](https://img.shields.io/badge/APPs-DAA520) **-** [**Multi-modal Dual-embedding Networks for Malware Open-set Recognition**](),<br>
   **<font size=4>J. Guo</font>**, H. Wang, Y. Xu, W. Xu, Y. Zhan, Y. Sun, and S. Guo,<br>
   *IEEE Transactions on Neural Networks and Learning Systems* (**<font color="MediumVioletRed">TNNLS</font>**, IF=14.255/JCR-Q1, DOI:10.1109/TNNLS.2024.3373809), **2024**.
-
-- ![Static Badge](https://img.shields.io/badge/APPs-DAA520) **-** [**SRCD: Semantic Reasoning with Compound Domains for Single-Domain Generalized Object Detection**](),<br>
-  Z. Rao, **<font size=4>J. Guo<sup>#</sup></font>**, L. Tang, Y. Huang, X. Ding, and S. Guo,<br>
-  *IEEE Transactions on Neural Networks and Learning Systems* (**<font color="MediumVioletRed">TNNLS</font>**, IF=14.255/JCR-Q1, Accept), **2024**.
 
 - ![Static Badge](https://img.shields.io/badge/Capability-00FF7F) **-** [**Data Quality-aware Mixed-precision Quantization via Hybrid Reinforcement Learning**](),<br>
   Y. Wang, S. Guo, **<font size=4>J. Guo<sup>#</sup></font>**, Y. Zhang, W. Zhang, Q. Zheng, J. Zhang,<br>

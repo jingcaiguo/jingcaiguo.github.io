@@ -132,7 +132,6 @@ I am currently serving as **Associate Editor** for IEEE Open Journal of the Comp
 - ![Static Badge]( https://img.shields.io/badge/APPs-DAA520) **-** [**DeNC: Unleash Neural Codecs in Video Streaming with Diffusion Enhancement**](),<br>
   Q. Zhou, R. Li, **<font size=4>J. Guo</font>**, Y. Huang, Z. Xu, L. Cui, S. Guo,<br>
   *AAAI Conference on Artificial Intelligence* (**<font color="MediumVioletRed">AAAI</font>**, CCF-A/Core-A*), **2025**.
-![image](https://github.com/user-attachments/assets/278fda8e-a99a-4b2e-ab70-67ac43d37466)
 
 
 ***<font size=5>--2024--</font>***

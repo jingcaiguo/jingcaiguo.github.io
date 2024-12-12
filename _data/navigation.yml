@@ -6,8 +6,10 @@ main:
   - title: "News"
     url: "/#-news"
 
+  <!--
   - title: "Qualifications"
     url: "/#-qualifications"
+  -->
 
   - title: "Team"
     url: "/#-team"

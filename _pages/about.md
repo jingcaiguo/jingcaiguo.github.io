@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a Research Assistant Professor with Department of Computing at <a href = "https://www.polyu.edu.hk/comp/people/academic-staff/dr-guo-jingcai/">The Hong Kong Polytechnic University</a>. I defended my Ph.D. degree in Dec. 2020 at the same university, supervised by <a href = "https://cse.hkust.edu.hk/admin/people/faculty/profile/songguo">Prof. Song Guo</a> (*now HKUST*), and supported by the Hong Kong PhD Fellowship Scheme (**HKPFS**) from **Hong Kong RGC**. Prior to that, I received my M.E. degree (2015) from <a href = "https://www.waseda.jp/top/">Waseda University</a>, Japan, supervised by <a href = "https://www.waseda.jp/top/">Prof. Takayuki Furuzuki</a>, and B.E. degree (2013) from <a href = "http://en.scu.edu.cn/">Sichuan University</a>, China, all in Computer Science and AI/ML. From 2021 to 2022, I was a Postdoctoral Research Fellow, remotely with <a href = "https://www.sydney.edu.au/">University of Sydney</a> (where I was also a Visiting Ph.D. from 2019 to 2020), Australia, co-supervised by <a href ="https://scholar.google.com/citations?user=RwlJNLcAAAAJ&hl=en">Prof. Dacheng Tao</a> (*now NTU*) and <a href ="https://scholar.google.com.au/citations?user=EiLdZ_YAAAAJ&hl=en">Dr. Tongliang Liu</a>, and concurrently, an Associate Professor with School of Computing and Artificial Intelligence, <a href ="https://e.swufe.edu.cn/">SWUFE</a>, China. Earlier before I did my Ph.D., I spent nearly 2 years in the investment banking industry after Waseda (*"no experience is ever wasted"*).
+I am currently a Research Assistant Professor with Department of Computing at <a href = "https://www.polyu.edu.hk/comp/people/academic-staff/dr-guo-jingcai/">The Hong Kong Polytechnic University🇭🇰</a>. I defended my Ph.D. degree in Dec. 2020 at the same university🇭🇰, supervised by <a href = "https://cse.hkust.edu.hk/admin/people/faculty/profile/songguo">Prof. Song Guo</a> (*now HKUST*), and supported by the Hong Kong PhD Fellowship Scheme (**HKPFS**) from **Hong Kong RGC**. Prior to that, I received my M.E. degree (2015) from <a href = "https://www.waseda.jp/top/">Waseda University</a>, Japan🇯🇵, supervised by <a href = "https://www.waseda.jp/top/">Prof. Takayuki Furuzuki</a>, and B.E. degree (2013) from <a href = "http://en.scu.edu.cn/">Sichuan University</a>, China🇨🇳, all in Computer Science and AI/ML. From 2021 to 2022, I was a Postdoctoral Research Fellow, remotely with <a href = "https://www.sydney.edu.au/">University of Sydney</a> (where I was also a Visiting Ph.D. from 2019 to 2020), Australia🇦🇺, co-supervised by <a href ="https://scholar.google.com/citations?user=RwlJNLcAAAAJ&hl=en">Prof. Dacheng Tao</a> (*now NTU*) and <a href ="https://scholar.google.com.au/citations?user=EiLdZ_YAAAAJ&hl=en">Dr. Tongliang Liu</a>, and concurrently, an Associate Professor with School of Computing and Artificial Intelligence, <a href ="https://e.swufe.edu.cn/">SWUFE</a>, China🇨🇳. Earlier before I did my Ph.D., I spent nearly 2 years in the investment banking industry after Waseda (*"no experience is ever wasted"*).
 
 I am generally interested in ***<font color="MediumVioletRed">Resource-Efficient Computing</font>*** and ***<font color="MediumVioletRed">Edge AI</font>***, which target learning/modeling with **Limited Resources** in terms of ***<font color="MediumVioletRed">Data</font>***-![Static Badge](https://img.shields.io/badge/Data-8A2BE2), ***Computing*** ***<font color="MediumVioletRed">Capability</font>***-![Static Badge](https://img.shields.io/badge/Capability-00FF7F), as well as exploring their derivative ***<font color="MediumVioletRed">Applications</font>***-![Static Badge](https://img.shields.io/badge/APPs-DAA520) on a wide spectrum. Some specific topics include zero/few-shot learning, federated learning, representation learning, model compression, and lightweight deployment/training of foundation models. Our works are published in prestigious venues, including AAAI, IJCAI, CVPR, ICML, ICLR, NeurIPS, MM, ATC, ICME, ICASSP, ICDCS, TNNLS, TPAMI, TMM, TC, NN, etc. As the **Principal Investigator (PI)**, I have secured several external grants like **2 × General Research Funds (GRF)** from **Hong Kong RGC**, one **Young Scientists Fund** from **NSFC**, one **Industrial Gifted Fund**, and one **Fundamental Research Fund** for the Central Universities. If you are interested in any of these topics, please feel free to e-mail me!
 
@@ -45,6 +45,8 @@ I am currently serving as **Associate Editor** for IEEE Open Journal of the Comp
 
 <span class='anchor' id='team'></span>
 
+
+<!-- 
 # 🎓 Qualifications
 
 ## Work Experience
@@ -59,6 +61,7 @@ I am currently serving as **Associate Editor** for IEEE Open Journal of the Comp
 - 2009-2013: B.E., Sichuan University, China🇨🇳
 
 <span class='anchor' id='news'></span>
+-->
 
 # 🌏 Team 
 

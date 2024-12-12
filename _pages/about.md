@@ -16,15 +16,13 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-
 I am currently a Research Assistant Professor with Department of Computing at <a href = "https://www.polyu.edu.hk/comp/people/academic-staff/dr-guo-jingcai/">The Hong Kong Polytechnic University</a>. I defended my Ph.D. degree in Dec. 2020 at the same university🇭🇰, supervised by <a href = "https://cse.hkust.edu.hk/admin/people/faculty/profile/songguo">Prof. Song Guo</a> (*now HKUST*), and supported by the Hong Kong PhD Fellowship Scheme (**HKPFS**) from **Hong Kong RGC**. Prior to that, I received my M.E. degree (2015) from <a href = "https://www.waseda.jp/top/">Waseda University</a>, Japan🇯🇵, supervised by <a href = "https://www.waseda.jp/top/">Prof. Takayuki Furuzuki</a>, and B.E. degree (2013) from <a href = "http://en.scu.edu.cn/">Sichuan University</a>, China🇨🇳, all in Computer Science and AI/ML. From 2021 to 2022, I was a Postdoctoral Research Fellow, remotely with <a href = "https://www.sydney.edu.au/">University of Sydney</a> (where I was also a Visiting Ph.D. from 2019 to 2020), Australia🇦🇺, co-supervised by <a href ="https://scholar.google.com/citations?user=RwlJNLcAAAAJ&hl=en">Prof. Dacheng Tao</a> (*now NTU*) and <a href ="https://scholar.google.com.au/citations?user=EiLdZ_YAAAAJ&hl=en">Dr. Tongliang Liu</a>, and concurrently, an Associate Professor with School of Computing and Artificial Intelligence, <a href ="https://e.swufe.edu.cn/">SWUFE</a>, China🇨🇳. Earlier before I did my Ph.D., I spent nearly 2 years in the investment banking industry after Waseda (*"no experience is ever wasted"*).
 
 I am generally interested in ***<font color="MediumVioletRed">Resource-Efficient Computing</font>*** and ***<font color="MediumVioletRed">Edge AI</font>***, which target learning/modeling with **Limited Resources** in terms of ***<font color="MediumVioletRed">Data</font>***-![Static Badge](https://img.shields.io/badge/Data-8A2BE2), ***Computing*** ***<font color="MediumVioletRed">Capability</font>***-![Static Badge](https://img.shields.io/badge/Capability-00FF7F), as well as exploring their derivative ***<font color="MediumVioletRed">Applications</font>***-![Static Badge](https://img.shields.io/badge/APPs-DAA520) on a wide spectrum. Some specific topics include zero/few-shot learning, federated learning, representation learning, model compression, and lightweight deployment/training of foundation models. Our works are published in prestigious venues, including AAAI, IJCAI, CVPR, ICML, ICLR, NeurIPS, MM, ATC, ICME, ICASSP, ICDCS, TNNLS, TPAMI, TMM, TC, NN, etc. As the **Principal Investigator (PI)**, I have secured several external grants like **2 × General Research Funds (GRF)** from **Hong Kong RGC**, one **Young Scientists Fund** from **NSFC**, one **Industrial Gifted Fund**, and one **Fundamental Research Fund** for the Central Universities. If you are interested in any of these topics, please feel free to e-mail me!
 
 I am currently serving as **Associate Editor** for IEEE Open Journal of the Computer Society (IF=5.9) and **Guest Editor** for IEEE Transactions on Computational Social Systems (IF=5.0). I have served as **Publicity Chair** for SRDS 2022 and **Track Chair** (TPC Vice-Chair) for VTC 2024 Fall, and have served as **Area Chair** / **Senior PC** and/or **Session Chair** for prestigious venues like ICML, ACM-MM, AAAI, IJCAI, ICME, and VTC. I also regularly serve as PC Member and/or Reviewer for AAAI, CVPR, NeurIPS, ACM-MM, ICML, ICLR, ICCV, ICME, ICASSP, ECCV, etc., and Reviewer for a series of IEEE transactions and journals like TNNLS, TMM, TMC, TKDE, TCSVT, TSUSC, JSAC, IoT-J, etc. I am a Reviewer for the General Program and the Young Scientists Fund of National Natural Science Foundation of China (NSFC). I am a member of IEEE and CCF.
 
-<span class='anchor' id='qualifications'></span>
-
+<span class='anchor' id='news'></span>
 # 🔥 News
 - *2024.12*: &nbsp; [Grant] One \*\*\*\* Gifted Fund has been granted from the industry; Thank you!
 - *2024.11*: &nbsp; [Conference] Serve as Area Chair for <a href="https://icml.cc/Conferences/2025/CallForPapers">ICML 2025</a>.
@@ -43,9 +41,6 @@ I am currently serving as **Associate Editor** for IEEE Open Journal of the Comp
 - *2023.07*: &nbsp; [Grant] One General Research Fund (GRF) has been granted by <a href="https://www.ugc.edu.hk/eng/rgc/funding_opport/grf/index.html">Research Grants Council (RGC) of Hong Kong</a>; Thank you!
 - *2022.01*: &nbsp; [Grant] One NSFC-Young Scientists Fund has been granted by the <a href="https://www.nsfc.gov.cn/">National Natural Science Foundation of China (NSFC)</a>; Thank you!
 
-<span class='anchor' id='team'></span>
-
-
 <!-- 
 # 🎓 Qualifications
 
@@ -63,6 +58,7 @@ I am currently serving as **Associate Editor** for IEEE Open Journal of the Comp
 <span class='anchor' id='news'></span>
 -->
 
+<span class='anchor' id='team'></span>
 # 🌏 Team 
 
 🎉🎉 We have some fully funded openings for **PhD Student**, **Postdoctoral Researcher**, and **Research Assistant** to work and have fun together on multiple research projects. <font color="MediumVioletRed">Drop me an email (jc-jingcai.guo@polyu.edu.hk) with your complete CV if you are interested</font>. Candidates with strong programming and mathematics backgrounds are preferred. **Visiting Students/Researchers** (onsite/remote) are also welcome! 
@@ -78,8 +74,8 @@ I am currently serving as **Associate Editor** for IEEE Open Journal of the Comp
 ## Alumni
 - <a href = "https://mirrorigin.github.io/">Jingming Liang</a> (HUST), RA (2023/09-2024/03), *Chief Supervisor* \[Placement: Ph.D. Student, University of Iowa, USA.\].
 
-<span class='anchor' id='grants'></span>
 
+<span class='anchor' id='grants'></span>
 # 💰 Grants as PI
 
 - **<font color="MediumVioletRed">[PI]:</font>** **\*\*\*\*** **Gifted** **Fund**<br>
@@ -105,7 +101,6 @@ I am currently serving as **Associate Editor** for IEEE Open Journal of the Comp
   Funding source: The Fundamental Research Funds Scheme for the Central Universities (China), No.JBK21YJ04, 2021-2021.
 
 <span class='anchor' id='selected-publications'></span>
-
 # 📚 Selected Publications 
 
 ## Selected Papers \[ #-: Corresponding Author(s) \]
@@ -323,7 +318,6 @@ J. Zhang, S. Guo, X. Ma, W. Xu, Q. Zhou, **<font size=4>J. Guo</font>**, Z. Hong
   *Machine Learning on Commodity Tiny Devices*, CRC Press (ISBN 9781003340225), **2022**.
 
 <span class='anchor' id='teachings'></span>
-
 # 🧑🏻‍🏫 Teachings
 ##  As Instructor
 - Internet Infrastructure and Protocols ([Syllabus](https://www.polyu.edu.hk/comp/docdrive/tpg/subject/COMP5311.pdf)), Postgraduate-level PolyU, Spring 2025.
@@ -338,7 +332,6 @@ J. Zhang, S. Guo, X. Ma, W. Xu, Q. Zhou, **<font size=4>J. Guo</font>**, Z. Hong
 - Web Advertising and Web Publishing, Postgraduate-level, PolyU, Fall 2017
 
 <span class='anchor' id='services'></span>
-
 # 👔 Services
 
 ##  Conference Service
@@ -388,7 +381,6 @@ J. Zhang, S. Guo, X. Ma, W. Xu, Q. Zhou, **<font size=4>J. Guo</font>**, Z. Hong
 - Reviewer for ACM Computing Surveys (**ACM CSUR**)
 
 <span class='anchor' id='selected-honors'></span>
-
 # 🎖 Selected Honors
 
 - **Hong Kong Ph.D. Fellowship** (2017), <br>
@@ -401,7 +393,6 @@ J. Zhang, S. Guo, X. Ma, W. Xu, Q. Zhou, **<font size=4>J. Guo</font>**, Z. Hong
   Awarding body: The IEEE Vehicular Technology Society
 
 <span class='anchor' id='sponsors'></span>
-
 # 💗 Sponsors
 
 I sincerely thank these sponsors for providing support for my research:<br>

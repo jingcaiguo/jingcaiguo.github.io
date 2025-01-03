@@ -81,11 +81,11 @@ I am currently serving as **Associate Editor** for IEEE Open Journal of the Comp
 - **<font color="MediumVioletRed">[PI]:</font>** **\*\*\*\*** **Gifted** **Fund**<br>
   Funding source: \*\*\*\* the industry, 2026-2028
   
-- **<font color="MediumVioletRed">[PI]:</font>** **General Research Fund (GRF)**<br>
+- **<font color="MediumVioletRed">[PI]:</font>** **RGC General Research Fund (GRF)**<br>
   Project title: *Advancing Robustness and Generalization in Edge AI Systems via Multi-view Representation-aware Model Refactoring*<br>
   Funding source: Research Grants Council of Hong Kong, No.15216424, 2025-2027
   
-- **<font color="MediumVioletRed">[PI]:</font>** **General Research Fund (GRF)**<br>
+- **<font color="MediumVioletRed">[PI]:</font>** **RGC General Research Fund (GRF)**<br>
   Project title: *Empowering TinyML with Low-shot Learning for Edge AI Systems*<br>
   Funding source: Research Grants Council of Hong Kong, No.15221123, 2024-2026
   

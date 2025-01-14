@@ -336,6 +336,7 @@ J. Zhang, S. Guo, X. Ma, W. Xu, Q. Zhou, **<font size=4>J. Guo</font>**, Z. Hong
 # 👔 Services
 
 ##  Conference Service
+- **Senior PC:** The 34th International Joint Conference on Artificial Intelligence (**IJCAI** 2025)
 - **Area Chair:** The 42st International Conference on Machine Learning (**ICML** 2025)
 - **Senior PC:** The 39th Annual AAAI Conference on Artificial Intelligence (**AAAI** 2025)
 - **Session Chair:** The 33rd International Joint Conference on Artificial Intelligence (**IJCAI** 2024)

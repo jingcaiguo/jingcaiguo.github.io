@@ -24,6 +24,7 @@ I am currently serving as **Associate Editor** for IEEE Open Journal of the Comp
 
 <span class='anchor' id='news'></span>
 # 🔥 News
+- *2024.12*: &nbsp; [Conference] Serve as Senior Program Committee for <a href="https://ijcai25.org/">IJCAI 2025</a>.
 - *2024.12*: &nbsp; [Grant] One \*\*\*\* Gifted Fund has been granted from the industry; Heartfelt gratefulness!
 - *2024.11*: &nbsp; [Conference] Serve as Area Chair for <a href="https://icml.cc/Conferences/2025/CallForPapers">ICML 2025</a>.
 - *2024.08*: &nbsp; [Conference] Serve as Senior Program Committee for <a href="">AAAI 2025</a>.

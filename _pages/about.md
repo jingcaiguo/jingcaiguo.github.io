@@ -75,7 +75,7 @@ I am currently serving as **Associate Editor** for IEEE Open Journal of the Comp
 
 
 <span class='anchor' id='grants'></span>
-# 💰 Grants as PI
+# 💰 Grants
 
 - **<font color="MediumVioletRed">[PI]:</font>** **\*\*\*\*** **Gifted** **Fund**<br>
   Funding source: \*\*\*\* the industry, 2025-2028

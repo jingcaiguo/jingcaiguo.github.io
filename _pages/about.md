@@ -99,6 +99,14 @@ I am currently serving as **Associate Editor** for IEEE Open Journal of the Comp
   Project title: *Learning-Based Anti-Fraud Prevention in Financial Industry*<br>
   Funding source: The Fundamental Research Funds Scheme for the Central Universities (China), No.JBK21YJ04, 2021-2021.
 
+- **[Co-I]:** Projects of RISUD<br>
+  Project title: *A Bottom-up Integrated Strategy for Collecting Urban Functions and Land Use Details: Data-driven Perspective with Urban Geospatial Data in Hong Kong*<br>
+  Funding source: Research Institute for Sustainable Urban Development, P0043038, 2022-2024.
+
+- **[Co-I]:** Projects of RISUD<br>
+  Project title: *Towards a Digital-twin System for Smart Mobility for People with Disabilities (PwDs) Using Multi-data Sensing and Big Data Analytics*<br>
+  Funding source: Research Institute for Sustainable Urban Development, P0038289, 2021-2024.
+
 <span class='anchor' id='selected-publications'></span>
 # 📚 Selected Publications 
 

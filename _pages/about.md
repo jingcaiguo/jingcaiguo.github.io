@@ -78,8 +78,9 @@ I am currently serving as **Associate Editor** for IEEE Open Journal of the Comp
 # 💰 Grants
 
 - **<font color="MediumVioletRed">[PI]:</font>** **\*\*\*\*** **Gifted** **Fund**<br>
+  Project title: *Towards Edge-Native Deployment and Post-Training of Foundation/Large Models*<br>
   Funding source: \*\*\*\* the industry, 2025-2028
-  
+
 - **<font color="MediumVioletRed">[PI]:</font>** **RGC General Research Fund (GRF)**<br>
   Project title: *Advancing Robustness and Generalization in Edge AI Systems via Multi-view Representation-aware Model Refactoring*<br>
   Funding source: Research Grants Council of Hong Kong, No.15216424, 2025-2027

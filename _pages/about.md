@@ -65,13 +65,13 @@ I am currently serving as **Associate Editor** for IEEE Open Journal of the Comp
 **I am fortunate to supervise and work together with these gifted students/staffs:**
 
 ## Current Members
-- <a href = "https://keepgoingjkg.github.io/about/">Miaoge Li</a> (Xidian University), Ph.D. Student (2024/05-), *Chief Supervisor*.
-- <a href = "https://zjrao.github.io/">Zhijie Rao</a> (Xiamen University), Ph.D. Student (2024/05-) / RA (2023/09-2024/05), *Chief Supervisor*.
-- <a href = "https://cseeyangchen.github.io/">Yang Chen</a> (UESTC), Ph.D. Student (2024/09-), *Chief Supervisor*.
-- <a href = "https://fengxinlee.github.io/FengxinLI.github.io/">Fengxin Li</a> (Renmin University), Visiting Ph.D. Student (2025/02-), *Chief Supervisor*.
+- <a href = "https://keepgoingjkg.github.io/about/">Miaoge Li</a> (Xidian University), Ph.D. Student (**2024/05**-), *Chief Supervisor*.
+- <a href = "https://zjrao.github.io/">Zhijie Rao</a> (Xiamen University), Ph.D. Student (**2024/05**-) / RA (2023/09-2024/05), *Chief Supervisor*.
+- <a href = "https://cseeyangchen.github.io/">Yang Chen</a> (UESTC), Ph.D. Student (**2024/09**-), *Chief Supervisor*.
+- <a href = "https://fengxinlee.github.io/FengxinLI.github.io/">Fengxin Li</a> (Renmin University), Visiting Ph.D. Student (**2025/02**-), *Chief Supervisor*.
 
 ## Alumni
-- <a href = "https://mirrorigin.github.io/">Jingming Liang</a> (HUST), RA (2023/09-2024/03), *Chief Supervisor* \[Placement: Ph.D. Student, University of Iowa, USA.\].
+- <a href = "https://mirrorigin.github.io/">Jingming Liang</a> (HUST), RA (**2023/09-2024/03**), *Chief Supervisor* \[Placement: Ph.D. Student, University of Iowa, USA.\].
 
 
 <span class='anchor' id='grants'></span>

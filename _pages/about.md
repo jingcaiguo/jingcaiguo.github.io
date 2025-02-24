@@ -24,7 +24,7 @@ I am currently serving as **Associate Editor** for IEEE Open Journal of the Comp
 
 <span class='anchor' id='news'></span>
 # 🔥 News
-- *2025.02*: &nbsp; [**Organization**] Serve as Session Coordinator (a new position in the organizing committee starting from this year) for <a href="https://acmmm2025.org/organisation/">ACM-MM 2025</a>.
+- *2025.02*: &nbsp; [**Organization**] Serve as Session Coordinator (new in the organizing committee starting from this year) for <a href="https://acmmm2025.org/organisation/">ACM-MM 2025</a>.
 - *2025.02*: &nbsp; [Conference] Serve as Area Chair for <a href="https://2025.acmmm.org/">ACM-MM 2025</a>.
 - *2024.12*: &nbsp; [Conference] Serve as Senior Program Committee for <a href="https://ijcai25.org/">IJCAI 2025</a>.
 - *2024.12*: &nbsp; [**<font color="MediumVioletRed">Grant</font>**] One \*\*\*\* Gifted Fund has been granted from the industry; Gratefulness!

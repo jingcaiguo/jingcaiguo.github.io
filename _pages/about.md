@@ -24,7 +24,7 @@ I am currently serving as **Associate Editor** for IEEE Open Journal of the Comp
 
 <span class='anchor' id='news'></span>
 # 🔥 News
-- *2025.02*: &nbsp; [**<font color="BlueViolet">Organization</font>**] Serve as Session Coordinator (new in the organizing committee starting from this year) for <a href="https://acmmm2025.org/organisation/">ACM-MM 2025</a>.
+- *2025.02*: &nbsp; [**<font color="BlueViolet">Organization</font>**] Serve as Session Coordinator (a new organizing committee position this year) for <a href="https://acmmm2025.org/organisation/">ACM-MM 2025</a>.
 - *2025.02*: &nbsp; [Conference] Serve as Area Chair for <a href="https://2025.acmmm.org/">ACM-MM 2025</a>.
 - *2024.12*: &nbsp; [Conference] Serve as Senior Program Committee for <a href="https://ijcai25.org/">IJCAI 2025</a>.
 - *2024.12*: &nbsp; [**<font color="MediumVioletRed">Grant</font>**] One \*\*\*\* Gifted Fund has been granted from the industry; Gratefulness!
@@ -32,7 +32,6 @@ I am currently serving as **Associate Editor** for IEEE Open Journal of the Comp
 - *2024.08*: &nbsp; [Conference] Serve as Senior Program Committee for <a href="">AAAI 2025</a>.
 - *2024.08*: &nbsp; [Conference] Serve as Session Chair (multimodal learning) for <a href="https://ijcai24.org/">IJCAI 2024</a>.
 - *2024.07*: &nbsp; [**<font color="MediumVioletRed">Grant</font>**] One General Research Fund (GRF) has been granted by <a href="https://www.ugc.edu.hk/eng/rgc/funding_opport/grf/index.html">Research Grants Council (RGC) of Hong Kong</a>; Gratefulness!
-<!--- *2024.03*: &nbsp; [Survey] We have a broad & systematic review of recent advances in fine-grained zero-shot learning. The preprint (<a href="https://arxiv.org/pdf/2401.17766">Fine-Grained Zero-Shot Learning: Advances, Challenges, and Prospects</a>) and associated <a href="https://github.com/eigenailab/Awesome-Fine-Grained-Zero-Shot-Learning">Repository</a> have been released. Many thanks to the co-contributors <a href = "https://zjrao.github.io/">Zhijie Rao</a>, <a href = "https://scholar.google.com/citations?user=9ZypKEYAAAAJ&hl=en">Dr. Zhi Chen</a>, <a href = "https://scholar.google.com/citations?user=64zxhRUAAAAJ&hl=en">Dr. Jingren Zhou</a>, and <a href = "https://scholar.google.com/citations?user=RwlJNLcAAAAJ&hl=en">Prof. Dacheng Tao</a>.-->
 - *2024.03*: &nbsp; [**<font color="BlueViolet">Organization</font>**] Serve as Track Chair (TPC Vice-Chair) for <a href="https://events.vtsociety.org/vtc2024-fall/committees/technical-program-committee/">VTC2024-Fall</a>.
 - *2024.01*: &nbsp; [Conference] Serve as Area Chair for <a href="https://icml.cc/Conferences/2024/CallForPapers">ICML 2024</a>.
 - *2024.01*: &nbsp; [Conference] Serve as Area Chair for <a href="https://2024.acmmm.org/">ACM-MM 2024</a>.

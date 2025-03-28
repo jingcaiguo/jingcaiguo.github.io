@@ -207,7 +207,7 @@ J. Zhang, S. Guo, X. Ma, W. Xu, Q. Zhou, **<font size=4>J. Guo</font>**, Z. Hong
   *European Conference on Computer Vision* (**<font color="MediumVioletRed">ECCV</font>**, CCF-B/Core-A*), **2024**.
 
 - ![Static Badge](https://img.shields.io/badge/APPs-DAA520) **-** [**Multi-modal Dual-embedding Networks for Malware Open-set Recognition**](),<br>
-  **<font size=4>J. Guo</font>**, H. Wang, Y. Xu, W. Xu, Y. Zhan, Y. Sun, and S. Guo,<br>
+  **<font size=4>J. Guo</font>**, H. Wang, Y. Xu, W. Xu, Y. Zhan, Y. Sun, S. Guo,<br>
   *IEEE Transactions on Neural Networks and Learning Systems* (**<font color="MediumVioletRed">TNNLS</font>**, IF=14.255/JCR-Q1, DOI:10.1109/TNNLS.2024.3373809), **2024**.
 
 - ![Static Badge](https://img.shields.io/badge/Capability-00FF7F) **-** [**Data Quality-aware Mixed-precision Quantization via Hybrid Reinforcement Learning**](),<br>
@@ -235,15 +235,15 @@ J. Zhang, S. Guo, X. Ma, W. Xu, Q. Zhou, **<font size=4>J. Guo</font>**, Z. Hong
   *IEEE Transactions on Pattern Analysis and Machine Intelligence* (**<font color="MediumVioletRed">TPAMI</font>**, IF=24.314/JCR-Q1, DOI:10.1109/TPAMI.2024.3350380), **2024**.
 
 - ![Static Badge](https://img.shields.io/badge/Capability-00FF7F) **-** [**Learning Personalized Causally Invariant Representations for Heterogeneous Federated Clients**](),<br>
-  X. Tang, S. Guo, J. Zhang, and **<font size=4>J. Guo</font>**,<br>
+  X. Tang, S. Guo, J. Zhang, **<font size=4>J. Guo</font>**,<br>
   *International Conference on Learning Representations* (**<font color="MediumVioletRed">ICLR</font>**, CCF-A/Core-A*), **2024**.
 
 - ![Static Badge](https://img.shields.io/badge/Capability-00FF7F) **-** [**DiPrompT: Disentangled Prompt Tuning for Multiple Latent Domain Generalization in Federated Learning**](),<br>
-  S. Bai, J. Zhang, S. Guo, S. Li, **<font size=4>J. Guo</font>**, J. Hou, T. Han, and X. Lu,<br>
+  S. Bai, J. Zhang, S. Guo, S. Li, **<font size=4>J. Guo</font>**, J. Hou, T. Han, X. Lu,<br>
   *IEEE/CVF Conference on Computer Vision and Pattern Recognition* (**<font color="MediumVioletRed">CVPR</font>**, CCF-A/Core-A*), **2024**.
 
 - ![Static Badge](https://img.shields.io/badge/APPs-DAA520) **-** [**C$^2$KD: Bridging the Modality Gap for Cross-Modal Knowledge Distillation**](),<br>
-  F. Huo, W. Xu, **<font size=4>J. Guo</font>**, H. Wang, and Song Guo,<br>
+  F. Huo, W. Xu, **<font size=4>J. Guo</font>**, H. Wang, Song Guo,<br>
   *IEEE/CVF Conference on Computer Vision and Pattern Recognition* (**<font color="MediumVioletRed">CVPR</font>**, CCF-A/Core-A*), **2024**.
 
 ***<font size=5>--2023--</font>***

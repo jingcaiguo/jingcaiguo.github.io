@@ -203,7 +203,7 @@ J. Zhang, S. Guo, X. Ma, W. Xu, Q. Zhou, **<font size=4>J. Guo</font>**, Z. Hong
 *IEEE Transactions on Mobile Computing* (**<font color="MediumVioletRed">TMC</font>**, IF=7.7/JCR-Q1, In press), **2024**.
 
 - ![Static Badge](https://img.shields.io/badge/Capability-00FF7F) **-** [**Personalized Federated Domain-Incremental Learning Based on Adaptive Knowledge Matching**](),<br>
-  Y. Li, W. Xu, H. Wang, R. Li, Y. Qi, and **<font size=4>J. Guo</font>**,<br>
+  Y. Li, W. Xu, H. Wang, R. Li, Y. Qi, **<font size=4>J. Guo</font>**,<br>
   *European Conference on Computer Vision* (**<font color="MediumVioletRed">ECCV</font>**, CCF-B/Core-A*), **2024**.
 
 - ![Static Badge](https://img.shields.io/badge/APPs-DAA520) **-** [**Multi-modal Dual-embedding Networks for Malware Open-set Recognition**](),<br>
@@ -334,7 +334,7 @@ J. Zhang, S. Guo, X. Ma, W. Xu, Q. Zhou, **<font size=4>J. Guo</font>**, Z. Hong
 ## Selected Books/Chapters
 
 - [**Application: Image-Based Visual Perception**](),<br>
-  **<font size=4>J. Guo</font>**, and Z. Liu,<br>
+  **<font size=4>J. Guo</font>**, Z. Liu,<br>
   *Machine Learning on Commodity Tiny Devices*, CRC Press (ISBN 9781003340225), **2022**.
 
 <span class='anchor' id='teachings'></span>

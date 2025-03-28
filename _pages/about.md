@@ -127,7 +127,9 @@ I am currently serving as **Associate Editor** for IEEE Open Journal of the Comp
 
 ***
 
-
+- ![Static Badge](https://img.shields.io/badge/Data-8A2BE2) **-** [**Neuron: Learning Context-Aware Evolving Representations for Zero-Shot Skeleton Action Recognition**](),<br>
+  Y. Chen, **<font size=4>J. Guo<sup>#</sup></font>**, S. Guo, D. Tao,<br>
+  *IEEE/CVF Conference on Computer Vision and Pattern Recognition* (**<font color="MediumVioletRed">CVPR</font>**, CCF-A/Core-A*), **2025**.
 
 - ![Static Badge](https://img.shields.io/badge/Data-8A2BE2) **-** [**Epsilon: Exploring Comprehensive Visual-Semantic Projection for Multi-Label Zero-Shot Learning**](),<br>
   Z. Liu, **<font size=4>J. Guo<sup>#</sup></font>**, S. Guo, X. Lu,<br>

@@ -145,6 +145,14 @@ I am currently serving as **Associate Editor** for IEEE Open Journal of the Comp
   Z. Rao, **<font size=4>J. Guo<sup>#</sup></font>**, L. Tang, Y. Huang, X. Ding, and S. Guo,<br>
   *IEEE Transactions on Neural Networks and Learning Systems* (**<font color="MediumVioletRed">TNNLS</font>**, IF=14.255/JCR-Q1, Accept), **2025**.
 
+- ![Static Badge](https://img.shields.io/badge/APPs-DAA520) **-** [**A Paradigm of Temporal-Weather-Aware Transition Pattern for POI Recommendation**](),<br>
+  J. Chen, **<font size=4>J. Guo<sup>#</sup></font>**, H. Wang, Z. Lai, Q. Zhang, K. Wu, and L. Zhang,<br>
+  *CAAI Transactions on Intelligence Technology* (**<font color="MediumVioletRed">TIT</font>**, IF=8.4/JCR-Q1, Accept), **2025**.
+
+- ![Static Badge](https://img.shields.io/badge/Data-8A2BE2) **-** [**A Multi-Modal Adversarial Method for Personalized Recommendation under Uncertain Missing Modalities**](),<br>
+  J. Chen, R. Yang, **<font size=4>J. Guo</font>**, H. Wang, K. Wu, and L. Zhang,<br>
+  *IEEE Transactions on Services Computing* (**<font color="MediumVioletRed">TSC</font>**, IF=5.5/JCR-Q1, Accept), **2025**.
+
 
 ***<font size=5>--2024--</font>***
 

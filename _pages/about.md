@@ -40,7 +40,7 @@ I am currently serving as **Associate Editor** for IEEE Open Journal of the Comp
 - *2023.09*: &nbsp; [**<font color="DarkCyan">Editorship</font>**] Serve as Guest Editor for <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6570650">IEEE Transactions on Computational Social Systems (IEEE TCSS)</a> (Special Issue on Few-shot/Zero-shot Learning for Knowledge Discovery in Social Networks).
 - *2023.07*: &nbsp; [**<font color="MediumVioletRed">Grant</font>**] One General Research Fund (GRF) has been granted by <a href="https://www.ugc.edu.hk/eng/rgc/funding_opport/grf/index.html">Research Grants Council (RGC) of Hong Kong</a>; Gratefulness!
 - *2022.09*: &nbsp; [**<font color="BlueViolet">Organization</font>**] Happy to join the Organization Committee of <a href="https://www.dedisys.org/srds22/committee/organization.html">SRDS 2022</a>, as Publicity Chair.
-- *2022.01*: &nbsp; [**<font color="MediumVioletRed">Grant</font>**] One NSFC-Young Scientists Fund has been granted by the <a href="https://www.nsfc.gov.cn/">National Natural Science Foundation of China (NSFC)</a>; Gratefulness!
+- *2022.01*: &nbsp; [**<font color="MediumVioletRed">Grant</font>**] One Young Scientists Fund has been granted by <a href="https://www.nsfc.gov.cn/">National Natural Science Foundation of China (NSFC)</a>; Gratefulness!
 
 <!--  [**<font color="BlueViolet">Organization</font>**]
 # 🎓 Qualifications

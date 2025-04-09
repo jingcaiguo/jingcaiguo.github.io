@@ -27,7 +27,7 @@ I am currently serving as **Associate Editor** for IEEE Open Journal of the Comp
 - *2025.02*: &nbsp; [**<font color="BlueViolet">Organization</font>**] Happy to join the Organization Committee of <a href="https://acmmm2025.org/organisation/">ACM-MM 2025</a>, as Session Coordinator/Chair.
 - *2025.02*: &nbsp; [Conference] Serve as Area Chair for <a href="https://2025.acmmm.org/">ACM-MM 2025</a>.
 - *2024.12*: &nbsp; [Conference] Serve as Senior Program Committee for <a href="https://ijcai25.org/">IJCAI 2025</a>.
-- *2024.12*: &nbsp; [**<font color="MediumVioletRed">Grant</font>**] One \*\*\*\* Gifted Fund has been granted from the industry; Gratefulness!
+- *2024.12*: &nbsp; [**<font color="MediumVioletRed">Grant</font>**] One Gifted Fund from Huawei has been granted; Gratefulness!
 - *2024.11*: &nbsp; [Conference] Serve as Area Chair for <a href="https://icml.cc/Conferences/2025/CallForPapers">ICML 2025</a>.
 - *2024.08*: &nbsp; [Conference] Serve as Senior Program Committee for <a href="">AAAI 2025</a>.
 - *2024.08*: &nbsp; [Conference] Serve as Session Chair (multimodal learning) for <a href="https://ijcai24.org/">IJCAI 2024</a>.
@@ -79,9 +79,9 @@ I am currently serving as **Associate Editor** for IEEE Open Journal of the Comp
 <span class='anchor' id='grants'></span>
 # 💰 Grants
 
-- **<font color="MediumVioletRed">[PI]:</font>** **\*\*\*\*** **Gifted** **Fund**<br>
+- **<font color="MediumVioletRed">[PI]:</font>** **Huawei Gifted Fund**<br>
   Project title: *Towards Edge-Native Deployment and Post-Training of Foundation/Large Models*<br>
-  Funding source: \*\*\*\* the industry, 2025-2028
+  Funding source: Huawei Technologies Co., Ltd., 2025-2028
 
 - **<font color="MediumVioletRed">[PI]:</font>** **RGC General Research Fund (GRF)**<br>
   Project title: *Advancing Robustness and Generalization in Edge AI Systems via Multi-view Representation-aware Model Refactoring*<br>

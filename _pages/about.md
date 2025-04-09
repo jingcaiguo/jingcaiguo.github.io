@@ -24,7 +24,7 @@ I am currently serving as **Associate Editor** for IEEE Open Journal of the Comp
 
 <span class='anchor' id='news'></span>
 # 🔥 News
-- *2025.03*: &nbsp; [Conference] Serve as Area Chair for <a href="https://2025.acmmm.org/">NeurIPS 2025</a>.
+- *2025.03*: &nbsp; [Conference] Serve as Area Chair for <a href="https://neurips.cc">NeurIPS 2025</a>.
 - *2025.02*: &nbsp; [**<font color="BlueViolet">Organization</font>**] Happy to join the Organization Committee of <a href="https://acmmm2025.org/organisation/">ACM-MM 2025</a>, as Session Coordinator/Chair.
 - *2025.02*: &nbsp; [Conference] Serve as Area Chair for <a href="https://2025.acmmm.org/">ACM-MM 2025</a>.
 - *2024.12*: &nbsp; [Conference] Serve as Senior Program Committee for <a href="https://ijcai25.org/">IJCAI 2025</a>.
@@ -357,6 +357,7 @@ J. Zhang, S. Guo, X. Ma, W. Xu, Q. Zhou, **<font size=4>J. Guo</font>**, Z. Hong
 
 ##  Conference Service
 
+- **Area Chair:** The 39th Annual Conference on Neural Information Processing Systems (**NeurIPS** 2025)
 - **Area Chair:** The 33rd ACM International Conference on Multimedia (**ACM-MM** 2025)
 - **Senior PC:** The 34th International Joint Conference on Artificial Intelligence (**IJCAI** 2025)
 - **Area Chair:** The 42st International Conference on Machine Learning (**ICML** 2025)

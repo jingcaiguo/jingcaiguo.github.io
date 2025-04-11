@@ -16,11 +16,11 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-Hi there! This is JC, currently a Research Assistant Professor with Department of Computing at the Hong Kong Polytechnic University. I defended my Ph.D. degree in Dec. 2020 at the same university🇭🇰 and supported by the Hong Kong PhD Fellowship Scheme (**HKPFS**) from **Hong Kong RGC**. Prior to that, I received my M.E. degree (2015) from Waseda University, Japan🇯🇵, and B.E. degree (2013) from Sichuan University, China🇨🇳, all in Computer Science and AI/ML. From 2021 to 2022, I did Postdoctoral Training remotely with The University of Sydney (where I was also a Visiting Ph.D. from 2019 to 2020), Australia🇦🇺, and concurrently as an Associate Professor with the School of Computing and AI, SWUFE, China🇨🇳. Earlier, before I did my Ph.D., I spent nearly 2 years in the investment banking industry after Waseda (*"no experience is ever wasted"*).
+Hi there! This is JC, currently a Research Assistant Professor with the Department of Computing at the Hong Kong Polytechnic University. I defended my Ph.D. degree in Dec. 2020 at the same university🇭🇰 and was lucky to be supported by the Hong Kong PhD Fellowship Scheme (**HKPFS**) from **Hong Kong RGC**. Prior to that, I received my M.E. degree (2015) from Waseda University, Japan🇯🇵, and B.E. degree (2013) from Sichuan University, China🇨🇳, all in Computer Science and AI/ML. From 2021 to 2022, I did Postdoctoral Training remotely with the University of Sydney (where I was also a Visiting Ph.D. from 2019 to 2020), Australia🇦🇺. Earlier, before I did my Ph.D., I spent nearly 2 years in the investment banking industry after Waseda (*"no experience is ever wasted"*).
 
 I am generally interested in ***<font color="MediumVioletRed">Resource-Efficient Computing</font>*** and ***<font color="MediumVioletRed">Edge AI</font>***, which target learning/modeling with **Limited Resources** in terms of ***<font color="MediumVioletRed">Data</font>***-![Static Badge](https://img.shields.io/badge/Data-8A2BE2), ***Computing*** ***<font color="MediumVioletRed">Capability</font>***-![Static Badge](https://img.shields.io/badge/Capability-00FF7F), as well as exploring their derivative ***<font color="MediumVioletRed">Applications</font>***-![Static Badge](https://img.shields.io/badge/APPs-DAA520) on wide spectrums. Some specific topics include zero/few-shot learning, federated learning, representation learning, model compression, and lightweight solutions for foundation/large models. According to Google Scholar profiles, I am ranked **<font color="MediumVioletRed">14th</font>** worldwide in **<font color="MediumVioletRed">Zero-Shot Learning</font>**, **<font color="MediumVioletRed">24th</font>** in **<font color="MediumVioletRed">Efficient AI</font>**, and **<font color="MediumVioletRed">65th</font>** in **<font color="MediumVioletRed">Edge AI</font>**. Our works are published in various prestigious venues, including AAAI, IJCAI, CVPR, ICML, ICLR, NeurIPS, MM, ATC, ICME, ICASSP, ICDCS, TNNLS, TPAMI, TMM, TC, NN, etc. As the **Principal Investigator (PI)**, I have secured several external grants like **2 × General Research Funds (GRF)** from **Hong Kong RGC**, one **Young Scientists Fund** from **NSFC**, one **Industrial Gifted Fund**, and one **Fundamental Research Fund** for the Central Universities. If you are interested in any of these topics, please feel free to e-mail me!
 
-I am currently serving as **Associate Editor** for IEEE Open Journal of the Computer Society (IF=5.9) and **Guest Editor** for IEEE Transactions on Computational Social Systems (IF=5.0). I have served as **Publicity Chair** for SRDS 2022 (Vienna, Austria) and **Track Chair** (TPC Vice-Chair) for VTC 2024 Fall (Washington DC, USA), and have served as **Area Chair** / **Senior PC** and/or **Session Chair** for prestigious venues like ICML, NeurIPS, ACM-MM, AAAI, IJCAI, ICME, and VTC. I also regularly serve as PC Member and/or Reviewer for AAAI, CVPR, NeurIPS, ACM-MM, ICML, ICLR, ICCV, ICME, ICASSP, ECCV, etc., and as Reviewer for a series of IEEE transactions and journals like TNNLS, TMM, TIP, TMC, TKDE, TCSVT, TSUSC, JSAC, IoT-J, etc. I am a Reviewer for the General Program and the Young Scientists Fund of the National Natural Science Foundation of China (NSFC). I am a member of IEEE and CCF.
+I am currently serving as **Associate Editor** for IEEE Open Journal of the Computer Society (IF=5.9) and **Guest Editor** for IEEE Transactions on Computational Social Systems (IF=5.0). I have served as **Publicity Chair** for SRDS 2022 (Vienna, Austria) and **Track Chair** (TPC Vice-Chair) for VTC 2024 Fall (Washington DC, USA), and have served as **Area Chair** and **Senior PC** for prestigious venues like ICML, NeurIPS, ACM-MM, AAAI, IJCAI, etc. I also regularly serve as PC Member and/or Reviewer for AAAI, IJCAI, CVPR, NeurIPS, ACM-MM, ICML, ICLR, ICCV, ECCV, etc., and as Reviewer for a series of IEEE transactions and journals like TNNLS, TMM, TIP, TMC, TKDE, TCSVT, TSUSC, JSAC, IoT-J, etc. I am a Reviewer for the General Program and the Young Scientists Fund of the National Natural Science Foundation of China (NSFC). I am a member of IEEE and CCF.
 
 <span class='anchor' id='news'></span>
 # 🔥 News
@@ -43,22 +43,6 @@ I am currently serving as **Associate Editor** for IEEE Open Journal of the Comp
 - *2022.09*: &nbsp; [**<font color="BlueViolet">Organization</font>**] Happy to join the Organization Committee of <a href="https://www.dedisys.org/srds22/committee/organization.html">SRDS 2022</a>, as Publicity Chair.
 - *2022.01*: &nbsp; [**<font color="MediumVioletRed">Grant</font>**] One Young Scientists Fund has been granted by <a href="https://www.nsfc.gov.cn/">National Natural Science Foundation of China (NSFC)</a>; Gratefulness!
 
-<!--  [**<font color="BlueViolet">Organization</font>**]
-# 🎓 Qualifications
-
-## Education Background
-- 2017-2021: Ph.D., The Hong Kong Polytechnic University, Hong Kong🇭🇰 (Supervisor: <a href = "https://cse.hkust.edu.hk/admin/people/faculty/profile/songguo">Prof. Song Guo</a>, *now HKUST*)
-- 2019-2020: Visiting Ph.D., University of Sydney, Australia🇦🇺 (Supervisor: <a href ="https://scholar.google.com/citations?user=RwlJNLcAAAAJ&hl=en">Prof. Dacheng Tao</a>, *now NTU*)
-- 2013-2015: M.E., Waseda University, Japan🇯🇵 (Supervisor: <a href = "https://www.waseda.jp/top/">Prof. Takayuki Furuzuki</a>)
-- 2009-2013: B.E., Sichuan University, China🇨🇳
-
-## Work Experience
-- 2022-Now: Research Assistant Professor, The Hong Kong Polytechnic University, Hong Kong🇭🇰
-- 2021-2022: Postdoctoral Training; remote, University of Sydney, Australia🇦🇺 (Supervisors: <a href ="https://scholar.google.com/citations?user=RwlJNLcAAAAJ&hl=en">Prof. Dacheng Tao</a> and <a href ="https://scholar.google.com.au/citations?user=EiLdZ_YAAAAJ&hl=en">Dr. Tongliang Liu</a>)
-- 2021-2022: Associate Professor, Southwestern University of Finance and Economics, China🇨🇳
-
-<span class='anchor' id='news'></span>
--->
 
 <span class='anchor' id='team'></span>
 # 🌏 Team 
@@ -68,13 +52,13 @@ I am currently serving as **Associate Editor** for IEEE Open Journal of the Comp
 **I am fortunate to supervise and work together with these gifted students/staffs:**
 
 ## Current Members
-- <a href = "https://keepgoingjkg.github.io/about/">Miaoge Li</a> (Xidian University), Ph.D. Student (**2024/05**-), *Chief Supervisor*.
-- <a href = "https://zjrao.github.io/">Zhijie Rao</a> (Xiamen University), Ph.D. Student (**2024/05**-) / RA (2023/09-2024/05), *Chief Supervisor*.
-- <a href = "https://cseeyangchen.github.io/">Yang Chen</a> (UESTC), Ph.D. Student (**2024/09**-), *Chief Supervisor*.
-- <a href = "https://fengxinlee.github.io/FengxinLI.github.io/">Fengxin Li</a> (Renmin University), Visiting Ph.D. Student (**2025/02-2025/08**), *Chief Supervisor*.
+- <a href = "https://keepgoingjkg.github.io/about/">Miaoge Li</a>, Ph.D. Student (**2024/05**-), *Chief Supervisor*; \[last stop: Xidian University\].
+- <a href = "https://zjrao.github.io/">Zhijie Rao</a>, Ph.D. Student (**2024/05**-) / RA (2023/09-2024/05), *Chief Supervisor*; \[last stop: Xiamen University).
+- <a href = "https://cseeyangchen.github.io/">Yang Chen</a>, Ph.D. Student (**2024/09**-), *Chief Supervisor*; \[last stop: University of Electronic Science and Technology of China\].
+- <a href = "https://fengxinlee.github.io/FengxinLI.github.io/">Fengxin Li</a>, Visiting Ph.D. Student (**2025/02-2025/08**), *Chief Supervisor*; \[last stop: Renmin University of China\].
 
 ## Alumni
-- <a href = "https://mirrorigin.github.io/">Jingming Liang</a> (HUST), RA (**2023/09-2024/03**), *Chief Supervisor* \[Placement: Ph.D. Student, University of Iowa, USA.\].
+- <a href = "https://mirrorigin.github.io/">Jingming Liang</a>, RA (**2023/09-2024/03**), *Chief Supervisor*; \[last stop: HUST; next stop: Ph.D. Student, University of Iowa (USA)\].
 
 
 <span class='anchor' id='grants'></span>

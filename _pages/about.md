@@ -112,26 +112,6 @@ I am currently serving as **Associate Editor** for IEEE Open Journal of the Comp
 
 ***
 
-- ![Static Badge](https://img.shields.io/badge/Data-8A2BE2) **-** [**TsCA: On the Semantic Consistency Alignment via Conditional Transport for Compositional Zero-Shot Learning**](),<br>
-  M. Li, **<font size=4>J. Guo<sup>#</sup></font>**, Y. Xu, D. Wang, X. Cao, Z. Rao, S. Guo,<br>
-  *International Joint Conference on Artificial Intelligence* (**<font color="MediumVioletRed">IJCAI</font>**, CCF-A/Core-A*), **2025**.
-
-- ![Static Badge](https://img.shields.io/badge/Data-8A2BE2) **-** [**Exploring Transferable Homogenous Groups for Compositional Zero-Shot Learning**](),<br>
-  Z. Rao, **<font size=4>J. Guo<sup>#</sup></font>**, M. Li, Y. Chen, M. Wang,<br>
-  *International Joint Conference on Artificial Intelligence* (**<font color="MediumVioletRed">IJCAI</font>**, CCF-A/Core-A*), **2025**.
-
-- ![Static Badge](https://img.shields.io/badge/Data-8A2BE2) **-** [**On the Discrimination and Consistency for Exemplar-Free Class Incremental Learning**](),<br>
-  T. Wang, **<font size=4>J. Guo<sup>#</sup></font>**, D. Li, Z. Chen,<br>
-  *International Joint Conference on Artificial Intelligence* (**<font color="MediumVioletRed">IJCAI</font>**, CCF-A/Core-A*), **2025**.
-
-- ![Static Badge](https://img.shields.io/badge/Capability-00FF7F) **-** [**FedAPA: Server-side Gradient-Based Adaptive Personalized Aggregation for Federated Learning on Heterogeneous Data**](),<br>
-  Y. Sun, A. Sun, S. Pan, Z. Fu, **<font size=4>J. Guo<sup>#</sup></font>**,<br>
-  *International Joint Conference on Artificial Intelligence* (**<font color="MediumVioletRed">IJCAI</font>**, CCF-A/Core-A*), **2025**.
-
-- ![Static Badge](https://img.shields.io/badge/Capability-00FF7F) **-** [**In Context Meta LoRA Generation**](),<br>
-  Y. Shao, M. Yan, Y. Liu, S. Chen, W. Chen, X. Long, Z. Yan, L. Li, C. Zhang, N. Sebe, H. Tang, Y. Wang, H. Zhao, M. Wang, **<font size=4>J. Guo<sup>#</sup></font>**,<br>
-  *International Joint Conference on Artificial Intelligence* (**<font color="MediumVioletRed">IJCAI</font>**, CCF-A/Core-A*), **2025**.
-
 - ![Static Badge](https://img.shields.io/badge/Data-8A2BE2) **-** [**Epsilon: Exploring Comprehensive Visual-Semantic Projection for Multi-Label Zero-Shot Learning**](),<br>
   Z. Liu, **<font size=4>J. Guo<sup>#</sup></font>**, S. Guo, X. Lu,<br>
   *AAAI Conference on Artificial Intelligence* (**<font color="MediumVioletRed">AAAI</font>**, CCF-A/Core-A*), **2025**.

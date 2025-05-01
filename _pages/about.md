@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 Hi there! This is JC, currently a Research Assistant Professor with the Department of Computing at the Hong Kong Polytechnic University. I defended my Ph.D. degree in Dec. 2020 at the same university🇭🇰 and was lucky to be supported by the Hong Kong PhD Fellowship Scheme (**HKPFS**) from **Hong Kong RGC**. Prior to that, I received my M.E. degree (2015) from Waseda University, Japan🇯🇵, and B.E. degree (2013) from Sichuan University, China🇨🇳, all in Computer Science and AI/ML. From 2021 to 2022, I did Postdoctoral Training remotely with the University of Sydney (where I was also a Visiting Ph.D. from 2019 to 2020), Australia🇦🇺. Earlier before I did my Ph.D., I spent nearly 2 years in the investment banking industry after Waseda (*"no experience is ever wasted"*).
 
-I am generally interested in ***<font color=#40E0D0>Resource-Efficient Computing</font>*** and ***<font color=#40E0D0>Edge AI</font>***, which target learning/modeling with **Limited Resources** in terms of ***<font color=#40E0D0>Data</font>***-![Static Badge](https://img.shields.io/badge/Data-8A2BE2), ***Computing*** ***<font color=#40E0D0>Capability</font>***-![Static Badge](https://img.shields.io/badge/Capability-00FF7F), as well as exploring their derivative ***<font color=#40E0D0>Applications</font>***-![Static Badge](https://img.shields.io/badge/APPs-DAA520) on wide spectrums. Some specific topics include zero/few-shot learning, federated learning, representation learning, model compression, and lightweight solutions for foundation/large models. According to Google Scholar profiles, I am ranked **<font color=#40E0D0>14th</font>** worldwide in **<font color=#40E0D0>Zero-Shot Learning</font>**, **<font color=#40E0D0>24th</font>** in **<font color=#40E0D0>Efficient AI</font>**, and **<font color=#40E0D0>65th</font>** in **<font color=#40E0D0>Edge AI</font>**. Our works are published in various prestigious venues, including AAAI, IJCAI, CVPR, ICML, ICLR, NeurIPS, MM, ATC, ICME, ICASSP, ICDCS, TNNLS, TPAMI, TMM, TC, NN, etc. As the **Principal Investigator (PI)**, I have secured several external grants like **2 × General Research Funds (GRF)** from **Hong Kong RGC**, one **Young Scientists Fund** from **NSFC**, one **Industrial Gifted Fund**, and one **Fundamental Research Fund** for the Central Universities. If you are interested in any of these topics, please feel free to e-mail me!
+I am generally interested in ***<font color="Turquoise">Resource-Efficient Computing</font>*** and ***<font color="Turquoise">Edge AI</font>***, which target learning/modeling with **Limited Resources** in terms of ***<font color="Turquoise">Data</font>***-![Static Badge](https://img.shields.io/badge/Data-8A2BE2), ***Computing*** ***<font color="Turquoise">Capability</font>***-![Static Badge](https://img.shields.io/badge/Capability-00FF7F), as well as exploring their derivative ***<font color="Turquoise">Applications</font>***-![Static Badge](https://img.shields.io/badge/APPs-DAA520) on wide spectrums. Some specific topics include zero/few-shot learning, federated learning, representation learning, model compression, and lightweight solutions for foundation/large models. According to Google Scholar profiles, I am ranked **<font color="Turquoise">14th</font>** worldwide in **<font color="Turquoise">Zero-Shot Learning</font>**, **<font color="Turquoise">24th</font>** in **<font color="Turquoise">Efficient AI</font>**, and **<font color="Turquoise">65th</font>** in **<font color="Turquoise">Edge AI</font>**. Our works are published in various prestigious venues, including AAAI, IJCAI, CVPR, ICML, ICLR, NeurIPS, MM, ATC, ICME, ICASSP, ICDCS, TNNLS, TPAMI, TMM, TC, NN, etc. As the **Principal Investigator (PI)**, I have secured several external grants like **2 × General Research Funds (GRF)** from **Hong Kong RGC**, one **Young Scientists Fund** from **NSFC**, one **Industrial Gifted Fund**, and one **Fundamental Research Fund** for the Central Universities. If you are interested in any of these topics, please feel free to e-mail me!
 
 I am currently serving as **Associate Editor** for IEEE Open Journal of the Computer Society (IF=5.9) and **Guest Editor** for IEEE Transactions on Computational Social Systems (IF=5.0). I have served as **Publicity Chair** for SRDS 2022 (Vienna, Austria) and **Track Chair** (TPC Vice-Chair) for VTC 2024 Fall (Washington DC, USA), and have served as **Area Chair** and **Senior PC** for prestigious venues like ICML, NeurIPS, ACM-MM, AAAI, IJCAI, etc. I also regularly serve as PC Member and/or Reviewer for AAAI, IJCAI, CVPR, NeurIPS, ACM-MM, ICML, ICLR, ICCV, ECCV, etc., and as Reviewer for a series of IEEE transactions and journals like TNNLS, TMM, TIP, TMC, TKDE, TCSVT, TSUSC, JSAC, IoT-J, etc. I am a Panel Reviewer for the General Program and the Young Scientists Fund of the National Natural Science Foundation of China (NSFC). I am a member of IEEE and CCF.
 
@@ -28,26 +28,26 @@ I am currently serving as **Associate Editor** for IEEE Open Journal of the Comp
 - *2025.02*: &nbsp; [**<font color="BlueViolet">Organization</font>**] Happy to join the Organization Committee of <a href="https://acmmm2025.org/organisation/">ACM-MM 2025</a>, as Session Coordinator/Chair.
 - *2025.02*: &nbsp; [Conference] Serve as Area Chair for <a href="https://2025.acmmm.org/">ACM-MM 2025</a>.
 - *2024.12*: &nbsp; [Conference] Serve as Senior Program Committee for <a href="https://ijcai25.org/">IJCAI 2025</a>.
-- *2024.12*: &nbsp; [**<font color=#40E0D0>Grant</font>**] One Gifted Fund from Huawei has been granted; Gratefulness!
+- *2024.12*: &nbsp; [**<font color="Turquoise">Grant</font>**] One Gifted Fund from Huawei has been granted; Gratefulness!
 - *2024.11*: &nbsp; [Conference] Serve as Area Chair for <a href="https://icml.cc/Conferences/2025/CallForPapers">ICML 2025</a>.
 - *2024.08*: &nbsp; [Conference] Serve as Senior Program Committee for <a href="">AAAI 2025</a>.
 - *2024.08*: &nbsp; [Conference] Serve as Session Chair (multimodal learning) for <a href="https://ijcai24.org/">IJCAI 2024</a>.
-- *2024.07*: &nbsp; [**<font color=#40E0D0>Grant</font>**] One General Research Fund (GRF) has been granted by <a href="https://www.ugc.edu.hk/eng/rgc/funding_opport/grf/index.html">Research Grants Council (RGC) of Hong Kong</a>; Gratefulness!
+- *2024.07*: &nbsp; [**<font color="Turquoise">Grant</font>**] One General Research Fund (GRF) has been granted by <a href="https://www.ugc.edu.hk/eng/rgc/funding_opport/grf/index.html">Research Grants Council (RGC) of Hong Kong</a>; Gratefulness!
 - *2024.03*: &nbsp; [**<font color="BlueViolet">Organization</font>**] Happy to join the Technical Program Committee of <a href="https://events.vtsociety.org/vtc2024-fall/committees/technical-program-committee/">VTC2024-Fall</a>, as Track Chair (TPC Vice-Chair).
 - *2024.01*: &nbsp; [Conference] Serve as Area Chair for <a href="https://icml.cc/Conferences/2024/CallForPapers">ICML 2024</a>.
 - *2024.01*: &nbsp; [Conference] Serve as Area Chair for <a href="https://2024.acmmm.org/">ACM-MM 2024</a>.
 - *2023.12*: &nbsp; [**<font color="DarkCyan">Editorship</font>**] Serve as Associate Editor for <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8782664">IEEE Open Journal of the Computer Society (IEEE OJ-CS)</a>.
 - *2023.10*: &nbsp; [Conference] Serve as Session Chair for <a href="https://events.vtsociety.org/vtc2023-fall/">VTC 2023</a>.
 - *2023.09*: &nbsp; [**<font color="DarkCyan">Editorship</font>**] Serve as Guest Editor for <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6570650">IEEE Transactions on Computational Social Systems (IEEE TCSS)</a> (Special Issue on Few-shot/Zero-shot Learning for Knowledge Discovery in Social Networks).
-- *2023.07*: &nbsp; [**<font color=#40E0D0>Grant</font>**] One General Research Fund (GRF) has been granted by <a href="https://www.ugc.edu.hk/eng/rgc/funding_opport/grf/index.html">Research Grants Council (RGC) of Hong Kong</a>; Gratefulness!
+- *2023.07*: &nbsp; [**<font color="Turquoise">Grant</font>**] One General Research Fund (GRF) has been granted by <a href="https://www.ugc.edu.hk/eng/rgc/funding_opport/grf/index.html">Research Grants Council (RGC) of Hong Kong</a>; Gratefulness!
 - *2022.09*: &nbsp; [**<font color="BlueViolet">Organization</font>**] Happy to join the Organization Committee of <a href="https://www.dedisys.org/srds22/committee/organization.html">SRDS 2022</a>, as Publicity Chair.
-- *2022.01*: &nbsp; [**<font color=#40E0D0>Grant</font>**] One Young Scientists Fund has been granted by <a href="https://www.nsfc.gov.cn/">National Natural Science Foundation of China (NSFC)</a>; Gratefulness!
+- *2022.01*: &nbsp; [**<font color="Turquoise">Grant</font>**] One Young Scientists Fund has been granted by <a href="https://www.nsfc.gov.cn/">National Natural Science Foundation of China (NSFC)</a>; Gratefulness!
 
 
 <span class='anchor' id='team'></span>
 # 🌏 Team 
  
-🎉🎉 We have some fully funded openings for **PhD Student**, **Postdoctoral Researcher**, and **Research Assistant** to work and have fun together on multiple research projects. **<font color=#40E0D0>Drop me an email (jc-jingcai.guo@polyu.edu.hk) with your complete CV if you are interested</font>**. Candidates with strong programming and mathematics backgrounds are preferred. **Visiting Students/Researchers** (onsite/remote) are also welcome!
+🎉🎉 We have some fully funded openings for **PhD Student**, **Postdoctoral Researcher**, and **Research Assistant** to work and have fun together on multiple research projects. **<font color="Turquoise">Drop me an email (jc-jingcai.guo@polyu.edu.hk) with your complete CV if you are interested</font>**. Candidates with strong programming and mathematics backgrounds are preferred. **Visiting Students/Researchers** (onsite/remote) are also welcome!
 
 **I am fortunate to supervise and work together with these gifted students/staffs:**
 
@@ -64,26 +64,26 @@ I am currently serving as **Associate Editor** for IEEE Open Journal of the Comp
 <span class='anchor' id='grants'></span>
 # 💰 Grants
 
-- **<font color=#40E0D0>[PI]:</font>** **Huawei Gifted Fund**<br>
+- **<font color="Turquoise">[PI]:</font>** **Huawei Gifted Fund**<br>
   Project title: *Towards Edge-Native Deployment and Post-Training of Foundation/Large Models*<br>
   Funding source: Huawei Technologies Co., Ltd., 2025-2028
 
-- **<font color=#40E0D0>[PI]:</font>** **RGC General Research Fund (GRF)**<br>
+- **<font color="Turquoise">[PI]:</font>** **RGC General Research Fund (GRF)**<br>
   Project title: *Advancing Robustness and Generalization in Edge AI Systems via Multi-view Representation-aware Model Refactoring*<br>
   Funding source: Research Grants Council of Hong Kong, 2025-2027
   
-- **<font color=#40E0D0>[PI]:</font>** **RGC General Research Fund (GRF)**<br>
+- **<font color="Turquoise">[PI]:</font>** **RGC General Research Fund (GRF)**<br>
   Project title: *Empowering TinyML with Low-shot Learning for Edge AI Systems*<br>
   Funding source: Research Grants Council of Hong Kong, 2024-2026
   
-- **<font color=#40E0D0>[PI]:</font>** **Young Scientists Fund (NSFC)**<br>
+- **<font color="Turquoise">[PI]:</font>** **Young Scientists Fund (NSFC)**<br>
   Project title: *Entity Anti-fraud Prediction Combining Zero-Shot Learning and Graph Neural Networks*<br>
   Funding source: The National Natural Science Foundation of China (NSFC), 2022-2024
 
-- **<font color=#40E0D0>[PI]:</font>** Start-up Fund for RAPs under the Strategic Hiring Scheme<br>
+- **<font color="Turquoise">[PI]:</font>** Start-up Fund for RAPs under the Strategic Hiring Scheme<br>
   Funding source: PolyU Research Grant, 2022-2024.
 
-- **<font color=#40E0D0>[PI]:</font>** Fundamental Research Funds<br>
+- **<font color="Turquoise">[PI]:</font>** Fundamental Research Funds<br>
   Project title: *Learning-Based Anti-Fraud Prevention in Financial Industry*<br>
   Funding source: The Fundamental Research Funds Scheme for the Central Universities (China)-JBK21YJ04, 2021-2021.
 
@@ -102,11 +102,11 @@ I am currently serving as **Associate Editor** for IEEE Open Journal of the Comp
 <!--**\[** **Remarks:** **#**- **Corresponding Author**, **‡**- **Supervising Student**, and **†**- **Collaborating Student** **\]**-->
 <!--**\[** **Remarks:** **#**- **Corresponding Author(s)**; **___**- **Direct supervision (PhD, RA, or Collaborating Students)**.  **\]**-->
 
-![Static Badge](https://img.shields.io/badge/Data-8A2BE2) **-** **Learning from Limited** **<font color=#40E0D0>Data</font>**
+![Static Badge](https://img.shields.io/badge/Data-8A2BE2) **-** **Learning from Limited** **<font color="Turquoise">Data</font>**
 
-![Static Badge](https://img.shields.io/badge/Capability-00FF7F) **-** **Learning with Limited Computing** **<font color=#40E0D0>Capability</font>**
+![Static Badge](https://img.shields.io/badge/Capability-00FF7F) **-** **Learning with Limited Computing** **<font color="Turquoise">Capability</font>**
 
-![Static Badge](https://img.shields.io/badge/APPs-DAA520) **-** **Derivative/Related** **<font color=#40E0D0>Applications</font>**
+![Static Badge](https://img.shields.io/badge/APPs-DAA520) **-** **Derivative/Related** **<font color="Turquoise">Applications</font>**
 
 ***<font size=5>--2025--</font>***
 
@@ -114,55 +114,55 @@ I am currently serving as **Associate Editor** for IEEE Open Journal of the Comp
 
 - ![Static Badge](https://img.shields.io/badge/Data-8A2BE2) **-** [**TsCA: On the Semantic Consistency Alignment via Conditional Transport for Compositional Zero-Shot Learning**](),<br>
   M. Li, **<font size=4>J. Guo<sup>#</sup></font>**, Y. Xu, D. Wang, X. Cao, Z. Rao, S. Guo,<br>
-  *International Joint Conference on Artificial Intelligence* (**<font color=#40E0D0>IJCAI</font>**, CCF-A/Core-A*), **2025**.
+  *International Joint Conference on Artificial Intelligence* (**<font color="Turquoise">IJCAI</font>**, CCF-A/Core-A*), **2025**.
 
 - ![Static Badge](https://img.shields.io/badge/Data-8A2BE2) **-** [**Exploring Transferable Homogenous Groups for Compositional Zero-Shot Learning**](),<br>
   Z. Rao, **<font size=4>J. Guo<sup>#</sup></font>**, M. Li, Y. Chen, M. Wang,<br>
-  *International Joint Conference on Artificial Intelligence* (**<font color=#40E0D0>IJCAI</font>**, CCF-A/Core-A*), **2025**.
+  *International Joint Conference on Artificial Intelligence* (**<font color="Turquoise">IJCAI</font>**, CCF-A/Core-A*), **2025**.
 
 - ![Static Badge](https://img.shields.io/badge/Data-8A2BE2) **-** [**On the Discrimination and Consistency for Exemplar-Free Class Incremental Learning**](),<br>
   T. Wang, **<font size=4>J. Guo<sup>#</sup></font>**, D. Li, Z. Chen,<br>
-  *International Joint Conference on Artificial Intelligence* (**<font color=#40E0D0>IJCAI</font>**, CCF-A/Core-A*), **2025**.
+  *International Joint Conference on Artificial Intelligence* (**<font color="Turquoise">IJCAI</font>**, CCF-A/Core-A*), **2025**.
 
 - ![Static Badge](https://img.shields.io/badge/Capability-00FF7F) **-** [**FedAPA: Server-side Gradient-Based Adaptive Personalized Aggregation for Federated Learning on Heterogeneous Data**](),<br>
   Y. Sun, A. Sun, S. Pan, Z. Fu, **<font size=4>J. Guo<sup>#</sup></font>**,<br>
-  *International Joint Conference on Artificial Intelligence* (**<font color=#40E0D0>IJCAI</font>**, CCF-A/Core-A*), **2025**.
+  *International Joint Conference on Artificial Intelligence* (**<font color="Turquoise">IJCAI</font>**, CCF-A/Core-A*), **2025**.
 
 - ![Static Badge](https://img.shields.io/badge/Capability-00FF7F) **-** [**In Context Meta LoRA Generation**](),<br>
   Y. Shao, M. Yan, Y. Liu, ..., **<font size=4>J. Guo<sup>#</sup></font>**,<br>
-  *International Joint Conference on Artificial Intelligence* (**<font color=#40E0D0>IJCAI</font>**, CCF-A/Core-A*), **2025**.
+  *International Joint Conference on Artificial Intelligence* (**<font color="Turquoise">IJCAI</font>**, CCF-A/Core-A*), **2025**.
 
 - ![Static Badge](https://img.shields.io/badge/Capability-00FF7F) **-** [**ESBN: Estimation Shift of Batch Normalization for Source-free Universal Domain Adaptation**](),<br>
   J. Li, H. Su, B. Wang, Y. Min, M. Wang, N. Yin, S. Wang, **<font size=4>J. Guo<sup>#</sup></font>**,<br>
-  *International Joint Conference on Artificial Intelligence* (**<font color=#40E0D0>IJCAI</font>**, CCF-A/Core-A*), **2025**.
+  *International Joint Conference on Artificial Intelligence* (**<font color="Turquoise">IJCAI</font>**, CCF-A/Core-A*), **2025**.
 
 - ![Static Badge](https://img.shields.io/badge/Data-8A2BE2) **-** [**Neuron: Learning Context-Aware Evolving Representations for Zero-Shot Skeleton Action Recognition**](),<br>
   Y. Chen, **<font size=4>J. Guo<sup>#</sup></font>**, S. Guo,<br>
-  *IEEE/CVF Conference on Computer Vision and Pattern Recognition* (**<font color=#40E0D0>CVPR</font>**, CCF-A/Core-A*), **2025**.
+  *IEEE/CVF Conference on Computer Vision and Pattern Recognition* (**<font color="Turquoise">CVPR</font>**, CCF-A/Core-A*), **2025**.
 
 - ![Static Badge](https://img.shields.io/badge/Data-8A2BE2) **-** [**Epsilon: Exploring Comprehensive Visual-Semantic Projection for Multi-Label Zero-Shot Learning**](),<br>
   Z. Liu, **<font size=4>J. Guo<sup>#</sup></font>**, S. Guo, X. Lu,<br>
-  *AAAI Conference on Artificial Intelligence* (**<font color=#40E0D0>AAAI</font>**, CCF-A/Core-A*), **2025**.
+  *AAAI Conference on Artificial Intelligence* (**<font color="Turquoise">AAAI</font>**, CCF-A/Core-A*), **2025**.
 
 - ![Static Badge](https://img.shields.io/badge/Data-8A2BE2) **-** [**Concept Matching with Agent for Out-of-Distribution Detection**](),<br>
   Y, Lee, X. Cao, **<font size=4>J. Guo</font>**, W. Ye, Q. Guo, Y. Chang,<br>
-  *AAAI Conference on Artificial Intelligence* (**<font color=#40E0D0>AAAI</font>**, CCF-A/Core-A*), **2025**.
+  *AAAI Conference on Artificial Intelligence* (**<font color="Turquoise">AAAI</font>**, CCF-A/Core-A*), **2025**.
 
 - ![Static Badge]( https://img.shields.io/badge/APPs-DAA520) **-** [**DeNC: Unleash Neural Codecs in Video Streaming with Diffusion Enhancement**](),<br>
   Q. Zhou, R. Li, **<font size=4>J. Guo</font>**, Y. Huang, Z. Xu, L. Cui, S. Guo,<br>
-  *AAAI Conference on Artificial Intelligence* (**<font color=#40E0D0>AAAI</font>**, CCF-A/Core-A*), **2025**.
+  *AAAI Conference on Artificial Intelligence* (**<font color="Turquoise">AAAI</font>**, CCF-A/Core-A*), **2025**.
 
 - ![Static Badge](https://img.shields.io/badge/APPs-DAA520) **-** [**SRCD: Semantic Reasoning with Compound Domains for Single-Domain Generalized Object Detection**](),<br>
   Z. Rao, **<font size=4>J. Guo<sup>#</sup></font>**, L. Tang, Y. Huang, X. Ding, S. Guo,<br>
-  *IEEE Transactions on Neural Networks and Learning Systems* (**<font color=#40E0D0>TNNLS</font>**, IF=14.255/JCR-Q1, Accept), **2025**.
+  *IEEE Transactions on Neural Networks and Learning Systems* (**<font color="Turquoise">TNNLS</font>**, IF=14.255/JCR-Q1, Accept), **2025**.
 
 - ![Static Badge](https://img.shields.io/badge/APPs-DAA520) **-** [**A Paradigm of Temporal-Weather-Aware Transition Pattern for POI Recommendation**](),<br>
   J. Chen, **<font size=4>J. Guo<sup>#</sup></font>**, H. Wang, Z. Lai, Q. Zhang, K. Wu, L. Zhang,<br>
-  *CAAI Transactions on Intelligence Technology* (**<font color=#40E0D0>TIT</font>**, IF=8.4/JCR-Q1, Accept), **2025**.
+  *CAAI Transactions on Intelligence Technology* (**<font color="Turquoise">TIT</font>**, IF=8.4/JCR-Q1, Accept), **2025**.
 
 - ![Static Badge](https://img.shields.io/badge/Data-8A2BE2) **-** [**A Multi-Modal Adversarial Method for Personalized Recommendation under Uncertain Missing Modalities**](),<br>
   J. Chen, R. Yang, **<font size=4>J. Guo</font>**, H. Wang, K. Wu, L. Zhang,<br>
-  *IEEE Transactions on Services Computing* (**<font color=#40E0D0>TSC</font>**, IF=5.5/JCR-Q1, Accept), **2025**.
+  *IEEE Transactions on Services Computing* (**<font color="Turquoise">TSC</font>**, IF=5.5/JCR-Q1, Accept), **2025**.
 
 
 ***<font size=5>--2024--</font>***
@@ -171,91 +171,91 @@ I am currently serving as **Associate Editor** for IEEE Open Journal of the Comp
 
 - ![Static Badge](https://img.shields.io/badge/Data-8A2BE2) **-** [**ParsNets: A Parsimonious Composition of Orthogonal and Low-Rank Linear Networks for Zero-Shot Learning**](),<br>
   **<font size=4>J. Guo<sup>#</sup></font>**, Q. Zhou, X. Lu, R. Li, Z. Liu, J. Zhang, B. Han, J. Chen, X. Xie, S. Guo,<br>
-  *International Joint Conference on Artificial Intelligence* (**<font color=#40E0D0>IJCAI</font>**, CCF-A/Core-A*), **2024**; <font color=#40E0D0>long oral</font>, acceptance rate ~= 2.3% (128/5651).
+  *International Joint Conference on Artificial Intelligence* (**<font color="Turquoise">IJCAI</font>**, CCF-A/Core-A*), **2024**; <font color="Turquoise">long oral</font>, acceptance rate ~= 2.3% (128/5651).
 
 - ![Static Badge](https://img.shields.io/badge/Data-8A2BE2) **-** [**Dual Expert Distillation Network for Generalized Zero-Shot Learning**](),<br>
   Z. Rao, **<font size=4>J. Guo<sup>#</sup></font>**, X. Lu, J. Liang, J. Zhang, H. Wang, K. Wei, X. Cao,<br>
-  *International Joint Conference on Artificial Intelligence* (**<font color=#40E0D0>IJCAI</font>**, CCF-A/Core-A*), **2024**; <font color=#40E0D0>long oral</font>, acceptance rate ~= 2.3% (128/5651).
+  *International Joint Conference on Artificial Intelligence* (**<font color="Turquoise">IJCAI</font>**, CCF-A/Core-A*), **2024**; <font color="Turquoise">long oral</font>, acceptance rate ~= 2.3% (128/5651).
 
 - ![Static Badge](https://img.shields.io/badge/Data-8A2BE2) **-** [**Fine-Grained Side Information Guided Dual-Prompts for Zero-Shot Skeleton Action Recognition**](),<br>
   Y. Chen, **<font size=4>J. Guo<sup>#</sup></font>**, T. He, X. Lu, L. Wang,<br>
-  *ACM International Conference on Multimedia* (**<font color=#40E0D0>ACM-MM</font>**, CCF-A/Core-A*), **2024**.
+  *ACM International Conference on Multimedia* (**<font color="Turquoise">ACM-MM</font>**, CCF-A/Core-A*), **2024**.
 
 - ![Static Badge](https://img.shields.io/badge/Capability-00FF7F) **-** [**SFP: Spurious Feature-Targeted Pruning for Out-of-Distribution Generalization**](),<br>
   Y. Wang, **<font size=4>J. Guo<sup>#</sup></font>**, S. Guo, Y. Liu, J. Zhang, W. Zhang,<br>
-  *ACM International Conference on Multimedia* (**<font color=#40E0D0>ACM-MM</font>**, CCF-A/Core-A*), **2024**.
+  *ACM International Conference on Multimedia* (**<font color="Turquoise">ACM-MM</font>**, CCF-A/Core-A*), **2024**.
 
 - ![Static Badge](https://img.shields.io/badge/APPs-DAA520) **-** [**FreePIH: Training-Free Painterly Image Harmonization with Diffusion Model**](),<br>
   R. Li, **<font size=4>J. Guo<sup>#</sup></font>**, Q. Zhou, S. Guo,<br>
-  *ACM International Conference on Multimedia* (**<font color=#40E0D0>ACM-MM</font>**, CCF-A/Core-A*), **2024**.
+  *ACM International Conference on Multimedia* (**<font color="Turquoise">ACM-MM</font>**, CCF-A/Core-A*), **2024**.
 
 - ![Static Badge](https://img.shields.io/badge/Capability-00FF7F) **-** [**Causally Motivated Personalized Federated Invariant Learning with Shortcut-Averse Information-Theoretic Regularization**](),<br>
   X. Tang, S. Guo, **<font size=4>J. Guo<sup>#</sup></font>**, J. Zhang, Y. Yu,<br>
-  *International Conference on Machine Learning* (**<font color=#40E0D0>ICML</font>**, CCF-A/Core-A*), **2024**.
+  *International Conference on Machine Learning* (**<font color="Turquoise">ICML</font>**, CCF-A/Core-A*), **2024**.
   
 - ![Static Badge](https://img.shields.io/badge/Capability-00FF7F) **-** [**Geometry Awakening: Cross-Geometry Learning Exhibits Superiority over Individual Structures**](),<br>
 Y. Sun, X. Cao, Y. Wang, W. Ye, **<font size=4>J. Guo</font>**, Q. Guo,<br>
-  *Annual Conference on Neural Information Processing Systems* (**<font color=#40E0D0>NeurIPS</font>**, CCF-A/Core-A*), **2024**.
+  *Annual Conference on Neural Information Processing Systems* (**<font color="Turquoise">NeurIPS</font>**, CCF-A/Core-A*), **2024**.
 
 - ![Static Badge](https://img.shields.io/badge/APPs-DAA520) **-** [**CGraphNet: Contrastive Graph Context Prediction for Sparse Unlabeled Short Text Representation Learning on Social Media**](),<br>
   J. Chen, **<font size=4>J. Guo<sup>#</sup></font>**, X. Li, H. Wang, Z. Xu, Z. Gong, L. Zhang, VCM. Leung,<br>
-  *IEEE Transactions on Computational Social Systems* (**<font color=#40E0D0>TCSS</font>**, IF=5.0/JCR-Q1, DOI:10.1109/TCSS.2024.3452695), **2024**.
+  *IEEE Transactions on Computational Social Systems* (**<font color="Turquoise">TCSS</font>**, IF=5.0/JCR-Q1, DOI:10.1109/TCSS.2024.3452695), **2024**.
 
 - ![Static Badge](https://img.shields.io/badge/APPs-DAA520) **-** [**A Review of Few-shot and Zero-shot Learning for Node Classification in Social Networks**](),<br>
   J. Chen, R. Mi, H. Wang, H. Wu, J. Mo, **<font size=4>J. Guo</font>**, Z. Lai, L. Zhang, VCM. Leung,<br>
-  *IEEE Transactions on Computational Social Systems* (**<font color=#40E0D0>TCSS</font>**, IF=5.0/JCR-Q1, DOI:10.1109/TCSS.2024.3452697), **2024**.
+  *IEEE Transactions on Computational Social Systems* (**<font color="Turquoise">TCSS</font>**, IF=5.0/JCR-Q1, DOI:10.1109/TCSS.2024.3452697), **2024**.
 
 - ![Static Badge](https://img.shields.io/badge/APPs-DAA520) **-** [**Vision-Language Meets the Skeleton: Progressively Distillation with Cross-Modal Knowledge for 3D Action Representation**](),<br>
 Y. Chen, T. He, J. Fu, L. Wang, **<font size=4>J. Guo</font>**, H. Cheng,<br>
-*IEEE Transactions on Multimedia* (**<font color=#40E0D0>TMM</font>**, IF=8.4/JCR-Q1, In press), **2024**.
+*IEEE Transactions on Multimedia* (**<font color="Turquoise">TMM</font>**, IF=8.4/JCR-Q1, In press), **2024**.
 
 - ![Static Badge](https://img.shields.io/badge/Capability-00FF7F) **-** [**Model Decomposition and Reassembly for Purified Knowledge Transfer in Personalized Federated Learning**](),<br>
 J. Zhang, S. Guo, X. Ma, W. Xu, Q. Zhou, **<font size=4>J. Guo</font>**, Z. Hong, J. Shan,<br>
-*IEEE Transactions on Mobile Computing* (**<font color=#40E0D0>TMC</font>**, IF=7.7/JCR-Q1, In press), **2024**.
+*IEEE Transactions on Mobile Computing* (**<font color="Turquoise">TMC</font>**, IF=7.7/JCR-Q1, In press), **2024**.
 
 - ![Static Badge](https://img.shields.io/badge/Capability-00FF7F) **-** [**Personalized Federated Domain-Incremental Learning Based on Adaptive Knowledge Matching**](),<br>
   Y. Li, W. Xu, H. Wang, R. Li, Y. Qi, **<font size=4>J. Guo</font>**,<br>
-  *European Conference on Computer Vision* (**<font color=#40E0D0>ECCV</font>**, CCF-B/Core-A*), **2024**.
+  *European Conference on Computer Vision* (**<font color="Turquoise">ECCV</font>**, CCF-B/Core-A*), **2024**.
 
 - ![Static Badge](https://img.shields.io/badge/APPs-DAA520) **-** [**Multi-modal Dual-embedding Networks for Malware Open-set Recognition**](),<br>
   **<font size=4>J. Guo</font>**, H. Wang, Y. Xu, W. Xu, Y. Zhan, Y. Sun, S. Guo,<br>
-  *IEEE Transactions on Neural Networks and Learning Systems* (**<font color=#40E0D0>TNNLS</font>**, IF=14.255/JCR-Q1, DOI:10.1109/TNNLS.2024.3373809), **2024**.
+  *IEEE Transactions on Neural Networks and Learning Systems* (**<font color="Turquoise">TNNLS</font>**, IF=14.255/JCR-Q1, DOI:10.1109/TNNLS.2024.3373809), **2024**.
 
 - ![Static Badge](https://img.shields.io/badge/Capability-00FF7F) **-** [**Data Quality-aware Mixed-precision Quantization via Hybrid Reinforcement Learning**](),<br>
   Y. Wang, S. Guo, **<font size=4>J. Guo<sup>#</sup></font>**, Y. Zhang, W. Zhang, Q. Zheng, J. Zhang,<br>
-  *IEEE Transactions on Neural Networks and Learning Systems* (**<font color=#40E0D0>TNNLS</font>**, IF=14.255/JCR-Q1, DOI:10.1109/TNNLS.2024.3409692), **2024**.
+  *IEEE Transactions on Neural Networks and Learning Systems* (**<font color="Turquoise">TNNLS</font>**, IF=14.255/JCR-Q1, DOI:10.1109/TNNLS.2024.3409692), **2024**.
 
 - ![Static Badge](https://img.shields.io/badge/APPs-DAA520) **-** [**Unveiling User Interests: A Deep User Interest Exploration Network for Sequential Location Recommendation**](),<br>
   J. Chen, **<font size=4>J. Guo</font>**, Q. Zhang, K. Wu, L. Zhang, VCM. Leung, H. Wang, Z. Gong,<br>
-  *Information Sciences* (**<font color=#40E0D0>INS</font>**, IF=8.1/JCR-Q1, DOI:10.1016/J.INS.2024.121416), **2024**.
+  *Information Sciences* (**<font color="Turquoise">INS</font>**, IF=8.1/JCR-Q1, DOI:10.1016/J.INS.2024.121416), **2024**.
 
 - ![Static Badge](https://img.shields.io/badge/Data-8A2BE2) **-** [**On the Robustness of Neural-enhanced Video Streaming Against Adversarial Attacks**](),<br>
   Q. Zhou, **<font size=4>J. Guo<sup>#</sup></font>**, S. Guo, R. Li, J. Zhang, B. Wang, Z. Xu,<br>
-  *AAAI Conference on Artificial Intelligence* (**<font color=#40E0D0>AAAI</font>**, CCF-A/Core-A*), **2024**.
+  *AAAI Conference on Artificial Intelligence* (**<font color="Turquoise">AAAI</font>**, CCF-A/Core-A*), **2024**.
 
 - ![Static Badge](https://img.shields.io/badge/Data-8A2BE2) **-** [**ProCC: Progressive Cross-primitive Compatibility for Open-World Compositional Zero-Shot Learning**](),<br>
   F. Huo, W. Xu, S. Guo, **<font size=4>J. Guo<sup>#</sup></font>**, H. Wang, Z. Liu, X. Lu,<br>
-  *AAAI Conference on Artificial Intelligence* (**<font color=#40E0D0>AAAI</font>**, CCF-A/Core-A*), **2024**.
+  *AAAI Conference on Artificial Intelligence* (**<font color="Turquoise">AAAI</font>**, CCF-A/Core-A*), **2024**.
 
 - ![Static Badge](https://img.shields.io/badge/Data-8A2BE2) **-** [**Non-Exemplar Online Class-incremental Continual Learning via Dual-prototype Self-augment and Refinement**](),<br>
   F. Huo, W. Xu, **<font size=4>J. Guo</font>**, H. Wang, Y. Fan,<br>
-  *AAAI Conference on Artificial Intelligence* (**<font color=#40E0D0>AAAI</font>**, CCF-A/Core-A*), **2024**.
+  *AAAI Conference on Artificial Intelligence* (**<font color="Turquoise">AAAI</font>**, CCF-A/Core-A*), **2024**.
 
 - ![Static Badge](https://img.shields.io/badge/Capability-00FF7F) **-** [**PASS: Patch Automatic Skip Scheme for Efficient On-device Video Perception**](),<br>
   Q. Zhou, S. Guo, J. Pan, J. Liang, **<font size=4>J. Guo<sup>#</sup></font>**, Z. Xu, J. Zhou,<br>
-  *IEEE Transactions on Pattern Analysis and Machine Intelligence* (**<font color=#40E0D0>TPAMI</font>**, IF=24.314/JCR-Q1, DOI:10.1109/TPAMI.2024.3350380), **2024**.
+  *IEEE Transactions on Pattern Analysis and Machine Intelligence* (**<font color="Turquoise">TPAMI</font>**, IF=24.314/JCR-Q1, DOI:10.1109/TPAMI.2024.3350380), **2024**.
 
 - ![Static Badge](https://img.shields.io/badge/Capability-00FF7F) **-** [**Learning Personalized Causally Invariant Representations for Heterogeneous Federated Clients**](),<br>
   X. Tang, S. Guo, J. Zhang, **<font size=4>J. Guo</font>**,<br>
-  *International Conference on Learning Representations* (**<font color=#40E0D0>ICLR</font>**, CCF-A/Core-A*), **2024**.
+  *International Conference on Learning Representations* (**<font color="Turquoise">ICLR</font>**, CCF-A/Core-A*), **2024**.
 
 - ![Static Badge](https://img.shields.io/badge/Capability-00FF7F) **-** [**DiPrompT: Disentangled Prompt Tuning for Multiple Latent Domain Generalization in Federated Learning**](),<br>
   S. Bai, J. Zhang, S. Guo, S. Li, **<font size=4>J. Guo</font>**, J. Hou, T. Han, X. Lu,<br>
-  *IEEE/CVF Conference on Computer Vision and Pattern Recognition* (**<font color=#40E0D0>CVPR</font>**, CCF-A/Core-A*), **2024**.
+  *IEEE/CVF Conference on Computer Vision and Pattern Recognition* (**<font color="Turquoise">CVPR</font>**, CCF-A/Core-A*), **2024**.
 
 - ![Static Badge](https://img.shields.io/badge/APPs-DAA520) **-** [**C$^2$KD: Bridging the Modality Gap for Cross-Modal Knowledge Distillation**](),<br>
   F. Huo, W. Xu, **<font size=4>J. Guo</font>**, H. Wang, Song Guo,<br>
-  *IEEE/CVF Conference on Computer Vision and Pattern Recognition* (**<font color=#40E0D0>CVPR</font>**, CCF-A/Core-A*), **2024**.
+  *IEEE/CVF Conference on Computer Vision and Pattern Recognition* (**<font color="Turquoise">CVPR</font>**, CCF-A/Core-A*), **2024**.
 
 ***<font size=5>--2023--</font>***
 
@@ -263,35 +263,35 @@ J. Zhang, S. Guo, X. Ma, W. Xu, Q. Zhou, **<font size=4>J. Guo</font>**, Z. Hong
 
 - ![Static Badge](https://img.shields.io/badge/Data-8A2BE2) **-** [**Graph Knows Unknowns: Reformulate Zero-Shot Learning as Sample-Level Graph Recognition**](https://ojs.aaai.org/index.php/AAAI/article/view/25942),<br>
   **<font size=4>J. Guo</font>**, S. Guo, Q. Zhou, Z. Liu, X. Lu, F. Huo,<br>
-  *AAAI Conference on Artificial Intelligence* (**<font color=#40E0D0>AAAI</font>**, CCF-A/Core-A*), **2023**.
+  *AAAI Conference on Artificial Intelligence* (**<font color="Turquoise">AAAI</font>**, CCF-A/Core-A*), **2023**.
 
 - ![Static Badge](https://img.shields.io/badge/Data-8A2BE2) **-** [**(ML)$^2$P-Encoder: On Exploration of Channel-Class Correlation for Multi-Label Zero-Shot Learning**](https://openaccess.thecvf.com/content/CVPR2023/papers/Liu_ML2P-Encoder_On_Exploration_of_Channel-Class_Correlation_for_Multi-Label_Zero-Shot_Learning_CVPR_2023_paper.pdf),<br>
   Z. Liu, S. Guo, X. Lu, **<font size=4>J. Guo<sup>#</sup></font>**, J. Zhang, Y. Zeng, F. Huo,<br>
-  *IEEE/CVF Conference on Computer Vision and Pattern Recognition* (**<font color=#40E0D0>CVPR</font>**, CCF-A/Core-A*), **2023**.
+  *IEEE/CVF Conference on Computer Vision and Pattern Recognition* (**<font color="Turquoise">CVPR</font>**, CCF-A/Core-A*), **2023**.
 
 - ![Static Badge](https://img.shields.io/badge/Data-8A2BE2) **-** [**Decomposed Soft Prompt Guided Fusion Enhancing for Compositional Zero-Shot Learning**](https://openaccess.thecvf.com/content/CVPR2023/papers/Lu_Decomposed_Soft_Prompt_Guided_Fusion_Enhancing_for_Compositional_Zero-Shot_Learning_CVPR_2023_paper.pdf),<br>
   X. Lu, S. Guo, Z. Liu, **<font size=4>J. Guo<sup>#</sup></font>**,<br>
-  *IEEE/CVF Conference on Computer Vision and Pattern Recognition* (**<font color=#40E0D0>CVPR</font>**, CCF-A/Core-A*), **2023**.
+  *IEEE/CVF Conference on Computer Vision and Pattern Recognition* (**<font color="Turquoise">CVPR</font>**, CCF-A/Core-A*), **2023**.
 
 - ![Static Badge](https://img.shields.io/badge/Capability-00FF7F) **-** [**Towards Data-Independent Knowledge Transfer in Model-Heterogeneous Federated Learning**](),<br>
   J. Zhang, S. Guo, **<font size=4>J. Guo<sup>#</sup></font>**, D. Zeng, J. Zhou, A. Zomaya,<br>
-  *IEEE Transactions on Computers* (**<font color=#40E0D0>TC</font>**, CCF-A, DOI:10.1109/TC.2023.3272801), **2023**.
+  *IEEE Transactions on Computers* (**<font color="Turquoise">TC</font>**, CCF-A, DOI:10.1109/TC.2023.3272801), **2023**.
 
 - ![Static Badge](https://img.shields.io/badge/APPs-DAA520) **-** [**UTDNet: A Unified Triplet Decoder Network for Multimodal Salient Object Detection**](),<br>
   F. Huo, Z. Liu, **<font size=4>J. Guo<sup>#</sup></font>**, W. Xu, S. Guo,<br>
-  *Neural Networks* (**<font color=#40E0D0>NN</font>**, IF=9.657/JCR-Q1, DOI:10.1016/j.neunet.2023.11.051), **2023**.
+  *Neural Networks* (**<font color="Turquoise">NN</font>**, IF=9.657/JCR-Q1, DOI:10.1016/j.neunet.2023.11.051), **2023**.
 
 - ![Static Badge](https://img.shields.io/badge/Capability-00FF7F) **-** [**Towards performance-maximizing neural network pruning via global channel attention**](),<br>
   Y. Wang, S. Guo, **<font size=4>J. Guo</font>**, J. Zhang, W. Zhang, C. Yan, Y. Zhang,<br>
-  *Neural Networks* (**<font color=#40E0D0>NN</font>**, IF=9.657/JCR-Q1, DOI:10.1016/j.neunet.2023.11.065), **2023**.
+  *Neural Networks* (**<font color="Turquoise">NN</font>**, IF=9.657/JCR-Q1, DOI:10.1016/j.neunet.2023.11.065), **2023**.
 
 - ![Static Badge](https://img.shields.io/badge/Capability-00FF7F) **-** [**Hwamei: A Learning-Based Synchronization Scheme for Hierarchical Federated Learning**](),<br>
   T. Qi, Y. Zhan, P. Li, **<font size=4>J. Guo</font>**, Y. Xia,<br>
-  *IEEE International Conference on Distributed Computing Systems* (**<font color=#40E0D0>ICDCS</font>**, CCF-B/Core-A), **2023**.
+  *IEEE International Conference on Distributed Computing Systems* (**<font color="Turquoise">ICDCS</font>**, CCF-B/Core-A), **2023**.
 
 - ![Static Badge](https://img.shields.io/badge/Capability-00FF7F) **-** [**Towards Fairer and More Efficient Federated Learning via Multidimensional Personalized Edge Models**](),<br>
   Y. Wang, **<font size=4>J. Guo</font>**, J. Zhang, S. Guo, W. Zhang, Q. Zheng,<br>
-  *International Joint Conference on Neural Networks* (**<font color=#40E0D0>IJCNN</font>**, Core-B), **2023**.
+  *International Joint Conference on Neural Networks* (**<font color="Turquoise">IJCNN</font>**, Core-B), **2023**.
 
 ***<font size=5>--2022 and Before--</font>***
 
@@ -299,48 +299,48 @@ J. Zhang, S. Guo, X. Ma, W. Xu, Q. Zhou, **<font size=4>J. Guo</font>**, Z. Hong
 
 - ![Static Badge](https://img.shields.io/badge/Capability-00FF7F) **-** [**Personalized Federated Learning with Contextualized Generalization**](https://www.ijcai.org/proceedings/2022/0311.pdf),<br>
   X. Tang, S. Guo, **<font size=4>J. Guo<sup>#</sup></font>**,<br>
-  *International Joint Conference on Artificial Intelligence* (**<font color=#40E0D0>IJCAI</font>**, CCF-A/Core-A*), **2022**.
+  *International Joint Conference on Artificial Intelligence* (**<font color="Turquoise">IJCAI</font>**, CCF-A/Core-A*), **2022**.
 
 - ![Static Badge](https://img.shields.io/badge/Data-8A2BE2) **-** [**Towards Unbiased Multi-Label Zero-Shot Learning with Pyramid and Semantic Attention**](),<br>
   Z. Liu, S. Guo, **<font size=4>J. Guo<sup>#</sup></font>**, Y. Xu, F. Huo,<br>
-  *IEEE Transactions on Multimedia* (**<font color=#40E0D0>TMM</font>**, IF=8.4/JCR-Q1, DOI:10.1109/TMM.2022.3222657), **2022**.
+  *IEEE Transactions on Multimedia* (**<font color="Turquoise">TMM</font>**, IF=8.4/JCR-Q1, DOI:10.1109/TMM.2022.3222657), **2022**.
 
 - ![Static Badge](https://img.shields.io/badge/APPs-DAA520) **-** [**Conservative Novelty Synthesizing Network for Malware Recognition in an Open-Set Scenario**](),<br>
   **<font size=4>J. Guo</font>**, S. Guo, S. Ma, Y. Sun, Y. Xu,<br>
-  *IEEE Transactions on Neural Networks and Learning Systems* (**<font color=#40E0D0>TNNLS</font>**, IF=14.255/JCR-Q1, DOI:10.1109/TNNLS.2021.3099122), **2021**.<br>
-  (<font color=#40E0D0>Outstanding Paper Award of</font> [<font color=#40E0D0>GDCA</font>](http://www.gdcomf.com/))
+  *IEEE Transactions on Neural Networks and Learning Systems* (**<font color="Turquoise">TNNLS</font>**, IF=14.255/JCR-Q1, DOI:10.1109/TNNLS.2021.3099122), **2021**.<br>
+  (<font color="Turquoise">Outstanding Paper Award of</font> [<font color="Turquoise">GDCA</font>](http://www.gdcomf.com/))
 
 - ![Static Badge](https://img.shields.io/badge/Capability-00FF7F) **-** [**INT8 Training with Loss-Aware Compensation and Backward Quantization for Tiny On-Device Learning**](),<br>
   Q. Zhou, S. Guo, Z. Qu, **<font size=4>J. Guo</font>**, Z. Xu, J. Zhang, T. Guo, B. Luo, J. Zhou,<br>
-  *USENIX Annual Technical Conference* (**<font color=#40E0D0>USENIX-ATC</font>**, CCF-A/Core-A*), **2021**.
+  *USENIX Annual Technical Conference* (**<font color="Turquoise">USENIX-ATC</font>**, CCF-A/Core-A*), **2021**.
 
 - ![Static Badge](https://img.shields.io/badge/Capability-00FF7F) **-** [**On-Device Learning Systems for Edge Intelligence: A Software and Hardware Synergy Perspective**](),<br>
   Q. Zhou, Z. Qu, S. Guo, B. Luo, **<font size=4>J. Guo</font>**, Z. Xu, R. Akerkar,<br>
-  *IEEE Internet of Things Journal* (**<font color=#40E0D0>IoT-J</font>**, IF=10.6/JCR-Q1, DOI:10.1109/JIOT.2021.3063147), **2021**.
+  *IEEE Internet of Things Journal* (**<font color="Turquoise">IoT-J</font>**, IF=10.6/JCR-Q1, DOI:10.1109/JIOT.2021.3063147), **2021**.
 
 - ![Static Badge](https://img.shields.io/badge/APPs-DAA520) **-** [**Dual-View Attention Networks for Single Image Super-Resolution**](https://dl.acm.org/doi/10.1145/3394171.3413613),<br>
   **<font size=4>J. Guo</font>**, S. Ma, J. Zhang, Q. Zhou, S. Guo,<br>
-  *ACM International Conference on Multimedia* (**<font color=#40E0D0>ACM-MM</font>**, CCF-A/Core-A*), **2020**.
+  *ACM International Conference on Multimedia* (**<font color="Turquoise">ACM-MM</font>**, CCF-A/Core-A*), **2020**.
 
 - ![Static Badge](https://img.shields.io/badge/Data-8A2BE2) **-** [**A Novel Perspective to Zero-Shot Learning: Towards an Alignment of Manifold Structures via Semantic Feature Expansion**](),<br>
   **<font size=4>J. Guo</font>**, S. Guo,<br>
-  *IEEE Transactions on Multimedia* (**<font color=#40E0D0>TMM</font>**, IF=8.4/JCR-Q1, DOI:10.1109/TMM.2020.2984091), **2020**.
+  *IEEE Transactions on Multimedia* (**<font color="Turquoise">TMM</font>**, IF=8.4/JCR-Q1, DOI:10.1109/TMM.2020.2984091), **2020**.
 
 - ![Static Badge](https://img.shields.io/badge/Data-8A2BE2) **-** [**Adaptive Adjustment with Semantic Feature Space for Zero-Shot Recognition**](),<br>
   **<font size=4>J. Guo</font>**, S. Guo,<br>
-  *IEEE International Conference on Acoustics, Speech, and Signal Processing* (**<font color=#40E0D0>ICASSP</font>**, CCF-B/Core-B), **2019**.
+  *IEEE International Conference on Acoustics, Speech, and Signal Processing* (**<font color="Turquoise">ICASSP</font>**, CCF-B/Core-B), **2019**.
 
 - ![Static Badge](https://img.shields.io/badge/APPs-DAA520) **-** [**EE-AE: An Exclusivity Enhanced Unsupervised Feature Learning Approach**](),<br>
   **<font size=4>J. Guo</font>**, S. Guo,<br>
-  *IEEE International Conference on Acoustics, Speech, and Signal Processing* (**<font color=#40E0D0>ICASSP</font>**, CCF-B/Core-B), **2019**.
+  *IEEE International Conference on Acoustics, Speech, and Signal Processing* (**<font color="Turquoise">ICASSP</font>**, CCF-B/Core-B), **2019**.
 
 - ![Static Badge](https://img.shields.io/badge/Data-8A2BE2) **-** [**AMS-SFE: Towards an Alignment of Manifold Structures via Semantic Feature Expansion for Zero-Shot Learning**](),<br>
   **<font size=4>J. Guo</font>**, S. Guo,<br>
-  *IEEE International Conference on Multimedia and Expo* (**<font color=#40E0D0>ICME</font>**, CCF-B/Core-A), **2019**.
+  *IEEE International Conference on Multimedia and Expo* (**<font color="Turquoise">ICME</font>**, CCF-B/Core-A), **2019**.
 
 - ![Static Badge](https://img.shields.io/badge/Data-8A2BE2) **-** [**An improved incremental training approach for large-scaled dataset based on support vector machine**](),<br>
   **<font size=4>J. Guo</font>**, <br>
-  *IEEE/ACM International Conference on Big Data Computing, Applications and Technologies* (**<font color=#40E0D0>BDCAT</font>**), **2016**.
+  *IEEE/ACM International Conference on Big Data Computing, Applications and Technologies* (**<font color="Turquoise">BDCAT</font>**), **2016**.
 
 ## Selected Books/Chapters
 

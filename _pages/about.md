@@ -98,7 +98,7 @@ I am currently serving as **Associate Editor** for IEEE Open Journal of the Comp
 <span class='anchor' id='selected-publications'></span>
 # 📚 Selected Publications 
 
-## Selected Papers \[ #-: Corresponding Author(s) \]
+## Selected Papers \[ ***<font color="Crimson">#-: Corresponding Author(s)</font>*** \]
 <!--**\[** **Remarks:** **#**- **Corresponding Author**, **‡**- **Supervising Student**, and **†**- **Collaborating Student** **\]**-->
 <!--**\[** **Remarks:** **#**- **Corresponding Author(s)**; **___**- **Direct supervision (PhD, RA, or Collaborating Students)**.  **\]**-->
 

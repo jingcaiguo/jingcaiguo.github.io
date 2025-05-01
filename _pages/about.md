@@ -112,6 +112,10 @@ I am currently serving as **Associate Editor** for IEEE Open Journal of the Comp
 
 ***
 
+- ![Static Badge](https://img.shields.io/badge/APPs-DAA520) **-** [**GraphCL: Graph-based Clustering for Semi-Supervised Medical Image Segmentation**](),<br>
+  M. Wang, H. Su, J. Li, C. Li, N. Yin, L. Shen, **<font size=4>J. Guo<sup>#</sup></font>**,<br>
+  *International Conference on Machine Learning* (**<font color="Crimson">ICML</font>**, CCF-A/Core-A*), **2025**.
+
 - ![Static Badge](https://img.shields.io/badge/Data-8A2BE2) **-** [**TsCA: On the Semantic Consistency Alignment via Conditional Transport for Compositional Zero-Shot Learning**](),<br>
   M. Li, **<font size=4>J. Guo<sup>#</sup></font>**, Y. Xu, D. Wang, X. Cao, Z. Rao, S. Guo,<br>
   *International Joint Conference on Artificial Intelligence* (**<font color="Crimson">IJCAI</font>**, CCF-A/Core-A*), **2025**.
@@ -148,7 +152,7 @@ I am currently serving as **Associate Editor** for IEEE Open Journal of the Comp
   Y, Lee, X. Cao, **<font size=4>J. Guo</font>**, W. Ye, Q. Guo, Y. Chang,<br>
   *AAAI Conference on Artificial Intelligence* (**<font color="Crimson">AAAI</font>**, CCF-A/Core-A*), **2025**.
 
-- ![Static Badge]( https://img.shields.io/badge/APPs-DAA520) **-** [**DeNC: Unleash Neural Codecs in Video Streaming with Diffusion Enhancement**](),<br>
+- ![Static Badge](https://img.shields.io/badge/APPs-DAA520) **-** [**DeNC: Unleash Neural Codecs in Video Streaming with Diffusion Enhancement**](),<br>
   Q. Zhou, R. Li, **<font size=4>J. Guo</font>**, Y. Huang, Z. Xu, L. Cui, S. Guo,<br>
   *AAAI Conference on Artificial Intelligence* (**<font color="Crimson">AAAI</font>**, CCF-A/Core-A*), **2025**.
 

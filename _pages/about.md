@@ -24,6 +24,7 @@ I am currently serving as **Associate Editor** for IEEE Open Journal of the Comp
 
 <span class='anchor' id='news'></span>
 # 🔥 News
+- *2025.05*: &nbsp; [**<font color="DarkCyan">Editorship</font>**] Serve as Guest Editor for <a href="https://link.springer.com/journal/40747">Complex & Intelligent Systems (JCR-Q1)</a> (Special Issue on *Efficient AI for Resource-Constrained and Complex Applications*).
 - *2025.03*: &nbsp; [Conference] Serve as Area Chair for <a href="https://neurips.cc">NeurIPS 2025</a>.
 - *2025.02*: &nbsp; [**<font color="BlueViolet">Organization</font>**] Happy to join the Organization Committee of <a href="https://acmmm2025.org/organisation/">ACM-MM 2025</a>, as Session Coordinator/Chair.
 - *2025.02*: &nbsp; [Conference] Serve as Area Chair for <a href="https://2025.acmmm.org/">ACM-MM 2025</a>.
@@ -39,7 +40,7 @@ I am currently serving as **Associate Editor** for IEEE Open Journal of the Comp
 - *2023.12*: &nbsp; [**<font color="Crimson">Grant</font>**] One General Research Fund (GRF) has been granted by <a href="https://www.ugc.edu.hk/eng/rgc/funding_opport/grf/index.html">Research Grants Council (RGC) of Hong Kong</a>; Gratefulness!
 - *2023.12*: &nbsp; [**<font color="DarkCyan">Editorship</font>**] Serve as Associate Editor for <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8782664">IEEE Open Journal of the Computer Society (IEEE OJ-CS)</a>.
 - *2023.10*: &nbsp; [Conference] Serve as Session Chair for <a href="https://events.vtsociety.org/vtc2023-fall/">VTC 2023</a>.
-- *2023.09*: &nbsp; [**<font color="DarkCyan">Editorship</font>**] Serve as Guest Editor for <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6570650">IEEE Transactions on Computational Social Systems (IEEE TCSS)</a> (Special Issue on Few-shot/Zero-shot Learning for Knowledge Discovery in Social Networks).
+- *2023.09*: &nbsp; [**<font color="DarkCyan">Editorship</font>**] Serve as Guest Editor for <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6570650">IEEE Transactions on Computational Social Systems (JCR-Q1)</a> (Special Issue on *Few-shot/Zero-shot Learning for Knowledge Discovery in Social Networks*).
 - *2022.09*: &nbsp; [**<font color="BlueViolet">Organization</font>**] Happy to join the Organization Committee of <a href="https://www.dedisys.org/srds22/committee/organization.html">SRDS 2022</a>, as Publicity Chair.
 - *2022.01*: &nbsp; [**<font color="Crimson">Grant</font>**] One Young Scientists Fund has been granted by <a href="https://www.nsfc.gov.cn/">National Natural Science Foundation of China (NSFC)</a>; Gratefulness!
 
@@ -386,6 +387,7 @@ J. Zhang, S. Guo, X. Ma, W. Xu, Q. Zhou, **<font size=4>J. Guo</font>**, Z. Hong
 
 ##  Journal Editorship
 
+- **Guest Editor:** Complex & Intelligent Systems (**CAIS**, 2025-)
 - **Associate Editor:** IEEE Open Journal of the Computer Society (**IEEE OJ-CS**, 2023-)
 - **Guest Editor:** IEEE Transactions on Computational Social Systems (**IEEE TCSS**, 2023-)
 

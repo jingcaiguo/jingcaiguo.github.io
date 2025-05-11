@@ -29,17 +29,17 @@ I am currently serving as **Associate Editor** for IEEE Open Journal of the Comp
 - *2025.02*: &nbsp; [Conference] Serve as Area Chair for <a href="https://2025.acmmm.org/">ACM-MM 2025</a>.
 - *2024.12*: &nbsp; [Conference] Serve as Senior Program Committee for <a href="https://ijcai25.org/">IJCAI 2025</a>.
 - *2024.12*: &nbsp; [**<font color="Crimson">Grant</font>**] One Gifted Fund from Huawei has been granted; Gratefulness!
+- *2024.12*: &nbsp; [**<font color="Crimson">Grant</font>**] One General Research Fund (GRF) has been granted by <a href="https://www.ugc.edu.hk/eng/rgc/funding_opport/grf/index.html">Research Grants Council (RGC) of Hong Kong</a>; Gratefulness!
 - *2024.11*: &nbsp; [Conference] Serve as Area Chair for <a href="https://icml.cc/Conferences/2025/CallForPapers">ICML 2025</a>.
 - *2024.08*: &nbsp; [Conference] Serve as Senior Program Committee for <a href="">AAAI 2025</a>.
 - *2024.08*: &nbsp; [Conference] Serve as Session Chair (multimodal learning) for <a href="https://ijcai24.org/">IJCAI 2024</a>.
-- *2024.07*: &nbsp; [**<font color="Crimson">Grant</font>**] One General Research Fund (GRF) has been granted by <a href="https://www.ugc.edu.hk/eng/rgc/funding_opport/grf/index.html">Research Grants Council (RGC) of Hong Kong</a>; Gratefulness!
 - *2024.03*: &nbsp; [**<font color="BlueViolet">Organization</font>**] Happy to join the Technical Program Committee of <a href="https://events.vtsociety.org/vtc2024-fall/committees/technical-program-committee/">VTC2024-Fall</a>, as Track Chair (TPC Vice-Chair).
 - *2024.01*: &nbsp; [Conference] Serve as Area Chair for <a href="https://icml.cc/Conferences/2024/CallForPapers">ICML 2024</a>.
 - *2024.01*: &nbsp; [Conference] Serve as Area Chair for <a href="https://2024.acmmm.org/">ACM-MM 2024</a>.
+- *2023.12*: &nbsp; [**<font color="Crimson">Grant</font>**] One General Research Fund (GRF) has been granted by <a href="https://www.ugc.edu.hk/eng/rgc/funding_opport/grf/index.html">Research Grants Council (RGC) of Hong Kong</a>; Gratefulness!
 - *2023.12*: &nbsp; [**<font color="DarkCyan">Editorship</font>**] Serve as Associate Editor for <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8782664">IEEE Open Journal of the Computer Society (IEEE OJ-CS)</a>.
 - *2023.10*: &nbsp; [Conference] Serve as Session Chair for <a href="https://events.vtsociety.org/vtc2023-fall/">VTC 2023</a>.
 - *2023.09*: &nbsp; [**<font color="DarkCyan">Editorship</font>**] Serve as Guest Editor for <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6570650">IEEE Transactions on Computational Social Systems (IEEE TCSS)</a> (Special Issue on Few-shot/Zero-shot Learning for Knowledge Discovery in Social Networks).
-- *2023.07*: &nbsp; [**<font color="Crimson">Grant</font>**] One General Research Fund (GRF) has been granted by <a href="https://www.ugc.edu.hk/eng/rgc/funding_opport/grf/index.html">Research Grants Council (RGC) of Hong Kong</a>; Gratefulness!
 - *2022.09*: &nbsp; [**<font color="BlueViolet">Organization</font>**] Happy to join the Organization Committee of <a href="https://www.dedisys.org/srds22/committee/organization.html">SRDS 2022</a>, as Publicity Chair.
 - *2022.01*: &nbsp; [**<font color="Crimson">Grant</font>**] One Young Scientists Fund has been granted by <a href="https://www.nsfc.gov.cn/">National Natural Science Foundation of China (NSFC)</a>; Gratefulness!
 

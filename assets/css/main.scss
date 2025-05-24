@@ -108,25 +108,3 @@ h1:before, .anchor:before {
     font-size: .8em;
 }
 
-.author__avatar {
-  display: table-cell;
-  vertical-align: top;
-  width: 380px;
-  height: 380px;
-
-  @include breakpoint($medium) {
-    display: block;
-    width: auto;
-    height: auto;
-  }
-
-  img {
-    max-width: 380px;
-    border-radius: 90%;
-
-    @include breakpoint($large) {
-      padding: 5px;
-      border: 1px solid $border-color;
-    }
-  }
-}

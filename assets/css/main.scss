@@ -124,7 +124,7 @@ h1:before, .anchor:before {
 
   img {
     max-width: 380px;
-    border-radius: 50%;
+    border-radius: 90%;
 
     @include breakpoint($large) {
       padding: 5px;

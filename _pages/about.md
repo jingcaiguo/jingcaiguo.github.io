@@ -391,7 +391,7 @@ J. Zhang, S. Guo, X. Ma, W. Xu, Q. Zhou, **<font size=4>J. Guo</font>**, Z. Hong
 - **Associate Editor:** IEEE Open Journal of the Computer Society (**IEEE OJ-CS**, 2023-)
 - **Guest Editor:** IEEE Transactions on Computational Social Systems (**IEEE TCSS**, 2023-)
 
-## Conference PC Member/Reviewer
+<!--## Conference PC Member/Reviewer
 
 - AAAI Conference on Artificial Intelligence (**AAAI**: 2021 / 2022 / 2023 / 2024 / 2025)
 - IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**: 2022 / 2023 / 2024)
@@ -419,7 +419,7 @@ J. Zhang, S. Guo, X. Ma, W. Xu, Q. Zhou, **<font size=4>J. Guo</font>**, Z. Hong
 - Reviewer for IEEE Transactions on Sustainable Computing (**IEEE TSUSC**)
 - Reviewer for IEEE Transactions on Industrial Informatics (**IEEE TII**)
 - Reviewer for IEEE Transactions on Emerging Topics in Computing (**IEEE TETC**)
-- Reviewer for ACM Computing Surveys (**ACM CSUR**)
+- Reviewer for ACM Computing Surveys (**ACM CSUR**)-->
 
 <span class='anchor' id='selected-honors'></span>
 # 🎖 Selected Honors

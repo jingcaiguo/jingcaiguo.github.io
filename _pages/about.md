@@ -47,9 +47,7 @@ I am interested in ***<font color="Crimson">Efficient AI</font>***, which target
  
 🎉🎉 We have some fully funded openings for **PhD Student**, **Postdoctoral Researcher**, and **Research Assistant** to work and have fun together on multiple research projects. **<font color="Crimson">Drop me an email (jc-jingcai.guo@polyu.edu.hk) with your complete CV if you are interested</font>**. Candidates with strong programming and mathematics backgrounds are preferred. **Visiting Students/Researchers** (onsite/remote) are also welcome!
 
-<a href="https://jingcaiguo.github.io/">
-  <img src="./images/lumen.png" width = "400" alt="Lumen-Lab">
-</a>
+<a href="https://jingcaiguo.github.io/"><img src="./images/lumen.png" width = "400" alt="Lumen-Lab"></a>
 👈👈 ***<font color="Crimson">Click for more information</font>***
 
 **I am fortunate to supervise and work together with these gifted students/staffs:**

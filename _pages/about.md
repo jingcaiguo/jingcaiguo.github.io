@@ -20,6 +20,25 @@ Hi there👋! This is JC, currently a Tenure-Track Assistant Professor in the De
 
 I am interested in ***<font color="Crimson">Efficient AI</font>***, which target learning/modeling with ***<font color="Crimson">Limited Resources</font>*** in terms of ***<font color="Crimson">Data</font>***, ***<font color="Crimson">Computing Capability</font>***, as well as exploring their derivative ***<font color="Crimson">Applications</font>*** on wide spectrums. Some specific topics include **Zero/Few-shot Learning**, **Federated Learning**, **Representation Learning**, **Model Compression**, and **Lightweight Solutions** for **Foundation/Large Models**. Our works are published in various prestigious venues, including AAAI, IJCAI, CVPR, ICML, ICLR, NeurIPS, MM, ATC, ICDCS, TNNLS, TPAMI, TMM, TC, TCSS, etc. As the **Principal Investigator (PI)**, I have secured several external grants, including **2 × General Research Funds (GRF)** from **Hong Kong RGC**, one **Young Scientists Fund** from **NSFC**, one **Industrial Gifted Fund**, and one **Fundamental Research Fund** for the Central Universities. I am currently serving as **Associate Editor** for IEEE Open Journal of the Computer Society (IF=5.9), **Guest Editor** for IEEE Transactions on Computational Social Systems (IF=5.0), and **Guest Editor** for Complex & Intelligent Systems (IF=5.0). I have served as **Publicity Chair** for SRDS 2022 (Vienna, Austria) and **Track Chair** (TPC Vice-Chair) for VTC 2024 Fall (Washington DC, USA), and have regularly served as **Area Chair** and **Senior PC** for prestigious venues like ICML, NeurIPS, ACM-MM, AAAI, IJCAI, etc. I am a Panel Reviewer for the General Program and the Young Scientists Fund of the National Natural Science Foundation of China (NSFC). I am a member of IEEE and CCF.
 
+<span class='anchor' id='lumen'></span>
+# 🌏 Lumen Group 
+ 
+🎉🎉 We have some fully funded openings for **PhD Student**, **Postdoctoral Researcher**, and **Research Assistant** to work and have fun together on multiple research projects. **<font color="Crimson">Drop me an email (jc-jingcai.guo@polyu.edu.hk) with your complete CV if you are interested</font>**. Candidates with strong programming and mathematics backgrounds are preferred. **Visiting Students/Researchers** (onsite/remote) are also welcome!
+
+<a href="https://jingcaiguo.github.io/"><img src="./images/lumen.png" width = "400" alt="Lumen-Lab"></a>
+👈👈 ***<font color="Crimson">Click for more information</font>***
+
+<!--**I am fortunate to supervise and work together with these gifted students/staffs:**
+
+## Current Members
+- <a href = "https://keepgoingjkg.github.io/about/">Miaoge Li</a>, Ph.D. Student (**2024/05**-), *Chief Supervisor*; \[last stop: Xidian University\].
+- <a href = "https://zjrao.github.io/">Zhijie Rao</a>, Ph.D. Student (**2024/05**-) / RA (2023/09-2024/05), *Chief Supervisor*; \[last stop: Xiamen University\].
+- <a href = "https://cseeyangchen.github.io/">Yang Chen</a>, Ph.D. Student (**2024/09**-), *Chief Supervisor*; \[last stop: University of Electronic Science and Technology of China\].
+- <a href = "https://fengxinlee.github.io/FengxinLI.github.io/">Fengxin Li</a>, Visiting Ph.D. Student (**2025/02-2025/08**), *Chief Supervisor*; \[last stop: Renmin University of China\].
+
+## Alumni
+- <a href = "https://mirrorigin.github.io/">Jingming Liang</a>, RA (**2023/09-2024/03**), *Chief Supervisor*; \[last stop: HUST; next stop: Ph.D. Student, University of Iowa (USA)\].-->
+
 <span class='anchor' id='news'></span>
 # 🔥 News
 - *2025.05*: &nbsp; [**<font color="DarkCyan">Editorship</font>**] Serve as Guest Editor for <a href="https://link.springer.com/journal/40747">Complex & Intelligent Systems (JCR-Q1)</a> (Special Issue on *Efficient AI for Resource-Constrained and Complex Applications*).
@@ -40,27 +59,6 @@ I am interested in ***<font color="Crimson">Efficient AI</font>***, which target
 - *2023.09*: &nbsp; [**<font color="DarkCyan">Editorship</font>**] Serve as Guest Editor for <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6570650">IEEE Transactions on Computational Social Systems (JCR-Q1)</a> (Special Issue on *Few-shot/Zero-shot Learning for Knowledge Discovery in Social Networks*).
 - *2022.09*: &nbsp; [**<font color="BlueViolet">Organization</font>**] Happy to join the Organization Committee of <a href="https://www.dedisys.org/srds22/committee/organization.html">SRDS 2022</a>, as Publicity Chair.
 - *2022.01*: &nbsp; [**<font color="Crimson">Grant</font>**] One Young Scientists Fund has been granted by <a href="https://www.nsfc.gov.cn/">National Natural Science Foundation of China (NSFC)</a>; Gratefulness!
-
-
-<span class='anchor' id='lumen'></span>
-# 🌏 Lumen Group 
- 
-🎉🎉 We have some fully funded openings for **PhD Student**, **Postdoctoral Researcher**, and **Research Assistant** to work and have fun together on multiple research projects. **<font color="Crimson">Drop me an email (jc-jingcai.guo@polyu.edu.hk) with your complete CV if you are interested</font>**. Candidates with strong programming and mathematics backgrounds are preferred. **Visiting Students/Researchers** (onsite/remote) are also welcome!
-
-<a href="https://jingcaiguo.github.io/"><img src="./images/lumen.png" width = "400" alt="Lumen-Lab"></a>
-👈👈 ***<font color="Crimson">Click for more information</font>***
-
-**I am fortunate to supervise and work together with these gifted students/staffs:**
-
-## Current Members
-- <a href = "https://keepgoingjkg.github.io/about/">Miaoge Li</a>, Ph.D. Student (**2024/05**-), *Chief Supervisor*; \[last stop: Xidian University\].
-- <a href = "https://zjrao.github.io/">Zhijie Rao</a>, Ph.D. Student (**2024/05**-) / RA (2023/09-2024/05), *Chief Supervisor*; \[last stop: Xiamen University\].
-- <a href = "https://cseeyangchen.github.io/">Yang Chen</a>, Ph.D. Student (**2024/09**-), *Chief Supervisor*; \[last stop: University of Electronic Science and Technology of China\].
-- <a href = "https://fengxinlee.github.io/FengxinLI.github.io/">Fengxin Li</a>, Visiting Ph.D. Student (**2025/02-2025/08**), *Chief Supervisor*; \[last stop: Renmin University of China\].
-
-## Alumni
-- <a href = "https://mirrorigin.github.io/">Jingming Liang</a>, RA (**2023/09-2024/03**), *Chief Supervisor*; \[last stop: HUST; next stop: Ph.D. Student, University of Iowa (USA)\].
-
 
 <span class='anchor' id='grants'></span>
 # 💰 Grants

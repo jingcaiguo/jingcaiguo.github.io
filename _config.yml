@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Jingcai Guo, Ph.D."
+title                    : "Jingcai (JC) Guo, Ph.D."
 description              : ""
 repository               : "jingcaiguo/jingcaiguo.github.io"
 google_scholar_stats_use_cdn : true
@@ -21,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Jingcai (JC) Guo, Ph.D."
+  name             : "Jingcai(JC) Guo, Ph.D."
   avatar           : "images/jcg.png"
   bio              : "Assistant Professor<br>Department of Computing/LSGI<br>Hong Kong Polytechnic University"
   location         : "Kowloon, Hong Kong S.A.R."

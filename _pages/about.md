@@ -49,7 +49,7 @@ I am interested in ***<font color="Crimson">Efficient AI</font>***, which target
 
 <a href="https://jingcaiguo.github.io/">
   <img src="./images/lumen.png" width = "400" alt="Lumen-Lab">
-</a>
+</a> [***<font color="Crimson">\[Click for more information\]</font>***](https://jingcaiguo.github.io/).
 
 **I am fortunate to supervise and work together with these gifted students/staffs:**
 

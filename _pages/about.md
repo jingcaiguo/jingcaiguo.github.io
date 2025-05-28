@@ -28,7 +28,7 @@ I am generally interested in ***<font color="Crimson">Efficient AI</font>***, wh
 
 We are actively looking for self-motivated **PhD Students**, **Postdoctoral Researchers**, and **Research Assistants** to work and have fun together on multiple research projects. Drop me an email (<jc-jingcai.guo@polyu.edu.hk>) with your complete CV if you are interested. Candidates with strong programming and mathematics backgrounds are preferred. **Visiting Students/Researchers** (onsite/remote) are also welcome!
 
-<!--**I am fortunate to supervise and work together with these gifted students/staffs:**
+**I am fortunate to supervise and work together with these gifted students/staffs:**
 
 ## Current Members
 - <a href = "https://keepgoingjkg.github.io/about/">Miaoge Li</a>, Ph.D. Student (**2024/05**-), *Chief Supervisor*; \[last stop: Xidian University\].
@@ -37,7 +37,7 @@ We are actively looking for self-motivated **PhD Students**, **Postdoctoral Rese
 - <a href = "https://fengxinlee.github.io/FengxinLI.github.io/">Fengxin Li</a>, Visiting Ph.D. Student (**2025/02-2025/08**), *Chief Supervisor*; \[last stop: Renmin University of China\].
 
 ## Alumni
-- <a href = "https://mirrorigin.github.io/">Jingming Liang</a>, RA (**2023/09-2024/03**), *Chief Supervisor*; \[last stop: HUST; next stop: Ph.D. Student, University of Iowa (USA)\].-->
+- <a href = "https://mirrorigin.github.io/">Jingming Liang</a>, RA (**2023/09-2024/03**), *Chief Supervisor*; \[last stop: HUST; next stop: Ph.D. Student, University of Iowa (USA)\]
 
 <span class='anchor' id='news'></span>
 # 🔥 News

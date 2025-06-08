@@ -79,7 +79,7 @@ We are actively looking for self-motivated **PhD Students**, **Postdoctoral Rese
   Project title: *Entity Anti-fraud Prediction Combining Zero-Shot Learning and Graph Neural Networks*<br>
   Funding source: The National Natural Science Foundation of China (NSFC), 2022-2024
 
-- **<font color="Crimson">[PI]:</font>** Start-up Fund for RAPs under the Strategic Hiring Scheme<br>
+- **<font color="Crimson">[PI]:</font>** PolyU Internal Fund<br>
   Funding source: PolyU Research Grant, 2022-2024.
 
 - **<font color="Crimson">[PI]:</font>** Fundamental Research Funds<br>

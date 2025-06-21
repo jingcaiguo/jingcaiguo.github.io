@@ -34,7 +34,7 @@ We are actively looking for self-motivated **PhD Students**, **Postdoctoral Rese
 - <a href = "https://keepgoingjkg.github.io/about/">Miaoge Li</a>, **Ph.D. Student** (2024/05-); \[last stop: Xidian University\].
 - <a href = "https://zjrao.github.io/">Zhijie Rao</a>, **Ph.D. Student** (2024/05-) / **Research Assistant** (2023/09-2024/05); \[last stop: Xiamen University\].
 - <a href = "https://cseeyangchen.github.io/">Yang Chen</a>, **Ph.D. Student** (2024/09-); \[last stop: University of Electronic Science and Technology of China\].
-- <a href = "">Tianqi Wang</a>, **Research Assistant** (2024/09-); \[last stop: University College London (UK)\].
+- <a href = "https://tianqi-wang1.github.io/">Tianqi Wang</a>, **Research Assistant** (2024/09-); \[last stop: University College London (UK)\].
 - <a href = "https://fengxinlee.github.io/FengxinLI.github.io/">Fengxin Li</a>, **Visiting Ph.D. Student** (2025/02-2025/08); \[last stop: Renmin University of China\].
 
 ## Alumni

@@ -116,6 +116,14 @@ We are actively looking for self-motivated **PhD Students**, **Postdoctoral Rese
   M. Wang, H. Su, J. Li, C. Li, N. Yin, L. Shen, **<font size=4>J. Guo<sup>#</sup></font>**,<br>
   *International Conference on Machine Learning* (**<font color="Crimson">ICML</font>**, CCF-A/Core-A*), **2025**.
 
+- ![Static Badge](https://img.shields.io/badge/Data-8A2BE2) **-** [**SVIP: Semantically Contextualized Visual Patches for Zero-Shot Learning**](),<br>
+  Z. Chen, Z. Zhao, **<font size=4>J. Guo</font>**, J. Li, Z. Huang,<br>
+  *IEEE/CVF International Conference on Computer Vision* (**<font color="Crimson">ICCV</font>**, CCF-A/Core-A*), **2025**.
+
+- ![Static Badge](https://img.shields.io/badge/Data-8A2BE2) **-** [**A Unified Framework to BRIDGE Complete and Incomplete Deep Multi-View Clustering under Non-IID Missing Patterns**](),<br>
+  X. Jiang, B. He, P. Zhou, X. Chen, **<font size=4>J. Guo</font>**, J. Xu, Y. Liao,<br>
+  *IEEE/CVF International Conference on Computer Vision* (**<font color="Crimson">ICCV</font>**, CCF-A/Core-A*), **2025**.
+
 - ![Static Badge](https://img.shields.io/badge/Data-8A2BE2) **-** [**TsCA: On the Semantic Consistency Alignment via Conditional Transport for Compositional Zero-Shot Learning**](),<br>
   M. Li, **<font size=4>J. Guo<sup>#</sup></font>**, Y. Xu, D. Wang, X. Cao, Z. Rao, S. Guo,<br>
   *International Joint Conference on Artificial Intelligence* (**<font color="Crimson">IJCAI</font>**, CCF-A/Core-A*), **2025**.

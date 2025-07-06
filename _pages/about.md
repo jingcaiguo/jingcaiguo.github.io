@@ -111,6 +111,13 @@ We are actively looking for self-motivated **PhD Students**, **Postdoctoral Rese
 ***<font size=5>--2025--</font>***
 
 ***
+- ![Static Badge](https://img.shields.io/badge/Data-8A2BE2) **-** [**Balancing Cross-Modal Attention for Generalized Zero-Shot Learning**](),<br>
+  Z. Rao, **<font size=4>J. Guo<sup>#</sup></font>**, <br>
+  *ACM International Conference on Multimedia* (**<font color="Crimson">ACM-MM</font>**, CCF-A/Core-A*), **2025**.
+
+- ![Static Badge](https://img.shields.io/badge/APPs-DAA520) **-** [**Topic Guided Multi-faceted Semantic Disentanglement for CTR Prediction**](),<br>
+  F. Li, Z. Yin, H. Liu, **<font size=4>J. Guo</font>**, J. He, Y. LI, C. Zhou, J. Zhang, H. Gu, <br>
+  *ACM International Conference on Multimedia* (**<font color="Crimson">ACM-MM</font>**, CCF-A/Core-A*), **2025**.
 
 - ![Static Badge](https://img.shields.io/badge/APPs-DAA520) **-** [**GraphCL: Graph-based Clustering for Semi-Supervised Medical Image Segmentation**](),<br>
   M. Wang, H. Su, J. Li, C. Li, N. Yin, L. Shen, **<font size=4>J. Guo<sup>#</sup></font>**,<br>

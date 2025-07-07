@@ -65,6 +65,10 @@ We are actively looking for self-motivated **PhD Students**, **Postdoctoral Rese
 <span class='anchor' id='grants'></span>
 # 💰 Grants
 
+- **<font color="Crimson">[PI]:</font>** **RGC General Research Fund (GRF)**<br>
+  Project title: *Harnessing Evolving Edge AI Systems with Synergidal Scalability Co-Design*<br>
+  Funding source: Research Grants Council of Hong Kong, 2026-2028
+
 - **<font color="Crimson">[PI]:</font>** **Huawei Gifted Fund**<br>
   Project title: *Towards Edge-Native Deployment and Post-Training of Foundation/Large Models*<br>
   Funding source: Huawei Technologies Co., Ltd., 2025-2028

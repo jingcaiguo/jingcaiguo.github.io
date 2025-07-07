@@ -375,15 +375,15 @@ J. Zhang, S. Guo, X. Ma, W. Xu, Q. Zhou, **<font size=4>J. Guo</font>**, Z. Hong
 <span class='anchor' id='teachings'></span>
 # 🧑🏻‍🏫 Teachings
 ##  As Instructor
-- Internet Infrastructure and Protocols ([Syllabus](https://www.polyu.edu.hk/comp/docdrive/tpg/subject/COMP5311.pdf)), Postgraduate-level PolyU, Spring 2025.
-- Internet Infrastructure and Protocols ([Syllabus](https://www.polyu.edu.hk/comp/docdrive/tpg/subject/COMP5311.pdf)), Postgraduate-level PolyU, Spring 2024.
-- Data Structures and Database Systems ([Syllabus](https://www.polyu.edu.hk/comp/docdrive/tpg/subject/COMP5112.pdf)), Postgraduate-level, PolyU, Spring 2023.
+- Internet Infrastructure and Protocols ([Syllabus](https://www.polyu.edu.hk/comp/docdrive/tpg/subject/COMP5311.pdf)), PolyU, Spring 2025.
+- Internet Infrastructure and Protocols ([Syllabus](https://www.polyu.edu.hk/comp/docdrive/tpg/subject/COMP5311.pdf)), PolyU, Spring 2024.
+- Data Structures and Database Systems ([Syllabus](https://www.polyu.edu.hk/comp/docdrive/tpg/subject/COMP5112.pdf)), PolyU, Spring 2023.
 
 ##  As Teaching Assistant
-- B2B&B2C E-commerce and Management, Postgraduate-level, PolyU, Spring 2019.
-- Information Systems Project Management, Postgraduate-level, PolyU, Fall 2018
-- Big Data Analytics, Undergraduate-level, PolyU, Spring 2018
-- Web Advertising and Web Publishing, Postgraduate-level, PolyU, Fall 2017
+- B2B&B2C E-commerce and Management, PolyU, Spring 2019.
+- Information Systems Project Management, PolyU, Fall 2018
+- Big Data Analytics, PolyU, Spring 2018
+- Web Advertising and Web Publishing, PolyU, Fall 2017
 
 <span class='anchor' id='services'></span>
 # 👔 Services

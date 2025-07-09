@@ -161,7 +161,7 @@ We are actively looking for self-motivated **PhD Students**, **Postdoctoral Rese
   *International Joint Conference on Artificial Intelligence* (**<font color="Crimson">IJCAI</font>**, CCF-A/Core-A*), **2025**.
 
 - ![Static Badge](https://img.shields.io/badge/Data-8A2BE2) **-** [**Neuron: Learning Context-Aware Evolving Representations for Zero-Shot Skeleton Action Recognition**](),<br>
-  Y. Chen, **<font size=4>J. Guo<sup>#</sup></font>**, S. Guo,<br>
+  Y. Chen, **<font size=4>J. Guo<sup>#</sup></font>**, S. Guo, D. Tao,<br>
   *IEEE/CVF Conference on Computer Vision and Pattern Recognition* (**<font color="Crimson">CVPR</font>**, CCF-A/Core-A*), **2025**.
 
 - ![Static Badge](https://img.shields.io/badge/Data-8A2BE2) **-** [**Epsilon: Exploring Comprehensive Visual-Semantic Projection for Multi-Label Zero-Shot Learning**](),<br>

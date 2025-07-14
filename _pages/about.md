@@ -122,7 +122,7 @@ We are actively looking for self-motivated **PhD Students**, **Postdoctoral Rese
   *ACM International Conference on Multimedia* (**<font color="Crimson">ACM-MM</font>**, CCF-A/Core-A*), **2025**.
 
 - ![Static Badge](https://img.shields.io/badge/APPs-DAA520) **-** [**Topic Guided Multi-faceted Semantic Disentanglement for CTR Prediction**](),<br>
-  F. Li, Z. Yin, H. Liu, **<font size=4>J. Guo</font>**, J. He, Y. LI, C. Zhou, J. Zhang, H. Gu, <br>
+  F. Li, Z. Yin, H. Liu, **<font size=4>J. Guo<sup>#</sup></font>**, J. He, Y. LI, C. Zhou, J. Zhang, H. Gu, <br>
   *ACM International Conference on Multimedia* (**<font color="Crimson">ACM-MM</font>**, CCF-A/Core-A*), **2025**.
 
 - ![Static Badge](https://img.shields.io/badge/APPs-DAA520) **-** [**GraphCL: Graph-based Clustering for Semi-Supervised Medical Image Segmentation**](),<br>

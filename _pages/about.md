@@ -37,8 +37,9 @@ We are actively looking for self-motivated **PhD Students**, **Postdoctoral Rese
 - <a href = "https://tianqi-wang1.github.io/">Tianqi Wang</a>, **Research Assistant** (2024/09-); \[last stop: University College London (UK)\].
 - <a href = "https://fengxinlee.github.io/FengxinLI.github.io/">Fengxin Li</a>, **Visiting Ph.D. Student** (2025/02-2025/08); \[last stop: Renmin University of China\].
 
-## Alumni
+<!--## Alumni
 - <a href = "https://mirrorigin.github.io/">Jingming Liang</a>, **Research Assistant** (2023/09-2024/03); \[last stop: HUST; next stop: Ph.D. Student, University of Iowa (USA)\]
+-->
 
 <span class='anchor' id='news'></span>
 # 🔥 News

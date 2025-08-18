@@ -47,7 +47,7 @@ We are actively looking for self-motivated **PhD Students**, **Postdoctoral Rese
 - *2025.07*: &nbsp; [**<font color="Crimson">Grant</font>**] One General Research Fund (GRF) has been granted by <a href="https://www.ugc.edu.hk/eng/rgc/funding_opport/grf/index.html">Research Grants Council (RGC) of Hong Kong</a>; Gratefulness!
 - *2025.05*: &nbsp; [**<font color="DarkCyan">Editorship</font>**] Serve as Guest Editor for <a href="https://link.springer.com/journal/40747">Complex & Intelligent Systems (JCR-Q1)</a> (Special Issue on *Efficient AI for Resource-Constrained and Complex Applications*).
 - *2025.03*: &nbsp; [Conference] Serve as Area Chair for <a href="https://neurips.cc">NeurIPS 2025</a>.
-- *2025.02*: &nbsp; [**<font color="BlueViolet">Organization</font>**] Happy to join the Organization Committee of <a href="https://acmmm2025.org/organisation/">ACM-MM 2025</a>, as Session Coordinator/Chair.
+- *2025.02*: &nbsp; [**<font color="BlueViolet">Organization</font>**] Happy to join the Organization Committee of <a href="https://acmmm2025.org/organisation/">ACM-MM 2025</a>.
 - *2025.02*: &nbsp; [Conference] Serve as Area Chair for <a href="https://2025.acmmm.org/">ACM-MM 2025</a>.
 - *2024.12*: &nbsp; [Conference] Serve as Senior PC for <a href="https://ijcai25.org/">IJCAI 2025</a>.
 - *2024.12*: &nbsp; [**<font color="Crimson">Grant</font>**] One Gifted Fund from Huawei has been granted; Gratefulness!

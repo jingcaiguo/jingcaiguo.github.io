@@ -43,7 +43,7 @@ We are actively looking for self-motivated **PhD Students**, **Postdoctoral Rese
 
 <span class='anchor' id='news'></span>
 # 🔥 News
-- *2025.08*: &nbsp; [Conference] Serve as Area Chair for <a href="https://iclr.cc/">ICLR 2026</a>.
+- *2025.08*: &nbsp; [Conference] Serve as Area Chair for <a href="">ICLR 2026</a>.
 - *2025.07*: &nbsp; [Conference] Serve as Senior PC for <a href="">AAAI 2026</a>.
 - *2025.07*: &nbsp; [**<font color="Crimson">Grant</font>**] One General Research Fund (GRF) has been granted by <a href="https://www.ugc.edu.hk/eng/rgc/funding_opport/grf/index.html">Research Grants Council (RGC) of Hong Kong</a>; Gratefulness!
 - *2025.05*: &nbsp; [**<font color="DarkCyan">Editorship</font>**] Serve as Guest Editor for <a href="https://link.springer.com/journal/40747">Complex & Intelligent Systems (JCR-Q1)</a> (Special Issue on *Efficient AI for Resource-Constrained and Complex Applications*).

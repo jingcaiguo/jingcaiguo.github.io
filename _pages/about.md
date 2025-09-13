@@ -71,7 +71,7 @@ We are actively looking for self-motivated **PhD Students**, **Postdoctoral Rese
   Funding source: Research Grants Council of Hong Kong, 2026-2028
 
 - **<font color="Crimson">[PI]:</font>** **PolyU Internal Research Fund**<br>
-  Funding source: PolyU Research Grant (P0058468), 2025-2028.
+  Funding source: PolyU Research Grant P0058468-PolyU (UGC), 2025-2028.
 
 - **<font color="Crimson">[PI]:</font>** **Huawei Gifted Fund**<br>
   Project title: *Towards Edge-Native Deployment and Post-Training of Foundation/Large Models*<br>
@@ -90,7 +90,7 @@ We are actively looking for self-motivated **PhD Students**, **Postdoctoral Rese
   Funding source: The National Natural Science Foundation of China (NSFC), 2022-2024
 
 - **<font color="Crimson">[PI]:</font>** **PolyU Internal Research Fund**<br>
-  Funding source: PolyU Research Grant (P0043932), 2022-2024.
+  Funding source: PolyU Research Grant P0043932-PolyU (UGC), 2022-2024.
 
 - **[Co-I]:** Projects of RISUD<br>
   Project title: *A Bottom-up Integrated Strategy for Collecting Urban Functions and Land Use Details: Data-driven Perspective with Urban Geospatial Data in Hong Kong*<br>

@@ -70,7 +70,7 @@ We are actively looking for self-motivated **PhD Students**, **Postdoctoral Rese
   Project title: *Harnessing Evolving Edge AI Systems with Synergidal Scalability Co-Design*<br>
   Funding source: Research Grants Council of Hong Kong, 2026-2028
 
-- **<font color="Crimson">[PI]:</font>** PolyU Internal Research Fund<br>
+- **<font color="Crimson">[PI]:</font>** **PolyU Internal Research Fund**<br>
   Funding source: PolyU Research Grant (P0058468), 2025-2028.
 
 - **<font color="Crimson">[PI]:</font>** **Huawei Gifted Fund**<br>
@@ -89,12 +89,8 @@ We are actively looking for self-motivated **PhD Students**, **Postdoctoral Rese
   Project title: *Entity Anti-fraud Prediction Combining Zero-Shot Learning and Graph Neural Networks*<br>
   Funding source: The National Natural Science Foundation of China (NSFC), 2022-2024
 
-- **<font color="Crimson">[PI]:</font>** PolyU Internal Research Fund<br>
+- **<font color="Crimson">[PI]:</font>** **PolyU Internal Research Fund**<br>
   Funding source: PolyU Research Grant (P0043932), 2022-2024.
-
-- **<font color="Crimson">[PI]:</font>** Fundamental Research Funds<br>
-  Project title: *Learning-Based Anti-Fraud Prevention in Financial Industry*<br>
-  Funding source: The Fundamental Research Funds Scheme for the Central Universities (China)-JBK21YJ04, 2021-2021.
 
 - **[Co-I]:** Projects of RISUD<br>
   Project title: *A Bottom-up Integrated Strategy for Collecting Urban Functions and Land Use Details: Data-driven Perspective with Urban Geospatial Data in Hong Kong*<br>

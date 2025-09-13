@@ -54,7 +54,6 @@ We are actively looking for self-motivated **PhD Students**, **Postdoctoral Rese
 - *2024.11*: &nbsp; [Conference] Serve as Area Chair for <a href="https://icml.cc/Conferences/2025/CallForPapers">ICML 2025</a>.
 - *2024.07*: &nbsp; [**<font color="Crimson">Grant</font>**] One General Research Fund (GRF) has been granted by <a href="https://www.ugc.edu.hk/eng/rgc/funding_opport/grf/index.html">Research Grants Council (RGC) of Hong Kong</a>; Gratefulness!
 - *2024.07*: &nbsp; [Conference] Serve as Senior PC for <a href="">AAAI 2025</a>.
-- *2024.07*: &nbsp; [Conference] Serve as Session Chair (multimodal learning) for <a href="https://ijcai24.org/">IJCAI 2024</a>.
 - *2024.03*: &nbsp; [**<font color="BlueViolet">Organization</font>**] Happy to join the Technical Program Committee of <a href="https://events.vtsociety.org/vtc2024-fall/committees/technical-program-committee/">VTC2024-Fall</a>, as Track Chair (TPC Vice-Chair).
 - *2024.01*: &nbsp; [Conference] Serve as Area Chair for <a href="https://icml.cc/Conferences/2024/CallForPapers">ICML 2024</a>.
 - *2024.01*: &nbsp; [Conference] Serve as Area Chair for <a href="https://2024.acmmm.org/">ACM-MM 2024</a>.

@@ -116,7 +116,7 @@ We are actively looking for self-motivated **PhD Students**, **Postdoctoral Rese
 ***<font size=5>--2025--</font>***
 
 ***
-- ![Static Badge](https://img.shields.io/badge/Data-8A2BE2) **-** [**Balancing Cross-Modal Attention for Generalized Zero-Shot Learning**](),<br>
+- ![Static Badge](https://img.shields.io/badge/Data-8A2BE2) **-** **Balancing Cross-Modal Attention for Generalized Zero-Shot Learning**,<br>
   Z. Rao, **<font size=4>J. Guo<sup>#</sup></font>**, <br>
   *ACM International Conference on Multimedia* (**<font color="Crimson">ACM-MM</font>**, CCF-A/Core-A*), **2025**.
 

@@ -120,71 +120,71 @@ We are actively looking for self-motivated **PhD Students**, **Postdoctoral Rese
   Z. Rao, **<font size=4>J. Guo<sup>#</sup></font>**, <br>
   *ACM International Conference on Multimedia* (**<font color="Crimson">ACM-MM</font>**, CCF-A/Core-A*), **2025**.
 
-- ![Static Badge](https://img.shields.io/badge/APPs-DAA520) **-** [**Topic Guided Multi-faceted Semantic Disentanglement for CTR Prediction**](),<br>
+- ![Static Badge](https://img.shields.io/badge/APPs-DAA520) **-** **Topic Guided Multi-faceted Semantic Disentanglement for CTR Prediction**,<br>
   F. Li, Z. Yin, H. Liu, **<font size=4>J. Guo<sup>#</sup></font>**, J. He, Y. LI, C. Zhou, J. Zhang, H. Gu, <br>
   *ACM International Conference on Multimedia* (**<font color="Crimson">ACM-MM</font>**, CCF-A/Core-A*), **2025**.
 
-- ![Static Badge](https://img.shields.io/badge/APPs-DAA520) **-** [**GraphCL: Graph-based Clustering for Semi-Supervised Medical Image Segmentation**](),<br>
+- ![Static Badge](https://img.shields.io/badge/APPs-DAA520) **-** **GraphCL: Graph-based Clustering for Semi-Supervised Medical Image Segmentation**,<br>
   M. Wang, H. Su, J. Li, C. Li, N. Yin, L. Shen, **<font size=4>J. Guo<sup>#</sup></font>**,<br>
   *International Conference on Machine Learning* (**<font color="Crimson">ICML</font>**, CCF-A/Core-A*), **2025**.
 
-- ![Static Badge](https://img.shields.io/badge/Data-8A2BE2) **-** [**SVIP: Semantically Contextualized Visual Patches for Zero-Shot Learning**](),<br>
+- ![Static Badge](https://img.shields.io/badge/Data-8A2BE2) **-** **SVIP: Semantically Contextualized Visual Patches for Zero-Shot Learning**,<br>
   Z. Chen, Z. Zhao, **<font size=4>J. Guo</font>**, J. Li, Z. Huang,<br>
   *IEEE/CVF International Conference on Computer Vision* (**<font color="Crimson">ICCV</font>**, CCF-A/Core-A*), **2025**.
 
-- ![Static Badge](https://img.shields.io/badge/Data-8A2BE2) **-** [**A Unified Framework to BRIDGE Complete and Incomplete Deep Multi-View Clustering under Non-IID Missing Patterns**](),<br>
+- ![Static Badge](https://img.shields.io/badge/Data-8A2BE2) **-** **A Unified Framework to BRIDGE Complete and Incomplete Deep Multi-View Clustering under Non-IID Missing Patterns**,<br>
   X. Jiang, B. He, P. Zhou, X. Chen, **<font size=4>J. Guo</font>**, J. Xu, Y. Liao,<br>
   *IEEE/CVF International Conference on Computer Vision* (**<font color="Crimson">ICCV</font>**, CCF-A/Core-A*), **2025**.
 
-- ![Static Badge](https://img.shields.io/badge/Data-8A2BE2) **-** [**TsCA: On the Semantic Consistency Alignment via Conditional Transport for Compositional Zero-Shot Learning**](),<br>
+- ![Static Badge](https://img.shields.io/badge/Data-8A2BE2) **-** **TsCA: On the Semantic Consistency Alignment via Conditional Transport for Compositional Zero-Shot Learning**,<br>
   M. Li, **<font size=4>J. Guo<sup>#</sup></font>**, Y. Xu, D. Wang, X. Cao, Z. Rao, S. Guo,<br>
   *International Joint Conference on Artificial Intelligence* (**<font color="Crimson">IJCAI</font>**, CCF-A/Core-A*), **2025**.
 
-- ![Static Badge](https://img.shields.io/badge/Data-8A2BE2) **-** [**Exploring Transferable Homogenous Groups for Compositional Zero-Shot Learning**](),<br>
+- ![Static Badge](https://img.shields.io/badge/Data-8A2BE2) **-** **Exploring Transferable Homogenous Groups for Compositional Zero-Shot Learning**,<br>
   Z. Rao, **<font size=4>J. Guo<sup>#</sup></font>**, M. Li, Y. Chen, M. Wang,<br>
   *International Joint Conference on Artificial Intelligence* (**<font color="Crimson">IJCAI</font>**, CCF-A/Core-A*), **2025**.
 
-- ![Static Badge](https://img.shields.io/badge/Data-8A2BE2) **-** [**On the Discrimination and Consistency for Exemplar-Free Class Incremental Learning**](),<br>
+- ![Static Badge](https://img.shields.io/badge/Data-8A2BE2) **-** **On the Discrimination and Consistency for Exemplar-Free Class Incremental Learning**,<br>
   T. Wang, **<font size=4>J. Guo<sup>#</sup></font>**, D. Li, Z. Chen,<br>
   *International Joint Conference on Artificial Intelligence* (**<font color="Crimson">IJCAI</font>**, CCF-A/Core-A*), **2025**.
 
-- ![Static Badge](https://img.shields.io/badge/Capability-00FF7F) **-** [**FedAPA: Server-side Gradient-Based Adaptive Personalized Aggregation for Federated Learning on Heterogeneous Data**](),<br>
+- ![Static Badge](https://img.shields.io/badge/Capability-00FF7F) **-** **FedAPA: Server-side Gradient-Based Adaptive Personalized Aggregation for Federated Learning on Heterogeneous Data**,<br>
   Y. Sun, A. Sun, S. Pan, Z. Fu, **<font size=4>J. Guo<sup>#</sup></font>**,<br>
   *International Joint Conference on Artificial Intelligence* (**<font color="Crimson">IJCAI</font>**, CCF-A/Core-A*), **2025**.
 
-- ![Static Badge](https://img.shields.io/badge/Capability-00FF7F) **-** [**In Context Meta LoRA Generation**](),<br>
+- ![Static Badge](https://img.shields.io/badge/Capability-00FF7F) **-** **In Context Meta LoRA Generation**,<br>
   Y. Shao, M. Yan, Y. Liu, ..., **<font size=4>J. Guo<sup>#</sup></font>**,<br>
   *International Joint Conference on Artificial Intelligence* (**<font color="Crimson">IJCAI</font>**, CCF-A/Core-A*), **2025**.
 
-- ![Static Badge](https://img.shields.io/badge/Capability-00FF7F) **-** [**ESBN: Estimation Shift of Batch Normalization for Source-free Universal Domain Adaptation**](),<br>
+- ![Static Badge](https://img.shields.io/badge/Capability-00FF7F) **-** **ESBN: Estimation Shift of Batch Normalization for Source-free Universal Domain Adaptation**,<br>
   J. Li, H. Su, B. Wang, Y. Min, M. Wang, N. Yin, S. Wang, **<font size=4>J. Guo<sup>#</sup></font>**,<br>
   *International Joint Conference on Artificial Intelligence* (**<font color="Crimson">IJCAI</font>**, CCF-A/Core-A*), **2025**.
 
-- ![Static Badge](https://img.shields.io/badge/Data-8A2BE2) **-** [**Neuron: Learning Context-Aware Evolving Representations for Zero-Shot Skeleton Action Recognition**](),<br>
+- ![Static Badge](https://img.shields.io/badge/Data-8A2BE2) **-** **Neuron: Learning Context-Aware Evolving Representations for Zero-Shot Skeleton Action Recognition**,<br>
   Y. Chen, **<font size=4>J. Guo<sup>#</sup></font>**, S. Guo, D. Tao,<br>
   *IEEE/CVF Conference on Computer Vision and Pattern Recognition* (**<font color="Crimson">CVPR</font>**, CCF-A/Core-A*), **2025**.
 
-- ![Static Badge](https://img.shields.io/badge/Data-8A2BE2) **-** [**Epsilon: Exploring Comprehensive Visual-Semantic Projection for Multi-Label Zero-Shot Learning**](),<br>
+- ![Static Badge](https://img.shields.io/badge/Data-8A2BE2) **-** **Epsilon: Exploring Comprehensive Visual-Semantic Projection for Multi-Label Zero-Shot Learning**,<br>
   Z. Liu, **<font size=4>J. Guo<sup>#</sup></font>**, S. Guo, X. Lu,<br>
   *AAAI Conference on Artificial Intelligence* (**<font color="Crimson">AAAI</font>**, CCF-A/Core-A*), **2025**.
 
-- ![Static Badge](https://img.shields.io/badge/Data-8A2BE2) **-** [**Concept Matching with Agent for Out-of-Distribution Detection**](),<br>
+- ![Static Badge](https://img.shields.io/badge/Data-8A2BE2) **-** **Concept Matching with Agent for Out-of-Distribution Detection**,<br>
   Y, Lee, X. Cao, **<font size=4>J. Guo</font>**, W. Ye, Q. Guo, Y. Chang,<br>
   *AAAI Conference on Artificial Intelligence* (**<font color="Crimson">AAAI</font>**, CCF-A/Core-A*), **2025**.
 
-- ![Static Badge](https://img.shields.io/badge/APPs-DAA520) **-** [**DeNC: Unleash Neural Codecs in Video Streaming with Diffusion Enhancement**](),<br>
+- ![Static Badge](https://img.shields.io/badge/APPs-DAA520) **-** **DeNC: Unleash Neural Codecs in Video Streaming with Diffusion Enhancement**,<br>
   Q. Zhou, R. Li, **<font size=4>J. Guo</font>**, Y. Huang, Z. Xu, L. Cui, S. Guo,<br>
   *AAAI Conference on Artificial Intelligence* (**<font color="Crimson">AAAI</font>**, CCF-A/Core-A*), **2025**.
 
-- ![Static Badge](https://img.shields.io/badge/APPs-DAA520) **-** [**SRCD: Semantic Reasoning with Compound Domains for Single-Domain Generalized Object Detection**](),<br>
+- ![Static Badge](https://img.shields.io/badge/APPs-DAA520) **-** **SRCD: Semantic Reasoning with Compound Domains for Single-Domain Generalized Object Detection**,<br>
   Z. Rao, **<font size=4>J. Guo<sup>#</sup></font>**, L. Tang, Y. Huang, X. Ding, S. Guo,<br>
   *IEEE Transactions on Neural Networks and Learning Systems* (**<font color="Crimson">TNNLS</font>**, IF=14.255/JCR-Q1, Accept), **2025**.
 
-- ![Static Badge](https://img.shields.io/badge/APPs-DAA520) **-** [**A Paradigm of Temporal-Weather-Aware Transition Pattern for POI Recommendation**](),<br>
+- ![Static Badge](https://img.shields.io/badge/APPs-DAA520) **-** **A Paradigm of Temporal-Weather-Aware Transition Pattern for POI Recommendation**,<br>
   J. Chen, **<font size=4>J. Guo<sup>#</sup></font>**, H. Wang, Z. Lai, Q. Zhang, K. Wu, L. Zhang,<br>
   *CAAI Transactions on Intelligence Technology* (**<font color="Crimson">TIT</font>**, IF=8.4/JCR-Q1, Accept), **2025**.
 
-- ![Static Badge](https://img.shields.io/badge/Data-8A2BE2) **-** [**A Multi-Modal Adversarial Method for Personalized Recommendation under Uncertain Missing Modalities**](),<br>
+- ![Static Badge](https://img.shields.io/badge/Data-8A2BE2) **-** **A Multi-Modal Adversarial Method for Personalized Recommendation under Uncertain Missing Modalities**,<br>
   J. Chen, R. Yang, **<font size=4>J. Guo</font>**, H. Wang, K. Wu, L. Zhang,<br>
   *IEEE Transactions on Services Computing* (**<font color="Crimson">TSC</font>**, IF=5.5/JCR-Q1, Accept), **2025**.
 

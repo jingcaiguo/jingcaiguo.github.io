@@ -465,7 +465,7 @@ I sincerely thank these sponsors for providing support for my research:<br>
 <img src="./images/waseda1.jpg" width = "200" />
 <img src="./images/huawei.png" width = "135" />
 <img src="./images/aws.png" width = "135" />
-<img src="./images/tencent.png" width = "230" />
+<img src="./images/tencent.png" width = "200" />
 <img src="./images/nvidia.png" width = "135" />
 <img src="./images/tinghsing.jpeg" width = "125" />  
 <div style="display:inline-block;width:5px;"><script type="text/javascript" src="//rf.revolvermaps.com/0/0/7.js?i=0hdmm10vwtf&amp;m=1&amp;c=ff0000&amp;cr1=ffffff&amp;sx=0&amp;ds=35" async="async"></script></div>

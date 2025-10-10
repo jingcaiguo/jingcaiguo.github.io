@@ -460,8 +460,8 @@ I sincerely thank these sponsors for providing support for my research:<br>
 
 <img src="./images/rgc2.png" width = "220" />
 <img src="./images/nsfc.jpeg" width = "270" />
-<img src="./images/ugc1.png" width = "330" />
-<img src="./images/polyu.jpg" width = "130" />
+<img src="./images/ugc1.png" width = "315" />
+<img src="./images/polyu.jpg" width = "120" />
 <img src="./images/waseda1.jpg" width = "200" />
 <img src="./images/huawei.png" width = "120" />
 <img src="./images/aws.png" width = "140" />

@@ -27,7 +27,7 @@ I am generally interested in ***<font color="Crimson">Efficient AI</font>***, wh
 👈👈 ***<font color="Crimson">Click for more information</font>***
 
 We are actively looking for self-motivated **PhD Students**, **Postdoctoral Researchers**, and **Research Assistants** to work and have fun together on multiple research projects. Drop me an email (<jc-jingcai.guo@polyu.edu.hk>) with your complete CV if you are interested. Candidates with strong programming and mathematics backgrounds are preferred. **Visiting Students/Researchers** (onsite/remote) are also welcome!
-
+<!--
 **I am fortunate to supervise and work together with these gifted students/staffs:**
 
 ## Current Members
@@ -35,7 +35,7 @@ We are actively looking for self-motivated **PhD Students**, **Postdoctoral Rese
 - <a href = "https://zjrao.github.io/">Zhijie Rao</a>, **Ph.D. Student** (2024/05-) / **Research Assistant** (2023/09-2024/05); \[last stop: Xiamen University\].
 - <a href = "https://cseeyangchen.github.io/">Yang Chen</a>, **Ph.D. Student** (2024/09-); \[last stop: University of Electronic Science and Technology of China\].
 - <a href = "https://tianqi-wang1.github.io/">Tianqi Wang</a>, **Research Assistant** (2024/09-); \[last stop: University College London (UK)\].
-
+-->
 <!--## Alumni
 - <a href = "https://mirrorigin.github.io/">Jingming Liang</a>, **Research Assistant** (2023/09-2024/03); \[last stop: HUST; next stop: Ph.D. Student, University of Iowa (USA)\]
 -->

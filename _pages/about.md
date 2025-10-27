@@ -52,14 +52,14 @@ We are actively looking for self-motivated **PhD Students**, **Postdoctoral Rese
 - *2022.01*: &nbsp; [**<font color="Crimson">Grant</font>**] One Young Scientists Fund has been granted by <a href="https://www.nsfc.gov.cn/">National Natural Science Foundation of China (NSFC)</a>; Gratefulness!
 
 <span class='anchor' id='grants'></span>
-# 💰 Grants
+# 💰 External Research Grants
 
 - **<font color="Crimson">[PI]:</font>** **RGC General Research Fund (GRF)**<br>
   Project title: *Harnessing Evolving Edge AI Systems with Synergidal Scalability Co-Design*<br>
   Funding source: Research Grants Council of Hong Kong, 2026-2028
 
-- **<font color="Crimson">[PI]:</font>** **PolyU Internal Research Fund**<br>
-  Funding source: PolyU Research Grant P0058468-PolyU (UGC), 2025-2028.
+<!-- - **<font color="Crimson">[PI]:</font>** **PolyU Internal Research Fund**<br>
+  Funding source: PolyU Research Grant P0058468-PolyU (UGC), 2025-2028.-->
 
 - **<font color="Crimson">[PI]:</font>** **Huawei Gifted Fund**<br>
   Project title: *Towards Edge-Native Deployment and Post-Training of Foundation/Large Models*<br>
@@ -77,16 +77,16 @@ We are actively looking for self-motivated **PhD Students**, **Postdoctoral Rese
   Project title: *Entity Anti-fraud Prediction Combining Zero-Shot Learning and Graph Neural Networks*<br>
   Funding source: The National Natural Science Foundation of China (NSFC), 2022-2024
 
-- **<font color="Crimson">[PI]:</font>** **PolyU Internal Research Fund**<br>
-  Funding source: PolyU Research Grant P0043932-PolyU (UGC), 2022-2024.
+<!-- - **<font color="Crimson">[PI]:</font>** **PolyU Internal Research Fund**<br>
+  Funding source: PolyU Research Grant P0043932-PolyU (UGC), 2022-2024.-->
 
-- **[Co-I]:** Projects of RISUD<br>
+<!-- - **[Co-I]:** Projects of RISUD<br>
   Project title: *A Bottom-up Integrated Strategy for Collecting Urban Functions and Land Use Details: Data-driven Perspective with Urban Geospatial Data in Hong Kong*<br>
-  Funding source: Research Institute for Sustainable Urban Development, 2022-2024.
+  Funding source: Research Institute for Sustainable Urban Development, 2022-2024.-->
 
-- **[Co-I]:** Projects of RISUD<br>
+<!-- - **[Co-I]:** Projects of RISUD<br>
   Project title: *Towards a Digital-twin System for Smart Mobility for People with Disabilities (PwDs) Using Multi-data Sensing and Big Data Analytics*<br>
-  Funding source: Research Institute for Sustainable Urban Development, 2021-2024.
+  Funding source: Research Institute for Sustainable Urban Development, 2021-2024.-->
 
 <span class='anchor' id='selected-publications'></span>
 # 📚 Selected Publications 

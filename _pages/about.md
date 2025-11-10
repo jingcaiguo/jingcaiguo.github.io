@@ -101,11 +101,13 @@ We are actively looking for self-motivated **PhD Students**, **Postdoctoral Rese
 
 ![Static Badge](https://img.shields.io/badge/APPs-DAA520) **-** **Derivative/Related** **<font color="Crimson">Applications</font>**
 
-***<font size=5>--2025--</font>***
+***<font size=5>--2026--</font>***
 
 ***
+
 - ![Static Badge](https://img.shields.io/badge/Data-8A2BE2) **-** ICM-Fusion: In-Context Meta-Optimized LoRA Fusion for Multi-Task Adaptation,<br>
-Y. Shao,  X. Lin,  X. Long,  S. Chen,  M. Yan,  Y. Liu,  Z. Yan,  A. Ma,  H. Tang,  **<font size=4>J. Guo<sup>#</sup></font>**,<br>
+<!--Y. Shao,  X. Lin,  X. Long,  S. Chen,  M. Yan,  Y. Liu,  Z. Yan,  A. Ma,  H. Tang,  **<font size=4>J. Guo<sup>#</sup></font>**,<br>-->
+Y. Shao,  X. Lin,  X. Long, ..., **<font size=4>J. Guo<sup>#</sup></font>**,<br>
 *AAAI Conference on Artificial Intelligence* (**<font color="Crimson">AAAI</font>**, CCF-A/Core-A*), 2026.
 
 - ![Static Badge](https://img.shields.io/badge/Capability-00FF7F) **-** TR-DQ: Time-Rotation Diffusion Quantization,<br>
@@ -116,6 +118,10 @@ Y. Shao,  D. Lin,  M. Yan,  S. Chen,  F. Zeng,  M. Liao,  A. Ma,  Z. Yan,
 D. Liu, H. So, H. Chen, J. Li, S. Wang, M. Wang, **<font size=4>J. Guo</font>**,<br>
 *AAAI Conference on Artificial Intelligence* (**<font color="Crimson">AAAI</font>**, CCF-A/Core-A*), 2026.
 
+
+***<font size=5>--2025--</font>***
+
+***
 
 - ![Static Badge](https://img.shields.io/badge/Data-8A2BE2) **-** Balancing Cross-Modal Attention for Generalized Zero-Shot Learning,<br>
   Z. Rao, **<font size=4>J. Guo<sup>#</sup></font>**, <br>

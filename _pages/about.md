@@ -30,6 +30,7 @@ We are actively looking for self-motivated **PhD Students**, **Postdoctoral Rese
 
 <span class='anchor' id='news'></span>
 # 🔥 News
+- *2025.11*: &nbsp; [Conference] Serve as Area Chair for <a href="https://icml.cc/Conferences/2026/CallForPapers">ICML 2026</a>.
 - *2025.11*: &nbsp; [**<font color="DarkCyan">Editorship</font>**] Serve as Associate Editor for <a href="https://www.sciencedirect.com/journal/pattern-recognition">Pattern Recognition</a>.
 - *2025.08*: &nbsp; [Conference] Serve as Area Chair for <a href="">ICLR 2026</a>.
 - *2025.07*: &nbsp; [Conference] Serve as Senior PC for <a href="">AAAI 2026</a>.
@@ -398,6 +399,7 @@ J. Zhang, S. Guo, X. Ma, W. Xu, Q. Zhou, **<font size=4>J. Guo</font>**, Z. Hong
 
 ##  Conference Service
 
+- **Area Chair:** The 43rd International Conference on Machine Learning (**ICML** 2026)
 - **Area Chair:** The 14th International Conference on Learning Representations (**ICLR** 2026)
 - **Senior PC:** The 40th Annual AAAI Conference on Artificial Intelligence (**AAAI** 2026)
 - **Area Chair:** The 39th Annual Conference on Neural Information Processing Systems (**NeurIPS** 2025)

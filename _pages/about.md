@@ -30,6 +30,7 @@ We are actively looking for self-motivated **PhD Students**, **Postdoctoral Rese
 
 <span class='anchor' id='news'></span>
 # 🔥 News
+- *2025.12*: &nbsp; [Conference] Serve as Area Chair for <a href="https://2026.ijcai.org/">IJCAI 2026</a>.
 - *2025.11*: &nbsp; [Conference] Serve as Area Chair for <a href="https://icml.cc/Conferences/2026/CallForPapers">ICML 2026</a>.
 - *2025.11*: &nbsp; [**<font color="DarkCyan">Editorship</font>**] Serve as Associate Editor for <a href="https://www.sciencedirect.com/journal/pattern-recognition">Pattern Recognition</a>.
 - *2025.08*: &nbsp; [Conference] Serve as Area Chair for <a href="">ICLR 2026</a>.

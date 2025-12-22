@@ -400,6 +400,7 @@ J. Zhang, S. Guo, X. Ma, W. Xu, Q. Zhou, **<font size=4>J. Guo</font>**, Z. Hong
 
 ##  Conference Service
 
+- **Area Chair:** The 35th International Joint Conference on Artificial Intelligence (**IJCAI** 2026)
 - **Area Chair:** The 43rd International Conference on Machine Learning (**ICML** 2026)
 - **Area Chair:** The 14th International Conference on Learning Representations (**ICLR** 2026)
 - **Senior PC:** The 40th Annual AAAI Conference on Artificial Intelligence (**AAAI** 2026)

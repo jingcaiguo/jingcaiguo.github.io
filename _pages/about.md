@@ -121,6 +121,10 @@ Y. Shao,  D. Lin,  M. Yan,  S. Chen,  F. Zeng,  M. Liao,  A. Ma,  Z. Yan,
 D. Liu, H. So, H. Chen, J. Li, S. Wang, M. Wang, **<font size=4>J. Guo</font>**,<br>
 *AAAI Conference on Artificial Intelligence* (**<font color="Crimson">AAAI</font>**), 2026.
 
+- ![Static Badge](https://img.shields.io/badge/APPs-DAA520) **-** STAR++: Region-aware Conditional Semantics via Interpretable Side Information for Zero-Shot Skeleton Action Recognition,<br>
+  Y. Chen, **<font size=4>J. Guo<sup>#</sup></font>**, M. Li, Z. Rao, S. Guo,<br>
+  *IEEE Transactions on Circuits and Systems for Video Technology* (**<font color="Crimson">TCSVT</font>**), 2026.
+
 
 ***<font size=5>--2025--</font>***
 

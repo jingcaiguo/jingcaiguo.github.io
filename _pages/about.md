@@ -109,6 +109,14 @@ We are actively looking for self-motivated **PhD Students**, **Postdoctoral Rese
 
 ***
 
+- ![Static Badge](https://img.shields.io/badge/Capability-00FF7F) **-** D&R: Recovery-based AI-Generated Text Detection via a Single Black-box LLM Call,<br>
+Y. Sun, R. Zhang, A. Sun, X. Li, Z. Liu, **<font size=4>J. Guo<sup>#</sup></font>**,<br>
+*International Conference on Learning Representations* (**<font color="Crimson">ICLR</font>**), 2026.
+
+- ![Static Badge](https://img.shields.io/badge/Capability-00FF7F) **-** Nüwa: Mending the Spatial Integrity Torn by VLM Token Pruning,<br>
+Y. Huang, F. Ma, Y. Shao, **<font size=4>J. Guo</font>**, Z. Yu, L. Cui, Q. Tian,<br>
+*International Conference on Learning Representations* (**<font color="Crimson">ICLR</font>**), 2026.
+
 - ![Static Badge](https://img.shields.io/badge/Data-8A2BE2) **-** ICM-Fusion: In-Context Meta-Optimized LoRA Fusion for Multi-Task Adaptation,<br>
 <!--Y. Shao,  X. Lin,  X. Long,  S. Chen,  M. Yan,  Y. Liu,  Z. Yan,  A. Ma,  H. Tang,  **<font size=4>J. Guo<sup>#</sup></font>**,<br>-->
 Y. Shao,  X. Lin,  X. Long, ..., **<font size=4>J. Guo<sup>#</sup></font>**,<br>

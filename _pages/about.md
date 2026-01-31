@@ -118,7 +118,7 @@ Y. Huang, F. Ma, Y. Shao, **<font size=4>J. Guo</font>**, Z. Yu, L. Cui, Q. Tian
 *International Conference on Learning Representations* (**<font color="Crimson">ICLR</font>**), 2026.
 
 - ![Static Badge](https://img.shields.io/badge/Data-8A2BE2) **-** ICM-Fusion: In-Context Meta-Optimized LoRA Fusion for Multi-Task Adaptation,<br>
-<!--Y. Shao,  X. Lin,  X. Long,  S. Chen,  M. Yan,  Y. Liu,  Z. Yan,  A. Ma,  H. Tang,  **<font size=4>J. Guo<sup>#</sup></font>**,<br>-->
+<!--Y. Shao, X. Lin, X. Long, S. Chen, M. Yan, Y. Liu, Z. Yan, A. Ma, H. Tang, **<font size=4>J. Guo<sup>#</sup></font>**,<br>-->
 Y. Shao,  X. Lin,  X. Long, ..., **<font size=4>J. Guo<sup>#</sup></font>**,<br>
 *AAAI Conference on Artificial Intelligence* (**<font color="Crimson">AAAI</font>**), 2026.
 

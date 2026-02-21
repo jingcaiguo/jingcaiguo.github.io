@@ -110,6 +110,18 @@ We are actively looking for self-motivated **PhD Students**, **Postdoctoral Rese
 
 ***
 
+- ![Static Badge](https://img.shields.io/badge/Capability-00FF7F) **-** SG-LoRA: Semantic-guided LoRA Parameters Generation,<br>
+M. Li, Y. Chen, Z. Rao, C. Jiang, K. Wei, **<font size=4>J. Guo<sup>#</sup></font>**,<br>
+*IEEE/CVF Conference on Computer Vision and Pattern Recognition* (**<font color="Crimson">CVPR</font>**), 2026.
+
+- ![Static Badge](https://img.shields.io/badge/Capability-00FF7F) **-** STiTch: Semantic Transition and Transportation in Collaboration for Training-Free Zero-Shot Composed Image Retrieval,<br>
+M. Li, D. Wang, Z. Sun, J. Zhang, W. Luo, **<font size=4>J. Guo<sup>#</sup></font>**,<br>
+*IEEE/CVF Conference on Computer Vision and Pattern Recognition* (**<font color="Crimson">CVPR</font>**), 2026.
+
+- ![Static Badge](https://img.shields.io/badge/Capability-00FF7F) **-** FlowSteer: Guiding Few-Step Image Synthesis with Authentic Trajectories,<br>
+L. Ke, H. Yin, G. Liu, Z. Lv, **<font size=4>J. Guo</font>**, C. Li, W. Luo, Y. Yang,<br>
+*IEEE/CVF Conference on Computer Vision and Pattern Recognition* (**<font color="Crimson">CVPR</font>**), 2026.
+
 - ![Static Badge](https://img.shields.io/badge/Capability-00FF7F) **-** D&R: Recovery-based AI-Generated Text Detection via a Single Black-box LLM Call,<br>
 Y. Sun, R. Zhang, A. Sun, X. Li, Z. Liu, **<font size=4>J. Guo<sup>#</sup></font>**,<br>
 *International Conference on Learning Representations* (**<font color="Crimson">ICLR</font>**), 2026.

@@ -114,7 +114,7 @@ We are actively looking for self-motivated **PhD Students**, **Postdoctoral Rese
 M. Li, Y. Chen, Z. Rao, C. Jiang, K. Wei, **<font size=4>J. Guo<sup>#</sup></font>**,<br>
 *IEEE/CVF Conference on Computer Vision and Pattern Recognition* (**<font color="Crimson">CVPR</font>**), 2026.
 
-- ![Static Badge](https://img.shields.io/badge/Capability-00FF7F) **-** STiTch: Semantic Transition and Transportation in Collaboration for Training-Free Zero-Shot Composed Image Retrieval,<br>
+- ![Static Badge](https://img.shields.io/badge/Data-8A2BE2) **-** STiTch: Semantic Transition and Transportation in Collaboration for Training-Free Zero-Shot Composed Image Retrieval,<br>
 M. Li, D. Wang, Z. Sun, J. Zhang, W. Luo, **<font size=4>J. Guo<sup>#</sup></font>**,<br>
 *IEEE/CVF Conference on Computer Vision and Pattern Recognition* (**<font color="Crimson">CVPR</font>**), 2026.
 

@@ -130,6 +130,10 @@ Y. Chen, M. Li, Z. Rao, D. Zeng, S. Guo, **<font size=4>J. Guo<sup>#</sup></font
 W. Wang, **<font size=4>J. Guo</font>**, Y. Cai, Z. Chen,<br>
 *Findings of IEEE/CVF Conference on Computer Vision and Pattern Recognition* (**<font color="Crimson">CVPR</font>**), 2026.
 
+- ![Static Badge](https://img.shields.io/badge/Capability-00FF7F) **-** UNICON: A Unified Reconfigurable Nonlinear Architecture for Efficient Neural Network Inference,<br>
+X. Zou, C. Chen, Q. Wang, Z. Liu, H. Zhuang, **<font size=4>J. Guo</font>**,<br>
+*Proceedings of Design Automation Conference* (**<font color="Crimson">DAC</font>**), 2026.
+
 - ![Static Badge](https://img.shields.io/badge/Capability-00FF7F) **-** D&R: Recovery-based AI-Generated Text Detection via a Single Black-box LLM Call,<br>
 Y. Sun, R. Zhang, A. Sun, X. Li, Z. Liu, **<font size=4>J. Guo<sup>#</sup></font>**,<br>
 *Proceedings of International Conference on Learning Representations* (**<font color="Crimson">ICLR</font>**), 2026.

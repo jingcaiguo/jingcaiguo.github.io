@@ -30,6 +30,7 @@ We are actively looking for self-motivated **PhD Students**, **Postdoctoral Rese
 
 <span class='anchor' id='news'></span>
 # 🔥 News
+- *2026.02*: &nbsp; [Conference] Serve as Area Chair for <a href="https://2026.acmmm.org/">ACM-MM 2026</a>.
 - *2026.02*: &nbsp; [**<font color="DarkCyan">Editorship</font>**] Serve as Action Editor for <a href="https://jmlr.org/tmlr/editorial-board.html">Transactions on Machine Learning Research (TMLR)</a>.
 - *2026.01*: &nbsp; [**<font color="DarkCyan">Editorship</font>**] Serve as Executive Editor-in-Chief for <a href="https://www.sciltp.com/journals/eis/editorial-board">Edge Intelligence and Systems</a>.
 - *2025.12*: &nbsp; [Conference] Serve as Area Chair for <a href="https://2026.ijcai.org/">IJCAI 2026</a>.
@@ -438,14 +439,15 @@ J. Zhang, S. Guo, X. Ma, W. Xu, Q. Zhou, **<font size=4>J. Guo</font>**, Z. Hong
 
 ##  Conference Service
 
-- **Area Chair:** The 35th International Joint Conference on Artificial Intelligence (**IJCAI** 2026)
 - **Area Chair:** The 43rd International Conference on Machine Learning (**ICML** 2026)
 - **Area Chair:** The 14th International Conference on Learning Representations (**ICLR** 2026)
+- **Area Chair:** The 34th ACM International Conference on Multimedia (**ACM-MM** 2026)
+- **Area Chair:** The 35th International Joint Conference on Artificial Intelligence (**IJCAI** 2026)
 - **Senior PC:** The 40th Annual AAAI Conference on Artificial Intelligence (**AAAI** 2026)
 - **Area Chair:** The 39th Annual Conference on Neural Information Processing Systems (**NeurIPS** 2025)
 - **Area Chair:** The 33rd ACM International Conference on Multimedia (**ACM-MM** 2025)
 - **Senior PC:** The 34th International Joint Conference on Artificial Intelligence (**IJCAI** 2025)
-- **Area Chair:** The 42st International Conference on Machine Learning (**ICML** 2025)
+- **Area Chair:** The 42nd International Conference on Machine Learning (**ICML** 2025)
 - **Senior PC:** The 39th Annual AAAI Conference on Artificial Intelligence (**AAAI** 2025)
 - **Session Chair:** The 33rd International Joint Conference on Artificial Intelligence (**IJCAI** 2024)
 - **Track Chair (TPC Vice-Chair):** The 100th IEEE Vehicular Technology Conference (**VTC** 2024 Fall)
@@ -453,7 +455,7 @@ J. Zhang, S. Guo, X. Ma, W. Xu, Q. Zhou, **<font size=4>J. Guo</font>**, Z. Hong
 - **Area Chair:** The 32nd ACM International Conference on Multimedia (**ACM-MM** 2024)
 - **Session Chair:** The 98th IEEE Vehicular Technology Conference (**VTC** 2023 Fall)
 - **Publicity Chair:** The 41st IEEE International Symposium on Reliable Distributed Systems (**SRDS** 2022)
-- **Session Chair:** The 23th IEEE International Conference on Multimedia and Expo (**ICME** 2022)
+- **Session Chair:** The 23rd IEEE International Conference on Multimedia and Expo (**ICME** 2022)
 
 ##  Journal Editorship
 

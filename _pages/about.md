@@ -30,7 +30,7 @@ We are actively looking for self-motivated **PhD Students**, **Postdoctoral Rese
 
 <span class='anchor' id='news'></span>
 # 🔥 News
-- *2026.03*: &nbsp; [Conference] Serve as Area Chair for <a href="https://neurips.cc/Conferences/2026">NeurIPS 2026</a>.
+<!-- - *2026.03*: &nbsp; [Conference] Serve as Area Chair for <a href="https://neurips.cc/Conferences/2026">NeurIPS 2026</a>.-->
 - *2026.02*: &nbsp; [Conference] Serve as Area Chair for <a href="https://2026.acmmm.org/">ACM-MM 2026</a>.
 - *2026.02*: &nbsp; [**<font color="DarkCyan">Editorship</font>**] Serve as Action Editor for <a href="https://jmlr.org/tmlr/editorial-board.html">Transactions on Machine Learning Research (TMLR)</a>.
 - *2026.01*: &nbsp; [**<font color="DarkCyan">Editorship</font>**] Serve as Executive Editor-in-Chief for <a href="https://www.sciltp.com/journals/eis/editorial-board">Edge Intelligence and Systems</a>.
@@ -68,7 +68,7 @@ We are actively looking for self-motivated **PhD Students**, **Postdoctoral Rese
 <!-- - **<font color="Crimson">[PI]:</font>** **PolyU Internal Research Fund**<br>
   Funding source: PolyU Research Grant P0058468-PolyU (UGC), 2025-2028.-->
 
-- **<font color="Crimson">[PI]:</font>** **Huawei Gifted Fund**<br>
+- **<font color="Crimson">[PI]:</font>** **Gifted Fund**<br>
   Project title: *Towards Edge-Native Deployment and Post-Training of Foundation/Large Models*<br>
   Funding source: Huawei Technologies Co., Ltd., 2025-2028
 

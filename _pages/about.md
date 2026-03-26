@@ -440,7 +440,7 @@ J. Zhang, S. Guo, X. Ma, W. Xu, Q. Zhou, **<font size=4>J. Guo</font>**, Z. Hong
 
 ##  Conference Service
 
-- **Area Chair:** The 40th Annual Conference on Neural Information Processing Systems (**NeurIPS** 2026)
+<!-- - **Area Chair:** The 40th Annual Conference on Neural Information Processing Systems (**NeurIPS** 2026) -->
 - **Area Chair:** The 43rd International Conference on Machine Learning (**ICML** 2026)
 - **Area Chair:** The 14th International Conference on Learning Representations (**ICLR** 2026)
 - **Area Chair:** The 34th ACM International Conference on Multimedia (**ACM-MM** 2026)

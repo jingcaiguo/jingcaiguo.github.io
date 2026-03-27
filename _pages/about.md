@@ -68,9 +68,9 @@ We are actively looking for self-motivated **PhD Students**, **Postdoctoral Rese
 <!-- - **<font color="Crimson">[PI]:</font>** **PolyU Internal Research Fund**<br>
   Funding source: PolyU Research Grant P0058468-PolyU (UGC), 2025-2028.-->
 
-- **<font color="Crimson">[PI]:</font>** **Gifted Fund**<br>
+- **<font color="Crimson">[PI]:</font>** **Industrial Gifted Fund**<br>
   Project title: *Towards Edge-Native Deployment and Post-Training of Foundation/Large Models*<br>
-  Funding source: Huawei Technologies Co., Ltd., 2025-2028
+  Funding source: Donation from the Industry, 2025-2028
 
 - **<font color="Crimson">[PI]:</font>** **RGC General Research Fund (GRF)**<br>
   Project title: *Advancing Robustness and Generalization in Edge AI Systems via Multi-view Representation-aware Model Refactoring*<br>
@@ -515,8 +515,8 @@ J. Zhang, S. Guo, X. Ma, W. Xu, Q. Zhou, **<font size=4>J. Guo</font>**, Z. Hong
 
 I sincerely thank these sponsors for providing support for my research:<br>
 
-<img src="./images/rgc2.png" width = "220" />
-<img src="./images/nsfc.jpeg" width = "270" />
+ src="./images/rgc2.png" width = "220" />
+ src="./images/nsfc.jpeg" width = "270" />
 <img src="./images/ugc1.png" width = "315" />
 <img src="./images/polyu.jpg" width = "120" />
 <img src="./images/waseda1.jpg" width = "200" />

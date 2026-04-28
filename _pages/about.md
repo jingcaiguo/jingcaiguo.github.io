@@ -510,6 +510,9 @@ J. Zhang, S. Guo, X. Ma, W. Xu, Q. Zhou, **<font size=4>J. Guo</font>**, Z. Hong
 - **VTC2023-Fall Volunteer Service Award** (2023), <br>
   Awarding body: The IEEE Vehicular Technology Society
 
+- **Excellent Author Program** (2025), <br>
+  Awarding body: Wiley & Institution of Engineering and Technology
+
 <span class='anchor' id='sponsors'></span>
 # 💗 Sponsors
 

@@ -132,6 +132,39 @@ Y. Chen, M. Li, Z. Rao, D. Zeng, S. Guo, **<font size=4>J. Guo<sup>#</sup></font
 W. Wang, **<font size=4>J. Guo</font>**, Y. Cai, Z. Chen,<br>
 *Proceedings of IEEE/CVF Conference on Computer Vision and Pattern Recognition* (**<font color="Crimson">CVPR Findings</font>**), 2026.
 
+- ![Static Badge](https://img.shields.io/badge/Data-8A2BE2) **-** MLDA: Test-Time Multi-Level Adaptation with Dynamic Alignment for Compositional Zero-Shot Learning,<br>
+M. Li, Y. Liu, **<font size=4>J. Guo<sup>#</sup></font>**,<br>
+*Proceedings of International Joint Conference on Artificial Intelligence* (**<font color="Crimson">IJCAI</font>**), 2026.
+
+- ![Static Badge](https://img.shields.io/badge/APPs-DAA520) **-** Information Entropy for LLM-Generated Text Detection,<br>
+X. Yi, H. Wang, **<font size=4>J. Guo<sup>#</sup></font>**,<br>
+*Proceedings of International Joint Conference on Artificial Intelligence* (**<font color="Crimson">IJCAI</font>**), 2026.
+
+- ![Static Badge](https://img.shields.io/badge/Data-8A2BE2) **-** PMCE: Probabilistic Multi-Granularity Semantics with Caption-Guided Enhancement for Few-Shot Learning,<br>
+J. Wu, C. Gao, J. Hu, H. Li, X. Cao, **<font size=4>J. Guo<sup>#</sup></font>**,<br>
+*Proceedings of International Joint Conference on Artificial Intelligence* (**<font color="Crimson">IJCAI</font>**), 2026.
+
+- ![Static Badge](https://img.shields.io/badge/Capability-00FF7F) **-** Gradient Enhancement Task Aware Post-training Quantization,<br>
+Y. Shao, Y. Gu, M. Yan, S. Chen, H. Liu, Z. Yan, Y. Li, Y. Wang, Q. Song, H. Tang, H. Qin, **<font size=4>J. Guo<sup>#</sup></font>**, N. Sebe,<br>
+*Proceedings of International Joint Conference on Artificial Intelligence* (**<font color="Crimson">IJCAI</font>**), 2026.
+
+- ![Static Badge](https://img.shields.io/badge/Capability-00FF7F) **-** Cross Domain Test Time Scaling: Scale knowledge and reasoning on cross domains,<br>
+M. Yan, Y. Shao, Y. Pan, S. Chen, H. Pei, H. Tang, F. Ma, **<font size=4>J. Guo<sup>#</sup></font>**, N. Sebe,<br>
+*Proceedings of International Joint Conference on Artificial Intelligence* (**<font color="Crimson">IJCAI</font>**), 2026. 
+
+- ![Static Badge](https://img.shields.io/badge/Data-8A2BE2) **-** MLDA: Test-Time Multi-Level Adaptation with Dynamic Alignment for Compositional Zero-Shot Learning,<br>
+M. Li, Y. Liu, **<font size=4>J. Guo<sup>#</sup></font>**,<br>
+*Proceedings of International Joint Conference on Artificial Intelligence* (**<font color="Crimson">IJCAI</font>**), 2026.
+
+- ![Static Badge](https://img.shields.io/badge/Capability-00FF7F) **-** Spik4lite: Refactoring Neuromorphic Sparsity for Efficient Spiking Neural Networks on Commodity Edge Devices,<br>
+Y. She, Q. Zhou, Y. Wang, Y. Huang, **<font size=4>J. Guo</font>**, L. Cui,<br>
+*Proceedings of International Conference on Machine Learning* (**<font color="Crimson">ICML</font>**), 2026.
+
+- ![Static Badge](https://img.shields.io/badge/Capability-00FF7F) **-** What You Think is What You See: Driving Exploration in VLM Agents via Visual-Linguistic Curiosity,<br>
+H. Li, Q. Hou, J. Ma, J. Lai, T. Han, S. Bai, **<font size=4>J. Guo</font>**, J. Zhang, S. Guo,<br>
+*Proceedings of International Conference on Machine Learning* (**<font color="Crimson">ICML</font>**), 2026.
+
+
 - ![Static Badge](https://img.shields.io/badge/Capability-00FF7F) **-** UNICON: A Unified Reconfigurable Nonlinear Architecture for Efficient Neural Network Inference,<br>
 X. Zou, C. Chen, Q. Wang, Z. Liu, H. Zhuang, **<font size=4>J. Guo</font>**,<br>
 *Proceedings of Design Automation Conference* (**<font color="Crimson">DAC</font>**), 2026.

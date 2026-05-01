@@ -363,7 +363,7 @@ J. Zhang, S. Guo, X. Ma, W. Xu, Q. Zhou, **<font size=4>J. Guo</font>**, Z. Hong
   F. Huo, W. Xu, **<font size=4>J. Guo</font>**, H. Wang, Song Guo,<br>
   *Proceedings of IEEE/CVF Conference on Computer Vision and Pattern Recognition* (**<font color="Crimson">CVPR</font>**), 2024.
 
-***<font size=5>--2022 and Before--</font>***
+***<font size=5>--2023 and Earlier--</font>***
 
 ***
 

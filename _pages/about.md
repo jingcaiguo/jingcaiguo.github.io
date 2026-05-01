@@ -189,6 +189,10 @@ D. Liu, H. So, H. Chen, J. Li, S. Wang, M. Wang, **<font size=4>J. Guo</font>**,
 Y. Chen, **<font size=4>J. Guo<sup>#</sup></font>**, M. Li, Z. Rao, S. Guo,<br>
 *IEEE Transactions on Circuits and Systems for Video Technology* (**<font color="Crimson">TCSVT</font>**), 2026.
 
+- ![Static Badge](https://img.shields.io/badge/APPs-DAA520) **-** KG-Augmented Executable CoT for Mathematical Coding,<br>
+X. Chen, J. An, J. Guo, L. Wang, **<font size=4>J. Guo</font>**,<br>
+*Neural Networks* (**<font color="Crimson">NN</font>**), 2026.
+
 
 ***<font size=5>--2025--</font>***
 

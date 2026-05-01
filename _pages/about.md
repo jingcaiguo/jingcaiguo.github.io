@@ -371,12 +371,12 @@ J. Zhang, S. Guo, X. Ma, W. Xu, Q. Zhou, **<font size=4>J. Guo</font>**, Z. Hong
   **<font size=4>J. Guo</font>**, S. Guo, Q. Zhou, Z. Liu, X. Lu, F. Huo,<br>
   *Proceedings of AAAI Conference on Artificial Intelligence* (**<font color="Crimson">AAAI</font>**), 2023.
 
-- ![Static Badge](https://img.shields.io/badge/Data-8A2BE2) **-** (ML)$^2$P-Encoder: On Exploration of Channel-Class Correlation for Multi-Label Zero-Shot Learning,<br>
-  Z. Liu, S. Guo, X. Lu, **<font size=4>J. Guo<sup>#</sup></font>**, J. Zhang, Y. Zeng, F. Huo,<br>
-  *Proceedings of IEEE/CVF Conference on Computer Vision and Pattern Recognition* (**<font color="Crimson">CVPR</font>**), 2023.
-
 - ![Static Badge](https://img.shields.io/badge/Data-8A2BE2) **-** Decomposed Soft Prompt Guided Fusion Enhancing for Compositional Zero-Shot Learning,<br>
   X. Lu, S. Guo, Z. Liu, **<font size=4>J. Guo<sup>#</sup></font>**,<br>
+  *Proceedings of IEEE/CVF Conference on Computer Vision and Pattern Recognition* (**<font color="Crimson">CVPR</font>**), 2023.
+
+- ![Static Badge](https://img.shields.io/badge/Data-8A2BE2) **-** (ML)$^2$P-Encoder: On Exploration of Channel-Class Correlation for Multi-Label Zero-Shot Learning,<br>
+  Z. Liu, S. Guo, X. Lu, **<font size=4>J. Guo<sup>#</sup></font>**, J. Zhang, Y. Zeng, F. Huo,<br>
   *Proceedings of IEEE/CVF Conference on Computer Vision and Pattern Recognition* (**<font color="Crimson">CVPR</font>**), 2023.
 
 - ![Static Badge](https://img.shields.io/badge/Capability-00FF7F) **-** Towards Data-Independent Knowledge Transfer in Model-Heterogeneous Federated Learning,<br>

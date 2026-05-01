@@ -363,7 +363,7 @@ J. Zhang, S. Guo, X. Ma, W. Xu, Q. Zhou, **<font size=4>J. Guo</font>**, Z. Hong
   F. Huo, W. Xu, **<font size=4>J. Guo</font>**, H. Wang, Song Guo,<br>
   *Proceedings of IEEE/CVF Conference on Computer Vision and Pattern Recognition* (**<font color="Crimson">CVPR</font>**), 2024.
 
-***<font size=5>--2023--</font>***
+***<font size=5>--2022 and Before--</font>***
 
 ***
 
@@ -398,10 +398,6 @@ J. Zhang, S. Guo, X. Ma, W. Xu, Q. Zhou, **<font size=4>J. Guo</font>**, Z. Hong
 - ![Static Badge](https://img.shields.io/badge/Capability-00FF7F) **-** Towards Fairer and More Efficient Federated Learning via Multidimensional Personalized Edge Models,<br>
   Y. Wang, **<font size=4>J. Guo</font>**, J. Zhang, S. Guo, W. Zhang, Q. Zheng,<br>
   *Proceedings of International Joint Conference on Neural Networks* (**<font color="Crimson">IJCNN</font>**), 2023.
-
-***<font size=5>--2022 and Before--</font>***
-
-***
 
 - ![Static Badge](https://img.shields.io/badge/Capability-00FF7F) **-** Personalized Federated Learning with Contextualized Generalization,<br>
   X. Tang, S. Guo, **<font size=4>J. Guo<sup>#</sup></font>**,<br>

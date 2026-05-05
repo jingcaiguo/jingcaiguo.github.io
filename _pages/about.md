@@ -158,7 +158,8 @@ Y. She, Q. Zhou, Y. Wang, Y. Huang, **<font size=4>J. Guo</font>**, L. Cui,<br>
 
 - ![Static Badge](https://img.shields.io/badge/Capability-00FF7F) **-** What You Think is What You See: Driving Exploration in VLM Agents via Visual-Linguistic Curiosity,<br>
 H. Li, Q. Hou, J. Ma, J. Lai, T. Han, S. Bai, **<font size=4>J. Guo</font>**, J. Zhang, S. Guo,<br>
-*Proceedings of International Conference on Machine Learning* (**<font color="Crimson">ICML</font>**), 2026.
+*Proceedings of International Conference on Machine Learning* (**<font color="Crimson">ICML</font>**), 2026; <font color="Crimson">spotlight</font>, acceptance rate ~= 2.2%.
+
 
 - ![Static Badge](https://img.shields.io/badge/Capability-00FF7F) **-** UNICON: A Unified Reconfigurable Nonlinear Architecture for Efficient Neural Network Inference,<br>
 X. Zou, C. Chen, Q. Wang, Z. Liu, H. Zhuang, **<font size=4>J. Guo</font>**,<br>
@@ -277,11 +278,11 @@ X. Chen, J. An, J. Guo, L. Wang, **<font size=4>J. Guo</font>**,<br>
 
 - ![Static Badge](https://img.shields.io/badge/Data-8A2BE2) **-** ParsNets: A Parsimonious Composition of Orthogonal and Low-Rank Linear Networks for Zero-Shot Learning,<br>
   **<font size=4>J. Guo<sup>#</sup></font>**, Q. Zhou, X. Lu, R. Li, Z. Liu, J. Zhang, B. Han, J. Chen, X. Xie, S. Guo,<br>
-  *Proceedings of International Joint Conference on Artificial Intelligence* (**<font color="Crimson">IJCAI</font>**), 2024; <font color="Crimson">long oral</font>, acceptance rate ~= 2.3% (128/5651).
+  *Proceedings of International Joint Conference on Artificial Intelligence* (**<font color="Crimson">IJCAI</font>**), 2024; <font color="Crimson">long oral</font>, acceptance rate ~= 2.3%.
 
 - ![Static Badge](https://img.shields.io/badge/Data-8A2BE2) **-** Dual Expert Distillation Network for Generalized Zero-Shot Learning,<br>
   Z. Rao, **<font size=4>J. Guo<sup>#</sup></font>**, X. Lu, J. Liang, J. Zhang, H. Wang, K. Wei, X. Cao,<br>
-  *Proceedings of International Joint Conference on Artificial Intelligence* (**<font color="Crimson">IJCAI</font>**), 2024; <font color="Crimson">long oral</font>, acceptance rate ~= 2.3% (128/5651).
+  *Proceedings of International Joint Conference on Artificial Intelligence* (**<font color="Crimson">IJCAI</font>**), 2024; <font color="Crimson">long oral</font>, acceptance rate ~= 2.3%.
 
 - ![Static Badge](https://img.shields.io/badge/Data-8A2BE2) **-** Fine-Grained Side Information Guided Dual-Prompts for Zero-Shot Skeleton Action Recognition,<br>
   Y. Chen, **<font size=4>J. Guo<sup>#</sup></font>**, T. He, X. Lu, L. Wang,<br>

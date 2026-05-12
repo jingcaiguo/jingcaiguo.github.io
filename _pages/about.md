@@ -58,45 +58,6 @@ We are actively looking for self-motivated **PhD Students**, **Postdoctoral Rese
 - *2022.09*: &nbsp; [**<font color="BlueViolet">Organization</font>**] Happy to join the Organization Committee of <a href="https://www.dedisys.org/srds22/committee/organization.html">SRDS 2022</a>, as Publicity Chair.
 - *2022.01*: &nbsp; [**<font color="Crimson">Grant</font>**] One Young Scientists Fund has been granted by <a href="https://www.nsfc.gov.cn/">National Natural Science Foundation of China (NSFC)</a>; Gratefulness!
 
-<!-- 
-<span class='anchor' id='grants'></span>
-# 💰 External Research Grants
-
-- **<font color="Crimson">[PI]:</font>** **RGC General Research Fund (GRF)**<br>
-  Project title: *Harnessing Evolving Edge AI Systems with Synergidal Scalability Co-Design*<br>
-  Funding source: Research Grants Council of Hong Kong, 2026-2028
-
-<!-- - **<font color="Crimson">[PI]:</font>** **PolyU Internal Research Fund**<br>
-  Funding source: PolyU Research Grant P0058468-PolyU (UGC), 2025-2028.-->
-
-- **<font color="Crimson">[PI]:</font>** **Industrial Gifted Fund**<br>
-  Project title: *Towards Edge-Native Deployment and Post-Training of Foundation/Large Models*<br>
-  Funding source: Donation from the Industry, 2025-2028
-
-- **<font color="Crimson">[PI]:</font>** **RGC General Research Fund (GRF)**<br>
-  Project title: *Advancing Robustness and Generalization in Edge AI Systems via Multi-view Representation-aware Model Refactoring*<br>
-  Funding source: Research Grants Council of Hong Kong, 2025-2027
-  
-- **<font color="Crimson">[PI]:</font>** **RGC General Research Fund (GRF)**<br>
-  Project title: *Empowering TinyML with Low-shot Learning for Edge AI Systems*<br>
-  Funding source: Research Grants Council of Hong Kong, 2024-2026
-  
-- **<font color="Crimson">[PI]:</font>** **Young Scientists Fund (NSFC)**<br>
-  Project title: *Entity Anti-fraud Prediction Combining Zero-Shot Learning and Graph Neural Networks*<br>
-  Funding source: The National Natural Science Foundation of China (NSFC), 2022-2024
-
-<!-- - **<font color="Crimson">[PI]:</font>** **PolyU Internal Research Fund**<br>
-  Funding source: PolyU Research Grant P0043932-PolyU (UGC), 2022-2024.-->
-
-<!-- - **[Co-I]:** Projects of RISUD<br>
-  Project title: *A Bottom-up Integrated Strategy for Collecting Urban Functions and Land Use Details: Data-driven Perspective with Urban Geospatial Data in Hong Kong*<br>
-  Funding source: Research Institute for Sustainable Urban Development, 2022-2024.-->
-
-<!-- - **[Co-I]:** Projects of RISUD<br>
-  Project title: *Towards a Digital-twin System for Smart Mobility for People with Disabilities (PwDs) Using Multi-data Sensing and Big Data Analytics*<br>
-  Funding source: Research Institute for Sustainable Urban Development, 2021-2024.-->
--->
-
 <span class='anchor' id='selected-publications'></span>
 # 📚 Selected Publications 
 

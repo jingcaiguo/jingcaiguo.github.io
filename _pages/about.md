@@ -58,6 +58,7 @@ We are actively looking for self-motivated **PhD Students**, **Postdoctoral Rese
 - *2022.09*: &nbsp; [**<font color="BlueViolet">Organization</font>**] Happy to join the Organization Committee of <a href="https://www.dedisys.org/srds22/committee/organization.html">SRDS 2022</a>, as Publicity Chair.
 - *2022.01*: &nbsp; [**<font color="Crimson">Grant</font>**] One Young Scientists Fund has been granted by <a href="https://www.nsfc.gov.cn/">National Natural Science Foundation of China (NSFC)</a>; Gratefulness!
 
+<!-- 
 <span class='anchor' id='grants'></span>
 # 💰 External Research Grants
 
@@ -94,6 +95,7 @@ We are actively looking for self-motivated **PhD Students**, **Postdoctoral Rese
 <!-- - **[Co-I]:** Projects of RISUD<br>
   Project title: *Towards a Digital-twin System for Smart Mobility for People with Disabilities (PwDs) Using Multi-data Sensing and Big Data Analytics*<br>
   Funding source: Research Institute for Sustainable Urban Development, 2021-2024.-->
+-->
 
 <span class='anchor' id='selected-publications'></span>
 # 📚 Selected Publications 

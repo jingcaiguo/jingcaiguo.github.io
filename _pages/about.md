@@ -510,8 +510,8 @@ J. Zhang, S. Guo, X. Ma, W. Xu, Q. Zhou, **<font size=4>J. Guo</font>**, Z. Hong
 
 I sincerely thank these sponsors for providing support for my research:<br>
 
- src="./images/rgc2.png" width = "220" />
- src="./images/nsfc.jpeg" width = "270" />
+<img src="./images/rgc2.png" width = "220" />
+<img src="./images/nsfc.jpeg" width = "270" />
 <img src="./images/ugc1.png" width = "315" />
 <img src="./images/polyu.jpg" width = "120" />
 <img src="./images/waseda1.jpg" width = "200" />

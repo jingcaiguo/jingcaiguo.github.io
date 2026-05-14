@@ -417,9 +417,11 @@ J. Zhang, S. Guo, X. Ma, W. Xu, Q. Zhou, **<font size=4>J. Guo</font>**, Z. Hong
 <span class='anchor' id='teachings'></span>
 # 🧑🏻‍🏫 Teachings
 ##  As Instructor
-- Internet Infrastructure and Protocols ([Syllabus](https://www.polyu.edu.hk/comp/docdrive/tpg/subject/COMP5311.pdf)), PolyU, Spring 2025.
-- Internet Infrastructure and Protocols ([Syllabus](https://www.polyu.edu.hk/comp/docdrive/tpg/subject/COMP5311.pdf)), PolyU, Spring 2024.
-- Data Structures and Database Systems ([Syllabus](https://www.polyu.edu.hk/comp/docdrive/tpg/subject/COMP5112.pdf)), PolyU, Spring 2023.
+- Geomatics Algorithms and Programming ([Syllabus](https://www.polyu.edu.hk/lsgi/-/media/department/lsgi/content/study/lsgi-subject-pdf/level-3/lsgi3230a_jul-2025.pdf?rev=ee992d7722f14b348425fac7479182ac&hash=316A4C282500579AFB64127647D786D5)), Spring 2026.
+- Internet Infrastructure and Protocols ([Syllabus](https://www.polyu.edu.hk/comp/docdrive/tpg/subject/COMP5311.pdf)), Spring 2026.
+- Internet Infrastructure and Protocols ([Syllabus](https://www.polyu.edu.hk/comp/docdrive/tpg/subject/COMP5311.pdf)), Spring 2025.
+- Internet Infrastructure and Protocols ([Syllabus](https://www.polyu.edu.hk/comp/docdrive/tpg/subject/COMP5311.pdf)), Spring 2024.
+- Data Structures and Database Systems ([Syllabus](https://www.polyu.edu.hk/comp/docdrive/tpg/subject/COMP5112.pdf)), Spring 2023.
 
 ##  As Teaching Assistant
 - B2B&B2C E-commerce and Management, PolyU, Spring 2019.

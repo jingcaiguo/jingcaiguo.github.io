@@ -89,7 +89,8 @@ L. Ke, H. Yin, G. Liu, Z. Lv, **<font size=4>J. Guo</font>**, C. Li, W. Luo, Y. 
 
 - ![Static Badge](https://img.shields.io/badge/APPs-DAA520) **-** Learning by Neighbor-Aware Semantics, Deciding by Open-form Flows: Towards Robust Zero-Shot Skeleton Action Recognition,<br>
 Y. Chen, M. Li, Z. Rao, D. Zeng, S. Guo, **<font size=4>J. Guo<sup>#</sup></font>**,<br>
-*Proceedings of IEEE/CVF Conference on Computer Vision and Pattern Recognition* (**<font color="Crimson">CVPR Findings</font>**), 2026.
+*Proceedings of IEEE/CVF Conference on Computer Vision and Pattern Recognition* (**<font color="Crimson">CVPR Findings</font>**), 2026.<br>
+  (<font color="Crimson">CVPR Compute Transparency Champion Award</font>)
 
 - ![Static Badge](https://img.shields.io/badge/Data-8A2BE2) **-** Learning Multi-Modal Prototypes for Cross-Domain Few-Shot Object Detection,<br>
 W. Wang, **<font size=4>J. Guo</font>**, Y. Cai, Z. Chen,<br>

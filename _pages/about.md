@@ -58,6 +58,53 @@ We are actively looking for self-motivated **PhD Students**, **Postdoctoral Rese
 - *2022.09*: &nbsp; [**<font color="BlueViolet">Organization</font>**] Happy to join the Organization Committee of <a href="https://www.dedisys.org/srds22/committee/organization.html">SRDS 2022</a>, as Publicity Chair.
 <!-- - *2022.01*: &nbsp; [**<font color="Crimson">Grant</font>**] One Young Scientists Fund has been granted by <a href="https://www.nsfc.gov.cn/">National Natural Science Foundation of China (NSFC)</a>; Gratefulness!-->
 
+<span class='anchor' id='grants'></span>
+# 💰 External Research Grants
+
+## On-Going Projects
+
+- **<font color="Crimson">[PI]:</font>** **RGC General Research Fund (GRF)**<br>
+  Title: *Harnessing Evolving Edge AI Systems with Synergidal Scalability Co-Design*<br>
+  Source: Research Grants Council of Hong Kong
+
+- **<font color="Crimson">[PI]:</font>** **RGC General Research Fund (GRF)**<br>
+  Title: *Advancing Robustness and Generalization in Edge AI Systems via Multi-view Representation-aware Model Refactoring*<br>
+  Source: Research Grants Council of Hong Kong
+
+- **<font color="Crimson">[PI]:</font>** **RGC General Research Fund (GRF)**<br>
+  Title: *Empowering TinyML with Low-shot Learning for Edge AI Systems*<br>
+  Source: Research Grants Council of Hong Kong.
+
+- **<font color="Crimson">[PI]:</font>** **Industrial Gifted Fund**<br>
+  Title: *Towards Edge-Native Deployment and Post-Training of Foundation/Large Models*<br>
+  Source: Donation from the Industry
+
+- **<font color="Crimson">[PI]:</font>** **Start-up Fund P0058468**<br>
+  Title: *Exploring Scalability Through Integrated Design and Its Application in Smart Cities*<br>
+  Source: PolyU Research Grant
+
+- **[Co-I]:** Projects of RIAIoT<br>
+  Title: *AI‑Augmented High‑Precision GNSS Positioning and Navigation Infrastructure for the Greater Bay Area*<br>
+  Source: RIAIoT, PolyU
+
+##  Completed Projects
+
+- **<font color="Crimson">[PI]:</font>** **Young Scientists Fund (NSFC)**<br>
+  Title: *Entity Anti-fraud Prediction Combining Zero-Shot Learning and Graph Neural Networks*<br>
+  Source: The National Natural Science Foundation of China
+
+- **<font color="Crimson">[PI]:</font>** **PolyU Internal Research Fund P0058468**<br>
+  Title: *Fast and Lightweight Adaptation over Resource-constrained Edges*<br>
+  Source: PolyU Research Grant
+
+- **[Co-I]:** Projects of RILS<br>
+  Title: *A Bottom-up Integrated Strategy for Collecting Urban Functions and Land Use Details: Data-driven Perspective with Urban Geospatial Data in Hong Kong*<br>
+  Source: RILS, PolyU
+
+- **[Co-I]:** Projects of RISUD<br>
+  Title: *Towards a Digital-twin System for Smart Mobility for People with Disabilities (PwDs) Using Multi-data Sensing and Big Data Analytics*<br>
+  Source: RISUD, PolyU
+
 <span class='anchor' id='selected-publications'></span>
 # 📚 Selected Publications 
 

@@ -83,7 +83,7 @@ We are actively looking for self-motivated **PhD Students**, **Postdoctoral Rese
   Title: *Exploring Scalability Through Integrated Design and Its Application in Smart Cities*<br>
   Source: PolyU Research Grant
 
-- **[Co-I]:** Projects of RIAIoT<br>
+- **<font color="DarkCyan">[Co-I]:</font>** Projects of RIAIoT<br>
   Title: *AI‑Augmented High‑Precision GNSS Positioning and Navigation Infrastructure for the Greater Bay Area*<br>
   Source: RIAIoT, PolyU
 
@@ -97,11 +97,11 @@ We are actively looking for self-motivated **PhD Students**, **Postdoctoral Rese
   Title: *Fast and Lightweight Adaptation over Resource-constrained Edges*<br>
   Source: PolyU Research Grant
 
-- **[Co-I]:** Projects of RILS<br>
+- **<font color="DarkCyan">[Co-I]:</font>** Projects of RILS<br>
   Title: *A Bottom-up Integrated Strategy for Collecting Urban Functions and Land Use Details: Data-driven Perspective with Urban Geospatial Data in Hong Kong*<br>
   Source: RILS, PolyU
 
-- **[Co-I]:** Projects of RISUD<br>
+- **<font color="DarkCyan">[Co-I]:</font>** Projects of RISUD<br>
   Title: *Towards a Digital-twin System for Smart Mobility for People with Disabilities (PwDs) Using Multi-data Sensing and Big Data Analytics*<br>
   Source: RISUD, PolyU
 

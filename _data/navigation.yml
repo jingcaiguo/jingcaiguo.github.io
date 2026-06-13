@@ -21,8 +21,8 @@ main:
   - title: "Services"
     url: "/#-services"
 
-  - title: "Selected Honors"
-    url: "/#-selected-honors"
+  # - title: "Selected Honors"
+  #   url: "/#-selected-honors"
 
   - title: "Sponsors"
     url: "/#-sponsors"

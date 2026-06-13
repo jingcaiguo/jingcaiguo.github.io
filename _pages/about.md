@@ -540,7 +540,7 @@ J. Zhang, S. Guo, X. Ma, W. Xu, Q. Zhou, **<font size=4>J. Guo</font>**, Z. Hong
 - Reviewer for IEEE Transactions on Emerging Topics in Computing (**IEEE TETC**)
 - Reviewer for ACM Computing Surveys (**ACM CSUR**)-->
 
-<span class='anchor' id='selected-honors'></span>
+<!-- <span class='anchor' id='selected-honors'></span>
 # 🎖 Selected Honors
 
 - **Hong Kong Ph.D. Fellowship** (2017), <br>
@@ -553,7 +553,7 @@ J. Zhang, S. Guo, X. Ma, W. Xu, Q. Zhou, **<font size=4>J. Guo</font>**, Z. Hong
   Awarding body: The IEEE Vehicular Technology Society
 
 - **Excellent Author Program** (2025), <br>
-  Awarding body: Wiley & Institution of Engineering and Technology
+  Awarding body: Wiley & Institution of Engineering and Technology -->
 
 <span class='anchor' id='sponsors'></span>
 # 💗 Sponsors

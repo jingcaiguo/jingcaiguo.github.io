@@ -1,4 +1,4 @@
----
+<img width="432" height="13" alt="image" src="https://github.com/user-attachments/assets/8a0c2e99-52b4-4c4c-9ae0-a54227e4fe20" />---
 permalink: /
 title: ""
 excerpt: ""
@@ -187,11 +187,11 @@ Y. Huang, F. Ma, Y. Shao, **<font size=4>J. Guo</font>**, Z. Yu, L. Cui, Q. Tian
 
 - ![Static Badge](https://img.shields.io/badge/Data-8A2BE2) **-** ICM-Fusion: In-Context Meta-Optimized LoRA Fusion for Multi-Task Adaptation,<br>
 <!--Y. Shao, X. Lin, X. Long, S. Chen, M. Yan, Y. Liu, Z. Yan, A. Ma, H. Tang, **<font size=4>J. Guo<sup>#</sup></font>**,<br>-->
-Y. Shao,  X. Lin,  X. Long, ..., **<font size=4>J. Guo<sup>#</sup></font>**,<br>
+Y. Shao, X. Lin, X. Long, et al., **<font size=4>J. Guo<sup>#</sup></font>**,<br>
 *Proceedings of AAAI Conference on Artificial Intelligence* (**<font color="Crimson">AAAI</font>**), 2026.
 
 - ![Static Badge](https://img.shields.io/badge/Capability-00FF7F) **-** TR-DQ: Time-Rotation Diffusion Quantization,<br>
-Y. Shao,  D. Lin,  M. Yan,  S. Chen,  F. Zeng,  M. Liao,  A. Ma,  Z. Yan,  H. Wang,  Y. Wang,  Z. Chen, X. Cao,  H. Qin,  H. Tang, **<font size=4>J. Guo<sup>#</sup></font>**,<br>
+Y. Shao, D. Lin, M. Yan, et al., **<font size=4>J. Guo<sup>#</sup></font>**,<br>
 *Proceedings of AAAI Conference on Artificial Intelligence* (**<font color="Crimson">AAAI</font>**), 2026.
 
 - ![Static Badge](https://img.shields.io/badge/APPs-DAA520) **-** Learning to Cluster Rare Cell Types: Implicit Semantic Data Augmentation for Spatial Multi-modal Omics Analysis,<br>

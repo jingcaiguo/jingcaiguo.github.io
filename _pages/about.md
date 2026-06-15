@@ -27,7 +27,7 @@ I am generally interested in ***<font color="Crimson">Efficient-</font>*** and *
 👈👈 ***<font color="Crimson">Click for more information</font>***
 
 We are always actively looking for self-motivated **PhD Students**, **Postdoctoral Researchers**, and **Research Assistants** to work and have fun together on multiple research projects. Drop me an email (<jc-jingcai.guo@polyu.edu.hk>) with your complete CV if you are interested. Candidates with strong programming and mathematics backgrounds are preferred. **Visiting Students/Researchers** (onsite/remote) are also welcome!<br>
-*<font color="Crimson">P.S. Due to the large workload, we apologize that we cannot reply to every email inquiry that was not potentially matched.-</font>*
+*<font color="Crimson">P.S. Due to the large workload, we apologize that we cannot reply to every email inquiry that was not potentially matched.</font>*
 
 <span class='anchor' id='news'></span>
 # 🔥 News

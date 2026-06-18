@@ -144,6 +144,10 @@ Y. Chen, M. Li, Z. Rao, D. Zeng, S. Guo, **<font size=4>J. Guo<sup>#</sup></font
 W. Wang, **<font size=4>J. Guo</font>**, Y. Cai, Z. Chen,<br>
 *Proceedings of IEEE/CVF Conference on Computer Vision and Pattern Recognition* (**<font color="Crimson">CVPR Findings</font>**), 2026.
 
+- ![Static Badge](https://img.shields.io/badge/Capability-00FF7F) **-** Accelerating Multimodal Large Language Models with Prior-Corrected Token Reduction,<br>
+Z. Chen, Y. Cai, **<font size=4>J. Guo</font>**, T. Cai, J. Yin, Z. Chen,<br>
+*Proceedings of European Conference on Computer Vision* (**<font color="Crimson">ECCV</font>**), 2026.
+
 - ![Static Badge](https://img.shields.io/badge/Data-8A2BE2) **-** MLDA: Test-Time Multi-Level Adaptation with Dynamic Alignment for Compositional Zero-Shot Learning,<br>
 M. Li, Y. Liu, **<font size=4>J. Guo<sup>#</sup></font>**,<br>
 *Proceedings of International Joint Conference on Artificial Intelligence* (**<font color="Crimson">IJCAI</font>**), 2026.

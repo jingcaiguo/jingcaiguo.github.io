@@ -474,6 +474,7 @@ J. Zhang, S. Guo, X. Ma, W. Xu, Q. Zhou, **<font size=4>J. Guo</font>**, Z. Hong
 <span class='anchor' id='teachings'></span>
 # 🧑🏻‍🏫 Teachings
 
+- Internet Infrastructure and Protocols ([Syllabus](https://www.polyu.edu.hk/comp/docdrive/tpg/subject/COMP5311.pdf)), 2027.
 - Geomatics Algorithms and Programming ([Syllabus](https://www.polyu.edu.hk/lsgi/-/media/department/lsgi/content/study/lsgi-subject-pdf/level-3/lsgi3230a_jul-2025.pdf?rev=ee992d7722f14b348425fac7479182ac&hash=316A4C282500579AFB64127647D786D5)), 2027.
 - Internet Infrastructure and Protocols ([Syllabus](https://www.polyu.edu.hk/comp/docdrive/tpg/subject/COMP5311.pdf)), 2026.
 - Internet Infrastructure and Protocols ([Syllabus](https://www.polyu.edu.hk/comp/docdrive/tpg/subject/COMP5311.pdf)), 2025.

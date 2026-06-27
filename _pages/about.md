@@ -76,6 +76,10 @@ We are always actively looking for self-motivated **PhD Students**, **Postdoctor
   Title: *Empowering TinyML with Low-shot Learning for Edge AI Systems*<br>
   Source: Research Grants Council of Hong Kong.
 
+- **<font color="Crimson">[PI]:</font>** **RGC Early Career Scheme (ECS)**<br>
+  Title: *Agentic Edge AI Systems in the Open World: Framework, Algorithm, and Implementation*<br>
+  Source: Research Grants Council of Hong Kong.
+
 - **<font color="Crimson">[PI]:</font>** **Industrial Gifted Fund**<br>
   Title: *Towards Edge-Native Deployment and Post-Training of Foundation/Large Models*<br>
   Source: Donation from the Industry

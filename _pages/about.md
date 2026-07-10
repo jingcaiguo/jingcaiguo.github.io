@@ -152,6 +152,10 @@ W. Wang, **<font size=4>J. Guo</font>**, Y. Cai, Z. Chen,<br>
 Z. Chen, Y. Cai, **<font size=4>J. Guo</font>**, T. Cai, J. Yin, Z. Chen,<br>
 *Proceedings of European Conference on Computer Vision* (**<font color="Crimson">ECCV</font>**), 2026.
 
+- ![Static Badge](https://img.shields.io/badge/APPs-DAA520) **-** Continual Video-MLLM Adaptation over Evolving Domains,<br>
+R. Cheng, M. Shi, Y. Cai, **<font size=4>J. Guo</font>**, J. Yin, Z. Chen,<br>
+*Proceedings of ACM International Conference on Multimedia* (**<font color="Crimson">ACM-MM</font>**), 2026.
+
 - ![Static Badge](https://img.shields.io/badge/Data-8A2BE2) **-** MLDA: Test-Time Multi-Level Adaptation with Dynamic Alignment for Compositional Zero-Shot Learning,<br>
 M. Li, Y. Liu, **<font size=4>J. Guo<sup>#</sup></font>**,<br>
 *Proceedings of International Joint Conference on Artificial Intelligence* (**<font color="Crimson">IJCAI</font>**), 2026.

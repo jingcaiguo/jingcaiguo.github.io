@@ -177,7 +177,7 @@ M. Yan, Y. Shao, Y. Pan, S. Chen, H. Pei, H. Tang, F. Ma, **<font size=4>J. Guo<
 *Proceedings of International Joint Conference on Artificial Intelligence* (**<font color="Crimson">IJCAI</font>**), 2026. 
 
 - ![Static Badge](https://img.shields.io/badge/Capability-00FF7F) **-** Spik4lite: Refactoring Neuromorphic Sparsity for Efficient Spiking Neural Networks on Commodity Edge Devices,<br>
-Y. She, Q. Zhou, Y. Wang, Y. Huang, **<font size=4>J. Guo</font>**, L. Cui,<br>
+Y. She, Q. Zhou, Y. Wang, Y. Huang, L. Cui, **<font size=4>J. Guo</font>**,<br>
 *Proceedings of International Conference on Machine Learning* (**<font color="Crimson">ICML</font>**), 2026.
 
 - ![Static Badge](https://img.shields.io/badge/Capability-00FF7F) **-** What You Think is What You See: Driving Exploration in VLM Agents via Visual-Linguistic Curiosity,<br>

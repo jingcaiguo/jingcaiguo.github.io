@@ -215,7 +215,7 @@ Y. Chen, **<font size=4>J. Guo<sup>#</sup></font>**, M. Li, Z. Rao, S. Guo,<br>
 *IEEE Transactions on Circuits and Systems for Video Technology* (**<font color="Crimson">TCSVT</font>**), 2026.
 
 - ![Static Badge](https://img.shields.io/badge/Data-8A2BE2) **-** Attribute Knowledge Inheritance and Evolution for Generalized Zero-shot Learning,<br>
-Z Rao, J. Guo#, C Li, S Guo,<br>
+Z Rao, **<font size=4>J. Guo<sup>#</sup></font>**, C Li, S Guo,<br>
 *Information Sciences* (**<font color="Crimson">IS</font>**), 2026.
 
 - ![Static Badge](https://img.shields.io/badge/APPs-DAA520) **-** KG-Augmented Executable CoT for Mathematical Coding,<br>

@@ -218,6 +218,10 @@ Y. Chen, **<font size=4>J. Guo<sup>#</sup></font>**, M. Li, Z. Rao, S. Guo,<br>
 Z Rao, **<font size=4>J. Guo<sup>#</sup></font>**, C Li, S Guo,<br>
 *Information Sciences* (**<font color="Crimson">IS</font>**), 2026.
 
+- ![Static Badge](https://img.shields.io/badge/Capability-00FF7F) **-** Towards Fair Federated Edge Learning Through Prototype-Guided Distributed Adversarial Networks,<br>
+K. Wei, X. Yuan, Z. Hong, J. Zhang, **<font size=4>J. Guo</font>**, M. Ding, J. Li, S. Guo,<br>
+*IEEE Transactions on Mobile Computing* (**<font color="Crimson">TMC</font>**), 2026.
+
 - ![Static Badge](https://img.shields.io/badge/APPs-DAA520) **-** KG-Augmented Executable CoT for Mathematical Coding,<br>
 X. Chen, J. An, J. Guo, L. Wang, **<font size=4>J. Guo</font>**,<br>
 *Neural Networks* (**<font color="Crimson">NN</font>**), 2026.

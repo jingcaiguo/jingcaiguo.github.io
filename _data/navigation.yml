@@ -6,8 +6,8 @@ main:
   - title: "Lumen Group"
     url: "/#-lumen-group"   
 
-  - title: "News"
-    url: "/#-news"
+  # - title: "News"
+  #   url: "/#-news"
 
   - title: "Grants"
     url: "/#-grants"

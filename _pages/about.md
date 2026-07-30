@@ -29,7 +29,7 @@ I am generally interested in ***<font color="Crimson">AI Efficiency</font>*** an
 We are always actively looking for self-motivated **PhD Students**, **Postdoctoral Researchers**, and **Research Assistants** to work and have fun together on multiple research projects. Drop me an email (<jc-jingcai.guo@polyu.edu.hk>) with your complete CV if you are interested. Candidates with strong programming and mathematics backgrounds are preferred. **Visiting Students/Researchers** (onsite/remote) are also welcome!<br>
 *<font color="Crimson">P.S. Due to the large workload, we apologize that we cannot reply to every email inquiry that was not potentially matched.</font>*
 
-<span class='anchor' id='news'></span>
+<!-- <span class='anchor' id='news'></span>
 # 🔥 News
 - *2026.04*: &nbsp; [Conference] Serve as Area Chair for <a href="https://neurips.cc/Conferences/2026">NeurIPS 2026</a>.
 - *2026.02*: &nbsp; [Conference] Serve as Area Chair for <a href="https://2026.acmmm.org/">ACM-MM 2026</a>.
@@ -57,7 +57,7 @@ We are always actively looking for self-motivated **PhD Students**, **Postdoctor
 <!-- - *2023.07*: &nbsp; [**<font color="Crimson">Grant</font>**] One General Research Fund (GRF) has been granted by <a href="https://www.ugc.edu.hk/eng/rgc/funding_opport/grf/index.html">Research Grants Council (RGC) of Hong Kong</a>; Gratefulness!-->
 - *2023.07*: &nbsp; [**<font color="DarkCyan">Editorship</font>**] Serve as Guest Editor for <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6570650">IEEE Transactions on Computational Social Systems (TCSS)</a> (Special Issue on *Few-shot/Zero-shot Learning for Knowledge Discovery in Social Networks*).
 - *2022.09*: &nbsp; [**<font color="BlueViolet">Organization</font>**] Happy to join the Organization Committee of <a href="https://www.dedisys.org/srds22/committee/organization.html">SRDS 2022</a>, as Publicity Chair.
-<!-- - *2022.01*: &nbsp; [**<font color="Crimson">Grant</font>**] One Young Scientists Fund has been granted by <a href="https://www.nsfc.gov.cn/">National Natural Science Foundation of China (NSFC)</a>; Gratefulness!-->
+<!-- - *2022.01*: &nbsp; [**<font color="Crimson">Grant</font>**] One Young Scientists Fund has been granted by <a href="https://www.nsfc.gov.cn/">National Natural Science Foundation of China (NSFC)</a>; Gratefulness!--> -->
 
 <span class='anchor' id='grants'></span>
 # 💰 External Research Grants

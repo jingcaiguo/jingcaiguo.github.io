@@ -147,7 +147,11 @@ Y. Shao, Y. Gu, M. Yan, S. Chen, H. Liu, Z. Yan, Y. Li, Y. Wang, Q. Song, H. Tan
 
 - ![Static Badge](https://img.shields.io/badge/Capability-00FF7F) **-** Cross Domain Test Time Scaling: Scale knowledge and reasoning on cross domains,<br>
 M. Yan, Y. Shao, Y. Pan, S. Chen, H. Pei, H. Tang, F. Ma, **<font size=4>J. Guo<sup>#</sup></font>**, N. Sebe,<br>
-*International Joint Conference on Artificial Intelligence* (**<font color="Crimson">IJCAI</font>**), 2026. 
+*International Joint Conference on Artificial Intelligence* (**<font color="Crimson">IJCAI</font>**), 2026.
+
+- ![Static Badge](https://img.shields.io/badge/Capability-00FF7F) **-** LiST: Local-Simplex Test-Time LoRA Fusion,<br>
+Y. Shao, J. Li, S. Chen, X. Luo, Y. Liu, K. Chen, X. Long, L. Zhu, F. Zeng, M. Wang, Z. Yan, **<font size=4>J. Guo<sup>#</sup></font>**, H. Tang, N. Sebe, Z. Wang,<br>
+*Conference on Empirical Methods in Natural Language Processing* (**<font color="Crimson">EMNLP</font>**), 2026.
 
 - ![Static Badge](https://img.shields.io/badge/Capability-00FF7F) **-** Spik4lite: Refactoring Neuromorphic Sparsity for Efficient Spiking Neural Networks on Commodity Edge Devices,<br>
 Y. She, Q. Zhou, Y. Wang, Y. Huang, L. Cui, **<font size=4>J. Guo</font>**,<br>

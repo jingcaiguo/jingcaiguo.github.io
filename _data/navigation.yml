@@ -9,8 +9,8 @@ main:
   # - title: "News"
   #   url: "/#-news"
 
-  - title: "Grants"
-    url: "/#-grants"
+  # - title: "Grants"
+  #   url: "/#-grants"
 
   - title: "Selected Publications"
     url: "/#-selected-publications"

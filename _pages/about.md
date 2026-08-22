@@ -30,7 +30,7 @@ We are always actively looking for self-motivated **PhD Students**, **Postdoctor
 *<font color="Crimson">P.S. Due to the large workload, we apologize that we cannot reply to every email inquiry that was not potentially matched.</font>*
 
 
-<span class='anchor' id='grants'></span>
+<!-- <span class='anchor' id='grants'></span>
 # 💰 External Research Grants
 
 ## On-Going Projects
@@ -61,7 +61,7 @@ We are always actively looking for self-motivated **PhD Students**, **Postdoctor
 
 - **<font color="DarkCyan">[Co-I]:</font>** **Projects of RIAIoT**<br>
   Title: *AI‑Augmented High‑Precision GNSS Positioning and Navigation Infrastructure for the Greater Bay Area*<br>
-  Source: RIAIoT, PolyU
+  Source: RIAIoT, PolyU -->
 
 ##  Completed Projects
 

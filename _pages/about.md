@@ -65,7 +65,7 @@ We are always actively looking for self-motivated **PhD Students**, **Postdoctor
   Title: *AI‑Augmented High‑Precision GNSS Positioning and Navigation Infrastructure for the Greater Bay Area*<br>
   Source: RIAIoT, PolyU -->
 
-##  Completed Projects
+<!-- ##  Completed Projects
 
 - **<font color="Crimson">[PI]:</font>** **Young Scientists Fund (NSFC)**<br>
   Title: *Entity Anti-fraud Prediction Combining Zero-Shot Learning and Graph Neural Networks*<br>
@@ -81,7 +81,7 @@ We are always actively looking for self-motivated **PhD Students**, **Postdoctor
 
 - **<font color="DarkCyan">[Co-I]:</font>** **Projects of RISUD**<br>
   Title: *Towards a Digital-twin System for Smart Mobility for People with Disabilities (PwDs) Using Multi-data Sensing and Big Data Analytics*<br>
-  Source: RISUD, PolyU
+  Source: RISUD, PolyU -->
 
 <span class='anchor' id='selected-publications'></span>
 # 📚 Selected Publications 

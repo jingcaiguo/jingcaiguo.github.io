@@ -28,8 +28,8 @@ I have served as organizing/technical **Chair Members** for multiple leading CS 
 <a href="https://lumen-lab-polyu.github.io/"><img src="./images/lumen.png" width = "400" alt="Lumen-Lab"></a>
 👈👈 ***<font color="Crimson">Click for more information</font>***
 
-We are always actively looking for self-motivated **PhD Students**, **Postdoctoral Researchers**, and **Research Assistants** to work and have fun together on multiple research projects. Drop me an email (<jc-jingcai.guo@polyu.edu.hk>) with your complete CV if you are interested. Candidates with strong programming and mathematics backgrounds are preferred. **Visiting Students/Researchers** (onsite/remote) are also welcome!<br>
-*<font color="Crimson">P.S. Due to the large workload, we apologize that we cannot reply to every email inquiry that was not potentially matched.</font>*
+***<font color="Crimson">Opening</font>***: we are always looking for self-motivated **PhD Students**, **Postdoctoral Researchers**, and **Research Assistants** to work and have fun together on multiple research projects. Drop me an email (<jc-jingcai.guo@polyu.edu.hk>) with your complete CV & supporting documents if you are interested. Candidates with strong programming and mathematics backgrounds are preferred. **Visiting Students/Researchers** (remote/onsite) are also welcome!<br>
+*<font color="Crimson">Due to the high volume of inquiries, we apologize that we cannot reply to every inquiry email that was not potentially matched.</font>*
 
 
 <!-- <span class='anchor' id='grants'></span>

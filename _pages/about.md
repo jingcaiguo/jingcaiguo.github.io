@@ -84,7 +84,7 @@ I am generally interested in *<font color="Crimson">AI Efficiency</font>* and *<
 <span class='anchor' id='selected-publications'></span>
 # 📚 Selected Publications 
 
-## Selected Papers \[ ***<font color="Crimson">#-: corresponding author(s)</font>*** \]
+## Selected Papers \[ ***<font color="Crimson">#-: corresponding author</font>*** \]
 <!--**\[** **Remarks:** **#**- **Corresponding Author**, **‡**- **Supervising Student**, and **†**- **Collaborating Student** **\]**-->
 <!--**\[** **Remarks:** **#**- **Corresponding Author(s)**; **___**- **Direct supervision (PhD, RA, or Collaborating Students)**.  **\]**-->
 

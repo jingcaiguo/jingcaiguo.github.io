@@ -149,7 +149,7 @@ M. Yan, Y. Shao, Y. Pan, S. Chen, H. Pei, H. Tang, F. Ma, **<font size=4>J. Guo<
 
 - ![Static Badge](https://img.shields.io/badge/Capability-00FF7F) **-** LiST: Local-Simplex Test-Time LoRA Fusion,<br>
 Y. Shao, J. Li, S. Chen, X. Luo, Y. Liu, K. Chen, X. Long, L. Zhu, F. Zeng, M. Wang, Z. Yan, **<font size=4>J. Guo<sup>#</sup></font>**, H. Tang, N. Sebe, Z. Wang,<br>
-*Conference on Empirical Methods in Natural Language Processing* (**<font color="Crimson">EMNLP</font>**), 2026.
+*Conference on Empirical Methods in Natural Language Processing* (**<font color="Crimson">EMNLP Findings</font>**), 2026.
 
 - ![Static Badge](https://img.shields.io/badge/Capability-00FF7F) **-** Spik4lite: Refactoring Neuromorphic Sparsity for Efficient Spiking Neural Networks on Commodity Edge Devices,<br>
 Y. She, Q. Zhou, Y. Wang, Y. Huang, L. Cui, **<font size=4>J. Guo</font>**,<br>
@@ -158,7 +158,6 @@ Y. She, Q. Zhou, Y. Wang, Y. Huang, L. Cui, **<font size=4>J. Guo</font>**,<br>
 - ![Static Badge](https://img.shields.io/badge/Capability-00FF7F) **-** What You Think is What You See: Driving Exploration in VLM Agents via Visual-Linguistic Curiosity,<br>
 H. Li, Q. Hou, J. Ma, J. Lai, T. Han, S. Bai, **<font size=4>J. Guo</font>**, J. Zhang, S. Guo,<br>
 *International Conference on Machine Learning* (**<font color="Crimson">ICML</font>**), 2026; <font color="Crimson">spotlight</font>, acceptance rate ~= 2.2%.
-
 
 - ![Static Badge](https://img.shields.io/badge/Capability-00FF7F) **-** UNICON: A Unified Reconfigurable Nonlinear Architecture for Efficient Neural Network Inference,<br>
 X. Zou, C. Chen, Q. Wang, Z. Liu, H. Zhuang, **<font size=4>J. Guo</font>**,<br>

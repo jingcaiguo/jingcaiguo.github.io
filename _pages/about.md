@@ -119,6 +119,10 @@ Y. Chen, M. Li, Z. Rao, D. Zeng, S. Guo, **<font size=4>J. Guo<sup>#</sup></font
 W. Wang, **<font size=4>J. Guo</font>**, Y. Cai, Z. Chen,<br>
 *IEEE/CVF Conference on Computer Vision and Pattern Recognition* (**<font color="Crimson">CVPR Findings</font>**), 2026.
 
+- ![Static Badge](https://img.shields.io/badge/Capability-00FF7F) **-** EC-LoRA: Energy-Driven Continual LoRA Implicit Generation,<br>
+Y. Shao, J. Li, S. Chen, Y. Liu, K. Lv, H. Tang, N. Sebe, **<font size=4>J. Guo<sup>#</sup></font>**,<br>
+*Transactions on Machine Learning Research* (**<font color="Crimson">TMLR</font>**), 2026.
+
 - ![Static Badge](https://img.shields.io/badge/Capability-00FF7F) **-** Accelerating Multimodal Large Language Models with Prior-Corrected Token Reduction,<br>
 Z. Chen, Y. Cai, **<font size=4>J. Guo</font>**, T. Cai, J. Yin, Z. Chen,<br>
 *European Conference on Computer Vision* (**<font color="Crimson">ECCV</font>**), 2026.
@@ -146,6 +150,22 @@ Y. Shao, Y. Gu, M. Yan, S. Chen, H. Liu, Z. Yan, Y. Li, Y. Wang, Q. Song, H. Tan
 - ![Static Badge](https://img.shields.io/badge/Capability-00FF7F) **-** Cross Domain Test Time Scaling: Scale knowledge and reasoning on cross domains,<br>
 M. Yan, Y. Shao, Y. Pan, S. Chen, H. Pei, H. Tang, F. Ma, **<font size=4>J. Guo<sup>#</sup></font>**, N. Sebe,<br>
 *International Joint Conference on Artificial Intelligence* (**<font color="Crimson">IJCAI</font>**), 2026.
+
+- ![Static Badge](https://img.shields.io/badge/Capability-00FF7F) **-** FedProG: Federated Graph Learning via Server-Side LLM Semantic Bridging and Uncertainty-Aware Distillation,<br>
+H. Wang, H. Wang, W. Xu, Y. Li, X. Yi, T. Xiao, **<font size=4>J. Guo</font>**, R. Li,<br>
+*Annual Conference on Neural Information Processing Systems * (**<font color="Crimson">NeurIPS</font>**), 2026.
+
+- ![Static Badge](https://img.shields.io/badge/Capability-00FF7F) **-** SeaPilot: Mobile Agent with Self-refining Environment Alignment,<br>
+Z. Zuo, S. Li, Y. Jiang, H. Wang, Y. Li, W. Xu, **<font size=4>J. Guo</font>**, R. Li,<br>
+*Annual Conference on Neural Information Processing Systems * (**<font color="Crimson">NeurIPS</font>**), 2026.
+
+- ![Static Badge](https://img.shields.io/badge/Capability-00FF7F) **-** Beyond Prediction: Steering VLM Agents with Retrospective World Modeling,<br>
+Y. Liu, J. Zhang, H. Zhang, **<font size=4>J. Guo</font>**, D. Zeng, S. Guo,<br>
+*Annual Conference on Neural Information Processing Systems * (**<font color="Crimson">NeurIPS</font>**), 2026.
+
+- ![Static Badge](https://img.shields.io/badge/Capability-00FF7F) **-** PACE-dLLM: Elastic Block Decoding via Confidence Cliff Estimation for Diffusion Language Models,<br>
+X. Lu, S. Guo, Z. Ma, J. Zhang, J. Liu, **<font size=4>J. Guo</font>**, H. Che, S. Guo,<br>
+*Annual Conference on Neural Information Processing Systems * (**<font color="Crimson">NeurIPS</font>**), 2026.
 
 - ![Static Badge](https://img.shields.io/badge/Capability-00FF7F) **-** LiST: Local-Simplex Test-Time LoRA Fusion,<br>
 Y. Shao, J. Li, S. Chen, X. Luo, Y. Liu, K. Chen, X. Long, L. Zhu, F. Zeng, M. Wang, Z. Yan, **<font size=4>J. Guo<sup>#</sup></font>**, H. Tang, N. Sebe, Z. Wang,<br>

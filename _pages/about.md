@@ -153,19 +153,19 @@ M. Yan, Y. Shao, Y. Pan, S. Chen, H. Pei, H. Tang, F. Ma, **<font size=4>J. Guo<
 
 - ![Static Badge](https://img.shields.io/badge/Capability-00FF7F) **-** FedProG: Federated Graph Learning via Server-Side LLM Semantic Bridging and Uncertainty-Aware Distillation,<br>
 H. Wang, H. Wang, W. Xu, Y. Li, X. Yi, T. Xiao, **<font size=4>J. Guo</font>**, R. Li,<br>
-*Annual Conference on Neural Information Processing Systems * (**<font color="Crimson">NeurIPS</font>**), 2026.
+*Annual Conference on Neural Information Processing Systems* (**<font color="Crimson">NeurIPS</font>**), 2026.
 
 - ![Static Badge](https://img.shields.io/badge/Capability-00FF7F) **-** SeaPilot: Mobile Agent with Self-refining Environment Alignment,<br>
 Z. Zuo, S. Li, Y. Jiang, H. Wang, Y. Li, W. Xu, **<font size=4>J. Guo</font>**, R. Li,<br>
-*Annual Conference on Neural Information Processing Systems * (**<font color="Crimson">NeurIPS</font>**), 2026.
+*Annual Conference on Neural Information Processing Systems* (**<font color="Crimson">NeurIPS</font>**), 2026.
 
 - ![Static Badge](https://img.shields.io/badge/Capability-00FF7F) **-** Beyond Prediction: Steering VLM Agents with Retrospective World Modeling,<br>
 Y. Liu, J. Zhang, H. Zhang, **<font size=4>J. Guo</font>**, D. Zeng, S. Guo,<br>
-*Annual Conference on Neural Information Processing Systems * (**<font color="Crimson">NeurIPS</font>**), 2026.
+*Annual Conference on Neural Information Processing Systems* (**<font color="Crimson">NeurIPS</font>**), 2026.
 
 - ![Static Badge](https://img.shields.io/badge/Capability-00FF7F) **-** PACE-dLLM: Elastic Block Decoding via Confidence Cliff Estimation for Diffusion Language Models,<br>
 X. Lu, S. Guo, Z. Ma, J. Zhang, J. Liu, **<font size=4>J. Guo</font>**, H. Che, S. Guo,<br>
-*Annual Conference on Neural Information Processing Systems * (**<font color="Crimson">NeurIPS</font>**), 2026.
+*Annual Conference on Neural Information Processing Systems* (**<font color="Crimson">NeurIPS</font>**), 2026.
 
 - ![Static Badge](https://img.shields.io/badge/Capability-00FF7F) **-** LiST: Local-Simplex Test-Time LoRA Fusion,<br>
 Y. Shao, J. Li, S. Chen, X. Luo, Y. Liu, K. Chen, X. Long, L. Zhu, F. Zeng, M. Wang, Z. Yan, **<font size=4>J. Guo<sup>#</sup></font>**, H. Tang, N. Sebe, Z. Wang,<br>

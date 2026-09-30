@@ -167,6 +167,10 @@ Y. Liu, J. Zhang, H. Zhang, **<font size=4>J. Guo</font>**, D. Zeng, S. Guo,<br>
 X. Lu, S. Guo, Z. Ma, J. Zhang, J. Liu, **<font size=4>J. Guo</font>**, H. Che, S. Guo,<br>
 *Annual Conference on Neural Information Processing Systems* (**<font color="Crimson">NeurIPS</font>**), 2026.
 
+- ![Static Badge](https://img.shields.io/badge/Capability-00FF7F) **-** Trust Momentum Gradient for Teaching Trajectories Optimization,<br>
+X. Cao, K. Gu, P. Wang,  **<font size=4>J. Guo</font>**, J. Yang, X. Li, J. Yao, W. Ye,<br>
+*Annual Conference on Neural Information Processing Systems* (**<font color="Crimson">NeurIPS Workshop</font>**), 2026.
+
 - ![Static Badge](https://img.shields.io/badge/Capability-00FF7F) **-** LiST: Local-Simplex Test-Time LoRA Fusion,<br>
 Y. Shao, J. Li, S. Chen, X. Luo, Y. Liu, K. Chen, X. Long, L. Zhu, F. Zeng, M. Wang, Z. Yan, **<font size=4>J. Guo<sup>#</sup></font>**, H. Tang, N. Sebe, Z. Wang,<br>
 *Conference on Empirical Methods in Natural Language Processing* (**<font color="Crimson">EMNLP Findings</font>**), 2026.

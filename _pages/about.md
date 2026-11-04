@@ -505,29 +505,6 @@ J. Zhang, S. Guo, X. Ma, W. Xu, Q. Zhou, **<font size=4>J. Guo</font>**, Z. Hong
 <span class='anchor' id='services'></span>
 # 👔 Services
 
-##  Conference Service
-
-- **Area Chair:** The 15th International Conference on Learning Representations (**ICLR** 2027)
-- **Area Chair:** The 40th Annual Conference on Neural Information Processing Systems (**NeurIPS** 2026)
-- **Area Chair:** The 43rd International Conference on Machine Learning (**ICML** 2026)
-- **Area Chair:** The 14th International Conference on Learning Representations (**ICLR** 2026)
-- **Area Chair:** The 34th ACM International Conference on Multimedia (**ACM-MM** 2026)
-- **Tutorial Chair:** The 22nd International Conference on Mobility, Sensing and Networking (**MSN** 2026)
-- **Area Chair:** The 35th International Joint Conference on Artificial Intelligence (**IJCAI** 2026)
-- **Senior PC:** The 40th Annual AAAI Conference on Artificial Intelligence (**AAAI** 2026)
-- **Area Chair:** The 39th Annual Conference on Neural Information Processing Systems (**NeurIPS** 2025)
-- **Area Chair:** The 33rd ACM International Conference on Multimedia (**ACM-MM** 2025)
-- **Senior PC:** The 34th International Joint Conference on Artificial Intelligence (**IJCAI** 2025)
-- **Area Chair:** The 42nd International Conference on Machine Learning (**ICML** 2025)
-- **Senior PC:** The 39th Annual AAAI Conference on Artificial Intelligence (**AAAI** 2025)
-- **Session Chair:** The 33rd International Joint Conference on Artificial Intelligence (**IJCAI** 2024)
-- **Track Chair (TPC Vice-Chair):** The 100th IEEE Vehicular Technology Conference (**VTC** 2024 Fall)
-- **Area Chair:** The 41st International Conference on Machine Learning (**ICML** 2024)
-- **Area Chair:** The 32nd ACM International Conference on Multimedia (**ACM-MM** 2024)
-- **Session Chair:** The 98th IEEE Vehicular Technology Conference (**VTC** 2023 Fall)
-- **Publicity Chair:** The 41st IEEE International Symposium on Reliable Distributed Systems (**SRDS** 2022)
-- **Session Chair:** The 23rd IEEE International Conference on Multimedia and Expo (**ICME** 2022)
-
 ##  Journal Editorship
 
 - **Executive Editor-in-Chief:** Edge Intelligence and Systems (**EIS**, 2026-)
@@ -536,6 +513,31 @@ J. Zhang, S. Guo, X. Ma, W. Xu, Q. Zhou, **<font size=4>J. Guo</font>**, Z. Hong
 - **Guest Editor:** Complex & Intelligent Systems (**CAIS**, 2025-)
 - **Associate Editor:** IEEE Open Journal of the Computer Society (**IEEE OJ-CS**, 2023-)
 - **Guest Editor:** IEEE Transactions on Computational Social Systems (**IEEE TCSS**, 2023-)
+
+##  Conference Service
+
+- **Area Chair:** International Conference on Machine Learning (**ICML** 2027)
+- **Area Chair:** International Conference on Learning Representations (**ICLR** 2027)
+- **Senior PC:** Annual AAAI Conference on Artificial Intelligence (**AAAI** 2027)
+- **Area Chair:** Annual Conference on Neural Information Processing Systems (**NeurIPS** 2026)
+- **Area Chair:** International Conference on Machine Learning (**ICML** 2026)
+- **Area Chair:** International Conference on Learning Representations (**ICLR** 2026)
+- **Area Chair:** ACM International Conference on Multimedia (**ACM-MM** 2026)
+- **Tutorial Chair:** International Conference on Mobility, Sensing and Networking (**MSN** 2026)
+- **Area Chair:** International Joint Conference on Artificial Intelligence (**IJCAI** 2026)
+- **Senior PC:** Annual AAAI Conference on Artificial Intelligence (**AAAI** 2026)
+- **Area Chair:** Annual Conference on Neural Information Processing Systems (**NeurIPS** 2025)
+- **Area Chair:** ACM International Conference on Multimedia (**ACM-MM** 2025)
+- **Senior PC:** International Joint Conference on Artificial Intelligence (**IJCAI** 2025)
+- **Area Chair:** International Conference on Machine Learning (**ICML** 2025)
+- **Senior PC:** Annual AAAI Conference on Artificial Intelligence (**AAAI** 2025)
+- **Session Chair:** International Joint Conference on Artificial Intelligence (**IJCAI** 2024)
+- **Track Chair (TPC Vice-Chair):** The 100th IEEE Vehicular Technology Conference (**VTC** 2024 Fall)
+- **Area Chair:** International Conference on Machine Learning (**ICML** 2024)
+- **Area Chair:** ACM International Conference on Multimedia (**ACM-MM** 2024)
+- **Session Chair:** The 98th IEEE Vehicular Technology Conference (**VTC** 2023 Fall)
+- **Publicity Chair:** IEEE International Symposium on Reliable Distributed Systems (**SRDS** 2022)
+- **Session Chair:** IEEE International Conference on Multimedia and Expo (**ICME** 2022)
 
 <!--## Conference PC Member/Reviewer
 

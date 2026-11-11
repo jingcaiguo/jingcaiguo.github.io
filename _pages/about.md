@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 Hi there👋! This is Jingcai (JC), a Tenure-Track Assistant Professor with Department of Computing ([COMP](https://www.polyu.edu.hk/comp/people/academic-staff/prof-guo-jingcai/)) at [The Hong Kong Polytechnic University (PolyU)](https://www.polyu.edu.hk/en/), leading the [***<font color="Crimson">LUMEN Lab</font>***](https://lumen-lab-polyu.github.io/). I also hold a joint appointment in Department of Land Surveying and Geospatial Science ([LSGS](https://www.polyu.edu.hk/lsgs/people/academic-staff/prof-jingcai-guo/)). I defended my Ph.D. in December 2020 at the same university and was fortunate to be supported by the [Hong Kong PhD Fellowship](https://cerg1.ugc.edu.hk/hkpfs/index.html) (**HKPFS**) from **Hong Kong RGC** during this period. From 2021 to 2022, I did postdoctoral training at [The University of Sydney](https://www.sydney.edu.au/), Australia, where I was also a Visiting Ph.D. from 2019 to 2020. Prior to that, I received my M.Phil. from [Waseda University](https://www.waseda.jp/top/), Japan, and B.Eng. from [Sichuan University](https://en.scu.edu.cn/), China, all in Computer Science and AI/ML. Even earlier, before starting my Ph.D., I was in investment banking for nearly two years after Waseda.
 
-I am generally interested in *<font color="Crimson">AI Efficiency</font>* and *<font color="Crimson">Edge-Native</font>* *<font color="Crimson">AI</font>*, targeting learning, deployment, inference, adaptation, and beyond with *<font color="Crimson">Constrained Resources</font>* (e.g., Data, Computing Capability, Timing, Memory, etc.), as well as exploring derivative *<font color="Crimson">Applications</font>* across a wide spectrum. Our ultimate goal is to achieve *<font color="Crimson">Self-Evolving and Scalable AI Systems</font>* in *<font color="Crimson">Real Physical Edge Environments</font>*. As **Principal Investigator (PI)**, our research has been funded by multiple external grants, including **General Research Funds (GRF)** and **Early Career Scheme (ECS)** from the **Research Grants Council of Hong Kong (RGC)**, **Young Scientists Fund** from the **National Natural Science Foundation of China (NSFC)**, and **Donations** from **Industrial Companies**, etc. I have served as organizing/technical **Chair Members** for multiple leading CS conferences, e.g., SRDS 2022 (Austria), VTC 2024 Fall (USA), ACM-MM 2025 (Ireland), MSN 2026 (China), etc. I have regularly served as **Area Chair** for prestigious venues like ICML, ICLR, AAAI, IJCAI, ACM-MM, NeurIPS, etc. I am currently serving as **Executive Editor-in-Chief** for [*Edge Intelligence and Systems*](https://www.sciltp.com/journals/eis/editorial-board), serving as **Action Editor** for [*Transactions on Machine Learning Research (TMLR)*](https://jmlr.org/tmlr/index.html), serving as **Associate Editor** for [*Pattern Recognition*](https://www.sciencedirect.com/journal/pattern-recognition/about/editorial-board) and [*IEEE Open Journal of the Computer Society (OJ-CS)*](https://www.computer.org/csdl/journal/oj/about/107402?title=Editorial%20Board&periodical=IEEE%20Open%20Journal%20of%20the%20Computer%20Society), and serving as **Guest Editor** for [*IEEE Transactions on Computational Social Systems (TCSS)*](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6570650) and [*Complex & Intelligent Systems*](https://link.springer.com/journal/40747). I am a panel/external reviewer for NSFC and RSKTO (UM). I am a Senior Member of IEEE.
+I am generally interested in *<font color="Crimson">AI Efficiency</font>* and *<font color="Crimson">Edge-Native</font>* *<font color="Crimson">AI</font>*, targeting learning, deployment, inference, adaptation, and beyond with *<font color="Crimson">Constrained Resources</font>* (e.g., Data, Computing Capability, Timing, Memory, etc.), as well as exploring derivative *<font color="Crimson">Applications</font>* across a wide spectrum. Our ultimate goal is to achieve *<font color="Crimson">Self-Evolving and Scalable AI Systems</font>* in *<font color="Crimson">Real Physical Edge Environments</font>*. As **Principal Investigator (PI)**, our research has been funded by multiple external grants, including **General Research Funds (GRF)** and **Early Career Scheme (ECS)** from the **Research Grants Council of Hong Kong (RGC)**, **Young Scientists Fund** from the **National Natural Science Foundation of China (NSFC)**, and **Donations** from **Industrial Companies**, etc. I have served as organizing/technical **Chair Members** for multiple leading CS conferences, e.g., SRDS 2022 (Austria), VTC 2024 Fall (USA), ACM-MM 2025 (Ireland), MSN 2026 (China), etc. I have regularly served as **(Senior) Area Chair** for prestigious venues such as ICML, ICLR, IJCAI, AAAI, ACM-MM, NeurIPS, etc. I am currently serving as **Executive Editor-in-Chief** for [*Edge Intelligence and Systems*](https://www.sciltp.com/journals/eis/editorial-board), serving as **Action Editor** for [*Transactions on Machine Learning Research (TMLR)*](https://jmlr.org/tmlr/index.html), serving as **Associate Editor** for [*Pattern Recognition*](https://www.sciencedirect.com/journal/pattern-recognition/about/editorial-board) and [*IEEE Open Journal of the Computer Society (OJ-CS)*](https://www.computer.org/csdl/journal/oj/about/107402?title=Editorial%20Board&periodical=IEEE%20Open%20Journal%20of%20the%20Computer%20Society), and serving as **Guest Editor** for [*IEEE Transactions on Computational Social Systems (TCSS)*](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6570650) and [*Complex & Intelligent Systems*](https://link.springer.com/journal/40747). I am a panel/external reviewer for NSFC and RSKTO (UM). I am a Senior Member of IEEE.
 
 <span class='anchor' id='lumen-group'></span>
 # 🌏 LUMEN Lab 
@@ -516,28 +516,26 @@ J. Zhang, S. Guo, X. Ma, W. Xu, Q. Zhou, **<font size=4>J. Guo</font>**, Z. Hong
 
 ##  Conference Service
 
+- **Senior Area Chair:** International Joint Conference on Artificial Intelligence (**IJCAI** 2027)
 - **Area Chair:** International Conference on Machine Learning (**ICML** 2027)
 - **Area Chair:** International Conference on Learning Representations (**ICLR** 2027)
-- **Senior PC:** Annual AAAI Conference on Artificial Intelligence (**AAAI** 2027)
+- **Area Chair/SPC:** Annual AAAI Conference on Artificial Intelligence (**AAAI** 2027)
 - **Area Chair:** Annual Conference on Neural Information Processing Systems (**NeurIPS** 2026)
 - **Area Chair:** International Conference on Machine Learning (**ICML** 2026)
 - **Area Chair:** International Conference on Learning Representations (**ICLR** 2026)
 - **Area Chair:** ACM International Conference on Multimedia (**ACM-MM** 2026)
 - **Tutorial Chair:** International Conference on Mobility, Sensing and Networking (**MSN** 2026)
-- **Area Chair:** International Joint Conference on Artificial Intelligence (**IJCAI** 2026)
-- **Senior PC:** Annual AAAI Conference on Artificial Intelligence (**AAAI** 2026)
+- **Senior Area Chair:** International Joint Conference on Artificial Intelligence (**IJCAI** 2026)
+- **Area Chair/SPC:** Annual AAAI Conference on Artificial Intelligence (**AAAI** 2026)
 - **Area Chair:** Annual Conference on Neural Information Processing Systems (**NeurIPS** 2025)
 - **Area Chair:** ACM International Conference on Multimedia (**ACM-MM** 2025)
-- **Senior PC:** International Joint Conference on Artificial Intelligence (**IJCAI** 2025)
+- **Area Chair/SPC:** International Joint Conference on Artificial Intelligence (**IJCAI** 2025)
 - **Area Chair:** International Conference on Machine Learning (**ICML** 2025)
-- **Senior PC:** Annual AAAI Conference on Artificial Intelligence (**AAAI** 2025)
-- **Session Chair:** International Joint Conference on Artificial Intelligence (**IJCAI** 2024)
-- **Track Chair (TPC Vice-Chair):** The 100th IEEE Vehicular Technology Conference (**VTC** 2024 Fall)
+- **Area Chair/SPC:** Annual AAAI Conference on Artificial Intelligence (**AAAI** 2025)
+- **TPC Vice-Chair/Track Chair:** The 100th IEEE Vehicular Technology Conference (**VTC** 2024 Fall)
 - **Area Chair:** International Conference on Machine Learning (**ICML** 2024)
 - **Area Chair:** ACM International Conference on Multimedia (**ACM-MM** 2024)
-- **Session Chair:** The 98th IEEE Vehicular Technology Conference (**VTC** 2023 Fall)
 - **Publicity Chair:** IEEE International Symposium on Reliable Distributed Systems (**SRDS** 2022)
-- **Session Chair:** IEEE International Conference on Multimedia and Expo (**ICME** 2022)
 
 <!--## Conference PC Member/Reviewer
 

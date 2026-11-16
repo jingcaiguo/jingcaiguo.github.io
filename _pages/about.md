@@ -123,6 +123,10 @@ W. Wang, **<font size=4>J. Guo</font>**, Y. Cai, Z. Chen,<br>
 Y. Shao, J. Li, S. Chen, Y. Liu, K. Lv, H. Tang, N. Sebe, **<font size=4>J. Guo<sup>#</sup></font>**,<br>
 *Transactions on Machine Learning Research* (**<font color="Crimson">TMLR</font>**), 2026.
 
+- ![Static Badge](https://img.shields.io/badge/APPs-DAA520) **-** Exploring Human–Model Attention Alignment in Sentinel-2 Land Cover Classification: A Perspective from Visual Ambiguity Interpretability,<br>
+L. Peng, X. Zhu, X. Chen, **<font size=4>J. Guo</font>**, X. Chen, K. Yu, Y. Chen, T. Wei,<br>
+*ISPRS Journal of Photogrammetry and Remote Sensing* (**<font color="Crimson">ISPRS P&RS</font>**), 2026.
+
 - ![Static Badge](https://img.shields.io/badge/Capability-00FF7F) **-** Accelerating Multimodal Large Language Models with Prior-Corrected Token Reduction,<br>
 Z. Chen, Y. Cai, **<font size=4>J. Guo</font>**, T. Cai, J. Yin, Z. Chen,<br>
 *European Conference on Computer Vision* (**<font color="Crimson">ECCV</font>**), 2026.
